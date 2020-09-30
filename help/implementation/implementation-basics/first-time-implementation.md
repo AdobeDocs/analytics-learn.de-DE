@@ -1,0 +1,25 @@
+---
+title: Erstmalige Adobe Analytics-Implementierung
+description: In diesem Video erfahren Sie, wie Sie in wenigen Minuten mit Adobe Analytics-Daten arbeiten.
+seo-description: Es ist einfacher denn je, Adobe Analytics zu implementieren. Wenn Sie mit unserer Lösung völlig neu sind, werden Sie in diesem Video in wenigen Minuten durch den Prozess geführt, mit Daten aufzustehen.
+feature: implementation basics
+topics: null
+audience: implementer
+activity: implement
+doc-type: feature video
+team: Technical Marketing
+kt: 2362
+translation-type: tm+mt
+source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 0%
+
+---
+
+
+# Erstmalige Adobe Analytics-Implementierung {#first-time-adobe-analytics-implementation}
+
+Es ist einfacher denn je, Adobe Analytics zu implementieren. Wenn Sie mit unserer Lösung völlig neu sind, werden Sie in diesem Video in wenigen Minuten durch den Prozess geführt, mit Daten zu arbeiten.
+
+>[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)

@@ -73,7 +73,7 @@ Willkommen auf der [!DNL Analytics] Tutorials.  Die Verwendung dieser Lernprogra
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="Miniaturbild für das Video "Analysis Workspace-Übersicht"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="Miniaturbild für das Video 'Analysis Workspace-Übersicht'" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">

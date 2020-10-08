@@ -3,14 +3,14 @@ title: Zeitaufteilungs-Dimensionen in Analysis Workspace
 description: Die Zeitaufteilung nimmt den Zeitstempel der erfassten Treffer und unterteilt ihn in aussagekräftigere Dimensionen wie "Stunde des Tages"oder "Wochentag". Diese Dimensionen sind jetzt in Analysis Workspace sofort einsatzbereit.
 feature: freeform tables
 topics: null
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
+thumbnail: 23727.jpg
 kt: 1903
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%

@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 19%
+ht-degree: 22%
 
 ---
 
@@ -91,11 +91,11 @@ ht-degree: 19%
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Freiformtabellen erstellen {#building-freeform-tables}
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Freiformtabellen in Analysis Workspace automatisch erstellen](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Automatische Erstellung von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeiten mit Dimensionen in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Verwenden von Beitragsmetriken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
-      + [Zeilen- und Spalteneinstellungen in Freiform-Tabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Zeilen- und Spalteneinstellungen in Freiformtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Freiform-Tabellenaufbau verwenden](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Neuanordnen von statischen Zeilen in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [Verwenden von Attribution IQ in Freiform-Tabellen](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -110,7 +110,7 @@ ht-degree: 19%
       + [Arten von Visualisierungen](analysis-workspace/visualizations/visualization-types.md)
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Zu visualisierende Daten auswählen](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Linienvisualisierung in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Linienvisualisierung in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Visualisierung von Diagrammen](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)

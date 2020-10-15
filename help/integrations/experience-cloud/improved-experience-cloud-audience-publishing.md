@@ -1,6 +1,6 @@
 ---
 title: Verbesserung der Veröffentlichung von Experience Cloud-Audiences
-description: Hier erfahren Sie, wie Sie Audiencen (Segmente) veröffentlichen und schneller als je zuvor verfügbar machen.
+description: Hier erfahren Sie, wie Sie Audiences (Segmente) veröffentlichen und schneller als je zuvor verfügbar machen können.
 seo-description: Die Veröffentlichung von Experience Cloud-Audiences wurde verbessert. Sie können Audiencen (Segmente) jetzt veröffentlichen und sechsmal schneller zur Verfügung stellen, wodurch die aktuelle Latenzzeit von 48 auf ca. 8 Stunden reduziert wird und je nach Traffic und Segmentgröße möglicherweise schneller.
 feature: integration with experience cloud
 topics: null
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 56049a25261318663349309164744fbb9bcfc952
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 27%
+ht-degree: 34%
 
 ---
 

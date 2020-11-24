@@ -9,9 +9,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3580
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ ht-degree: 0%
 In diesem Video wird der überaus wichtige Schritt erläutert, der beim Definieren der Verfolgung mit Adobe Analytics unternommen wird. Was sind die Dinge, die Sie über Ihre Site wissen möchten? Schreiben wir sie auf und Beginn, um zu entscheiden, wie wir sie verfolgen werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+
+[Laden Sie](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) ein Beispiel BRD/SDR herunter, das Sie zur Definition Ihrer Site verwenden können.
+
+[Laden Sie](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) die BRD/SDR aus diesem Video herunter (und das [SDR-Video](creating-and-maintaining-an-sdr.md)).

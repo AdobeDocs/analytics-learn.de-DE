@@ -1,7 +1,7 @@
 ---
 title: Wie Adobe Analysis Workspace Ihr Geschäft verändern kann
-description: Mit Analysis Workspace können Sie Ad-hoc-Analysen, flexible Analysen, Kohortenanalysen und Fallout-Analysen durchführen.
-seo-description: Analysis Workspace ist eine neue und benutzerfreundliche Benutzeroberfläche in Adobe Analytics. Innerhalb von Analysis Workspace können Sie Ad-hoc-Analysen, flexible Analysen, Kohorten-Analysen und Trichteranalysen-Analysen durchführen. Sie können die Arbeitsumgebung für Analysen auch für alle Mitarbeiter Ihres Unternehmens freigeben. Die Drag & Drop-Funktion ermöglicht es jedem, die Daten einfach zu analysieren und schnell Einblicke zu erhalten.
+landing-page-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
+description: Analysis Workspace ist eine neue und benutzerfreundliche Benutzeroberfläche in Adobe Analytics. Innerhalb von Analysis Workspace können Sie Ad-hoc-Analysen, flexible Analysen, Kohorten-Analysen und Trichteranalysen-Analysen durchführen. Sie können die Arbeitsumgebung für Analysen auch für alle Mitarbeiter Ihres Unternehmens freigeben. Die Drag & Drop-Funktion ermöglicht es jedem, die Daten einfach zu analysieren und schnell Einblicke zu erhalten.
 feature: workspace basics
 topics: null
 audience: all
@@ -10,10 +10,10 @@ doc-type: value video
 team: Technical Marketing
 kt: 4382
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '146'
+ht-degree: 41%
 
 ---
 

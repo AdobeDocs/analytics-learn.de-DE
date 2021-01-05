@@ -5,10 +5,10 @@ breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
+source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
 workflow-type: tm+mt
-source-wordcount: '1857'
-ht-degree: 22%
+source-wordcount: '1869'
+ht-degree: 24%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 22%
 # Analytics-Tutorials {#tutorials}
 
 + [Überblick](overview.md)
-+ Introduction to Analytics {#intro-to-analytics}
++ Einführung in Analytics {#intro-to-analytics}
    + Was kann Adobe Analytics für mich tun? {#what-can-aa-do-for-me}
       + [Wie Adobe Analysis Workspace Ihr Geschäft verändern kann](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Es sind mehr als Daten. Es ist Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -80,21 +80,22 @@ ht-degree: 22%
       + [Dichte der Ansichten in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Nullstatus-Verbesserungen](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [Verwenden von Filtern (Tags) in der linken Leiste](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
-   + Bedienfelder verwenden {#using-panels}
+   + Bedienfelder {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bereich „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Verwenden des Attribution IQ-Bedienfelds](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Dropdown-Filter verwenden](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Segmente auf Bereichsebene](analysis-workspace/using-panels/panel-level-segments.md)
       + [Verwalten von Analysis Workspace-Projekten mit Bedienfeldern](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbesserungen bei Segmentablagebereichen](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-   + Freiformtabellen erstellen {#building-freeform-tables}
+   + Erstellen von Freiformtabellen {#building-freeform-tables}
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Automatische Erstellung von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeiten mit Dimensionen in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Verwenden von Beitragsmetriken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [Zeilen- und Spalteneinstellungen in Freiformtabellen](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Freiform-Tabellenaufbau verwenden](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Neuanordnen von statischen Zeilen in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -111,6 +112,7 @@ ht-degree: 22%
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Zu visualisierende Daten auswählen](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Linienvisualisierung in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualisierung von Diagrammen](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
@@ -146,7 +148,7 @@ ht-degree: 22%
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Einführung in Konversions-Ereignis](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Verwenden von Beitragsmetriken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + Dimensionen {#dimensions}
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Einführung in Traffic-Variablen (Eigenschaften)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -159,7 +161,7 @@ ht-degree: 22%
       + [Erstellen benutzerdefinierter Datumsbereiche](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumsvergleiche in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analysieren von Kundenreisen {#analyzing-customer-journeys}
+   + Analysieren von Customer Journeys {#analyzing-customer-journeys}
       + [Journey IQ - geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Verbesserungen bei der Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -168,13 +170,13 @@ ht-degree: 22%
       + [Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Erweiterung bei Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Textumbruch und Fluss mit mehreren Dimensionen](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
-   + Curate and Share Projects {#curate-and-share-projects}
+   + Kuratieren und Freigeben von Projekten {#curate-and-share-projects}
       + [Speichern, Freigeben und Zusammenarbeiten an Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Kuratieren und Freigeben im Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direct Link zu einem Projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50.000 Elemente als CSV herunterladen](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
-      + [Eingebettete Komponenten freigeben](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
+      + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Planen und Herunterladen von Projekten](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Freigeben von Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Schreibgeschützte Projekte in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
@@ -193,9 +195,9 @@ ht-degree: 22%
       + [Kohortentabelleneinstellungen](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Churn-Analyse mit Kohortentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [Kohorten-Analyse mit einer beliebigen Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
-      + [Latenzanalyse mit Kohortentabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
+      + [Latenzzeit-Analyse mit Kohortentabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Rolltreue in Kohortentabellen berechnen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-   + Sprachanalyse {#voice-analytics}
+   + Voice Analytics {#voice-analytics}
       + [Verwalten und Verfolgen Ihrer App-Daten des Sprachassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Unterschiede zwischen Voice-fähigen Geräten verstehen](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [Möglichkeiten zur Erhöhung der Interaktion mit Voice-Apps finden](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
@@ -226,7 +228,7 @@ ht-degree: 22%
       + [Erstellen eines Dokuments mit Geschäftsanforderungen](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Erstellen und Pflegen eines SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Verwenden einer Datenschicht auf Ihrer Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
-   + Via Experience Platform Launch {#via-adobe-launch}
+   + Über Experience Platform Launch {#via-adobe-launch}
       + [Implementieren von  Experience Cloud-Lösungen in Websites mit  Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Grundlegende Konfiguration der Analytics Launch-Erweiterung](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Bibliotheksverwaltung für Analytics konfigurieren](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
@@ -245,13 +247,13 @@ ht-degree: 22%
       + [Erstellen von Experience Platform Launch-Regeln für Sonderseiten](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
       + [Erstellen von Experience Platform Launch-Regeln für Erfolgssegmente](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
       + [Veröffentlichen von Experience Platform Launch-Bibliotheken auf der Bühne und in der Produktion](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
-   + JavaScript verwenden {#using-javascript}
+   + Verwenden von JavaScript {#using-javascript}
       + [Benutzerspezifische Linkverfolgung ohne Tag-Manager](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Aktualisieren von AppMeasurement, wenn kein Experience Platform Launch verwendet wird](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Validierung und Fehlerbehebung {#validating-and-troubleshooting}
+   + Validieren und Fehlerbehebung {#validating-and-troubleshooting}
       + [Überprüfen von Implementierungen mit dem Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Ansicht von Treffern nach Verarbeitung mit dem Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
-   + SPA {#spa-pages}
+   + SPA Seiten {#spa-pages}
       + [Bewährte Verfahren bei der Verfolgung von SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Komponenten {#components}
    + Segmentierung {#segmentation}
@@ -289,11 +291,11 @@ ht-degree: 22%
    + Activity Map {#activity-map}
       + [Activity Map-Übersicht](components/activity-map/activity-map-overview.md)
       + [Aktivieren, Debuggen und Anpassen der Adobe Analytics-Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
-+ Zusätzliche Tools {#additional-tools}
++ Weitere Tools {#additional-tools}
    + Analytics-Dashboard {#analytics-dashboards}
       + [Scorecard Builder für Adobe Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [In-App-Erfahrung mit Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-+ Exportieren {#exporting}
++ Exportieren von {#exporting}
    + Über die Benutzeroberfläche {#from-the-ui}
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
@@ -318,14 +320,14 @@ ht-degree: 22%
       + [Implementieren von Verfolgungsvorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Einführung in die Integration von Analytics für Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Erstellen einer Analyse zur Kampagne vor dem Start](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Berichte mit Advertising Cloud Marketing-Kanälen](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Reporting mit Advertising Cloud-Marketing-Kanälen](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Erstellen von Analytics Site Journey-Profilen](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [Erstellen von Analytics-Segmenten für Aktivierung und Berichterstattung](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Erstellen von Analytics-Segmenten für Aktivierung und Reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [Advertising Cloud-Warnhinweise mit Adobe Analytics erstellen](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [Erstellen von Analytics Custom-Metriken mit Advertising Cloud-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Erstellen von Advertising Cloud Site-Einstiegsberichten](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Erstellen von Site-Einstiegsberichten für Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising Cloud-Dashboards erstellen](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analytics {#ad-hoc-analytics}
+   + Ad-hoc-Analysen {#ad-hoc-analytics}
       + [Verwenden des Projektkonverters zum Verschieben von Projekten von Ad Hoc Analysis in Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
@@ -337,8 +339,8 @@ ht-degree: 22%
    + [Analyse des Beitrags in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Intelligente Warnhinweise](data-science/intelligent-alerts.md)
    + [Adobe Analytics und Adobe Sensei - Demokratisierung der Datenwissenschaft für ALLE](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Vertikal {#vertical-specific}
-   + High-Tech {#high-tech}
++ Vertikal-spezifisch {#vertical-specific}
+   + High Tech {#high-tech}
       + [Summit 2019 Super Session - High-Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Reise- und Gastgewerbe {#travel-and-hospitality}
       + [Summit 2019 Super Session - Reise und Gastgewerbe](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
@@ -368,5 +370,5 @@ ht-degree: 22%
    + [Verwenden von Analysis Workspace zum Erstellen von API 2.0-Anforderungen](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Erfahren Sie mehr über die Adobe Analytics API mit Report Builder](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
    + [Erstellen von Adobe Analytics 2.0-API-Anfragen mit Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Analysis Use Cases {#analysis-use-cases}
++ Anwendungsfälle für Analysen {#analysis-use-cases}
    + [Einrichten der Analyse für Postleitzahlen im Markt](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)

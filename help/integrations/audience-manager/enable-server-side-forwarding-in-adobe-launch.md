@@ -1,24 +1,25 @@
 ---
 title: Serverseitige Weiterleitung in Experience Platform Launch aktivieren
 description: 'Erfahren Sie, wie Sie mit Experience Platform Launch Ihre Adobe Analytics-Treffer automatisch per serverseitiger Weiterleitung an Adobe Audience Manager senden lassen. '
-feature: integration with experience cloud
+feature: Integration mit Experience Cloud
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25172.jpg
 kt: 1993
 translation-type: tm+mt
-source-git-commit: 548ac75589383dfd4da4ae02412de91a0a3b28d6
+source-git-commit: 6e227494650e3905560973ba7c3ad336a34ac9d0
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 
-# Serverseitige Weiterleitung aktivieren in [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}
+# Serverseitige Weiterleitung in [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch} aktivieren
 
-Erfahren Sie, wie Sie mit Adobe Ihre Adobe Analytics-Treffer automatisch per serverseitiger Weiterleitung an Adobe Audience Manager senden [!DNL Experience Platform Launch] lassen.
+Erfahren Sie, wie Sie mit der Adobe [!DNL Experience Platform Launch] Ihre Adobe Analytics-Treffer automatisch per serverseitiger Weiterleitung an Adobe Audience Manager senden lassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)

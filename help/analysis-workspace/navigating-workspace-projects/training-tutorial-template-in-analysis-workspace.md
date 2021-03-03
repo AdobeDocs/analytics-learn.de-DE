@@ -1,18 +1,19 @@
 ---
 title: Vorlage für Training-Tutorials in Analysis Workspace
 description: 'Das Analysis Workspace Training Tutorial erläutert die gängige Terminologie und die Schritte zum Aufbau der ersten Analyse in Workspace. '
-feature: projects
+feature: Bedienfelder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 13%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 

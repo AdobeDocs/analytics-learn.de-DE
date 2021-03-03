@@ -1,27 +1,28 @@
 ---
 title: 'Rolltreue in Kohortentabellen berechnen '
 description: Die Einstellung "Rollierende Berechnung"in Kohortentabellen kann verwendet werden, um Kohorten über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie die gleichen Benutzer über einen bestimmten Zeitraum erhalten (oder gekürzt) werden.
-feature: visualizations
+feature: Visualisierungen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 12%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 
 
-# Berechnen der [!UICONTROL Rolltreue] in [!UICONTROL Kohortentabellen] {#calculate-rolling-retention-in-cohort-tables}
+# Rollierende [!UICONTROL Treue] in [!UICONTROL Kohortentabellen] {#calculate-rolling-retention-in-cohort-tables} berechnen
 
-Die Einstellung &quot;Rollierende Berechnung&quot;in [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten] über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie die gleichen Benutzer über einen bestimmten Zeitraum erhalten (oder [!UICONTROL gekürzt]) werden.
+Die Einstellung &quot;Rollierende Berechnung&quot;innerhalb von [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten] über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie dieselben Benutzer über einen bestimmten Zeitraum erhalten werden (oder [!UICONTROL churn]).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).

@@ -1,19 +1,21 @@
 ---
 title: Bereich „Analytics for Target“ (A4T) in Analysis Workspace
 description: Im Bedienfeld Analytics for Target (A4T) können Sie Ihre Adobe Target-Aktivitäten und -Erlebnisse in Analysis Workspace analysieren.
-feature: integration with experience cloud
+feature: Experience Cloud-Integration
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
+topic: Integrationen
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 85%
+source-wordcount: '81'
+ht-degree: 79%
 
 ---
 

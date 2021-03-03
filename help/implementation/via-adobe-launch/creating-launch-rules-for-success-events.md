@@ -1,24 +1,25 @@
 ---
 title: Erstellen von Startregeln für Erfolgsregeln
 description: In diesem Video erfahren Sie, wie Sie mit Launch Konversions-Ereignis (AKA-Ereignis) auf Ihrer Site verfolgen. Dies wird im Anwendungsfall der Verfolgung eines Antragsprozesses auf einer Beispielsite angezeigt.
-feature: launch implementation
+feature: Implementierung starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
-# Erstellen von [!DNL Launch] Regeln  für Erfolgs-Ereignis
+# Erstellen von [!DNL Launch] [!UICONTROL Regeln] für Erfolgsregeln
 
-Dieses Video zeigt Ihnen, wie Sie Konversions-Ereignis (AKA-Ereignis) auf Ihrer Site [!DNL Experience Platform Launch] verfolgen können. Dies wird im Anwendungsfall der Verfolgung eines Antragsprozesses auf einer Beispielsite angezeigt.
+Dieses Video zeigt Ihnen, wie Sie [!DNL Experience Platform Launch] verwenden, um Konversions-Ereignis (AKA-Ereignis) auf Ihrer Site zu verfolgen. Dies wird im Anwendungsfall der Verfolgung eines Antragsprozesses auf einer Beispielsite angezeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)

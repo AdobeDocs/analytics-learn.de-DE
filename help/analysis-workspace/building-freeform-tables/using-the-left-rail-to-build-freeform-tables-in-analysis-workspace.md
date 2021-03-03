@@ -1,19 +1,20 @@
 ---
 title: Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace
 description: Erfahren Sie, wie Sie mithilfe der linken Leiste in Analysis Workspace Elemente zu Freiformtabellen suchen, erstellen und hinzufügen können.
-feature: freeform tables
+feature: Freiformtabellen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 36%
 
 ---
 

@@ -1,23 +1,25 @@
 ---
 title: Implementieren von Verfolgungsvorlagen aus Advertising Analytics in Suchmaschinen
 description: In diesem Video erfahren Sie, wie Sie Ihre Tracking-Vorlagen aus Advertising Analytics in die unterstützten Suchmaschinen implementieren. Die Implementierung der Verfolgungsvorlage ist der entscheidende Schritt zur Erfassung und Weitergabe Ihrer Daten an Adobe Analytics.
-feature: integration with ad cloud
+feature: Advertising Cloud-Integration
 topics: null
-audience: administrator
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
+topic: Integrationen
+role: Administrator
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 
 
-# Implementieren von Verfolgungsvorlagen aus [!DNL Advertising Analytics] in Suchmaschinen {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# Implementieren von Verfolgungsvorlagen von [!DNL Advertising Analytics] in Suchmaschinen {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
 
 Dieses Video führt Sie durch die Schritte zur Implementierung Ihrer Verfolgungsvorlagen von [!DNL Advertising Analytics] in die unterstützten Suchmaschinen. Die Implementierung der Verfolgungsvorlage ist der entscheidende Schritt zur Erfassung und Weitergabe Ihrer Daten an Adobe Analytics.
 
@@ -25,4 +27,4 @@ Dieses Video führt Sie durch die Schritte zur Implementierung Ihrer Verfolgungs
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [adobe analytics [!DNL Advertising Analytics] konfigurieren](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
+* [Adobe Analytics  [!DNL Advertising Analytics] konfigurieren](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)

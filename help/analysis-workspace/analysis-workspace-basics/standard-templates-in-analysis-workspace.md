@@ -3,24 +3,25 @@ title: Standardvorlagen in Analysis Workspace
 seo-title: Standardvorlagen in Analysis Workspace
 description: Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit Standardvorlagen (früher Starterprojekte genannt)
 seo-description: Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit Standardvorlagen (früher Starterprojekte genannt)
-feature: projects
+feature: Projekte
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 
-# Standard Templates in Analysis Workspace {#standard-templates-in-analysis-workspace}
+# Standardvorlagen in Analysis Workspace {#standard-templates-in-analysis-workspace}
 
 Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit [!DNL Standard Templates] (früher [!DNL Starter Projects])
 

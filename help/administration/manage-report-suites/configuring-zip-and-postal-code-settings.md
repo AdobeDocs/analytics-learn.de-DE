@@ -3,27 +3,29 @@ title: Postleitzahleinstellungen in Adobe Analytics konfigurieren
 seo-title: Postleitzahleinstellungen in Adobe Analytics konfigurieren
 description: In diesem Video erfahren Sie, wie Sie die Einstellungen für Postleitzahlen konfigurieren, damit Sie die Analyse anhand dieser Regionendaten durchführen können.
 seo-description: In diesem Video erfahren Sie, wie Sie die Einstellungen für Postleitzahlen konfigurieren, damit Sie die Analyse anhand dieser Regionendaten durchführen können.
-feature: data configuration and collection
+feature: Datenkonfiguration und -sammlung
 topics: null
-audience: administrator, architect
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
+topic: Administration
+role: '"Administrator, Architekt"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 
-# Konfigurieren der [!UICONTROL Postleitzahleinstellungen] in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Konfigurieren von [!UICONTROL PLZ]- und Postleitzahleinstellungen in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-In diesem Video erfahren Sie, wie Sie die Einstellungen für [!UICONTROL Postleitzahlen] und Postleitzahlen konfigurieren, damit Sie Analysen auf der Grundlage dieser Regionendaten durchführen können.
+In diesem Video erfahren Sie, wie Sie die Einstellungen für [!UICONTROL zip] und Postleitzahlen konfigurieren, damit Sie die Analyse auf Grundlage dieser Regionendaten durchführen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-Weitere Informationen zu [!UICONTROL Postleitzahleinstellungen] finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).
+Weitere Informationen zu den Einstellungen für [!UICONTROL Postleitzahl] finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).

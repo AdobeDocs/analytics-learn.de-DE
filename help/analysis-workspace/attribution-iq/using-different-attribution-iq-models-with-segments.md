@@ -1,27 +1,28 @@
 ---
 title: Verwenden verschiedener Attribution IQ-Modelle mit Segmenten in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie Attribution IQ-Modelle in Verbindung mit Adobe Analytics-Segmenten auf Ihrer Site verwenden.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# Verwenden verschiedener [!DNL Attribution IQ] Modelle  mit Segmenten in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
+# Verwenden unterschiedlicher [!DNL Attribution IQ] [!UICONTROL Modelle] mit Segmenten in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
-In diesem Video erfahren Sie, wie Sie [!DNL Attribution IQ] Modelle  zusammen mit Adobe Analytics-Segmenten auf Ihrer Site verwenden.
+In diesem Video erfahren Sie, wie Sie [!DNL Attribution IQ] [!UICONTROL models] in Verbindung mit Adobe Analytics-Segmenten auf Ihrer Site verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 

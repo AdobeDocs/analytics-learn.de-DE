@@ -1,35 +1,36 @@
 ---
 title: Analytics-Videos und -Tutorials
 description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
-feature: overview
+feature: Analytics-Grundlagen
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 46%
+source-wordcount: '309'
+ht-degree: 48%
 
 ---
 
 
 # Überblick
 
-Willkommen auf der [!DNL Analytics] Tutorials.  Die Verwendung dieser Lernprogramme zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html) gibt Ihnen ein besseres Verständnis, wie Sie mit Adobe Analytics schneller als je zuvor Kundeneinblicke gewinnen können.  Als ersten Schritt
-* Die neuesten Neuigkeiten finden Sie im Abschnitt **&quot;Neue Funktionen&quot;** unten
-* **Personalauswahl** hebt einige unserer bevorzugten Inhalte hervor
-* Inhalt nach Thema und Unterthema in der **linken Navigation**
-* Verwenden Sie das **Suchfeld** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
+Willkommen auf der [!DNL Analytics] Tutorials-Site.  Durch die Verwendung dieser Lernprogramme zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html) erhalten Sie ein besseres Verständnis, wie Sie mit Adobe Analytics schneller als je zuvor Kundeneinblicke gewinnen können.  Als ersten Schritt
+* Die neuesten Informationen finden Sie im Abschnitt **&quot;Neue Funktionen&quot;** unten
+* **Mitarbeiter-** Pickshighlights beleuchten einige unserer bevorzugten Inhalte
+* Inhalten nach Thema und Unterthema in der **linken Navigation**
+* Verwenden Sie das Feld **search** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
 
 ## Neuigkeiten
 
 * **[Rechtsklick für Workspace-Effizienz (Video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Erfahren Sie mehr über die beliebtesten Rechtsklicks in Analysis Workspace und deren Verwendung. From[!UICONTROL Freeform Tables]to[!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in[!DNL Workspace].*
+   *Erfahren Sie mehr über die beliebtesten Rechtsklicks in Analysis Workspace und deren Verwendung. Von [!UICONTROL Freiform-Tabellen] bis [!UICONTROL Trichteranalyse-Visualisierungen] können Sie durch Rechtsklicken effizienter und leistungsfähiger in [!DNL Workspace].*.
 
 * **[Quick Insight-Bedienfeld in Analysis Workspace (Video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
@@ -73,7 +74,7 @@ Willkommen auf der [!DNL Analytics] Tutorials.  Die Verwendung dieser Lernprogra
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="Miniaturbild für das Video 'Analysis Workspace-Übersicht'" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="Miniaturbild für das Video "Analysis Workspace-Übersicht"" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">

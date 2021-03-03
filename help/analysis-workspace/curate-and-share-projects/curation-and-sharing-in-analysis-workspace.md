@@ -1,25 +1,26 @@
 ---
 title: Kuratieren und Freigeben im Analysis Workspace
 description: Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie es kuratieren (vereinfachen) und mit anderen Teams und Einzelpersonen in Ihren Organisationen teilen, damit sie es untersuchen und sich mit Daten selbst versorgen können. Dieses Video zeigt Ihnen, wie Sie Kuration und Freigabe durchführen.
-feature: curate and share
+feature: Kuratieren und freigeben
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '129'
+ht-degree: 18%
 
 ---
 
 
 # Kuratieren und Freigeben im Analysis Workspace {#curation-and-sharing-in-analysis-workspace}
 
-Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie es [!UICONTROL kuratieren] (vereinfachen) und mit anderen Teams und Einzelpersonen in Ihren Organisationen teilen, damit sie es untersuchen und mit Daten selbst versorgen können. Dieses Video zeigt Ihnen, wie Sie mit [!UICONTROL Kuratierung] und Freigabe arbeiten.
+Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie [!UICONTROL kuratieren] (vereinfachen) und es für andere Teams und Einzelpersonen in Ihren Unternehmen freigeben, damit sie es untersuchen und mit Daten selbst versorgen können. Dieses Video zeigt Ihnen, wie Sie mit [!UICONTROL Kuration] und Freigeben arbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 

@@ -1,24 +1,25 @@
 ---
 title: Menüanpassung in Reports and Analytics
 description: In diesem Video erfahren Sie, wie Sie die Menüs in Analytics für Ihr Unternehmen anpassen.
-feature: analytics basics
+feature: Analytics-Grundlagen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 4%
 
 ---
 
 
-# Anpassen des Menüs in [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}
+# Menü in [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics} anpassen
 
-In diesem Video erfahren Sie, wie Sie die Menüs für Ihr Unternehmen anpassen [!DNL Analytics] können.
+In diesem Video erfahren Sie, wie Sie die Menüs in [!DNL Analytics] für Ihr Unternehmen anpassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)

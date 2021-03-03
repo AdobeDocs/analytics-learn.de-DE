@@ -1,30 +1,31 @@
 ---
 title: Attribution IQ in berechneten Metriken
 description: In diesem Video wird die Verwendung von Attribution IQ in berechneten Metriken erläutert.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '94'
+ht-degree: 3%
 
 ---
 
 
-# [!DNL Attribution IQ] in [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
+# [!DNL Attribution IQ] in  [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 
-In diesem Video wird die Verwendung [!DNL Attribution IQ] in [!DNL Calculated Metrics]erläutert.
+Dieses Video zeigt, wie [!DNL Attribution IQ] in [!DNL Calculated Metrics] verwendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12)
 
-[!DNL Calculated Metrics] unterstützt jetzt alle zehn regelbasierten [!DNL attribution models]. [!DNL Calculated metrics] können Sie den Unterschied vergleichen [!DNL attribution models] (z. B. indem Sie [!UICONTROL First Touch] von [!UICONTROL Last Touch]subtrahieren). Sie können auch Hybridmodelle erstellen (z. B. 50 % [!UICONTROL Zeitverlust] plus 50 % [!UICONTROL Erstkontakt]) oder Zuordnungen zu wichtigen Konversionsmetriken wie Umsatz pro Bestellung oder Bestellungen pro Besuch anwenden.
+[!DNL Calculated Metrics] unterstützt jetzt alle zehn regelbasierten  [!DNL attribution models]. [!DNL Calculated metrics] Sie können den Unterschied vergleichen  [!DNL attribution models] (z. B. indem Sie  [!UICONTROL First ] Touch von  [!UICONTROL Last Touch] subtrahieren). Sie können auch Hybridmodelle erstellen (z. B. 50 % [!UICONTROL Zeitdekation] plus 50 % [!UICONTROL Erstkontakt]) oder eine Zuordnung zu Ihren wichtigen Konversionsmetriken wie Umsatz pro Bestellung oder Bestellungen pro Besuch anwenden.
 
 ## Zusätzliche Ressourcen {#additional-resources}
 

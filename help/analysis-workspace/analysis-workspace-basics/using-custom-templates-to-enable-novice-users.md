@@ -3,24 +3,25 @@ title: Benutzerdefinierte Vorlagen zur Aktivierung neuer Analysis Workspace-Benu
 seo-title: Benutzerdefinierte Vorlagen zur Aktivierung neuer Analysis Workspace-Benutzer verwenden
 description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
 seo-description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
-feature: projects
+feature: Projekte
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 
-# Benutzerdefinierte Vorlagen zur Aktivierung neuer Analysis Workspace-Benutzer verwenden {#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Benutzerdefinierte Vorlagen verwenden, um neue Analysis Workspace-Benutzer zu aktivieren.{#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
 In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
 

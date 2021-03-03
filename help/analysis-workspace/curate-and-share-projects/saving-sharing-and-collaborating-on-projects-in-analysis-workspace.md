@@ -1,18 +1,19 @@
 ---
 title: Speichern, Freigeben und Zusammenarbeiten an Projekten in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie Projekte speichern und exportieren, Projekte an andere Empfänger senden und andere zur Zusammenarbeit an Ihrem Projekt einladen.
-feature: curate and share
+feature: Kuratieren und freigeben
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 

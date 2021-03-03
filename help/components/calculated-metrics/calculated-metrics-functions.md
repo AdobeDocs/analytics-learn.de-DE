@@ -1,23 +1,24 @@
 ---
 title: Berechnete Metriken - Funktionen
 description: Erfahren Sie, wie Sie Funktionen in berechneten Metriken in Adobe Analytics verwenden
-feature: calculated metrics
+feature: Berechnete Metriken
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 0%
+source-wordcount: '33'
+ht-degree: 6%
 
 ---
 
 
-# [!UICONTROL Berechnete Metriken]: [!UICONTROL Funktionen] {#calculated-metrics-functions}
+# [!UICONTROL Berechnete Metriken]:  [!UICONTROL Funktionen] {#calculated-metrics-functions}
 
 Erfahren Sie, wie Sie [!UICONTROL Funktionen] in [!UICONTROL berechneten Metriken] in Adobe Analytics verwenden.
 

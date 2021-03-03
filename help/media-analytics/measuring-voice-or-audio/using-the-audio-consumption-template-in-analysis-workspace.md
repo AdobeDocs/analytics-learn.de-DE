@@ -1,25 +1,26 @@
 ---
 title: Verwenden der Vorlage "Audiokonsum"in Analysis Workspace
 description: In diesem Video wird die Vorlage "Audiokonsum"in Analysis Workspace vorgestellt, die im Lieferumfang von Audioanalysen enthalten ist.
-feature: panels
+feature: Bedienfelder
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 
-# Verwenden der [!UICONTROL Vorlage &quot;Audiokonsum] &quot;in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
+# Verwenden der Vorlage [!UICONTROL Audioverbrauch] in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-In diesem Video wird die [!UICONTROL Vorlage &quot;Audiokonsum] &quot;in Analysis Workspace vorgestellt, die im Lieferumfang enthalten ist [!DNL Audio Analytics].
+In diesem Video wird die Vorlage [!UICONTROL Audiokonsum] in Analysis Workspace vorgestellt, die standardmäßig für [!DNL Audio Analytics] verfügbar ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 

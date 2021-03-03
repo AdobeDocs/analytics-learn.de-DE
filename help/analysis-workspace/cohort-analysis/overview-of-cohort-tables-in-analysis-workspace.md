@@ -1,27 +1,28 @@
 ---
 title: Übersicht über Kohortentabellen in Analysis Workspace
 description: Die Einstellung "Rollierende Berechnung"in Kohortentabellen kann verwendet werden, um Kohorten über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie die gleichen Benutzer über einen bestimmten Zeitraum erhalten (oder gekürzt) werden.
-feature: visualizations
+feature: Visualisierungen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 12%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 
 
 # Übersicht über [!UICONTROL Kohortentabellen] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-Die [!UICONTROL Einstellung &quot;Rollierende Berechnung] &quot;in [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten] über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie die gleichen Benutzer über einen bestimmten Zeitraum erhalten (oder [!UICONTROL abgeschnitten]) werden.
+Die Einstellung [!UICONTROL Rollierende Berechnung] innerhalb von [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten]-Zeiträume zu analysieren, um zu verstehen, wie dieselben Benutzer über einen bestimmten Zeitraum erhalten werden (oder [!UICONTROL churn]).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).

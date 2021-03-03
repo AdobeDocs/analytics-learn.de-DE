@@ -1,26 +1,27 @@
 ---
 title: Freiformtabellen-Filter in Analysis Workspace
 description: Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einer Freiform-Tabelle freigegeben werden.
-feature: freeform tables
+feature: Freiformtabellen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 
-# [!DNL Freeform Table] Filter in Analysis Workspace {#freeform-table-filters-in-analysis-workspace}
+# [!DNL Freeform Table] Filter in Analysis Workspace  {#freeform-table-filters-in-analysis-workspace}
 
-Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einer [!DNL freeform table]Datei freigegeben werden.
+Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einem [!DNL freeform table] freigegeben werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
 

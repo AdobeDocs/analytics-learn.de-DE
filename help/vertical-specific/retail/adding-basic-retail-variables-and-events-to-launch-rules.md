@@ -1,24 +1,25 @@
 ---
 title: Hinzufügen einfacher Einzelhandelsvariablen und Ereignis zu Startregeln
 description: In diesem Video wird gezeigt, wie Sie mit einer speziellen Produktzeichenfolge in Launch grundlegende Variablen und Ereignis wie die Ansicht des Produkts, einen Zusatz zum Einkaufswagen, einen Kassengang usw. verfolgen können.
-feature: launch implementation
+feature: Implementierung starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 
-# Hinzufügen einfacher Einzelhandelsvariablen und Ereignis zu [!DNL Launch] [!UICONTROL Regeln]
+# Hinzufügen einfacher Einzelhandelsvariablen und Ereignis zu [!DNL Launch] [!UICONTROL Rules]
 
-In diesem Video wird gezeigt, wie Sie mit einer speziellen [!UICONTROL Produktzeichenerweiterung] einfache Einzelhandelsvariablen und -Ereignis wie die Ansicht des Produkts, einen Zusatz zum Einkaufswagen, einen Kassengang usw. verfolgen [!DNL Experience Platform Launch] können.
+In diesem Video wird gezeigt, wie Sie mit einer speziellen Produktzeichenfolge [!UICONTROL extension] in [!DNL Experience Platform Launch] grundlegende Handelsvariablen und -Ereignis wie die Ansicht des Produkts, einen Zusatz zum Einkaufswagen, einen Kassengang usw. verfolgen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12)

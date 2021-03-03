@@ -1,19 +1,20 @@
 ---
 title: Erweiterung der Flussvisualisierung in Analysis Workspace
 description: In diesem Video werden die verschiedenen Optionen mit der rechten Maustaste in der Flussvisualisierung in Analysis Workspace gezeigt. Zu den Optionen gehören das Erstellen eines Segments aus einem Pfad, das Reduzieren von Spalten und mehr.
-feature: visualizations
+feature: Visualisierungen
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 1%
 
 ---
 

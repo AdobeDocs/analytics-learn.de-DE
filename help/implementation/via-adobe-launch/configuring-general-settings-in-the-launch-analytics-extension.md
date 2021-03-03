@@ -1,25 +1,26 @@
 ---
 title: Konfigurieren allgemeiner Einstellungen in der Analytics-Erweiterung starten
 description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, können Sie mit diesem Video den Abschnitt mit den allgemeinen Einstellungen, einschließlich der Einstellung des Trackingservers, aufrufen.
-feature: launch implementation
+feature: Implementierung starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 15%
 
 ---
 
 
-# Konfigurieren [!UICONTROL allgemeiner] Einstellungen in der [!DNL Launch Analytics] [!UICONTROL Erweiterung] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Konfigurieren der Einstellungen [!UICONTROL Allgemein] in [!DNL Launch Analytics] [!UICONTROL Erweiterung] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics [!UICONTROL Extension]beginnen, können Sie in diesem Video mit den [!UICONTROL allgemeinen] Einstellungen, einschließlich der Einstellung des Trackingservers, vertraut gemacht werden.
+Wenn Sie gerade erst mit Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, hilft Ihnen dieses Video mit dem Einstellungsabschnitt [!UICONTROL Allgemein], einschließlich der Einstellung des Trackingservers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 

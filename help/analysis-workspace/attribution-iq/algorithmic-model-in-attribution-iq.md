@@ -1,19 +1,20 @@
 ---
 title: Algorithmisches Modell in Attribution IQ
 description: Das algorithmische Zuordnungsmodell in Analysis Workspace verwendet statistische Verfahren, um für die ausgewählte Metrik die optimale Zuordnung dynamisch zu bestimmen.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 2950bf5c89f1dc239c08ce0d9b2272f14da4e3d3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 95%
 
 ---
 
@@ -24,4 +25,4 @@ Das algorithmische Zuordnungsmodell in Analysis Workspace verwendet statistische
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=de-DE)

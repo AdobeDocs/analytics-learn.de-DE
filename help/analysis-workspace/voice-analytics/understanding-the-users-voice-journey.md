@@ -1,24 +1,25 @@
 ---
-title: Die Sprachreise des Benutzers
-description: Erfahren Sie, wie Sie die Customer Journey in der Sprach-App verstehen können, indem Sie sich den Flusspfad ansehen und herausfinden, welche Aktionen am häufigsten durchgeführt werden, wie die Abfolge dieser Aktionen abläuft und wann und wo Benutzer die Reise verlassen.
-feature: visualizations
+title: Die Voice-Journey des Benutzers
+description: Erfahren Sie, wie Sie die Journey von Kunden in der Sprach-App verstehen können, indem Sie sich den Fließpfad ansehen und herausfinden, um herauszufinden, welche Aktionen am häufigsten durchgeführt werden, wie die Reihenfolge dieser Aktionen abläuft und wann und wo Benutzer von der Journey ausgeschlossen werden.
+feature: Visualisierungen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 
-# Die Sprachreise des Benutzers {#understanding-the-user-s-voice-journey}
+# Die Voice-Journey des Benutzers{#understanding-the-user-s-voice-journey}
 
-Erfahren Sie, wie Sie die Customer Journey in der Sprach-App verstehen können, indem Sie sich den [!UICONTROL Fließpfad] und den [!UICONTROL Trichteranalysevorgang] ansehen, um herauszufinden, welche Aktionen am häufigsten durchgeführt werden, in welcher Reihenfolge diese Aktionen ausgeführt werden und wann und wo Benutzer von der Reise abbrechen.
+Erfahren Sie, wie Sie die Journey in der Sprach-App verstehen, indem Sie den Pfad [!UICONTROL flow] und [!UICONTROL fallout] durchsuchen, um herauszufinden, welche Aktionen am häufigsten durchgeführt werden, wie die Folge dieser Aktionen ist und wann und wo die Benutzer aus der Journey herausfallen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)

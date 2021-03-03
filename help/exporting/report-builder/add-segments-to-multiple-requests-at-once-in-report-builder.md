@@ -1,25 +1,26 @@
 ---
 title: hinzufügen von Adobe Analytics-Segmenten auf mehrere Anforderungen gleichzeitig im Report Builder
 description: In diesem Video wird gezeigt, wie Sie mit Report Builder alle Anforderungen gleichzeitig segmentieren können, sodass Sie Zeit und Mühe sparen.
-feature: report builder
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
 
-# hinzufügen von Adobe Analytics-Segmenten auf mehrere Anforderungen gleichzeitig im [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
+# hinzufügen Sie Adobe Analytics-Segmente in mehreren Anforderungen gleichzeitig in [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
-In diesem Video erfahren Sie, wie Sie mit [!UICONTROL Report Builder] alle Anforderungen gleichzeitig segmentieren können, um Zeit und Mühe zu sparen.
+In diesem Video wird gezeigt, wie Sie mit [!UICONTROL Report Builder] allen Anforderungen gleichzeitig Segmente hinzufügen können, sodass Sie Zeit und Mühe sparen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 

@@ -1,26 +1,27 @@
 ---
 title: Fluss-Visualisierung im Analysis Workspace
-description: Dieses Video führt Sie durch die Flussvisualisierung in Analysis Workspace. Sie können Flow verwenden, um Benutzerbewegungen anzuzeigen und zu untersuchen und Ihre Customer Journey besser zu verstehen.
-feature: visualizations
+description: Dieses Video führt Sie durch die Flussvisualisierung in Analysis Workspace. Sie können Flow verwenden, um Benutzerbewegungen anzuzeigen und zu untersuchen und die Journey Ihrer Kunden besser zu verstehen.
+feature: Visualisierungen
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '79'
 ht-degree: 18%
 
 ---
 
 
-# [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
+# [!DNL Flow Visualization] in Analysis Workspace  {#flow-visualization-in-analysis-workspace}
 
-Dieses Video führt Sie durch die [!DNL Flow visualization] Analysis Workspace. Sie können [!DNL Flow] die Benutzerbewegung anzeigen und erforschen, um Ihre [!DNL customer journey]zu verstehen.
+Dieses Video führt Sie durch das [!DNL Flow visualization] in Analysis Workspace. Sie können [!DNL Flow] verwenden, um Benutzerbewegungen anzuzeigen und zu untersuchen, um Ihre [!DNL customer journey] besser zu verstehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 

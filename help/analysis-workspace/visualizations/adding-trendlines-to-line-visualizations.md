@@ -1,24 +1,25 @@
 ---
-title: Hinzufügen von Trendlinien zu Linienvisualisierungen
+title: Hinzufügen von Trend-Linien zu Linienvisualisierungen
 description: Unter "Visualisierungseinstellungen"können Sie eine Regression oder eine sich bewegende durchschnittliche Trendlinie zu Ihrer Zeilenserie hinzufügen, was dazu beitragen kann, ein klareres Muster in den Daten darzustellen. Zu den Optionen gehören "Linear", "Logarithmisch", "Exponentiell", "Power", "Quadratisch"und "Verschiebende Durchschnittswerte".
-feature: Visualizations
+feature: Visualisierungen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
 
-# Hinzufügen von Trendlinien zu Linienvisualisierungen
+# Hinzufügen von Trend-Linien zu Linienvisualisierungen
 
 Unter [!UICONTROL Visualisierungseinstellungen] können Sie eine Regression oder Verschiebung einer durchschnittlichen Trendlinie zu Ihrer Zeilenserie hinzufügen, was dazu beitragen kann, ein klareres Muster in den Daten darzustellen. Zu den Optionen gehören &quot;Linear&quot;, &quot;Logarithmisch&quot;, &quot;Exponentiell&quot;, &quot;Power&quot;, &quot;Quadratisch&quot;und &quot;Verschiebende Durchschnittswerte&quot;.
 

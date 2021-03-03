@@ -2,18 +2,20 @@
 title: Verbesserung der Veröffentlichung von Experience Cloud-Audiences
 landing-page-description: Hier erfahren Sie, wie Sie Audiences (Segmente) veröffentlichen und schneller als je zuvor verfügbar machen können.
 description: An Experience Cloud Audience Publishing wurden Verbesserungen vorgenommen. Sie können Zielgruppen (Segmente) jetzt veröffentlichen und sechsmal schneller bereitstellen, wodurch die aktuelle Latenzzeit von 48 auf ca. 8 Stunden reduziert wird und je nach Traffic und Segmentgröße möglicherweise noch mehr.
-feature: Integration mit Experience Cloud
+feature: Experience Cloud-Integration
 topics: null
-audience: analyst
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
+topic: Integrationen
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 52%
+source-wordcount: '176'
+ht-degree: 51%
 
 ---
 

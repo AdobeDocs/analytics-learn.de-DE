@@ -1,23 +1,24 @@
 ---
 title: Dropdown-Filter in Analysis Workspace verwenden
 description: In diesem Video erfahren Sie, wie Sie mit Dropdown-Filtern in Analysis Workspace den Inhalt eines Bedienfelds dynamisch ändern können.
-feature: panels
+feature: Bedienfelder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 
-# Dropdown-Filter in Analysis Workspace verwenden {#using-drop-down-filters-in-analysis-workspace}
+# Verwenden von Dropdown-Filtern in Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}
 
 In diesem Video erfahren Sie, wie Sie mit Dropdown-Filtern in Analysis Workspace den Inhalt eines Bedienfelds dynamisch ändern können.
 

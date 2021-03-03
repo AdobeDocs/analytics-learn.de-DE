@@ -1,25 +1,26 @@
 ---
 title: Freigeben von eingebetteten Komponenten in Analysis Workspace
 description: Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, aber vergessen Sie nicht, auch die Segmente und Metriken, die Sie in Ihre Kollegen aufgenommen haben, freizugeben. In diesem Video wird gezeigt, wie Sie jetzt Segmente und Metriken gemeinsam nutzen können, während Sie Ihre Projekte freigeben, sodass Kollegen jedes Mal sehen, was Sie sich vorgestellt haben.
-feature: curate and share
+feature: Kuratieren und freigeben
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 8%
 
 ---
 
 
-# Freigeben von eingebetteten Komponenten in Analysis Workspace {#share-embedded-components-in-analysis-workspace}
+# Freigeben eingebetteter Komponenten in Analysis Workspace {#share-embedded-components-in-analysis-workspace}
 
-Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, vergessen Sie jedoch, auch die [!UICONTROL Segmente] und [!UICONTROL Metriken] freizugeben, die Sie Ihren Kollegen hinzugefügt haben. In diesem Video wird gezeigt, wie Sie jetzt [!UICONTROL Segmente] und [!UICONTROL Metriken] gemeinsam nutzen können, während Sie Ihre Projekte freigeben, sodass Kollegen jedes Mal sehen können, was Sie beabsichtigen.
+Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, vergessen Sie aber auch, die [!UICONTROL Segmente] und [!UICONTROL Metriken] freizugeben, die Sie Ihren Kollegen beigegeben haben. In diesem Video wird gezeigt, wie Sie bei der Freigabe Ihrer Projekte jetzt [!UICONTROL Segmente] und [!UICONTROL Metriken] freigeben können, damit Kollegen jedes Mal sehen, was Sie beabsichtigt haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
 

@@ -1,25 +1,26 @@
 ---
 title: Virtual Report Suites in Adobe Analytics
 description: Mit Adobe Analytics können Sie "Virtual Report Suites"für Ihre Benutzer erstellen, die Ihre Daten segmentieren und Benutzer/Gruppen auf die zulässigen Datensegmente beschränken. In diesem Video wird das Erstellen und Arbeiten mit Virtual Report Suites erläutert.
-feature: vrs
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Virtual Report Suites] in Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
+# [!UICONTROL Virtual Report ] Suites in Adobe Analytics  {#virtual-report-suites-in-adobe-analytics}
 
-Mit Adobe Analytics können Sie &quot;[!UICONTROL Virtual Report Suites]&quot;für Ihre Benutzer erstellen, die Ihre Daten segmentieren und Benutzer/Gruppen auf die zulässigen Datensegmente beschränken. In diesem Video wird das Erstellen und Arbeiten mit [!UICONTROL Virtual Report Suites]erläutert.
+Mit Adobe Analytics können Sie &quot;[!UICONTROL Virtual Report Suites]&quot;für Ihre Benutzer erstellen, die Ihre Daten segmentieren und Benutzer/Gruppen auf die zulässigen Datensegmente beschränken. Dieses Video zeigt Ihnen, wie [!UICONTROL Virtual Report Suites] erstellt und verwendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 

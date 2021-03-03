@@ -1,24 +1,25 @@
 ---
 title: Verwenden von benutzerspezifischem Code beim Konfigurieren der Analytics-Startererweiterung
 description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, hilft Ihnen dieses Video, die Optionen für benutzerdefinierte Codefenster, die Zeitplanung der Codeausführung usw. zu verstehen.
-feature: launch implementation
+feature: Implementierung starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 
-# Verwenden von benutzerdefiniertem Code beim Konfigurieren der [!DNL Analytics][!DNL Launch] Erweiterung {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Verwenden von benutzerspezifischem Code beim Konfigurieren der [!DNL Analytics] [!DNL Launch]-Erweiterung {#using-custom-code-while-configuring-the-launch-analytics-extension}
 
-Wenn Sie gerade erst mit Adobe Experience Platform Launch und der Adobe Analytics [!UICONTROL Extension]anfangen, können Sie in diesem Video die Optionen für benutzerdefinierte Codefenster, die zeitliche Abfolge der Codeausführung usw. kennen.
+Wenn Sie gerade erst mit Adobe Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, hilft Ihnen dieses Video dabei, die Optionen für das Fenster mit benutzerdefiniertem Code, den Zeitpunkt der Codeausführung usw. zu verstehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=9)

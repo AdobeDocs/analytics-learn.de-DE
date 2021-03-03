@@ -1,24 +1,25 @@
 ---
 title: Einführung in Konversionsvariablen (eVars)
 description: In diesem Video erhalten Sie eine Einführung in Konversionsvariablen, auch als "eVars"bezeichnet. Erfahren Sie außerdem, wie sich Traffic- und Konversionsvariablen unterscheiden und wie sie mit Konversions-Ereignissen zusammenhängen.
-feature: dimensions
+feature: Dimensionen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 1%
 
 ---
 
 
 # Einführung in Konversionsvariablen ([!DNL eVars])
 
-In diesem Video erhalten Sie eine Einführung in Konversionsvariablen, auch als &quot;[!DNL eVars]&quot;bezeichnet. Erfahren Sie außerdem, wie sich Traffic- und Konversionsvariablen unterscheiden und wie sie mit der Konversion zusammenhängen [!DNL events].
+In diesem Video erhalten Sie eine Einführung in Konversionsvariablen, auch bekannt als &quot;[!DNL eVars]&quot;. Lernen Sie auch den Unterschied zwischen Traffic- und Konversionsvariablen und deren Beziehung zur Umrechnung [!DNL events] kennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)

@@ -1,24 +1,25 @@
 ---
 title: Verstehen des Benutzerverhaltens von Sprachassistenten
 description: Erfahren Sie, wie Sie das Benutzerverhalten verstehen und Einblicke gewinnen können, indem Sie sich Schlüsselmetriken wie Top-Intentionen, Parameter und Benutzerauthentifizierung ansehen.
-feature: visualizations
+feature: Visualisierungen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 1%
 
 ---
 
 
-# Verstehen des Benutzerverhaltens von Sprachassistenten {#understand-user-behavior-on-voice-assistants}
+# Verstehen Sie das Benutzerverhalten von Sprachassistenten {#understand-user-behavior-on-voice-assistants}
 
-Erfahren Sie, wie Sie das Benutzerverhalten verstehen und Einblicke gewinnen können, indem Sie sich wichtige [!UICONTROL Metriken] ansehen, z. B. Top-Intentionen, Parameter und Benutzerauthentifizierung.
+Erfahren Sie, wie Sie das Benutzerverhalten verstehen und Einblicke gewinnen können, indem Sie sich die Schlüsselmetriken [!UICONTROL metrics] ansehen, z. B. Top-Absichten, Parameter und Benutzerauthentifizierung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)

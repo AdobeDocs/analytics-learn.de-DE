@@ -1,19 +1,20 @@
 ---
 title: Neuanordnen von statischen Zeilen in Analysis Workspace
 description: Sie können statische Zeilen im Freiform Table Builder manuell neu anordnen. Auf diese Weise können Sie die statischen Tabellenzeilen in der richtigen Reihenfolge anordnen, z. B. "Besuche", "Bestellungen" und dann "Konversionsrat".
-feature: freeform tables
+feature: Freiformtabellen
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 2%
 
 ---
 

@@ -1,23 +1,24 @@
 ---
 title: Erstellen einer Regel für eine globale Seite beim Starten
 description: Es gibt einige Datenpunkte, die Sie auf jeder Seite an Adobe Analytics senden möchten. In diesem Video wird gezeigt, wie eine globale Seitenladeregel zum Senden dieser Datenpunkte eingerichtet wird.
-feature: launch implementation
+feature: Implementierung starten
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 
-# Erstellen einer globalen [!UICONTROL Seitenregel] in [!DNL Launch]
+# Erstellen einer globalen Seite [!UICONTROL Regel] in [!DNL Launch]
 
 Es gibt einige Datenpunkte, die Sie auf jeder Seite an Adobe Analytics senden möchten. In diesem Video wird gezeigt, wie eine globale Seitenladeregel eingerichtet wird, mit der diese Datenpunkte gesendet werden.
 

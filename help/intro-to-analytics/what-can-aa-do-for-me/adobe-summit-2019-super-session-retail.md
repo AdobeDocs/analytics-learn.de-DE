@@ -1,6 +1,6 @@
 ---
-title: Adobe Summit 2019 Super Session - Retail
-description: Siehe ausgewählte Clips aus der Einzelhandelssitzung "Super Session"auf Summit 2019
+title: Einzelhandels-Super-Session beim Adobe Summit 2019
+description: Sehen Sie sich ausgewählte Clips aus der Einzelhandels-Super-Session beim Summit 2019 an
 feature: Nutzungsszenarios
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 72%
 
 ---
 
 
-# [!DNL Adobe Summit] Supersitzung 2019 - Einzelhandel
+# Einzelhandels-Super-Session beim [!DNL Adobe Summit] 2019
 
-Siehe Kuratierte Clips aus der Retail-Supersitzung am [!DNL Summit] 2019
+Sehen Sie sich ausgewählte Clips aus der Einzelhandels-Super-Session beim [!DNL Summit] 2019 an
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)

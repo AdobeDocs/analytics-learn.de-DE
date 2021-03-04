@@ -1,6 +1,6 @@
 ---
 title: Verwenden einer Datenschicht auf Ihrer Site
-description: Es wird empfohlen, während der Arbeit mit dem Experience Cloud eine Datenschicht auf Ihrer Site zu verwenden, auch wenn Sie mit Adobe Analytics arbeiten. In diesem Video werden die Datenschicht vorgestellt und Beispiele und Beispiele vorgestellt.
+description: Wir empfehlen Ihnen als Best Practice, während der Arbeit mit Experience Cloud eine Datenschicht auf Ihrer Site zu verwenden – auch dann, wenn Sie mit Adobe Analytics arbeiten. In diesem Video wird die Datenschicht vorgestellt und anhand eines Beispiels erläutert.
 feature: Implementierungsgrundlagen
 topics: null
 activity: setup
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
 # Verwenden einer Datenschicht auf Ihrer Site
 
-Es wird empfohlen, während der Arbeit mit dem Experience Cloud eine Datenschicht auf Ihrer Site zu verwenden, auch wenn Sie mit Analytics arbeiten. In diesem Video werden die Datenschicht vorgestellt und Beispiele und Beispiele vorgestellt.
+Wir empfehlen Ihnen als Best Practice, während der Arbeit mit Experience Cloud eine Datenschicht auf Ihrer Site zu verwenden – auch dann, wenn Sie mit Analytics arbeiten. In diesem Video wird die Datenschicht vorgestellt und anhand eines Beispiels erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12)

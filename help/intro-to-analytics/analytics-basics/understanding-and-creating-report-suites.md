@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes und Erstellen von Report Suites
-description: In diesem Video erfahren Sie, was Report Suites sind, und erfahren, wie Sie sie in der Oberfläche erstellen, sodass Sie die Personen, die zu Ihrer Site kommen, verfolgen und optimieren können.
+title: Verstehen und Erstellen von Report Suites
+description: In diesem Video erfahren Sie, was Report Suites sind und wie Sie sie in der Oberfläche erstellen, sodass Sie nachvollziehen und optimieren können, wer Ihre Site besucht.
 feature: Analytics-Grundlagen
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 2%
+ht-degree: 96%
 
 ---
 
 
-# Grundlagen und Erstellen von [!UICONTROL Report Suites]
+# Verstehen und Erstellen von [!UICONTROL Report Suites]
 
-In diesem Video erfahren Sie, was [!UICONTROL Report Suites] sind, und erfahren, wie Sie diese in der Oberfläche erstellen, damit Sie den Traffic verfolgen und optimieren können, der zu Ihrer Site gelangt.
+In diesem Video erfahren Sie, was [!UICONTROL Report Suites] sind und wie Sie sie in der Oberfläche erstellen, damit Sie den Traffic auf Ihrer Site nachvollziehen und optimieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12)

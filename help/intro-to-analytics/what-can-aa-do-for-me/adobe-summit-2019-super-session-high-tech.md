@@ -1,6 +1,6 @@
 ---
-title: Adobe Summit 2019 Super Session - High-Tech
-description: Siehe ausgewählte Clips der High-Tech-Supersitzung auf dem Gipfel 2019
+title: Hightech Super Session beim Adobe Summit 2019
+description: Sehen Sie sich ausgewählte Clips aus der Hightech Super Session beim Summit 2019 an
 feature: Nutzungsszenarios
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] Super Session 2019 - High-Tech
+# Hightech Super Session beim [!DNL Adobe Summit] 2019
 
-Siehe Kuratierte Clips aus der High-Tech-&quot;Supersitzung&quot;bei [!DNL Summit] 2019
+Sehen Sie sich ausgewählte Clips aus der Hightech Super Session beim [!DNL Summit] 2019 an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Adobe Labs (Technology Previews) mit Adobe Analytics
-description: Mit Adobe Labs (Technology Vorschauen) können Sie sich mit neuen Technologien beschäftigen, wertvolle Einblicke gewinnen und die Entwicklung und Prioritäten künftiger Analytics-Funktionen beeinflussen.
+description: Mit Adobe Labs (Technology Previews) können Sie sich mit neuen Technologien beschäftigen, wertvolle Einblicke gewinnen und die Entwicklung und Prioritäten künftiger Analytics-Funktionen beeinflussen.
 feature: Analytics-Grundlagen
 topics: null
 activity: use
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 20%
+ht-degree: 98%
 
 ---
 
 
-# [!DNL Adobe Labs] (Technology Vorschauen) mit Adobe Analytics
+# [!DNL Adobe Labs] (Technology Previews) mit Adobe Analytics
 
-[!DNL Adobe Labs] (Technology Vorschauen) ermöglicht es Ihnen, sich mit neuen Technologien zu beschäftigen, wertvolle Einblicke zu gewinnen und zukünftige  [!DNL Analytics] Funktionsentwicklung und -prioritäten zu beeinflussen.
+Mit [!DNL Adobe Labs] (Technology Previews) können Sie sich mit neuen Technologien beschäftigen, wertvolle Einblicke gewinnen und die Entwicklung und Prioritäten künftiger [!DNL Analytics]-Funktionen beeinflussen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 

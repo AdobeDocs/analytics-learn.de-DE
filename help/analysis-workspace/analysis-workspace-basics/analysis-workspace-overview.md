@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace – Übersicht
-description: Überblick über das Analysis Workspace der Adobe Analytics Solution auf hoher Ebene, einschließlich Projekterstellung und Vorlagen, Bedienfelder, Visualisierungen, Dimensionen, Metriken, Segmente und hochwertigen Funktionen und Techniken.
+description: Allgemeiner Überblick über Analysis Workspace von Adobe Analytics Solution, einschließlich Projekterstellung und Vorlagen, Bedienfelder, Visualisierungen, Dimensionen, Metriken, Segmente sowie hochwertige Funktionen und Techniken.
 feature: Arbeitsbereich - Grundlagen
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 10%
+ht-degree: 91%
 
 ---
 
 
 # Analysis Workspace – Übersicht {#analysis-workspace-overview}
 
-Überblick über das Analysis Workspace der Adobe Analytics Solution auf hoher Ebene, einschließlich Projekterstellung und Vorlagen, Bedienfelder, Visualisierungen, Dimensionen, Metriken, Segmente und hochwertigen Funktionen und Techniken.
+Allgemeiner Überblick über Analysis Workspace von Adobe Analytics Solution, einschließlich Projekterstellung und Vorlagen, Bedienfelder, Visualisierungen, Dimensionen, Metriken, Segmente sowie hochwertige Funktionen und Techniken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12)

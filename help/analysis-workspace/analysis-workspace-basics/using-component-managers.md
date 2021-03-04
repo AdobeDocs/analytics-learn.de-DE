@@ -1,8 +1,8 @@
 ---
-title: Komponentenmanager in Adobe Analytics
-seo-title: Komponentenmanager in Adobe Analytics
-description: 'In diesem Video wird gezeigt, wie Sie die Komponentenmanager "Warnungen"und "Geplante Projekte"in Adobe Analytics sowie einige zusätzliche Funktionen verwenden. Erfahren Sie, wie Sie die gesuchte Warnung oder das geplante Projekt leicht finden und Warnungen aktivieren/deaktivieren können. '
-seo-description: 'In diesem Video wird gezeigt, wie Sie die Komponentenmanager "Warnungen"und "Geplante Projekte"in Adobe Analytics sowie einige zusätzliche Funktionen verwenden. Erfahren Sie, wie Sie die gesuchte Warnung oder das geplante Projekt leicht finden und Warnungen aktivieren/deaktivieren können. '
+title: Verwenden von Komponenten-Managern in Adobe Analytics
+seo-title: Verwenden von Komponenten-Managern in Adobe Analytics
+description: 'Dieses Video zeigt Ihnen, wie Sie die Komponenten-Manager „Warnhinweise“ und „Geplante Projekte“ sowie einige zusätzliche Funktionen in Adobe Analytics verwenden. Erfahren Sie, wie Sie den gesuchten Warnhinweis oder das gesuchte geplante Projekt leicht finden und wie Sie Warnhinweise aktivieren/deaktivieren können. '
+seo-description: 'Dieses Video zeigt Ihnen, wie Sie die Komponenten-Manager „Warnhinweise“ und „Geplante Projekte“ sowie einige zusätzliche Funktionen in Adobe Analytics verwenden. Erfahren Sie, wie Sie den gesuchten Warnhinweis oder das gesuchte geplante Projekt leicht finden und wie Sie Warnhinweise aktivieren/deaktivieren können. '
 feature: Arbeitsbereich - Grundlagen
 topics: null
 activity: use
@@ -16,13 +16,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 96%
 
 ---
 
 
 # Verwenden von [!DNL Component Managers] in Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
-In diesem Video wird gezeigt, wie Sie die [!UICONTROL Warnhinweise] und [!UICONTROL Geplante Projekte] [!DNL component managers] in Adobe Analytics verwenden, sowie weitere Funktionen. Erfahren Sie, wie Sie das gesuchte [!UICONTROL Warnhinweis] oder [!UICONTROL Geplantes Projekt] einfach finden und [!UICONTROL Warnungen aktivieren/deaktivieren] aktivieren/deaktivieren.
+Dieses Video zeigt Ihnen, wie Sie [!UICONTROL Warnhinweise] und [!UICONTROL Geplante Projekte] [!DNL component managers] sowie einige zusätzliche Funktionen in Adobe Analytics verwenden. Erfahren Sie, wie Sie den gesuchten [!UICONTROL Warnhinweis] oder das gesuchte [!UICONTROL geplante Projekt] einfach finden und wie Sie [!UICONTROL Warnhinweise] aktivieren/deaktivieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24068/?quality=12)

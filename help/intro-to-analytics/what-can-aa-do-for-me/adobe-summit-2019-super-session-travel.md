@@ -1,6 +1,6 @@
 ---
-title: Adobe Summit 2019 Super Session - Reise und Gastgewerbe
-description: Siehe ausgewählte Clips aus der Reise- und Gastfreundschaftspflege "Super Session" auf Summit 2019
+title: Touristik-Super-Session beim Adobe Summit 2019
+description: Sehen Sie sich ausgewählte Clips aus der Touristik-Super-Session beim Summit 2019 an
 feature: Nutzungsszenarios
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] Supersitzung 2019 - Reise und Gastgewerbe
+# Touristik-Super-Session beim [!DNL Adobe Summit] 2019
 
-Siehe kuratierte Clips aus der Reise- und Gastfreundschaft &quot;Super Session&quot; bei [!DNL Summit] 2019
+Sehen Sie sich ausgewählte Clips aus der Touristik-Super-Session beim [!DNL Summit] 2019 an
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: Admin-Einstellungen für mobile Apps
-description: Erfahren Sie, wie Sie Mobile App Berichte in Adobe Analytics einrichten, einschließlich Lebenszykluskomponenten, Standortverfolgung und Hintergrundtreffer-Berichte.
+title: Admin-Einstellungen für Mobile Apps
+description: Erfahren Sie, wie Sie Mobile App-Berichte in Adobe Analytics einrichten, einschließlich Lebenszykluskomponenten, Standortverfolgung und Berichte zu Hintergrundtreffern.
 feature: Mobile SDK
 topics: null
 activity: setup
@@ -14,15 +14,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 16%
+ht-degree: 98%
 
 ---
 
 
-# Admin-Einstellungen für mobile Apps {#admin-settings-for-mobile-apps}
+# Admin-Einstellungen für Mobile Apps {#admin-settings-for-mobile-apps}
 
-Erfahren Sie, wie Sie Mobile App Berichte in Adobe Analytics einrichten, einschließlich der Komponenten [!UICONTROL Lebenszyklus], [!UICONTROL Standortverfolgung] und [!UICONTROL Hintergrundtreffer]-Berichte.
+Erfahren Sie, wie Sie Mobile App-Berichte in Adobe Analytics einrichten, einschließlich der Komponenten zum [!UICONTROL Lebenszyklus], der [!UICONTROL Standortverfolgung] und der Berichte zu [!UICONTROL Hintergrundtreffern].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/mobile/gs.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/mobile/gs.html).

@@ -1,6 +1,6 @@
 ---
-title: Erste Schritte mit Adobe Mobile Analytics
-description: Erfahren Sie, wie Sie mit Adobe Analytics für mobile Apps mit Vorlagen beginnen. Vordefinierte Standardvorlagen helfen Ihnen, die Metriken zur Benutzerinteraktion und zur App-Performance in Analysis Workspace zu verstehen. Erfahren Sie auch, wie Sie Ihr Projekt mit unserer benutzerfreundlichen Drag & Drop-Oberfläche anpassen können.
+title: Erste Schritte mit Adobe Mobile Analytics
+description: Erfahren Sie, wie Sie mit Vorlagen die ersten Schritte in Adobe Analytics für Mobile Apps meistern. Vordefinierte Standardvorlagen helfen Ihnen, die Metriken zur Benutzerinteraktion und zur App-Performance in Analysis Workspace zu verstehen. Erfahren Sie auch, wie Sie Ihr Projekt mit unserer benutzerfreundlichen Drag-and-Drop-Oberfläche anpassen können.
 feature: Arbeitsbereich - Grundlagen
 topics: mobile
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
-# Erste Schritte mit Adobe Mobile Analytics {#getting-started-with-mobile-analytics}
+# Erste Schritte mit Adobe Mobile Analytics {#getting-started-with-mobile-analytics}
 
-Erfahren Sie, wie Sie mit Adobe Analytics für mobile Apps mit Vorlagen beginnen. Vorgefertigte [!UICONTROL Standardvorlagen] helfen Ihnen, die Benutzerinteraktion und die App-Leistung [!UICONTROL Metriken] in Analysis Workspace zu verstehen. Erfahren Sie auch, wie Sie Ihr Projekt mit unserer benutzerfreundlichen Drag &amp; Drop-Oberfläche anpassen können.
+Erfahren Sie, wie Sie mit Vorlagen die ersten Schritte in Adobe Analytics für Mobile Apps meistern. Vorkonfigurierte [!UICONTROL Standardvorlagen] helfen Ihnen, [!UICONTROL Metriken] zur Benutzerinteraktion und zur App-Performance in Analysis Workspace zu verstehen. Erfahren Sie auch, wie Sie Ihr Projekt mit unserer benutzerfreundlichen Drag-and-Drop-Oberfläche anpassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12)

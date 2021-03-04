@@ -1,6 +1,6 @@
 ---
-title: Erstellen und Pflegen eines SDR
-description: Das Dokument zur Lösungsdesignreferenz (SDR) ist im Wesentlichen der Entwurf für Ihre Site. In diesem Video wird gezeigt, wie man eine in Verbindung mit dem Business Requirements-Dokument erstellt, sodass Sie immer eine Quelle der Wahrheit haben können, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren und in Zukunft darauf zurückverweisen.
+title: Erstellen und Pflegen einer Referenz für das Lösungs-Design
+description: Das Referenzdokument für das Lösungs-Design ist im Wesentlichen das Blueprint für Ihre Site. In diesem Video wird gezeigt, wie Sie in Verbindung mit dem Geschäftsanforderungsdokument ein Referenzdokument für das Lösungs-Design erstellen, sodass Sie immer eine Datenbasis haben, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren, und auf die Sie in Zukunft zurückverweisen.
 feature: Implementierungsgrundlagen
 topics: null
 activity: implement
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Erstellen und Warten eines SDR-Dokuments (Solution Design Reference)
+# Erstellen und Warten eines Referenzdokuments für das Lösungs-Design
 
-Das Dokument zur Lösungsdesignreferenz (SDR) ist im Wesentlichen der Entwurf für Ihre Site. In diesem Video wird gezeigt, wie man eine mit dem Business Requirements-Dokument erstellt, sodass Sie immer eine Quelle der Wahrheit haben können, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren und in Zukunft darauf zurückverweisen.
+Das Referenzdokument für das Lösungs-Design ist im Wesentlichen das Blueprint für Ihre Site. In diesem Video wird gezeigt, wie Sie in Verbindung mit dem Geschäftsanforderungsdokument ein Referenzdokument für das Lösungs-Design erstellen, sodass Sie immer eine Datenbasis haben, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren, und auf die Sie in Zukunft zurückverweisen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-[Beispiel ](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) BRD/SDR herunterladen, mit dem Sie Ihre Site definieren können.
+[Downloaden](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Sie ein Beispiel-Geschäftsanforderungsdokument bzw. ein Beispiel-Referenzdokument für das Lösungs-Design, mit dem Sie Ihre Site definieren können.
 
-[Herunterladen ](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) von BRD/SDR aus diesem Video (und dem  [BRD-Video](creating-a-business-requirements-document.md)).
+[Downloaden](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Sie das Geschäftsanforderungsdokument/Referenzdokument für das Lösungs-Design aus diesem Video (und dem [Geschäftsanforderungsdokument-Video](creating-a-business-requirements-document.md)).

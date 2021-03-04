@@ -1,6 +1,6 @@
 ---
-title: Erhöhen der Interaktions- und Treuerraten
-description: Identifizieren Sie mit Cohorts belegte Audiencen anhand ihres Verhaltens und kennen Sie die zugrunde liegenden Ursachen, die die Stickiness in Ihren mobilen Apps fördern. Verwenden Sie datenwissenschaftliche Algorithmen in Segment IQ, um die Unterschiede und Ähnlichkeiten zwischen Segmenten zu kennen.
+title: So steigern Sie die Interaktions- und Kundenbindungsquoten
+description: Identifizieren Sie mit Kohorten engagierte Zielgruppen anhand ihres Verhaltens und machen Sie sich die zugrunde liegenden Ursachen bewusst, die die Attraktivität Ihrer Mobile Apps fördern. Verwenden Sie Data Science-Algorithmen in Segment IQ, um die Unterschiede und Ähnlichkeiten zwischen Segmenten nachzuvollziehen.
 feature: Arbeitsbereich - Grundlagen
 topics: mobile
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
 
-# Erhöhen der Interaktions- und Treuerraten {#how-to-increase-engagement-and-retention-rates}
+# So steigern Sie die Interaktions- und Kundenbindungsquoten {#how-to-increase-engagement-and-retention-rates}
 
-Identifizieren Sie belegte Audiencen mithilfe von [!UICONTROL Kohorten] und kennen Sie die zugrunde liegenden Ursachen, die die Stickiness in Ihren mobilen Apps fördern. Verwenden Sie datenwissenschaftliche Algorithmen in [!UICONTROL Segment-IQ], um die Unterschiede und Ähnlichkeiten zwischen Segmenten zu kennen.
+Identifizieren Sie mit [!UICONTROL Kohorten] engagierte Zielgruppen anhand ihres Verhaltens und machen Sie sich die zugrunde liegenden Ursachen bewusst, die die Attraktivität Ihrer Mobile Apps fördern. Verwenden Sie Data Science-Algorithmen in [!UICONTROL Segment-IQ], um die Unterschiede und Ähnlichkeiten zwischen Segmenten zu überblicken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)

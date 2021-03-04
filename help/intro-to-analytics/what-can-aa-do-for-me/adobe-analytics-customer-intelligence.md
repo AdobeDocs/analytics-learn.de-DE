@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics - Es sind mehr als Daten. Es ist Customer Intelligence
-description: Um ein Erlebnisgeschäft zu werden, ist datengesteuertes Marketing der Schlüssel dazu. Steigern Sie Ihre Analysereife auf eine neue Stufe - von Daten über Einblicke bis hin zu Aktionen.
+title: Adobe Analytics - mehr als nur Daten. Es ist Customer Intelligence
+description: Data-driven Marketing ist der Schlüssel auf dem Weg zum Experience Business. Bringen Sie Ihre Analytics-Reife auf eine neue Stufe – von Daten über Einblicke bis hin zu Aktionen.
 feature: Analytics-Grundlagen
 topics: null
 activity: understand
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 2%
+ht-degree: 88%
 
 ---
 
 
-# Adobe Analytics - Es sind mehr als Daten. Es ist Customer Intelligence
+# Adobe Analytics - mehr als nur Daten. Es ist Customer Intelligence
 
-Um ein Erlebnisgeschäft zu werden, ist datengesteuertes Marketing der Schlüssel dazu. Steigern Sie Ihre Analysereife auf eine neue Stufe - von Daten über Einblicke bis hin zu Aktionen.
+Data-driven Marketing ist der Schlüssel auf dem Weg zum Experience Business. Bringen Sie Ihre Analytics-Reife auf eine neue Stufe – von Daten über Einblicke bis hin zu Aktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
 
-Erfahren Sie, wie die Adobe Ihnen dabei helfen kann, Ihre Kunden aus allen Bereichen zu kennen: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
+Erfahren Sie, wie Adobe Ihnen dabei helfen kann, Ihre Kunden von allen Seiten zu kennen: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

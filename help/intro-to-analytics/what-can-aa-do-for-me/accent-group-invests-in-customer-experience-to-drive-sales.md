@@ -1,6 +1,6 @@
 ---
-title: Anwendungsfall des Kunden - Akzentgruppe investiert in Kundenerfahrung, um den Verkauf voranzutreiben
-description: Accent Group, der größte Schuhhändler in Australien, steigert ihre Verkäufe und Konversionen, indem sie großartige Kundenerlebnisse über physische und digitale Touchpoints hinweg bereitstellt. Sehen Sie sich an, wie die Accent Group mit der Adobe Experience Cloud nahtlose digitale Erlebnisse schafft.
+title: 'Kunden-Nutzungsszenario: Accent Group investiert in Kundenerlebnisse, um die Verkaufszahlen zu steigern'
+description: Das Unternehmen „Accent Group“, der größte Schuhhändler in Australien, steigert seine Verkäufe und Konversionen, indem es großartige Kundenerlebnisse über physische und digitale Kontaktpunkte bereitstellt. Sehen Sie sich an, wie die Accent Group mit der Adobe Experience Cloud nahtlose digitale Erlebnisse schafft.
 feature: Nutzungsszenarios
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 15%
+ht-degree: 89%
 
 ---
 
 
-# Kundenverwendungsfall: [!DNL Accent Group] investiert in Kundenerfahrung, um den Verkauf voranzutreiben
+# Kunden-Nutzungsszenario: [!DNL Accent Group] investiert in Kundenerlebnisse, um die Verkaufszahlen zu steigern
 
-[!DNL Accent Group], der größte Schuhhändler in Australien, steigert ihre Verkäufe und Konversionen, indem sie großartige Kundenerlebnisse über physische und digitale Touchpoints hinweg bereitstellt. Sehen Sie, wie das [!DNL Accent Group] das Adobe Experience Cloud zum Erstellen nahtloser digitaler Erlebnisse verwendet.
+Das Unternehmen [!DNL Accent Group], der größte Schuhhändler in Australien, steigert seine Verkäufe und Konversionen, indem es großartige Kundenerlebnisse über physische und digitale Kontaktpunkte bereitstellt. Sehen Sie sich an, wie [!DNL Accent Group] mit Adobe Experience Cloud nahtlose digitale Erlebnisse schafft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)

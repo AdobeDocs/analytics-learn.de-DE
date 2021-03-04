@@ -1,6 +1,6 @@
 ---
 title: So werden Analytics-Daten erfasst
-description: Wie werden Daten von Ihrer Seite in die Berichte in Adobe Analytics aufgenommen? Dieses Video zeigt Ihnen, wie.
+description: Wie gelangen Daten von Ihrer Seite in Adobe Analytics-Berichte? Dieses Video zeigt es Ihnen.
 feature: Analytics-Grundlagen
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 4%
+ht-degree: 94%
 
 ---
 
 
 # So werden [!DNL Analytics]-Daten erfasst
 
-Wie werden Daten von Ihrer Seite in die Berichte in Adobe Analytics aufgenommen? Dieses Video zeigt Ihnen, wie.
+Wie gelangen Daten von Ihrer Seite in Adobe Analytics-Berichte? Dieses Video zeigt es Ihnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)

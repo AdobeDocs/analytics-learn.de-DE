@@ -1,6 +1,6 @@
 ---
-title: Einführung in die Benutzeroberfläche von Analytics
-description: In diesem Video erfahren Sie, wo Sie die Tools finden, die Sie bei der Implementierung und bei der Analyse benötigen.
+title: Einführung in die Analytics-Benutzeroberfläche
+description: In diesem Video lernen Sie die Adobe Analytics-Oberfläche kennen und Sie erfahren, wo Sie die Tools finden, die Sie bei der Implementierung und bei der Analyse benötigen.
 feature: Analytics-Grundlagen
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 2%
+ht-degree: 95%
 
 ---
 
 
-# Einführung in die [!DNL Analytics]-Benutzeroberfläche
+# Einführung in die Benutzeroberfläche von [!DNL Analytics]
 
-In diesem Video erfahren Sie, wo Sie die Tools finden, die Sie bei der Implementierung und bei der Analyse benötigen.
+In diesem Video lernen Sie die Adobe Analytics-Oberfläche kennen und Sie erfahren, wo Sie die Tools finden, die Sie bei der Implementierung und bei der Analyse benötigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28748/?quality=12)

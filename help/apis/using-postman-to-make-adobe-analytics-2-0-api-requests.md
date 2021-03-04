@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Adobe Analytics 2.0-API-Anfragen mit Postman
-description: In diesem Video erfahren Sie, wie Sie Postman, einen API-Client, einrichten, um Adobe Analytics 2.0-API-Anfragen zu senden. Dazu gehören die Einrichtung einer Adobe I/O-Integration (HINWEIS - Sie müssen ein Systemadministrator in Experience Cloud sein, um diese zu konfigurieren), die Suche nach Ihrer globalen Firmen-ID und mehr.
+description: 'In diesem Video erfahren Sie, wie Sie den API-Client Postman einrichten, um Adobe Analytics 2.0-API-Anfragen zu senden. Dazu gehören das Einrichten einer Adobe I/O-Integration (Hinweis: Sie müssen Systemadministrator in Experience Cloud sein, um diese einzurichten), Informationen dazu, wo Sie Ihre globale Firmen-ID finden, und mehr.'
 feature: 'API '
 topics: null
 activity: use
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Verwenden von [!DNL Postman], um Adobe Analytics 2.0-API-Anforderungen {#using-postman-to-make-adobe-analytics-api-requests} zu erstellen
+# Verwenden von [!DNL Postman], um Adobe Analytics 2.0-API-Anfragen zu erstellen {#using-postman-to-make-adobe-analytics-api-requests}
 
-In diesem Video erfahren Sie, wie Sie [!DNL Postman], einen API-Client, einrichten, um Adobe Analytics 2.0-API-Anfragen zu senden. Dazu gehört die Einrichtung einer Adobe I/O-Integration (HINWEIS: Sie müssen ein Systemadministrator in Experience Cloud sein, um dies einzurichten), wo Sie Ihre globale Firmen-ID finden und vieles mehr.
+In diesem Video erfahren Sie, wie Sie [!DNL Postman], einen API-Client, einrichten, um Adobe Analytics 2.0-API-Anfragen zu senden. Dazu gehört das Einrichten einer Adobe I/O-Integration (Hinweis: Sie müssen Systemadministrator in Experience Cloud sein, um dies einzurichten), Informationen dazu, wo Sie Ihre globale Firmen-ID finden, und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12)
 

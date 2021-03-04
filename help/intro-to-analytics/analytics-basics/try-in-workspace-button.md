@@ -1,6 +1,6 @@
 ---
-title: Schaltfläche "In Workspace"in Reports and Analytics testen
-description: Die meisten Berichte in Reports and Analytics enthalten eine Schaltfläche "In Arbeitsbereich ausprobieren", mit der Sie die aktuelle Ansicht in Analysis Workspace zur weiteren Anpassung reproduzieren können.
+title: Schaltfläche „In Arbeitsbereich ausprobieren“ in Reports and Analytics
+description: Die meisten Berichte in Reports and Analytics beinhalten die Schaltfläche „In Arbeitsbereich ausprobieren“, über die Sie die aktuelle Ansicht in Analysis Workspace reproduzieren können, um weitere Anpassungen vorzunehmen.
 feature: Analytics-Grundlagen
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 2%
+ht-degree: 85%
 
 ---
 
 
-# Schaltfläche &quot;In Arbeitsbereich ausprobieren&quot;in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
+# Schaltfläche „In Arbeitsbereich ausprobieren“ in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
 
-Die meisten Berichte in [!UICONTROL Reports &amp; Analysen] enthalten die Schaltfläche **[!UICONTROL In Workspace]** versuchen, damit Sie die aktuelle Ansicht in [!UICONTROL Analysis Workspace] zur weiteren Anpassung reproduzieren können.
+Die meisten Berichte in [!UICONTROL Reports &amp; Analytics] beinhalten jetzt die Schaltfläche **[!UICONTROL In Arbeitsbereich ausprobieren]**, über die Sie die aktuelle Ansicht in [!UICONTROL Analysis Workspace] reproduzieren können, um weitere Anpassungen vorzunehmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)

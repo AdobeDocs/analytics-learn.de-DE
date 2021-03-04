@@ -1,8 +1,8 @@
 ---
-title: Benutzerdefinierte Vorlagen zur Aktivierung neuer Analysis Workspace-Benutzer verwenden
-seo-title: Benutzerdefinierte Vorlagen zur Aktivierung neuer Analysis Workspace-Benutzer verwenden
-description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
-seo-description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
+title: Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue Analysis Workspace-Benutzer
+seo-title: Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue Analysis Workspace-Benutzer
+description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen kombinieren können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
+seo-description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen kombinieren können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
 feature: Projekte
 topics: null
 activity: use
@@ -16,21 +16,21 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Benutzerdefinierte Vorlagen verwenden, um neue Analysis Workspace-Benutzer zu aktivieren.{#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue Analysis Workspace-Benutzer {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
-In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen/Einfügen zusammenführen können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
+In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen kombinieren können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23234/?quality=12)
 
-Durch die Erstellung einer Bausteinvorlage können Benutzer ihre Analyse schneller Beginn leisten und sicherstellen, dass sie die von Ihrem Unternehmen festgelegten Best Practices befolgen.
+Durch Erstellen einer Bausteinvorlage können Benutzer schneller mit ihren Analysen beginnen und sicherstellen, dass sie die von Ihrem Unternehmen festgelegten Best Practices befolgen.
 
-Verwandte Videos finden Sie unter:
+Videos hierzu finden Sie unter:
 
-* [Benutzerdefinierte Vorlagen in Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Benutzerdefinierte Vorlagen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.html?lang=de#analysis-workspace)
 
-* [Kopieren und Einfügen in Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Kopieren und Einfügen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html?lang=de#analysis-workspace)

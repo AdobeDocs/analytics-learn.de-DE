@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics Connector in Power BI
-description: In diesem Video gehen wir durch den Adobe Analytics Connector, indem wir eine Anforderung erstellen und laden, das Format der Daten ändern, eine Visualisierung erstellen und die Veröffentlichung im Online-Dienst durchführen.
+description: In diesem Video stellen wir Ihnen Adobe Analytics Connector vor, indem wir eine Anfrage erstellen und laden, das Format der Daten ändern, eine Visualisierung erstellen und die Veröffentlichung im Online-Dienst durchführen.
 feature: '"Integration von Drittanbietern"'
 topics: null
 activity: use
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 86%
 
 ---
 
 
 # Adobe Analytics Connector in Power BI {#adobe-analytics-connector-in-power-bi}
 
-In diesem Video gehen wir durch den Adobe Analytics Connector, indem wir eine Anforderung erstellen und laden, das Format der Daten ändern, eine [!UICONTROL Visualisierung] erstellen und im Online-Dienst veröffentlichen.
+In diesem Video stellen wir Ihnen Adobe Analytics Connector vor, indem wir eine Anfrage erstellen und laden, das Format der Daten ändern, eine [!UICONTROL Visualisierung] erstellen und eine Veröffentlichung im Online-Dienst durchführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Funktionsdokumentation](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)
+* [Funktionsdokumentation](https://docs.microsoft.com/de-de/power-bi/desktop-connect-adobe-analytics)

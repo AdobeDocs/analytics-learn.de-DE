@@ -1,8 +1,8 @@
 ---
 title: Standardvorlagen in Analysis Workspace
 seo-title: Standardvorlagen in Analysis Workspace
-description: Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit Standardvorlagen (früher Starterprojekte genannt)
-seo-description: Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit Standardvorlagen (früher Starterprojekte genannt)
+description: Analysis Workspace verschafft Ihnen mit Standardvorlagen (ehemals „Starterprojekte“ genannt) einen Vorsprung bei Ihrer Analyse.
+seo-description: Analysis Workspace verschafft Ihnen mit Standardvorlagen (ehemals „Starterprojekte“ genannt) einen Vorsprung bei Ihrer Analyse.
 feature: Projekte
 topics: null
 activity: use
@@ -16,15 +16,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
 # Standardvorlagen in Analysis Workspace {#standard-templates-in-analysis-workspace}
 
-Analysis Workspace gibt Ihnen einen Head-Beginn auf Ihrer Analyse mit [!DNL Standard Templates] (früher [!DNL Starter Projects])
+Analysis Workspace verschafft Ihnen mit [!DNL Standard Templates] (ehemals [!DNL Starter Projects] genannt) einen Vorsprung bei Ihrer Analyse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-[!DNL Standard Templates] sind vollständig anpassbare und freigegebene Vorlagen, die auf allgemeine Geschäftsthemen mit schönen, intuitiven Visualisierungen entworfen wurden, um Einblicke viel leichter zu finden. Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html).
+[!DNL Standard Templates] sind vollständig anpassbare und gemeinsam nutzbare Vorlagen zur Aufbereitung von allgemeinen geschäftlichen Themen mit schönen, intuitiv verständlichen Darstellungen, so dass Sie viel leichter Einblicke gewinnen können. Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/starter_projects.html).

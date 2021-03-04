@@ -1,6 +1,6 @@
 ---
-title: Auswirkungen von Touch Points auf die mobile Journey
-description: Erfahren Sie, wie Benutzer mobiler Apps durch Berührungspunkte beeinflusst werden, und wissen Sie, welche Kanal die Nadel für Ihre mobile App mit Attribution IQ bewegen. Erkennen Sie, welche Kanal zusammenarbeiten, um erfolgreiche Ereignis in Ihrer mobilen App zu fördern.
+title: Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys
+description: Erfahren Sie, wie Benutzer von Mobile Apps durch Kontaktpunkte beeinflusst werden, und verfolgen Sie mit Attribution IQ, welche Kanäle eine messbare Auswirkung für Ihre Mobile App erzeugen. Erkennen Sie, welche Kanäle zusammenarbeiten, um erfolgreiche Ereignisse in Ihrer Mobile App zu fördern.
 feature: Arbeitsbereich - Grundlagen
 topics: mobile
 activity: use
@@ -14,13 +14,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
 
-# Auswirkung von Touch Points auf der mobilen Journey {#impact-of-touchpoints-across-mobile-journey}
+# Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys {#impact-of-touchpoints-across-mobile-journey}
 
-Erfahren Sie, wie Benutzer mobiler Apps durch Berührungspunkte beeinflusst werden, und wissen Sie, welche Kanal die Nadel für Ihre mobile App mit [!DNL Attribution IQ] bewegen. Erkennen Sie, welche Kanal zusammenarbeiten, um erfolgreiche Ereignis in Ihrer mobilen App zu fördern.
+Erfahren Sie, wie Benutzer von Mobile Apps durch Kontaktpunkte beeinflusst werden, und verfolgen Sie mit [!DNL Attribution IQ], welche Kanäle eine messbare Auswirkung für Ihre Mobile App erzeugen. Erkennen Sie, welche Kanäle zusammenarbeiten, um erfolgreiche Ereignisse in Ihrer Mobile App zu fördern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12)

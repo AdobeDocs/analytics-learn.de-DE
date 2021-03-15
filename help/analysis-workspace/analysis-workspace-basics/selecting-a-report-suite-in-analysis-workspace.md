@@ -3,7 +3,7 @@ title: Auswählen einer Report Suite in Analysis Workspace
 seo-title: Auswählen einer Report Suite in Analysis Workspace – Adobe Analytics
 description: Dieses Video führt Sie durch die Report Suite-Auswahl.
 seo-description: Dieses Video führt Sie durch die Report Suite-Auswahl. - Adobe Analytics
-feature: Arbeitsbereich - Grundlagen
+feature: Grundlagen zu Workspace
 topics: null
 activity: use
 doc-type: feature video
@@ -12,11 +12,11 @@ team: Technical Marketing
 kt: 2026
 role: Geschäftspraktiker
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

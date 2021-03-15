@@ -7,13 +7,13 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

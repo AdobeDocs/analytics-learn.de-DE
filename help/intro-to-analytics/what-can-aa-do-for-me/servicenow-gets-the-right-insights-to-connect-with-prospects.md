@@ -7,20 +7,20 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # Kunden-Nutzungsszenario: [!DNL ServiceNow] erhält die richtigen Einblicke zur Gewinnung potenzieller Kunden
 
-Finden Sie heraus, [!DNL ServiceNow]wie Sie mit Adobe Advertising Cloud und Adobe Analytics verwertbare Daten von Ihren Marketingkanälen abrufen und den ROI bei der Paid Search-Werbung steigern können.
+Finden Sie heraus, [!DNL ServiceNow] wie Sie mit Adobe Advertising Cloud und Adobe Analytics verwertbare Daten von Ihren Marketingkanälen abrufen und den ROI bei der Paid Search-Werbung steigern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
 

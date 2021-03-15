@@ -10,12 +10,12 @@ team: Technical Marketing
 kt: 4819
 topic: Integrationen
 role: Geschäftspraktiker
-level: Zwischenschaltung
+level: Zwischenstufe
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 51%
+ht-degree: 55%
 
 ---
 

@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 666d453c392119ed6bffdd8bb9c074a9570c1c99
+source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1885'
 ht-degree: 99%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 99%
       + [Arten von Visualisierungen](analysis-workspace/visualizations/visualization-types.md)
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Auswählen der zu visualisierenden Daten](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Daten in Visualisierungen abrufen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Linienvisualisierung in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Hinzufügen von Trend-Linien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Aufzählungsgrafik-Visualisierung](analysis-workspace/visualizations/bullet-graph-visualization.md)

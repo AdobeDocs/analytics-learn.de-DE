@@ -212,7 +212,7 @@ ht-degree: 99%
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Beschränken des Report Suite-Zugriffs in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Report Suites verwalten {#manage-report-suites}
-      + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [So konfigurieren Sie die allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurieren von Variablen in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
@@ -297,7 +297,7 @@ ht-degree: 99%
 + Weitere Tools {#additional-tools}
    + Analytics-Dashboards {#analytics-dashboards}
       + [Scorecard Builder für Adobe Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Benutzerdefinierte Datumsbereiche anwenden](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
+      + [Anwenden von benutzerdefinierten Datumsbereichen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-App-Erlebnis für Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exportieren {#exporting}
    + Über die Benutzeroberfläche {#from-the-ui}

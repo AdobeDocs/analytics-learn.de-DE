@@ -1,14 +1,14 @@
 ---
 title: Verwalten von Analysis Workspace-Projekten mit Bedienfeldern
 description: Panels sind eine Sammlung von Visualisierungen in Analysis Workspace. Leere Paneele und Freiform-Paneele sind Orte, an denen Sie Ihre Analyse Beginn haben, während Attribution IQ- und Segmentvergleich eine große Belastung für erweiterte Analysen darstellen. Wir haben jetzt auch eine Schaltfläche mit dem "+"-Bedienfeld hinzugefügt, mit der Sie im Handumdrehen leere Bedienfelder hinzufügen können.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1756
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Treemap- und Streudiagramm-Visualisierungen in Analysis Workspace
 description: 'Analysis Workspace in Adobe Analytics umfasst zwei gängige Visualisierungstypen: Treemap und Streudiagramm. In diesem Video wird erläutert, wie Sie beide Visualisierungstypen in Ihrer Analyse verwenden.'
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace – Übersicht
 description: Allgemeiner Überblick über Analysis Workspace von Adobe Analytics Solution, einschließlich Projekterstellung und Vorlagen, Bedienfelder, Visualisierungen, Dimensionen, Metriken, Segmente sowie hochwertige Funktionen und Techniken.
-feature: Grundlagen zu Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2474
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

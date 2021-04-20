@@ -1,14 +1,14 @@
 ---
 title: Unterschiede zwischen Voice-fähigen Geräten verstehen
 description: Erfahren Sie, wie Sie die verschiedenen Funktionen und Funktionen verschiedener Sprachgeräte verstehen können, um Produktpläne priorisieren zu können.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

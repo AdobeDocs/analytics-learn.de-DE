@@ -1,14 +1,14 @@
 ---
 title: Mehrere Report Suites in Analysis Workspace
 description: Mehrere Suites können in einem einzigen Arbeitsbereich-Projekt analysiert werden, indem Report Suites auf Bedienfeldebene ausgewählt werden. Auf diese Weise können Sie eine parallele Bedienfeldanalyse für verschiedene Datensätze durchführen.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

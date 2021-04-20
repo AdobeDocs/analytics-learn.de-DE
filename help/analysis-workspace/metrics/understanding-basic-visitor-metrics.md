@@ -1,14 +1,14 @@
 ---
 title: Grundlegende Besucher-Metriken
 description: Ansichten, Besuche und Besucher der Seite (oh mein?) In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser Stapel, um den Website-Traffic zu verstehen.
-feature: 'Metriken  '
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

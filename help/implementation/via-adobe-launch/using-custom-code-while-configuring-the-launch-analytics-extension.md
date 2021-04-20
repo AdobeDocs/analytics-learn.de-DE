@@ -1,14 +1,14 @@
 ---
 title: Verwenden von benutzerspezifischem Code beim Konfigurieren der Analytics-Startererweiterung
 description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, hilft Ihnen dieses Video, die Optionen für benutzerdefinierte Codefenster, die Zeitplanung der Codeausführung usw. zu verstehen.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

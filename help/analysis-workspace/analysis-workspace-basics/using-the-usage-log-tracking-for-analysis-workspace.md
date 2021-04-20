@@ -3,7 +3,7 @@ title: Verwenden des Nutzungsprotokoll-Trackings für Analysis Workspace
 seo-title: Verwenden des Nutzungsprotokoll-Trackings für Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie das Nutzungsprotokoll-Tracking bei Workspace-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
 seo-description: In diesem Video erfahren Sie, wie Sie das Nutzungsprotokoll-Tracking bei Workspace-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
-feature: Datenkonfiguration und -erfassung
+feature: data configuration and collection
 topics: null
 audience: analyst, marketer
 activity: use

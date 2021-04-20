@@ -1,14 +1,14 @@
 ---
 title: Einstellungen für Tabellendaten in Analysis Workspace
 description: 'Die Einstellungen für die Datenquelle stehen jetzt in den Freiform- und Kohortentabellen zur Verfügung. Zuvor konnten Datenquellen nur über verknüpfte Visualisierungen verwaltet werden. Jetzt können Sie aus den Tabelleneinstellungen sehen, welche Visualisierungen mit ihr verknüpft sind, und die Quelltabelle selbst ausblenden. '
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

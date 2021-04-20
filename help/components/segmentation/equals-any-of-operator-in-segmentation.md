@@ -1,14 +1,14 @@
 ---
 title: Verwenden des Operators Gleich jedem Operator in der Segmentierung
 description: Entspricht einem der beiden Operatoren und Entspricht keinem der Segmentoperatoren wurde zum Segmentaufbau hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste bestimmter Elemente zu filtern, anstatt mehrere ODER-Anweisungen zu verwenden oder Enthält eines von ihnen. Die Verwendung dieser Operatoren anstelle von enthält wird auch dazu beitragen, die Geschwindigkeit der Abfrage zu verbessern.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Verbesserung der Sicherheit in Adobe Analytics
 description: Adobe Analytics entspricht den neuesten Sicherheitsstandards. Wenn Ihr Unternehmen diese Sicherheit mit sicheren Passwörtern und IP-Anmeldebeschränkungen erweitern möchte, zeigt Ihnen dieses Video, wie.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2366
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

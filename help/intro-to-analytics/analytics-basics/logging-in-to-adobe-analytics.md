@@ -1,14 +1,14 @@
 ---
 title: Anmelden bei Adobe Analytics
 description: In diesem Video erfahren Sie, wie Sie sich bei Analytics anmelden, Analytics verwalten und mit der Analyse beginnen.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

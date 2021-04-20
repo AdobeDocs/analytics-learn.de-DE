@@ -1,7 +1,7 @@
 ---
 title: Textumbruch und Multidimensionaler Fluss in Analysis Workspace
 description: In diesem Video wird gezeigt, wie Sie die Verkürzung von Beschriftungen in Ihrer Flussvisualisierung aktivieren und deaktivieren. Erfahren Sie außerdem, wie Sie Dimensionen für die Analyse von mehrdimensionalen Flussläufen per Drag & Drop in Ihren Fluss ziehen können.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

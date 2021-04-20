@@ -1,14 +1,14 @@
 ---
 title: Datumswerte in Analysis Workspace verwenden
 description: '"In diesem Video werden drei verschiedene Methoden zum Arbeiten mit Datumsangaben in der Freiform-Analyse erläutert: den Kalender, die Elemente des Datumsbereichs und die Granularitätselemente. Nicht angezeigt, etwas peinlich: Verwendung von Datumsangaben zur Aktivierung von Liniendiagrammen. "'
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

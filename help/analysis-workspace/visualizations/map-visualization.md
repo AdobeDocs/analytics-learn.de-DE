@@ -1,14 +1,14 @@
 ---
 title: Visualisierung von Landkarten in Analysis Workspace
 description: Dieses Video zeigt Ihnen, wie Sie die neue Imagemap-Visualisierung in Analysis Workspace verwenden. Mit dem Map-VIZ können Sie entweder mobile (lat/long) oder Web-Daten (IP-Adresse) mit einer dynamischen Map Ansicht werden, sodass Sie einen Einblick in die Kundennutzung im Kontext ihres Standorts erhalten.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

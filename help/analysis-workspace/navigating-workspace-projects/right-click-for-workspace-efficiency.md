@@ -1,15 +1,15 @@
 ---
 title: Rechtsklick für Workspace-Effizienz
 description: 'Erfahren Sie mehr über die beliebtesten Rechtsklicks in Analysis Workspace und deren Verwendung. Von Freiformtabellen bis hin zu Fallout-Visualisierungen: Durch Rechtsklicks wird Workspace noch effizienter und leistungsfähiger.'
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

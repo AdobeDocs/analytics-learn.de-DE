@@ -1,15 +1,15 @@
 ---
 title: Verwenden der Funktion "Kumulativer Durchschnitt"zum Anwenden der Metrikglättung
 description: Je länger der Zeitraum, in dem eine Metrik als Trend verfolgt wird, desto schwieriger ist es, Richtungstrends für die Metrik zu bestimmen. Zur Lösung dieses Problems kann die Funktion "Kumulativer Durchschnitt"in "Berechnete Metriken"verwendet werden, um Glättung auf Metriken in Analysis Workspace anzuwenden.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

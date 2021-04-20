@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics und Adobe Sensei - Demokratisierung der Datenwissenschaft für ALLE
 description: Erfahren Sie, wie das Adobe Sensei-maschinelle Lernen und die AI-Technologien in Adobe Analytics Geschäftskunden dabei unterstützen können, mit ihren Daten Schritt zu halten und sie praktisch zu nutzen, wann und wo es wirklich wichtig ist.
-feature: Data Science
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2339
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

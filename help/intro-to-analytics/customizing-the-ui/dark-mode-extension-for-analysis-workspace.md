@@ -1,14 +1,14 @@
 ---
 title: Dunkelmoduserweiterung für Analysis Workspace
 description: Aktivieren Sie die Dark Reader-Chrome-Erweiterung, um den Analysis Workspace dunkel zu schalten.
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

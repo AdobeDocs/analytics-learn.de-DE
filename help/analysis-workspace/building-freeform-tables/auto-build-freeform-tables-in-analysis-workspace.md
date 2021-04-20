@@ -1,15 +1,15 @@
 ---
 title: Automatische Erstellung von Freiformtabellen in Analysis Workspace
 description: Ziehen Sie Komponenten direkt in ein leeres Projekt, ein Bedienfeld oder eine Freiform-Tabelle, woraufhin automatisch eine Tabelle in einem empfohlenen Format erstellt wird.
-feature: Freiformtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

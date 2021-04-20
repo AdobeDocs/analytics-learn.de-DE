@@ -1,14 +1,14 @@
 ---
 title: Überprüfen von Implementierungen mit dem Adobe Experience Cloud Debugger
 description: Der Experience Cloud-Debugger ist ein Tool, mit dem Benutzer Experience Cloud-Tags überprüfen und debuggen können. In diesem Video wird die Verwendung des Experience Cloud Debuggers zum Prüfen von Analytics-Implementierungen behandelt.
-feature: Validierung
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

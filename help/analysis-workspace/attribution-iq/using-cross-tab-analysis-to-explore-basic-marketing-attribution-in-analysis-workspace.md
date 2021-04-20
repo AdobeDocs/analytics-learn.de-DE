@@ -1,15 +1,15 @@
 ---
 title: Verwendung von tabulatorübergreifender Analyse zur Erforschung der grundlegenden Marketingzuordnung in Analysis Workspace
 description: Es gibt verschiedene Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weiter zu verfeinern. In diesem Video gehen wir darauf ein, wie Sie mithilfe tabulatorübergreifender Analysen in Workspace tiefere Einblicke aus dem Bericht Marketing-Kanäle gewinnen können.
-feature: Marketing-Kanäle
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Cross-Sell-Analyse in Analysis Workspace
 description: Der Querverkaufsbericht in Reports & Analysen zeigt die Beziehung zwischen Produkten in derselben Produktzeichenfolge an, sodass Sie analysieren können, welche Produkte zusammen gekauft werden. In diesem Video zeigen wir Ihnen, wie Sie den Querverkaufsbericht in Analysis Workspace erstellen und ihn auf alle Dimensionen oder Klassifizierungen mit mehreren Werten erweitern können.
-feature: Freiformtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

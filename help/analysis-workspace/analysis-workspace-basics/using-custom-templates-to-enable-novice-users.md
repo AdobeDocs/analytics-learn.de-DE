@@ -3,15 +3,15 @@ title: Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue A
 seo-title: Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue Analysis Workspace-Benutzer
 description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen kombinieren können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
 seo-description: In diesem Video wird gezeigt, wie Sie benutzerdefinierte Vorlagen mit Funktionen zum Kopieren und Einfügen kombinieren können, um neue Benutzer in Ihrem Unternehmen besser zu unterstützen.
-feature: Projekte
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Geschäftspraktiker
-level: Zwischenstufe
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

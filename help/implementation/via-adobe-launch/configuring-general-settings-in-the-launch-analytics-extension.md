@@ -1,14 +1,14 @@
 ---
 title: Konfigurieren allgemeiner Einstellungen in der Analytics-Erweiterung starten
 description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, können Sie mit diesem Video den Abschnitt mit den allgemeinen Einstellungen, einschließlich der Einstellung des Trackingservers, aufrufen.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

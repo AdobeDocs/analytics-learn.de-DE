@@ -1,14 +1,14 @@
 ---
 title: Rollierende Datumsbereiche in Segmenten
 description: Mit Adobe Analytics können Sie Fragen wie - Wie hoch war mein rollierender Durchschnitt von 60 Tagen beim Umsatz? oder - Wie viele Besucher haben in der letzten Woche mehr als fünfmal Inhalte in meiner App angezeigt? durch Einbeziehung rollierender Datumsbereiche in Segmente. Dieses Video zeigt Ihnen, wie Sie das machen.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

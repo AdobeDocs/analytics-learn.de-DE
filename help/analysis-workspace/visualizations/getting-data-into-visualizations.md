@@ -1,7 +1,7 @@
 ---
 title: Daten in Visualisierungen abrufen
 description: Beim Hinzufügen von Visualisierungen in Analysis Workspace gibt es je nach Visualisierungstyp verschiedene Möglichkeiten, Daten hinzuzufügen. Dieses Video zeigt diese Methoden.
-feature: Visualisierungen
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

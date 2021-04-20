@@ -1,14 +1,14 @@
 ---
 title: Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt
 description: In diesem Video erfahren Sie, wie Sie die Daten in Ihren Tabellen und Visualisierungen einschränken, indem Sie Segmente auf Ihre Daten anwenden.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4107
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

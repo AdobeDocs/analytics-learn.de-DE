@@ -1,14 +1,14 @@
 ---
 title: Fortgesetztes Rechtsklick-Menü in Analysis Workspace
 description: Analysis Workspace verfügt über leistungsstarke Kontextmenüs mit einer Reihe leistungsstarker Funktionen. In diesem Video wird die Verwendung von Kontextmenüs in Analysis Workspace erläutert.
-feature: Freiformtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

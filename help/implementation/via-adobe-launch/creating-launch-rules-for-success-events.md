@@ -1,14 +1,14 @@
 ---
 title: Erstellen von Startregeln für Erfolgsregeln
 description: In diesem Video erfahren Sie, wie Sie mit Launch Konversions-Ereignis (AKA-Ereignis) auf Ihrer Site verfolgen. Dies wird im Anwendungsfall der Verfolgung eines Antragsprozesses auf einer Beispielsite angezeigt.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

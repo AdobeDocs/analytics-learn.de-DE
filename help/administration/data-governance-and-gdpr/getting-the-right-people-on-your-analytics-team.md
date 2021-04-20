@@ -1,14 +1,14 @@
 ---
 title: Abrufen der richtigen Personen in Ihrem Analytics-Team
 description: Es ist sehr wichtig, die richtigen Mitarbeiter in Ihrem Team zu finden, während Sie Adobe Analytics implementieren und die Aktivität auf Ihrer Site analysieren. Dieses Video gibt Ihnen einen schnellen Überblick über die verschiedenen Rollen, die Sie ausfüllen möchten.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
 role: Administrator
-level: Anfänger
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

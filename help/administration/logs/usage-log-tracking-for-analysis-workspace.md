@@ -1,7 +1,7 @@
 ---
 title: Nutzungsprotokoll-Verfolgung für Analysis Workspace
 description: Unter Admin - Protokolle - Nutzung und Zugriff können Sie die Nutzung von Adobe Analytics durch Ihre Benutzer besser verstehen. Dieses Video konzentriert sich speziell auf die Messung der Workspace-Projektnutzung.
-feature: Datenkonfiguration und -sammlung
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4024
 topic: Administration
 role: Administrator
-level: Anfänger
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

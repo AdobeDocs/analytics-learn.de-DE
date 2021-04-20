@@ -1,15 +1,15 @@
 ---
 title: Verwenden des Freiform-Tabellenaufbaus in Analysis Workspace
 description: Mit dem Freiform Table Builder können Sie Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag & Drop erstellen, um komplexere Geschäftsfragen zu beantworten. Daten werden nicht sofort aktualisiert; Stattdessen wird sie aktualisiert, sobald Sie auf "Erstellen"klicken, sodass Sie Zeit sparen, da die Tabelle nur einmal aktualisiert wird.
-feature: Freiformtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31318.jpg
 kt: 4217
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

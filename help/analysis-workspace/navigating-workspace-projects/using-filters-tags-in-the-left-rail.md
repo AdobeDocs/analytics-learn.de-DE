@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Filtern (Tags) in der linken Leiste
 description: Filter (oder Tags) sind eine schnelle und einfache Möglichkeit, die linke Leiste in Analysis Workspace zu filtern, um die benötigten Komponenten zu finden. Nutzen Sie vordefinierte Tags, die von der Adobe bereitgestellt werden, oder fügen Sie eigene Tags hinzu, um zugehörige Komponenten zu organisieren.
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

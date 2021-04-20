@@ -1,14 +1,14 @@
 ---
 title: Zuordnen von contextData-Variablen zu Props und eVars mit Verarbeitungsregeln
 description: Wenn Sie contextData-Variablen in Ihrer Adobe Analytics-Implementierung verwenden, müssen Sie sie in der Oberfläche für Verarbeitungsregeln props/eVars zuordnen, damit Ihre Daten in den eigentlichen Berichten angezeigt werden. Dieses Video zeigt Ihnen, wie das geht.
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: Geschäftspraktiker
-level: Zwischenstufe
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

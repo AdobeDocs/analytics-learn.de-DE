@@ -1,14 +1,14 @@
 ---
 title: Datenvisualisierung in Analysis Workspace
 description: In dieser Sitzung geht es um Visualisierungen in Analysis Workspace. Sie lernen Fähigkeiten und Aktionen, die Ihnen dabei helfen, Ihrer Organisation leistungsstarke Einblicke in das meistgenutzte Format zu geben.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

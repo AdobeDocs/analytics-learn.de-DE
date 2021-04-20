@@ -1,14 +1,14 @@
 ---
 title: Data Feeds Management-Benutzeroberfläche
 description: Mit dem Adobe Analytics Data Feed können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Datensee zusammenzuführen. Sie können Ihre eigenen Data Feeds in Adobe Analytics erstellen und verwalten. Dieses Video zeigt Ihnen, wie.
-feature: Daten-Feeds
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

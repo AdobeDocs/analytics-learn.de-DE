@@ -1,14 +1,14 @@
 ---
 title: Validieren der globalen Seitenladeregel beim Start
 description: Wenn Sie Adobe Analytics auf Ihrer Site implementieren, möchten Sie überprüfen können, was Sie während des Vorgangs tun. Der Experience Cloud-Debugger zur Rettung! In diesem Video wird gezeigt, wie Sie Ihre globale Seitenladeregel mit dem Debugger überprüfen.
-feature: Validierung
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

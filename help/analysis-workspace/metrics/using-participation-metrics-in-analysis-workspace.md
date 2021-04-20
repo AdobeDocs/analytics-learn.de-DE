@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Teilnahmemetriken in Analysis Workspace
 description: Verwenden Sie diesen einfachen Trick, um jederzeit eine beliebige Teilnahmemetrik in Analysis Workspace zu erhalten.
-feature: 'Metriken  '
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

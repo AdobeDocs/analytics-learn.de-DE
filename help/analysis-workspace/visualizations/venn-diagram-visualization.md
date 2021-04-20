@@ -1,14 +1,14 @@
 ---
 title: Visualisierung von Venn-Diagrammen in Analysis Workspace
 description: Mit der Venn-Diagrammvisualisierung können Sie Überschneidungen und Schnittmengen von Segmenten in Analysis Workspace visuell anzeigen. Es ist einfach, in wenigen Sekunden beeindruckende, aufschlussreiche Venn-Diagramme zu erstellen. Dieses Video zeigt Ihnen, wie.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 'Kunden-Nutzungsszenario: The Home Depot wird durch Customer Experience Management innovativ'
 description: HomeDepot.com, eine eCommerce-Site mit einem Umsatz von 7 Milliarden US-Dollar innerhalb einer Firma von 100 Milliarden US-Dollar, ist der Konkurrenz weiterhin voraus, indem das richtige Kundenerlebnis sichergestellt wird. Erfahren Sie, wie Home Depot mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markenloyalität und Kundenzufriedenheit schafft.
-feature: Nutzungsszenarios
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

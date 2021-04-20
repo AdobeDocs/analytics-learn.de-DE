@@ -1,14 +1,14 @@
 ---
 title: Hinzufügen einer Startregel für das Ereignis "Kauf"
 description: In diesem Video wird gezeigt, wie Sie die Produktzeichenfolgen-Erweiterung in Launch verwenden, um Käufe auf Ihrer Site zu verfolgen, was zu den Metriken Umsatz, Bestellungen und Einheiten in Ihrer Analyse führt.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

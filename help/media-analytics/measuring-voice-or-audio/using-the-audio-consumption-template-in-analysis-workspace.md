@@ -1,14 +1,14 @@
 ---
 title: Verwenden der Vorlage "Audiokonsum"in Analysis Workspace
 description: In diesem Video wird die Vorlage "Audiokonsum"in Analysis Workspace vorgestellt, die im Lieferumfang von Audioanalysen enthalten ist.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Zwischenschaltung
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

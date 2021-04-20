@@ -1,14 +1,14 @@
 ---
 title: Vorher/Nachher-Sequenzen in der sequenziellen Segmentierung
 description: In diesem Video wird die Segmentierung in Adobe Analytics erläutert, sodass Sie nur die Daten aus einem bestimmten Benutzerpfad vor oder nach einem bestimmten Benutzerpfad erhalten.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

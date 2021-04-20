@@ -1,14 +1,14 @@
 ---
 title: Verwalten und Verfolgen Ihrer App-Daten des Sprachassistenten
 description: 'Erfahren Sie, wie Sie ein benutzerdefiniertes Dashboard erstellen, um die Leistung Ihrer Sprachassistenten-App auf einfache, flexible, intuitive und visuelle Weise zu verwalten und zu verfolgen. '
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

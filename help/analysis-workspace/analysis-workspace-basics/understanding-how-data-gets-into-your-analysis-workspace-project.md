@@ -1,14 +1,14 @@
 ---
 title: Überblicken, wie Daten in Ihr Analysis Workspace-Projekt gelangen
 description: In diesem Video erfahren Sie, wie Sie den Datenfluss von Ihrer Seite zu den Tabellen und Visualisierungen in Analysis Workspace mithilfe der Adobe Experience Cloud Debugger-Erweiterung in Chrome anzeigen.
-feature: Grundlagen zu Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

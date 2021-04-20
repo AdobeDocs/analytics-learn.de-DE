@@ -1,14 +1,14 @@
 ---
 title: Segmentierung für unterschiedliche Zählungen von Dimensionen
 description: Mit den neuen Operatoren "Unterscheidungszahl"im Segment-Builder können Sie je nach der Anzahl der eindeutigen Elemente innerhalb einer Dimension segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden oder bei denen mehr als 5 Produkte gekauft wurden, d. h. innerhalb einer Bestellung.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

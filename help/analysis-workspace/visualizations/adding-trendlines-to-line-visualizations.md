@@ -1,15 +1,15 @@
 ---
 title: Hinzufügen von Trend-Linien zu Linienvisualisierungen
 description: Unter "Visualisierungseinstellungen"können Sie eine Regression oder eine sich bewegende durchschnittliche Trendlinie zu Ihrer Zeilenserie hinzufügen, was dazu beitragen kann, ein klareres Muster in den Daten darzustellen. Zu den Optionen gehören "Linear", "Logarithmisch", "Exponentiell", "Power", "Quadratisch"und "Verschiebende Durchschnittswerte".
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

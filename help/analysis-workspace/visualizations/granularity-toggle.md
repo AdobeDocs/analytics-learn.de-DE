@@ -1,14 +1,14 @@
 ---
 title: Granularität in Analysis Workspace umschalten
 description: Zu den Einstellungen für die Trendvisualisierung wurde eine Granularitätsauswahl hinzugefügt, mit der Sie die Datengranularität von Minute zu Jahr ganz einfach anpassen können. Mit dieser Einstellung werden sowohl das Diagramm als auch die Ausgangstabelle angepasst, sodass Sie die Schritte zum Ausblenden und Manipulieren der Tabelle nicht mehr benötigen.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

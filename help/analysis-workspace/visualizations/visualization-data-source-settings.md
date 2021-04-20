@@ -1,14 +1,14 @@
 ---
 title: Einstellungen für Visualisierungsdatenquellen in Analysis Workspace
 description: Das Datenquellenmodell sowie die zugrunde liegende Tabellenarchitektur wurden vereinfacht.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

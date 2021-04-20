@@ -1,15 +1,15 @@
 ---
 title: Fluss-Visualisierung im Analysis Workspace
 description: Dieses Video führt Sie durch die Flussvisualisierung in Analysis Workspace. Sie können Flow verwenden, um Benutzerbewegungen anzuzeigen und zu untersuchen und die Journey Ihrer Kunden besser zu verstehen.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

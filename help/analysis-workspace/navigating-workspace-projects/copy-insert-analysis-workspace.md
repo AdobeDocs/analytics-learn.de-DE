@@ -1,14 +1,14 @@
 ---
 title: Kopieren und Einfügen in Analysis Workspace
 description: Mit "Kopieren und Einfügen"können Sie Visualisierungen von einem Bereich oder Projekt in ein anderes kopieren und auch vollständige Bedienfelder in mehrere Projekte kopieren.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

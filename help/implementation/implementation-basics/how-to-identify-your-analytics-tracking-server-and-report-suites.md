@@ -1,14 +1,14 @@
 ---
 title: Anleitung zum Identifizieren Ihres Analytics Tracking Servers und Ihrer Report Suites
 description: Beim Einrichten von Adobe Analytics oder beim Referenzieren in anderen Experience Cloud-Lösungen ist es oft hilfreich oder sogar notwendig, den von Ihnen verwendeten Analytics Tracking Server oder auch die Report Suite zu kennen, an die Sie Daten senden. Dieses Video zeigt Ihnen, wie Sie beide Werte finden, unabhängig davon, ob Sie Adobe Analytics bereits implementiert haben oder nicht.
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: „Entwickler, Dateningenieur“
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

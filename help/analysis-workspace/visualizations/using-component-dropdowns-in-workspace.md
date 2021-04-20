@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Dropdown-Listen für Komponenten in Workspace
 description: Mithilfe von Dropdown-Listen für Komponenten können Sie aus einer Liste kompatibler Komponenten auswählen, um Ihre Analyse zu erstellen. Sie können auch direkt aus der Dropdownliste neue Komponenten erstellen, wenn Sie nicht genau wissen, was Sie benötigen. Diese Bereiche funktionieren auch weiterhin als Dropzonen, falls Sie einen erweiterten Anwendungsfall haben.
-feature: Komponenten
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

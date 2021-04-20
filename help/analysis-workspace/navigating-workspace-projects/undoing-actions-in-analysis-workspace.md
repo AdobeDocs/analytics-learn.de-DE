@@ -1,14 +1,14 @@
 ---
 title: Rückgängigmachen von Aktionen in Analysis Workspace
 description: Mit Analysis Workspace in Adobe Analytics können Sie jetzt Aktionen "rückgängig machen"wie das Ziehen eines Elements auf die Arbeitsfläche oder das Durchführen einer Aufschlüsselung durchführen. In diesem Video wird gezeigt, wie Sie mit dem Rückgängigmachen Ihre Analyse effizienter gestalten können.
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

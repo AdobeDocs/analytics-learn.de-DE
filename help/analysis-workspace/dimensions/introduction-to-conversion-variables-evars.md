@@ -1,14 +1,14 @@
 ---
 title: Einführung in Konversionsvariablen (eVars)
 description: In diesem Video erhalten Sie eine Einführung in Konversionsvariablen, auch als "eVars"bezeichnet. Erfahren Sie außerdem, wie sich Traffic- und Konversionsvariablen unterscheiden und wie sie mit Konversions-Ereignissen zusammenhängen.
-feature: Dimensionen
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

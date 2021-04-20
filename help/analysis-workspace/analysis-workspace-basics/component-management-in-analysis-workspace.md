@@ -1,14 +1,14 @@
 ---
 title: Komponentenverwaltung in Analysis Workspace
 description: Sie können Dimensionen, Segmente, Metriken und Datumsbereiche direkt in Analysis Workspace verwalten. Sie müssen Ihr Projekt nicht verlassen, während Sie nach einem Segment für die Freigabe suchen.
-feature: Grundlagen zu Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1988
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

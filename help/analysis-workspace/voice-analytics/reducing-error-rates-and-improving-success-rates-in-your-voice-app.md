@@ -1,14 +1,14 @@
 ---
 title: Senkung der Fehlerquoten und Verbesserung der Erfolgsraten in Ihrer Voice-App
 description: Erfahren Sie, wie Sie Bereiche für Verbesserungen in Ihrer Sprach-App mit Funktionen wie Kehren, Erfolgs- und Fehlerquoten und Fallback-Absicht finden.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

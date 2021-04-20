@@ -1,15 +1,15 @@
 ---
 title: Datumsvergleiche in Analysis Workspace
 description: 'In diesem Video zeigen wir Ihnen, wie Sie zwei Funktionen zum Datumsvergleich in Freiformtabellen nutzen können: "Spalte mit Zeitraum hinzufügen"und "Zeiträume vergleichen".'
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

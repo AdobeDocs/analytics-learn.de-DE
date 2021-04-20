@@ -1,15 +1,15 @@
 ---
 title: Latenzzeit-Analyse mit Kohortentabellen
 description: Die Einstellung "Latenztabelle"in "Kohortentabellen"ermöglicht es Ihnen, das Verhalten Ihrer Kohorten vor und nach dem Inklusionstempo zu analysieren (nicht nur nach den üblichen Kohortenabbildungen). Diese Einstellung ist hilfreich, um die Auswirkungen eines neuen Produkts oder einer neuen Kampagne zu analysieren.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

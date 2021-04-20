@@ -1,14 +1,14 @@
 ---
 title: Inhaltsverzeichnis in Analysis Workspace erstellen
 description: Erfahren Sie, wie Sie ein Inhaltsverzeichnis im Workspace-Projekt erstellen und es als Landingpage Ihrer Benutzer festlegen, damit sie schnell die benötigten Daten und Erkenntnisse in Adobe Analytics finden können.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Einrichten der Analyse des Postleitzahlencodes für den In-Market - ein V
 seo-title: Einrichten der Analyse des Postleitzahlencodes für den In-Market - ein Verwendungsfall
 description: In diesem Anwendungsfall konfigurieren wir das System, um Postleitzahlen einzuführen, sie als marktinterne oder nicht marktbestimmte Postleitzahlen zu klassifizieren und diese Daten dann in Analysis Workspace zu verwenden, damit wir die Effektivität unserer geogezielten Marketing-Kampagnen erkennen können.
 seo-description: In diesem Anwendungsfall konfigurieren wir das System, um Postleitzahlen einzuführen, sie als marktinterne oder nicht marktbestimmte Postleitzahlen zu klassifizieren und diese Daten dann in Analysis Workspace zu verwenden, damit wir die Effektivität unserer geogezielten Marketing-Kampagnen erkennen können.
-feature: Nutzungsszenarios
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analyse des Beitrags in Analysis Workspace
 description: In diesem Video werden die Faktoren erläutert, die zu einem Trend in Ihren Daten beigetragen haben. Die Analyse und die Fähigkeit, maschinelles Lernen zu verwenden, werden in diesem Video erläutert.
-feature: Data Science
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

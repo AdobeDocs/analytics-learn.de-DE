@@ -1,14 +1,14 @@
 ---
 title: Konfigurieren der einfachen Verfolgung von Ausstiegslinks in Experience Platform Launch
 description: In nur wenigen Klicks in der Adobe Analytics Extension in Experience Platform Launch können Sie Ausstiegslinks auf Ihrer Site (Links, die von Ihrer Site zu einer anderen Site führen) verfolgen, um Beginn zu verfolgen. Dieses Video zeigt Ihnen, wie Sie es einrichten.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

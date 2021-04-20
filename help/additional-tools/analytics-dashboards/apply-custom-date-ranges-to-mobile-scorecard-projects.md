@@ -1,10 +1,10 @@
 ---
 title: Benutzerdefinierte Datumsbereiche auf mobile Scorecard-Projekte anwenden
 description: In diesem Video wird gezeigt, wie Sie Ihre verschiedenen Optionen für Datumsbereiche verwalten, wenn Sie Analyseprojekte für Mobilgeräte einrichten, einschließlich der Auswahl der vordefinierten Bereiche, die angezeigt werden sollen, sowie der Erstellung eigener benutzerdefinierter Datumsbereiche.
-feature: Analytics-Dashboard
+feature: Analytics Dashboards
 topic: Mobile
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

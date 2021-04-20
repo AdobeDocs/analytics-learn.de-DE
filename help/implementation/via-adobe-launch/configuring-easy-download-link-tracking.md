@@ -1,14 +1,14 @@
 ---
 title: Konfigurieren der Verfolgung von Easy Download-Links in Experience Platform Launch
 description: In nur wenigen Klicks in der Adobe Analytics Extension in Experience Platform Launch können Sie Links zum Herunterladen von Beginn auf Ihrer Site verfolgen (Links, über die Sie Dateien herunterladen, die nicht im Browser vorliegen). Dieses Video zeigt Ihnen, wie Sie es einrichten.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

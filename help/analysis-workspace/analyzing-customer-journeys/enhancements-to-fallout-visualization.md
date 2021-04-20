@@ -1,15 +1,15 @@
 ---
 title: Verbesserungen bei der Fallout-Visualisierung in Analysis Workspace
 description: In diesem Video werden Aktualisierungen der Fallout-Visualisierung gezeigt, die von Kunden dringend angefordert wurden, einschließlich direkter oder letzterer Schritte, Umbenennen von Berührungspunkten, Vergleichen unbegrenzter Segmente und Trends bei der Konvertierung von Touchpoints im Zeitverlauf.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

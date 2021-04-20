@@ -1,14 +1,14 @@
 ---
 title: 'Kunden-Nutzungsszenario: Accent Group investiert in Kundenerlebnisse, um die Verkaufszahlen zu steigern'
 description: Das Unternehmen „Accent Group“, der größte Schuhhändler in Australien, steigert seine Verkäufe und Konversionen, indem es großartige Kundenerlebnisse über physische und digitale Kontaktpunkte bereitstellt. Sehen Sie sich an, wie die Accent Group mit der Adobe Experience Cloud nahtlose digitale Erlebnisse schafft.
-feature: Nutzungsszenarios
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Verstehen und Erstellen von Report Suites
 description: In diesem Video erfahren Sie, was Report Suites sind und wie Sie sie in der Oberfläche erstellen, sodass Sie nachvollziehen und optimieren können, wer Ihre Site besucht.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

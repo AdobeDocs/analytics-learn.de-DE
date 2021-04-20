@@ -1,14 +1,14 @@
 ---
 title: Erstellen eines Geschäftsanforderungsdokuments
 description: 'In diesem Video wird der überaus wichtige Schritt erläutert, wie Sie definieren, was mit Adobe Analytics verfolgt werden soll. Was möchten Sie über Ihre Site wissen? Schreiben Sie diese Punkte auf und beginnen Sie zu entscheiden, wie Sie sie verfolgen werden. '
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: „Entwickler, Dateningenieur“
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,15 +1,15 @@
 ---
 title: Metrik für Personen in Adobe Analytics
 description: Adobe Analytics bietet jetzt eine Metrik für Personen, die auf Basis der Adobe Experience Cloud-Gerätekooperation dafür sorgt, dass Besucher nicht mehrfach gezählt werden. Dieses Video enthält weitere Informationen hierzu und zeigt Ihnen die ersten Schritte.
-feature: 'Metriken  '
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

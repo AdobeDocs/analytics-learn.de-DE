@@ -1,14 +1,14 @@
 ---
 title: Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie die Bausteine Ihres Analysis Workspace-Projekts, d. h. Bedienfelder, Tabellen und Visualisierungen, verwenden. Diese Elemente sind die Arbeitsfläche, auf der Ihre Daten gemalt werden.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

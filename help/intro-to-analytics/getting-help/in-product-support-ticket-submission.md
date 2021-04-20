@@ -1,14 +1,14 @@
 ---
 title: Produktinterne Support-Ticket-Übermittlung
 description: Sie können jetzt ein Support-Ticket für den Kundendienst direkt in der Benutzeroberfläche einreichen, um den Prozess zur Lösung zu optimieren.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Bibliotheksverwaltung für Analytics konfigurieren
 description: Wenn Sie gerade erst mit der Experience Platform Launch-Erweiterung für Adobe Analytics beginnen, können Sie in diesem Video den Bibliotheksverwaltungsbereich der Konfiguration aufrufen, einschließlich der Auswahl der Report Suites, in die Sie Daten senden möchten.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Einführung in Einzelhandelsvariablen und Ereignis
 description: Wenn Sie eine Retail-Site haben, gibt es einige Variablen und Ereignis, die nur für Sie erstellt wurden (sind Sie nicht besonders)! In diesem Video erhalten Sie einen schnellen Einstieg in das Verständnis dieser für den Handel bestimmten Variablen und Ereignis.
-feature: Nutzungsszenarios
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

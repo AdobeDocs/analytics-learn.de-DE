@@ -1,14 +1,14 @@
 ---
 title: Verwenden des Kontextmenüs in Analysis Workspace
 description: Erfahren Sie, wie Sie mit dem Kontextmenü in Analysis Workspace schneller Aufschlüsselungen und mehr durchführen können.
-feature: Freiformtabellen
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Datumsbereiche und Vergleiche in Analysis Workspace verwenden
 description: In diesem Video erfahren Sie, wie Sie Daten, Datumsbereiche und Datumsvergleiche verwenden, um Tabellen und Visualisierungen an den richtigen Zeitraum anzupassen.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

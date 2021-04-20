@@ -1,14 +1,14 @@
 ---
 title: Dimensionen in berechneten Metriken verwenden
 description: Dimensionen sind jetzt im Generator für berechnete Metriken verfügbar. Sie können zu jeder errechneten Metrikformel hinzugefügt werden, um ein internes Segment sofort zu erstellen.
-feature: Berechnete Metriken
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

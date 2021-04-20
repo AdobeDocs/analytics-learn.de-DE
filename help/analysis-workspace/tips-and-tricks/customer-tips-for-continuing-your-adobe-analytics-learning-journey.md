@@ -1,14 +1,14 @@
 ---
 title: Tipps zum Fortfahren Ihres Adobe Analytics Learning Journey
 description: In diesem Artikel treffen Sie drei Adoben Kunden, die Tipps und Tricks für Sie haben, wie Sie den größtmöglichen Nutzen aus Adobe Analytics ziehen können.
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

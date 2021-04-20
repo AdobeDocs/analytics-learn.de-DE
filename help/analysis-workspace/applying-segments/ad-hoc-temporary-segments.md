@@ -1,15 +1,15 @@
 ---
 title: Ad-hoc-Segmente (temporär) in Analysis Workspace
 description: Wollten Sie schon einmal schnell ein einfaches Segment erstellen, um eine bestimmte Frage zu beantworten, und dann das Segment verwerfen, damit Ihre Liste der gespeicherten Segmente nicht gefüllt wird? Jetzt können Sie den Bericht für diese Merchandising-Teams!
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

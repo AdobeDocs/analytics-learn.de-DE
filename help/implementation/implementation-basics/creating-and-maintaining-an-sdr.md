@@ -1,14 +1,14 @@
 ---
 title: Erstellen und Pflegen einer Referenz für das Lösungs-Design
 description: Das Referenzdokument für das Lösungs-Design ist im Wesentlichen das Blueprint für Ihre Site. In diesem Video wird gezeigt, wie Sie in Verbindung mit dem Geschäftsanforderungsdokument ein Referenzdokument für das Lösungs-Design erstellen, sodass Sie immer eine Datenbasis haben, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren, und auf die Sie in Zukunft zurückverweisen.
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: „Entwickler, Dateningenieur“
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

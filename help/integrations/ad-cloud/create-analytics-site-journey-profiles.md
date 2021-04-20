@@ -1,16 +1,16 @@
 ---
 title: Erstellen von Analytics Site Journey-Profilen
 description: So erstellen Sie mit Adobe Analytics robuste Site-Retargeting-Pools für das Advertising Cloud-Remarketing.
-feature: Advertising Cloud-Integration
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
-topic: Integrationen
-role: Geschäftspraktiker
-level: Zwischenschaltung
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

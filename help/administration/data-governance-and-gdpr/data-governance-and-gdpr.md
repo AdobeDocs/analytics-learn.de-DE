@@ -1,14 +1,14 @@
 ---
 title: Datenverwaltung und GDPR in Adobe Analytics
 description: In diesem Video erfahren Sie, wie die Datenverwaltung und die Datenbeschriftung in die GDPR-Bereitschaft passen. Es bietet ein praxisnahes Beispiel für die Datenkennzeichnung unter Verwendung der Datenverwaltung.
-feature: Datenschutz
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: '"Administrator, Architekt"'
-level: Zwischenschaltung
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

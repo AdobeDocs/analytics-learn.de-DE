@@ -1,14 +1,14 @@
 ---
 title: Segmentverwaltung und Freigabe in Adobe Analytics
 description: In diesem Video erfahren Sie, wie Sie Segmente in Adobe Analytics freigeben und verwalten.
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

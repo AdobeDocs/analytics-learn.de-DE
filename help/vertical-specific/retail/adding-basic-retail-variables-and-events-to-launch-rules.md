@@ -1,14 +1,14 @@
 ---
 title: Hinzufügen einfacher Einzelhandelsvariablen und Ereignis zu Startregeln
 description: In diesem Video wird gezeigt, wie Sie mit einer speziellen Produktzeichenfolge in Launch grundlegende Variablen und Ereignis wie die Ansicht des Produkts, einen Zusatz zum Einkaufswagen, einen Kassengang usw. verfolgen können.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

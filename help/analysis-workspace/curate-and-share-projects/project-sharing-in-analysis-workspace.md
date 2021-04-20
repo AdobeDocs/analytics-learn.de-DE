@@ -1,15 +1,15 @@
 ---
 title: Freigeben von Projekten in Analysis Workspace
 description: Das Freigeben von Projekten ist eine Möglichkeit, Daten und Erkenntnisse aus Analysis Workspace für Benutzer in Ihrer Organisation zu demokratisieren. Sie können Empfänger je nach gewünschter Projekterfahrung in einer der drei Rollen platzieren – „Bearbeiten“, „Duplizieren“ und „Anzeigen“.
-feature: Kuratieren und freigeben
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

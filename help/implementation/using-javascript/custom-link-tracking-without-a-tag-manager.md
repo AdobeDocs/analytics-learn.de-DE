@@ -1,14 +1,14 @@
 ---
 title: Benutzerspezifische Linkverfolgung ohne Tag-Manager
 description: Bei vielen Seitenaktionen sollte die Verfolgung nicht wie eine Ansicht behandelt werden. In diesem Video erfahren Sie, wie Sie einen Link-Tracking-Beacon mit Analytics kodieren, wenn Sie keinen Tag-Manager (z. B. Experience Platform Launch) verwenden. Sehen Sie sich den Code an und lernen Sie eine wichtige Tipps.
-feature: AppMeasurement-Implementierung
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"Entwickler, Dateningenieur"'
-level: Zwischenschaltung
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

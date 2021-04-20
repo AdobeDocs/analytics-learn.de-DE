@@ -1,14 +1,14 @@
 ---
 title: Verwenden einer Datenschicht zum Festlegen des Seitennamens und anderer Variablen in Adobe Analytics über den Start
 description: Die Verwendung einer Datenschicht für Analytics und andere Experience Cloud-Lösungen wird als Best Practice betrachtet. In diesem Video erfahren Sie, wie Sie Ihre Werte aus der Datenschicht ziehen und sie in Launch verwenden, um Variablen in Adobe Analytics zu füllen.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

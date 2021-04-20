@@ -1,14 +1,14 @@
 ---
 title: Erstellen von Datenelementen in Launch für die Analytics-Implementierung
 description: In diesem Video wird gezeigt, wie Sie Datenelemente für Ihre Analytics-Implementierung in Launch erstellen, basierend auf den Variablen und Ereignissen, die in einem Dokument zur Lösungsdesignreferenz (SDR) festgelegt und dokumentiert wurden.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: '"Entwickler, Dateningenieur"'
-level: Anfänger
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

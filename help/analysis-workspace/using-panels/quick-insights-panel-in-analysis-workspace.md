@@ -1,15 +1,15 @@
 ---
 title: Bereich „Quick Insights“ in Analysis Workspace
 description: Quick Insights bietet Nicht-Analytikern und neuen Benutzern von Analysis Workspace die Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

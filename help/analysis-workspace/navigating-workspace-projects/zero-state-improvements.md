@@ -1,14 +1,14 @@
 ---
 title: Nullstaatenverbesserungen in Analysis Workspace
 description: Der Nullstatus ist das Öffnungslayout von Analysis Workspace. Damit sowohl Anfänger als auch erfahrene Anwender von Analysis Workspace profitieren können, haben wir die linke Leiste, das leere Bedienfeld, die Freiform-Tabelle und die Ablagebereiche verbessert, um den Benutzern eine intuitivere Bedienung zu ermöglichen.
-feature: Projekte
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

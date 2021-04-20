@@ -1,10 +1,10 @@
 ---
 title: Konfigurieren der allgemeinen Kontoeinstellungen
 description: Wenn Sie Adobe Analytics einrichten, kann die Konfiguration der Einstellungen Auswirkungen auf die Erfassung und Speicherung der Daten haben. Dieses Video umfasst einige allgemeine Einstellungen. Sie können diese auch nach der Implementierung ändern, da es nie zu spät ist, Ihre Daten zu korrigieren.
-feature: Report Suite-Einstellungen
+feature: Report Suite Settings
 topic: Administration
 role: Administrator
-level: Anfänger
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

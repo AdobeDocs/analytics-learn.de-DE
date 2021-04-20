@@ -3,7 +3,7 @@ title: Postleitzahleinstellungen in Adobe Analytics konfigurieren
 seo-title: Postleitzahleinstellungen in Adobe Analytics konfigurieren
 description: In diesem Video erfahren Sie, wie Sie die Einstellungen für Postleitzahlen konfigurieren, damit Sie die Analyse anhand dieser Regionendaten durchführen können.
 seo-description: In diesem Video erfahren Sie, wie Sie die Einstellungen für Postleitzahlen konfigurieren, damit Sie die Analyse anhand dieser Regionendaten durchführen können.
-feature: Datenkonfiguration und -sammlung
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,8 +11,8 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: '"Administrator, Architekt"'
-level: Anfänger
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics - mehr als nur Daten. Es ist Customer Intelligence
 description: Data-driven Marketing ist der Schlüssel auf dem Weg zum Experience Business. Bringen Sie Ihre Analytics-Reife auf eine neue Stufe – von Daten über Einblicke bis hin zu Aktionen.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: „Geschäftspraktiker, Entwickler, Dateningenieur, Architekt, Datenarchitekt, Administrator, Leiter“
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

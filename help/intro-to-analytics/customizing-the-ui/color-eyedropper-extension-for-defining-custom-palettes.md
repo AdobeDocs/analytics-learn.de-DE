@@ -1,14 +1,14 @@
 ---
 title: Farbpipettenerweiterung zum Definieren benutzerdefinierter Paletten
 description: Erfahren Sie, wie Sie mit der ColorPick EyeDropper-Chrome-Erweiterung die Hex-Werte finden, die Sie für eine benutzerdefinierte Farbpalette in Ihren Arbeitsbereich-Projekten benötigen.
-feature: Arbeitsbereich - Grundlagen
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

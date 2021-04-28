@@ -5,10 +5,10 @@ breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
-source-wordcount: '1980'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -208,6 +208,7 @@ ht-degree: 93%
       + [Beschränken des Report Suite-Zugriffs in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Report Suites verwalten {#manage-report-suites}
       + [So konfigurieren Sie die allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Kalendereinstellungen anpassen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurieren von Variablen in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
@@ -371,3 +372,4 @@ ht-degree: 93%
    + [Verwenden von Postman zum Erstellen von Adobe Analytics 2.0-API-Anfragen](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Nutzungsszenarien von Analysen {#analysis-use-cases}
    + [Einrichten der Analyse für Postleitzahlen im Markt](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Lehrplan der Analytics-Universität](analytics-university/curriculum.md)

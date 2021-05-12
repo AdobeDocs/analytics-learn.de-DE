@@ -4,11 +4,10 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -24,11 +23,11 @@ ht-degree: 99%
       + [Kunden-Nutzungsszenario – ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Kunden-Nutzungsszenario – Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [Kunden-Nutzungsszenario – The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Summit 2019 Super Session – Touristik und Gastgewerbe](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Summit 2019 Super Session – Einzelhandel](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-      + [Summit 2019 Super Session – Hightech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+      + [Touristik-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics-Grundlagen {#analytics-basics}
-      + [Schaltfläche „In Workspace ausprobieren“ in „Reports and Analytics“](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Metrik für Personen](intro-to-analytics/analytics-basics/people-metric.md)
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [So werden Analytics-Daten erfasst](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
@@ -225,10 +224,10 @@ ht-degree: 99%
    + Implementierungsgrundlagen {#implementation-basics}
       + [Erstmalige Implementierung](implementation/implementation-basics/first-time-implementation.md)
       + [Zuordnen von contextData-Variablen zu Props und eVars mit Verarbeitungsregeln](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Anleitung zum Identifizieren Ihres Analytics Tracking Servers und Ihrer Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Erstellen und Pflegen eines Referenzdokuments für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [Verwenden einer Datenschicht in Ihrer Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
+      + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Verwenden einer Datenschicht auf Ihrer Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Implementieren von Experience Cloud-Lösungen in Websites mit Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Grundkonfiguration der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
@@ -309,7 +308,7 @@ ht-degree: 99%
       + [Gleichzeitiges Hinzufügen von Segmenten in mehrere Anforderungen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomalieerkennung in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Bearbeiten von Metriken mit Mehrfachanforderungen](exporting/report-builder/edit-metrics-across-requests.md)
-      + [Verwenden von Report Builder zum Kennenlernen der Adobe Analytics-API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Verwenden von Report Builder, um mehr über die Adobe Analytics-API zu erfahren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrationen {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Verbesserung der Veröffentlichung von Experience Cloud-Audiences](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics – Integrieren von Adobe Audience Manager-Segmenten in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Bereich „Analytics for Target“ (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analysieren einer Aktivität der automatischen Zielgruppe mithilfe des A4T-Bedienfelds](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Konfigurieren von Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementieren von Tracking-Vorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -365,14 +365,14 @@ ht-degree: 99%
       + [Implementieren in iOS Objective-C-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementieren in Android-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mobile-Analysen messen {#measuring-mobile-analytics}
-      + [Erste Schritte mit Adobe Mobile-Analysen](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
+      + [Erste Schritte mit Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analysieren des Benutzerverhaltens auf verschiedenen Kanälen](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [So steigern Sie die Interaktions- und Kundenbindungsquoten](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
    + [Verwenden von Analysis Workspace zum Erstellen von API 2.0-Anforderungen](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Verwenden von Report Builder, um mehr über die Adobe Analytics-API zu erfahren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=de)
-   + [Verwenden von Postman zum Erstellen von Adobe Analytics 2.0-API-Anfragen](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
+   + [Verwenden von Report Builder zum Kennenlernen der Adobe Analytics-API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=de)
+   + [Erstellen von Adobe Analytics 2.0-API-Anfragen mit Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Nutzungsszenarien von Analysen {#analysis-use-cases}
    + [Einrichten der Analyse für Postleitzahlen im Markt](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)

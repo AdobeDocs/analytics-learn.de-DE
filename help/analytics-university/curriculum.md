@@ -1,39 +1,39 @@
 ---
-title: Lehrplan der Universität Adobe Analytics
-description: Adobe ist stolz darauf, diese Analytics-Grundlageninhalte Ihrer Universität vorzustellen. Im Rahmen des Lehrplans stehen Ihnen vier verschiedene Module zur Verfügung, mit denen Sie sich der Adobe Analytics-Sammlung und dem-Berichte vorstellen können. Diese Module lassen sich in digitale Analyse- oder Marketingkurse unterteilen und einteilen. Dieses Einführungshandbuch wird es Professoren und Studierenden ermöglichen, das Wissen zu erwerben, das sie für die Teilnahme an der Adobe Analytics-globalen Herausforderung benötigen.
+title: Adobe Analytics-Lehrangebot für Universitäten
+description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics University
+# Adobe Analytics-Universität
 
-## Analytics-Kursinhalt
+## Analytics-Kursinhalte
 
-Adobe ist stolz darauf, diese Analytics-Grundlageninhalte Ihrer Universität vorzustellen. Im Rahmen des Lehrplans stehen Ihnen vier verschiedene Module zur Verfügung, mit denen Sie sich der Adobe Analytics-Sammlung und dem-Berichte vorstellen können. Diese Module lassen sich in digitale Analyse- oder Marketingkurse unterteilen und einteilen. Dieses Einführungshandbuch wird es Professoren und Studierenden ermöglichen, das Wissen zu erwerben, das sie für die Teilnahme an der Adobe Analytics-globalen Herausforderung benötigen.
+Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
 
-### Im Folgenden erfahren Sie mehr:
+### Im Folgenden erfahren Sie, was Sie lernen werden:
 
-*Es wird mit DATEN Beginn:*
+*Los geht&#39;s mit Daten:*
 
-* Datenerfassungsmodul (1): Rahmen für die Implementierung, Erfassung, Berichte und Validierung von Daten
-* Datenstrategie- und Architekturmodul (2) - Grundlagen von Datenvariablen, Strategien und Architektur
+* Datenerfassungsmodul (1): Framework für Implementierung, Erfassung, Reporting und Validierung von/für Daten
+* Datenstrategie- und Architekturmodul (2): Grundlagen von Datenvariablen, Strategien und Architektur
 
-*Als Nächstes kombinieren Sie diese Daten mit INSIGHTS:*
+*Als Nächstes kombinieren Sie diese Daten mit Einblicken:*
 
-* Standardmodul für Adoben und Funktionen (3) zum Zugriff auf und zur Ansicht wichtiger KPI-Metriken und -Berichte
-* Analysis Workspace Fundamentals Module (4): Einführung in Visualisierungen für Analytics-Berichte
+* Modul zu Standard-Metriken und -Funktionen von Adobe (3): Zugreifen auf und Anzeigen von wichtigen Analytics-Leistungsmetriken und -Berichten
+* Modul zu den Analysis Workspace-Grundlagen (4): Vertiefende Informationen zu Visualisierungen für Analytics-Berichte
 
-Dieser Lehrplan mit zielgerichteten Aktivitäten am Ende jedes Abschnitts kann mit der Sandbox-Umgebung der Adobe Analytics University kombiniert werden.
+Dieses Lehrangebot mit zielgerichteten Aktivitäten am Ende eines jeden Abschnitts kann mit der Adobe Analytics-Sandbox-Umgebung (Universität) kombiniert werden.
 
 Registrieren Sie sich hier für den Zugang: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[Download der Lehrplandatei](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[Download der PDF mit dem Lehrangebot](assets/Adobe-Analytics-Curriculum_2021.pdf)

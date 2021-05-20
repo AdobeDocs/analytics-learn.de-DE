@@ -3,11 +3,11 @@ title: Adobe Analytics-Lehrangebot für Universitäten
 description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
 hide: true
 hidefromtoc: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 Dieses Lehrangebot mit zielgerichteten Aktivitäten am Ende eines jeden Abschnitts kann mit der Adobe Analytics-Sandbox-Umgebung (Universität) kombiniert werden.
 
-Registrieren Sie sich hier für den Zugang: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
+Registrieren Sie sich hier für den Zugriff: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [Download der PDF mit dem Lehrangebot](assets/Adobe-Analytics-Curriculum_2021.pdf)

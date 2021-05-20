@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -192,7 +192,7 @@ ht-degree: 98%
       + [Kohortenanalyse mit einer beliebigen Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latenzanalyse mit Kohortentabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Berechnung der rollierenden Kundentreue in Kohortentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-   + Voice Analytics {#voice-analytics}
+   + Sprachassistentenanalyse {#voice-analytics}
       + [Verwalten und Verfolgen der App-Daten Ihres Sprachassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Verstehen der Unterschiede zwischen sprachgesteuerten Geräten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [Finden von Möglichkeiten zur Erhöhung der Interaktion mit Sprach-Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
@@ -208,9 +208,9 @@ ht-degree: 98%
    + Report Suites verwalten {#manage-report-suites}
       + [So konfigurieren Sie die allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Menüs in Reports &amp; Analysen anpassen](administration/manage-report-suites/customize-menus.md)
-      + [Suchmethoden konfigurieren](administration/manage-report-suites/configure-finding-methods.md)
-      + [Interne URL-Filter festlegen](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Anpassen der Menüs in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
+      + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
+      + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurieren von Variablen in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
@@ -317,7 +317,7 @@ ht-degree: 98%
       + [Audience Analytics – Integrieren von Adobe Audience Manager-Segmenten in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Bereich „Analytics for Target“ (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [Analysieren einer Aktivität der automatischen Zielgruppe mithilfe des A4T-Bedienfelds](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [Analysieren einer Aktivität vom Typ &quot;Automatisches Targeting&quot;mithilfe des A4T-Bedienfelds](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Konfigurieren von Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementieren von Tracking-Vorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -336,7 +336,7 @@ ht-degree: 98%
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Analysis Workspace-Vorlage von Magento](integrations/magento/magento-analysis-workspace-template.md)
-+ Data Science {#data-science}
++ Datenwissenschaft {#data-science}
    + [Verwenden von maschinellem Lernen und künstlicher Intelligenz mit Adobe Analytics für wichtige Momente](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Anomalieerkennung bei Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Beitragsanalyse in Analysis Workspace](data-science/contribution-analysis-workspace.md)
@@ -355,7 +355,7 @@ ht-degree: 98%
 + Media Analytics {#media-analytics}
    + Messen von Sprache oder Audio {#measuring-voice-or-audio}
       + [Verwenden der Vorlage für den Audioverbrauch in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobile App Analytics {#mobile-app-analytics}
++ Mobile-App-Analyse {#mobile-app-analytics}
    + Implementierung {#implementation}
       + [Admin-Einstellungen für Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisieren und Anzeigen von Lebenszyklusmetriken mit dem Experience Platform-SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)

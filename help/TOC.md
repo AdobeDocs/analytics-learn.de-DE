@@ -4,10 +4,10 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
-source-wordcount: '2017'
-ht-degree: 99%
+source-wordcount: '2042'
+ht-degree: 97%
 
 ---
 
@@ -376,5 +376,9 @@ ht-degree: 99%
 + Nutzungsszenarien von Analysen {#analysis-use-cases}
    + Interne Site-Suche {#internal-site-search}
       + [Geschäftsanforderungen für die interne Site-Suche definieren](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Interne Suchvariablen mit AppMeasurement implementieren](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementieren interner Suchvariablen mit dem Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Web SDK-Variablen in Adobe Analytics zuordnen](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Interne Site-Suchberichte konfigurieren](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Einrichten der Analyse für Postleitzahlen im Markt](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)

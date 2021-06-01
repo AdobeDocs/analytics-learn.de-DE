@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 97%
       + [Verwenden von Filtern (Tags) in der linken Leiste](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
-      + [Bereich „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Verwenden des Bedienfelds „Attribution IQ“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=de)
       + [Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Verwenden von Dropdown-Filtern](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -165,9 +165,9 @@ ht-degree: 97%
       + [Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Erweiterung bei Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Textumbruch und multidimensionaler Fluss](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
-   + Auswählen und Freigeben von Projekten {#curate-and-share-projects}
+   + Kuratieren und Freigeben von Projekten {#curate-and-share-projects}
       + [Speichern, Freigeben und Zusammenarbeiten an Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Kuratieren und Freigeben im Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [Kuratieren und Freigeben in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direkter Link zu einem Projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50.000 Elemente als CSV herunterladen](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportieren in CSV aus Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=de)
@@ -193,10 +193,10 @@ ht-degree: 97%
       + [Latenzanalyse mit Kohortentabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Berechnung der rollierenden Kundentreue in Kohortentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
    + Sprachassistentenanalyse {#voice-analytics}
-      + [Verwalten und Verfolgen der App-Daten Ihres Sprachassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
+      + [Verwalten und Verfolgen der Mobile-App-Daten Ihres Sprachassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Verstehen der Unterschiede zwischen sprachgesteuerten Geräten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
-      + [Finden von Möglichkeiten zur Erhöhung der Interaktion mit Sprach-Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
-      + [Senkung der Fehlerquoten und Verbesserung der Erfolgsraten in Ihrer Sprach-App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
+      + [Möglichkeiten zur Erhöhung der Interaktion mit Sprach-Mobile-Apps](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
+      + [Senkung der Fehlerquoten und Verbesserung der Erfolgsquoten in Ihrer Sprach-Mobile-App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Verstehen des Benutzerverhaltens bei Sprachassistenten](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Verstehen der Voice Journey des Benutzers](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
@@ -206,13 +206,13 @@ ht-degree: 97%
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Beschränken des Report Suite-Zugriffs in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Report Suites verwalten {#manage-report-suites}
-      + [So konfigurieren Sie die allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Anpassen der Menüs in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Konfigurieren von Variablen in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Konfigurieren von Variablen in der Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
       + [Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Die richtigen Personen für Ihr Analytics-Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
@@ -224,7 +224,7 @@ ht-degree: 97%
    + Implementierungsgrundlagen {#implementation-basics}
       + [Erstmalige Implementierung](implementation/implementation-basics/first-time-implementation.md)
       + [Zuordnen von contextData-Variablen zu Props und eVars mit Verarbeitungsregeln](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Anleitung zum Identifizieren Ihres Analytics Tracking Servers und Ihrer Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Anleitung zum Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Verwenden einer Datenschicht auf Ihrer Site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
@@ -302,7 +302,7 @@ ht-degree: 97%
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Einführung in Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-   + Data Feeds {#data-feeds}
+   + Daten-Feeds {#data-feeds}
       + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
    + Report Builder {#report-builder}
       + [Gleichzeitiges Hinzufügen von Segmenten in mehrere Anforderungen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
@@ -311,13 +311,13 @@ ht-degree: 97%
       + [Verwenden von Report Builder, um mehr über die Adobe Analytics-API zu erfahren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrationen {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Verbesserung der Veröffentlichung von Experience Cloud-Audiences](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Verbesserung der Veröffentlichung von Experience Cloud-Zielgruppen](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Aktivieren der Server-seitigen Weiterleitung in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics – Integrieren von Adobe Audience Manager-Segmenten in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Bereich „Analytics for Target“ (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [Analysieren einer Aktivität vom Typ &quot;Automatisches Targeting&quot;mithilfe des A4T-Bedienfelds](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [Analysieren einer Aktivität vom Typ „Automatisches Targeting“ mithilfe des A4T-Bedienfelds](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Konfigurieren von Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementieren von Tracking-Vorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -327,10 +327,10 @@ ht-degree: 97%
       + [Erstellen von Analytics Site Journey-Profilen](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Erstellen von Analytics-Segmenten für Aktivierung und Reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [Erstellen von Advertising Cloud-Warnhinweisen mit Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Erstellen von Analytics Custom-Metriken mit Advertising Cloud-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising Cloud-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Erstellen von Site-Einstiegsberichten für Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Erstellen von Advertising Cloud-Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analytics {#ad-hoc-analytics}
+   + Ad-hoc-Analyse {#ad-hoc-analytics}
       + [Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
@@ -359,8 +359,8 @@ ht-degree: 97%
    + Implementierung {#implementation}
       + [Admin-Einstellungen für Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisieren und Anzeigen von Lebenszyklusmetriken mit dem Experience Platform-SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
-      + [Tracking von Aktionen (aka benutzerspezifische Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
-      + [Tracking des Status (aka Seiten oder Bildschirme)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
+      + [Tracking von Aktionen (d. h. benutzerspezifische Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
+      + [Tracking des Status (d. h. Seiten oder Bildschirme)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementieren in iOS Swift-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementieren in iOS Objective-C-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementieren in Android-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
@@ -368,7 +368,7 @@ ht-degree: 97%
       + [Erste Schritte mit Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analysieren des Benutzerverhaltens auf verschiedenen Kanälen](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
-      + [So steigern Sie die Interaktions- und Kundenbindungsquoten](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
+      + [Steigern der Interaktions- und Kundenbindungsquoten](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
    + [Verwenden von Analysis Workspace zum Erstellen von API 2.0-Anforderungen](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Verwenden von Report Builder zum Kennenlernen der Adobe Analytics-API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=de)
@@ -380,5 +380,5 @@ ht-degree: 97%
       + [Implementieren interner Suchvariablen mit dem Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Web SDK-Variablen in Adobe Analytics zuordnen](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Interne Site-Suchberichte konfigurieren](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
-   + [Einrichten der Analyse für Postleitzahlen im Markt](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
+   + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)

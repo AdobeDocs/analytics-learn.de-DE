@@ -1,7 +1,7 @@
 ---
-title: Nutzungsprotokoll-Verfolgung für Analysis Workspace
+title: Nutzungsprotokoll-Tracking für Analysis Workspace
 description: Unter Admin - Protokolle - Nutzung und Zugriff können Sie die Nutzung von Adobe Analytics durch Ihre Benutzer besser verstehen. Dieses Video konzentriert sich speziell auf die Messung der Workspace-Projektnutzung.
-feature: Data Configuration and Collection
+feature: Datenkonfiguration und -erfassung
 topics: null
 activity: use
 doc-type: feature video
@@ -10,18 +10,17 @@ kt: 4024
 topic: Administration
 role: Administrator
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
+source-git-commit: c23845ae2fc6bef5721f04283b9be039d076f631
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 2%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
+# Nutzungsprotokoll-Tracking für Analysis Workspace
 
-# Nutzungsprotokoll-Verfolgung für Analysis Workspace
-
-Unter [!UICONTROL Admin] - [!UICONTROL Protokolle] - [!UICONTROL Nutzung und Zugriff] können Sie die Nutzung von Adobe Analytics durch Ihre Benutzer besser verstehen. Dieses Video konzentriert sich speziell auf die Messung der [!DNL Workspace]-Projektnutzung. Sie können die in diesem Video verwendete Excel-Datei unter https://adobe.ly/2ygP5ws herunterladen.
+Unter [!UICONTROL Admin] - [!UICONTROL Protokolle] - [!UICONTROL Nutzung und Zugriff] können Sie die Nutzung von Adobe Analytics durch Ihre Benutzer besser verstehen. Dieses Video konzentriert sich insbesondere auf die Messung der Projektnutzung von [!DNL Workspace]. Hinweis: Seit der Veröffentlichung dieses Videos wurde unter adobe.ly/aausage ein Produktipp zur Durchführung einer umfassenden Nutzungsanalyse in Analysis Workspace veröffentlicht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 

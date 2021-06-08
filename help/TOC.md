@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -375,10 +375,10 @@ ht-degree: 98%
    + [Erstellen von Adobe Analytics 2.0-API-Anfragen mit Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Nutzungsszenarien von Analysen {#analysis-use-cases}
    + Interne Site-Suche {#internal-site-search}
-      + [Geschäftsanforderungen für die interne Site-Suche definieren](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Interne Suchvariablen mit AppMeasurement implementieren](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Definieren Ihrer Geschäftsanforderungen für die interne Site-Suche](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Implementieren von internen Suchvariablen mit AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementieren interner Suchvariablen mit dem Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [Web SDK-Variablen in Adobe Analytics zuordnen](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
-      + [Interne Site-Suchberichte konfigurieren](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
+      + [Zuordnen von Web SDK-Variablen in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Konfigurieren von internen Site-Suchberichten](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)

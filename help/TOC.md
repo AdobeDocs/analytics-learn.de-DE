@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2067'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -89,7 +89,7 @@ ht-degree: 98%
       + [Verbesserungen bei Segmentablagebereichen](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Erstellen von Freiformtabellen {#building-freeform-tables}
-      + [Grundlegendes zu Ihren Daten - Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [Grundlegendes zu Ihren Daten – Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Automatische Erstellung von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeiten mit Dimensionen in einer Freiformtabelle](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -160,7 +160,7 @@ ht-degree: 98%
       + [Datumsvergleiche in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analysieren von Customer Journeys {#analyzing-customer-journeys}
-      + [Grundlegendes zu Ihren Daten - Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Grundlegendes zu Ihren Daten – Fallout und Flow](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ – Übersicht über die geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Verbesserungen der Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -190,7 +190,7 @@ ht-degree: 98%
       + [Benutzerdefinierte Rückblendfenster in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Kohortenanalyse {#cohort-analysis}
       + [Kohortenanalyse in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
-      + [Daten verstehen - Kohortentabellen](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
+      + [Grundlegendes zu Ihren Daten – Kohortentabellen](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Übersicht über Kohortentabellen](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Einstellungen der Kohortentabellen](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Abwanderungsanalyse mit Kohortentabellen](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)

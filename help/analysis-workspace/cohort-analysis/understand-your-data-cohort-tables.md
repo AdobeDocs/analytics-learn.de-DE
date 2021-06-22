@@ -1,24 +1,24 @@
 ---
-title: Daten verstehen - Kohortentabellen
-description: Erfahren Sie, wie Sie eine Kohortentabelle analysieren, um die Benutzerbindung im Zeitverlauf besser zu verstehen.
+title: Grundlegendes zu Ihren Daten – Kohortentabellen
+description: Erfahren Sie, wie Sie eine Kohortentabelle analysieren, um die langfristige Benutzerbindung besser verstehen zu können.
 feature: Kohortenanalyse
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
-source-git-commit: 0f0584cc6f5d5143d82f32e03cd92bce468a688c
+exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 3%
+ht-degree: 80%
 
 ---
 
+# Grundlegendes zu Ihren Daten – Kohortentabellen
 
-# Daten verstehen - Kohortentabellen
-
-Erfahren Sie, wie Sie eine Kohortentabelle analysieren, um die Benutzerbindung im Zeitverlauf besser zu verstehen.
+Erfahren Sie, wie Sie eine Kohortentabelle analysieren, um die langfristige Benutzerbindung besser verstehen zu können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

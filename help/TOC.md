@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: ht
-source-wordcount: '2067'
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
+workflow-type: tm+mt
+source-wordcount: '2071'
 ht-degree: 100%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 100%
       + [Verwenden von Dropdown-Listen für Komponenten in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Linienvisualisierung in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Hinzufügen von Trend-Linien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Bereich und Bereich gestapelt](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Aufzählungsgrafik-Visualisierung](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)

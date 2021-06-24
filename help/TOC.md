@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
+source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
 workflow-type: tm+mt
-source-wordcount: '2071'
+source-wordcount: '2063'
 ht-degree: 100%
 
 ---
@@ -259,7 +259,6 @@ ht-degree: 100%
       + [Aktualisieren von AppMeasurement, wenn Experience Platform Launch nicht verwendet wird](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Validierung und Fehlerbehebung {#validating-and-troubleshooting}
       + [Überprüfen von Implementierungen mit Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-      + [Ansicht von nachbearbeiteten Treffern mit Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + Seiten einer Einzelseitenanwendung {#spa-pages}
       + [Verwendung von Best Practices beim Tracking von Einzelseitenanwendungen](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Komponenten {#components}

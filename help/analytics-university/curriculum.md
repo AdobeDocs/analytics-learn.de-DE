@@ -4,10 +4,10 @@ description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlag
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 Dieses Lehrangebot mit zielgerichteten Aktivitäten am Ende eines jeden Abschnitts kann mit der Adobe Analytics-Sandbox-Umgebung (Universität) kombiniert werden.
 
-Registrieren Sie sich hier für den Zugriff: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+Registrieren Sie sich hier für den Zugriff: [Registrierung des Analytics-Lehrplans](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [Download der PDF mit dem Lehrangebot](assets/Adobe-Analytics-Curriculum_2021.pdf)

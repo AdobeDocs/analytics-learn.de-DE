@@ -1,25 +1,24 @@
 ---
-title: Bullet Graph Visualisierung in Analysis Workspace
-description: Aufzählungszeichen sind eine nützliche Methode, um den Fortschritt in Richtung (oder darüber hinaus) eines Ziels in Ihrer Analyse zu zeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
-feature: Visualizations
-topics: null
+title: Lineardiagramm-Visualisierung in Analysis Workspace
+description: Lineardiagramme sind eine nützliche Methode, um den Fortschritt in Richtung (oder darüber) eines Ziels in Ihrer Analyse anzuzeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
+feature: Visualisierungen
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2116
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
 
+#  BulletGraph-  Visualisierung in Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
 
-#  BulletGraph-  Visualisierung in Analysis Workspace  {#bullet-graph-visualization-in-analysis-workspace}
-
- Bulletins sind eine nützliche Methode, um Fortschritte in Richtung (oder über das Ziel hinaus) in Ihrer Analyse zu zeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
+ Bulletins sind eine nützliche Möglichkeit, den Fortschritt hin zu einem Ziel in Ihrer Analyse (oder darüber) zu zeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).

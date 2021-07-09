@@ -371,7 +371,7 @@ ht-degree: 98%
       + [Tracking von Aktionen (d. h. benutzerspezifische Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Tracking des Status (d. h. Seiten oder Bildschirme)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementieren in iOS Swift-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Implementieren in iOS Objective-C-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Implementieren in iOS Objective-C-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementieren in Android-Apps](https://docs.adobe.com/content/help/de-DE/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mobile-Analysen messen {#measuring-mobile-analytics}
       + [Erste Schritte mit Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)

@@ -1,24 +1,23 @@
 ---
-title: Produktinterne Support-Ticket-Übermittlung
-description: Sie können jetzt ein Support-Ticket für den Kundendienst direkt in der Benutzeroberfläche einreichen, um den Prozess zur Lösung zu optimieren.
-feature: Analytics Basics
+title: Produktinterne Übermittlung von Support-Tickets
+description: Sie können jetzt ein Support-Ticket für die Kundenunterstützung direkt über die Benutzeroberfläche senden, wodurch der Prozess zur Lösung optimiert wird.
+feature: Analytics-Grundlagen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '44'
+ht-degree: 22%
 
 ---
 
-
-# Produktinterne Support-Ticket-Übermittlung {#in-product-support-ticket-submission}
+# Produktinterne Übermittlung von Support-Tickets {#in-product-support-ticket-submission}
 
 Sie können jetzt ein [!DNL Customer Care] Support-Ticket direkt in der Benutzeroberfläche senden, wodurch der Prozess zur Auflösung optimiert wird.
 

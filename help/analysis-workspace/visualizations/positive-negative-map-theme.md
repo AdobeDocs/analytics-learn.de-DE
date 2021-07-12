@@ -1,25 +1,24 @@
 ---
-title: Positive Negative Map-Design in Analysis Workspace
-description: Mit dem neuen Farbschema Positiv/Negativ können Sie positive und negative Zahlen auf einer Karte deutlich darstellen. Bei diesem neuen Design werden auch alle Polaritätsänderungen berücksichtigt, die Sie beim Einrichten des Ereignisses (in Admin) oder beim Erstellen in berechneten Metriken vornehmen.
-feature: Visualizations
+title: Positives negatives Kartendesign in Analysis Workspace
+description: Das neue positive/negative Farbthema ermöglicht es, positive und negative Zahlen auf einer Karte deutlich darzustellen. Dieses neue Design berücksichtigt auch alle Polaritätsänderungen, die Sie beim Einrichten des Ereignisses (in Admin) oder Erstellen in berechneten Metriken vornehmen.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
+# Positives negatives Kartendesign in Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
 
-# Positive-Negative-Map-Design in Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
-
-Mit dem neuen Farbschema Positiv/Negativ können Sie positive und negative Zahlen auf einer [!UICONTROL Map] eindeutig darstellen. Dieses neue Design berücksichtigt auch alle Polaritätsänderungen, die Sie beim Einrichten des Ereignisses (in Admin) oder Erstellen des Objekts in [!UICONTROL berechneten Metriken] vornehmen.
+Mit dem neuen Farbschema Positiv/Negativ können Sie positive und negative Zahlen auf einer [!UICONTROL map] deutlich darstellen. Dieses neue Design berücksichtigt auch alle Polaritätsänderungen, die Sie beim Einrichten des Ereignisses (in Admin) oder Erstellen des Ereignisses in [!UICONTROL berechneten Metriken] vornehmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23127/?quality=12)

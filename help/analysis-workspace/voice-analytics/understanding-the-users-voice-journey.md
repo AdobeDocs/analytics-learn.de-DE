@@ -1,25 +1,24 @@
 ---
-title: Die Voice-Journey des Benutzers
-description: Erfahren Sie, wie Sie die Journey von Kunden in der Sprach-App verstehen können, indem Sie sich den Fließpfad ansehen und herausfinden, um herauszufinden, welche Aktionen am häufigsten durchgeführt werden, wie die Reihenfolge dieser Aktionen abläuft und wann und wo Benutzer von der Journey ausgeschlossen werden.
-feature: Visualizations
+title: Verstehen der Voice Journey des Benutzers
+description: Erfahren Sie, wie Sie die Journey der Kunden in der Voice App verstehen, indem Sie sich den Flusspfad ansehen und herausfinden, was die häufigsten Aktionen sind, die Abfolge dieser Aktionen und wann und wo Benutzer von der Journey ausgeschlossen werden.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 11%
 
 ---
 
+# Verstehen der Voice Journey des Benutzers {#understanding-the-user-s-voice-journey}
 
-# Die Voice-Journey des Benutzers{#understanding-the-user-s-voice-journey}
-
-Erfahren Sie, wie Sie die Journey in der Sprach-App verstehen, indem Sie den Pfad [!UICONTROL flow] und [!UICONTROL fallout] durchsuchen, um herauszufinden, welche Aktionen am häufigsten durchgeführt werden, wie die Folge dieser Aktionen ist und wann und wo die Benutzer aus der Journey herausfallen.
+Erfahren Sie, wie Sie die Journey in der Sprachanwendung für Kunden verstehen, indem Sie den Pfad [!UICONTROL flow] und den Pfad [!UICONTROL fallout] ansehen, um zu ermitteln, was die häufigsten Aktionen sind, die Abfolge dieser Aktionen sind und wann und wo Benutzer von der Journey ausgeschlossen werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)

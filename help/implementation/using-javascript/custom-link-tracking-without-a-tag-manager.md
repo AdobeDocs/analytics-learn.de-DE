@@ -1,37 +1,36 @@
 ---
-title: Benutzerspezifische Linkverfolgung ohne Tag-Manager
-description: Bei vielen Seitenaktionen sollte die Verfolgung nicht wie eine Ansicht behandelt werden. In diesem Video erfahren Sie, wie Sie einen Link-Tracking-Beacon mit Analytics kodieren, wenn Sie keinen Tag-Manager (z. B. Experience Platform Launch) verwenden. Sehen Sie sich den Code an und lernen Sie eine wichtige Tipps.
-feature: Appmeasurement Implementation
+title: Benutzerspezifisches Linktracking ohne Tag-Manager
+description: Bei vielen Aktionen auf der Seite sollte Tracking nicht wie ein Seitenaufruf behandelt werden. In diesem Video erfahren Sie, wie Sie ein Linktracking-Beacon für Analytics codieren, wenn Sie keinen Tag-Manager (wie Experience Platform Launch) verwenden. Sehen Sie sich den Code an und lernen Sie einen wichtigen Tipp kennen.
+feature: AppMeasurement-Implementierung
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '293'
+ht-degree: 8%
 
 ---
 
+# Benutzerspezifisches Linktracking ohne Tag-Manager {#custom-link-tracking-without-a-tag-manager}
 
-# Benutzerspezifische Linkverfolgung ohne Tag-Manager {#custom-link-tracking-without-a-tag-manager}
+Bei vielen Aktionen auf der Seite sollte Tracking nicht wie ein Seitenaufruf behandelt werden. In diesem Video erfahren Sie, wie Sie ein Linktracking-Beacon für Analytics codieren, wenn Sie keinen Tag-Manager verwenden (z. B. Adobe [!DNL Experience Platform Launch]). Sehen Sie sich den Code an und lernen Sie einen wichtigen Tipp kennen.
 
-Bei vielen Seitenaktionen sollte die Verfolgung nicht wie eine Ansicht behandelt werden. In diesem Video erfahren Sie, wie Sie einen Link-Tracking-Beacon für Analytics kodieren, wenn Sie keinen Tag-Manager verwenden (z. B. Adobe [!DNL Experience Platform Launch]). Sehen Sie sich den Code an und lernen Sie eine wichtige Tipps.
+## Senden eines s.tl()-Beacons {#sending-an-s-tl-beacon}
 
-## Senden eines s.tl()-Beacon {#sending-an-s-tl-beacon}
+Es gibt zwei Funktionen, die Daten an Adobe Analytics senden:
 
-Es gibt zwei Funktionen, mit denen Daten an Adobe Analytics gesendet werden:
-
-1. s.t() - Ein &quot;track&quot;-Beacon, bei dem es sich um einen Seitentreffer handelt, bei dem die Ansichten für den jeweiligen Seitennamen erhöht werden und andere Ansichten festgelegt werden
-1. s.tl() - ein Beacon für einen &quot;Track-Link&quot;, der häufig als &quot;benutzerspezifischer Link&quot;-Treffer/Beacon bezeichnet wird, wodurch keine Ansichten der Seite erhöht werden, und die Variable &quot;pageName&quot;ignoriert wird. Dies wird häufig verwendet, um kleinere Aktionen auf der Seite zu verfolgen, die keine neue Seite/keinen neuen Bildschirm laden, oder andere Aktionen, die nicht zum Laden einer neuen Seite führen.
+1. s.t() - Ein &quot;track&quot;-Beacon, bei dem es sich um einen Seitenansichtstreffer handelt, der Seitenansichten für den angegebenen Seitennamen erhöht und andere Variablen festlegt
+1. s.tl() - ein Beacon &quot;Link verfolgen&quot;, das häufig als &quot;benutzerspezifischer Link&quot;-Treffer/-Beacon bezeichnet wird, wodurch die Seitenansichten nicht inkrementiert werden und die Variable &quot;pageName&quot;ignoriert wird. Dies wird häufig verwendet, um kleinere Aktionen auf der Seite zu verfolgen, die keine neue Seite/keinen neuen Bildschirm laden, oder andere Aktionen, die nicht zum Laden einer neuen Seite führen.
 
 >[!NOTE]
 >
->In diesem Video zeigen wir Ihnen, wie Sie einen Treffer für benutzerspezifische Links kodieren, wenn Sie KEINEN Tag-Manager wie Adobe [!DNL Experience Platform Launch] verwenden. Wir empfehlen Ihnen, [!DNL Experience Platform Launch], unsere Best-Practice-Empfehlung für die Implementierung zu verwenden. Wenn Sie jedoch in einem `s.tl()` kodieren müssen, hier eine Vorgehensweise.
+>In diesem Video zeigen wir Ihnen, wie Sie einen Treffer für benutzerspezifische Links codieren, wenn Sie KEINEN Tag-Manager wie Adobe [!DNL Experience Platform Launch] verwenden. Es wird empfohlen, [!DNL Experience Platform Launch], unsere Best-Practice-Empfehlung für die Implementierung, zu verwenden. Wenn Sie jedoch in einem `s.tl()` programmieren müssen, finden Sie hier eine Anleitung dazu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 

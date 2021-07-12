@@ -1,29 +1,28 @@
 ---
-title: Überprüfen von Implementierungen mit dem Adobe Experience Cloud Debugger
-description: Der Experience Cloud-Debugger ist ein Tool, mit dem Benutzer Experience Cloud-Tags überprüfen und debuggen können. In diesem Video wird die Verwendung des Experience Cloud Debuggers zum Prüfen von Analytics-Implementierungen behandelt.
-feature: Validation
+title: Überprüfen von Implementierungen mit Adobe Experience Cloud Debugger
+description: Der Experience Cloud-Debugger ist ein Tool, mit dem Benutzer Experience Cloud-Tags überprüfen und debuggen können. In diesem Video wird beschrieben, wie Sie den Experience Cloud Debugger zur Überprüfung von Analytics-Implementierungen verwenden.
+feature: Validierung
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 14%
 
 ---
 
-
 # Überprüfen von Implementierungen mit [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-[!DNL Experience Cloud debugger] ist ein Tool, mit dem Benutzer Experience Cloud-Tags überprüfen und debuggen können. In diesem Video wird die Verwendung von [!DNL Experience Cloud Debugger] zum Überprüfen von [!DNL Analytics]-Implementierungen beschrieben.
+[!DNL Experience Cloud debugger] ist ein Tool, mit dem Benutzer Experience Cloud-Tags überprüfen und debuggen können. In diesem Video wird beschrieben, wie Sie [!DNL Experience Cloud Debugger] verwenden, um [!DNL Analytics]-Implementierungen zu überprüfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 
-Hier erfahren Sie, wie Sie sehen, was auf verschiedenen Seiten ausgelöst wird, wie Sie benutzerfreundliche Namen von Variablen laden und wie Sie Ergebnisse für erweiterte Verwendungsfälle exportieren können.
+Sie erfahren, wie Sie sehen, was auf verschiedenen Seiten ausgelöst wird, wie Sie benutzerfreundliche Namen von Variablen laden und Ergebnisse für erweiterte Anwendungsfälle exportieren.
 
 Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).

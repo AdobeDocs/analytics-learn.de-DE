@@ -1,27 +1,26 @@
 ---
 title: Mehrdimensionale Trichteranalyse in Analysis Workspace
-description: Mit der Trichteranalyse in Analysis Workspace können Sie Dimensionen und Metriken als Touchpoints in Trichtern und Workflows mischen und abgleichen.
-feature: Visualizations
+description: Mit der Trichteranalyse in Analysis Workspace können Sie Dimensionen und Metriken als Touchpoints in Trichtern und Workflows kombinieren.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
+# [!DNL Multidimensional Fallout] in Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
-# [!DNL Multidimensional Fallout] in Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
-
-[!DNL Fallout] in Analysis Workspace können Sie Dimensionen und Metriken als Touchpoints in Trichter und Workflows mischen und abgleichen.
+[!DNL Fallout] In Analysis Workspace können Sie Dimensionen und Metriken als Touchpoints in Trichtern und Workflows kombinieren und abgleichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 

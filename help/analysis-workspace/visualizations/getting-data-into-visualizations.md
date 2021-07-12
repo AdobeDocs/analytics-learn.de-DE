@@ -1,22 +1,21 @@
 ---
-title: Daten in Visualisierungen abrufen
+title: Daten in Visualisierungen einbringen
 description: Beim Hinzufügen von Visualisierungen in Analysis Workspace gibt es je nach Visualisierungstyp verschiedene Möglichkeiten, Daten hinzuzufügen. Dieses Video zeigt diese Methoden.
-feature: Visualizations
-role: Business Practitioner
+feature: Visualisierungen
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 332507.jpg
 kt: 7441
 exl-id: 61d00599-c719-4bd7-8e74-ef0c2c89a55c
-translation-type: tm+mt
-source-git-commit: 7382a3461ab73264dd5b585c576c9f9275b17567
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 1%
+ht-degree: 84%
 
 ---
 
-# Daten in Visualisierungen abrufen
+# Daten in Visualisierungen einbringen
 
 Beim Hinzufügen von Visualisierungen in Analysis Workspace gibt es je nach Visualisierungstyp verschiedene Möglichkeiten, Daten hinzuzufügen. Dieses Video zeigt diese Methoden.
 

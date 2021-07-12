@@ -1,25 +1,24 @@
 ---
-title: Dichte der Ansichten in Analysis Workspace
-description: Die Einstellung "Dichte der Ansicht"unter "Projekt"> "Info und Einstellungen"ermöglicht es Ihnen, die vertikale Umrandung zu steuern, die auf die linke Leiste und auf Tabellen (Freiform und Kohorte) angewendet wird. Sie können zwischen Erweitert (Standard), Komfortabel oder Kompakt wählen.
-feature: Projects
+title: Dichteeinstellungen für Ansichten in Analysis Workspace
+description: Mit der Einstellung Dichte anzeigen unter Projekt > Info und Einstellungen können Sie den vertikalen Abstand steuern, der auf die linke Leiste und auf Tabellen (Freiform und Kohorte) angewendet wird. Sie können zwischen Erweitert (Standard), Komfort oder Kompakt wählen.
+feature: Projekte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 378426ce-fc29-4912-9289-e763b941877a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 1%
+source-wordcount: '78'
+ht-degree: 14%
 
 ---
 
+# [!UICONTROL Dichteeinstellungen für Ansichten in Analysis Workspace] {#view-density-in-analysis-workspace}
 
-# [!UICONTROL Ansicht ] Densityin Analysis Workspace  {#view-density-in-analysis-workspace}
-
-Mit der Einstellung [!UICONTROL Ansicht-Dichte] unter [!UICONTROL Projekt] > [!UICONTROL Projektinfo und -einstellungen] können Sie die vertikale Umrandung steuern, die auf die linke Leiste und auf die Tabellen angewendet wird ([!UICONTROL Freiform] &amp; [!UICONTROL Kohort]). Sie können zwischen Erweitert (Standard), Komfortabel oder Kompakt wählen.
+Mit der Einstellung [!UICONTROL Dichte anzeigen] unter [!UICONTROL Projekt] > [!UICONTROL Projektinfo und Einstellungen] können Sie den vertikalen Abstand steuern, der auf die linke Leiste und die Tabellen angewendet wird ([!UICONTROL Freiform] &amp; [!UICONTROL Kohorte]). Sie können zwischen Erweitert (Standard), Komfort oder Kompakt wählen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)

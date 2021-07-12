@@ -1,25 +1,24 @@
 ---
 title: Neuanordnen und Ändern der Größe von Visualisierungen in Analysis Workspace
-description: In diesem Video wird gezeigt, wie Sie ein benutzerdefiniertes Layout erstellen, indem Sie Visualisierungen und Tabellen in Analysis Workspace anpassen, neu anordnen und neu organisieren.
-feature: Visualizations
+description: In diesem Video erfahren Sie, wie Sie ein benutzerdefiniertes Layout erstellen, indem Sie Visualisierungen und Tabellen in Analysis Workspace in der Größe anpassen, neu anordnen und neu organisieren.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '55'
 ht-degree: 1%
 
 ---
 
+# Neuanordnen und Größenanpassung von [!UICONTROL Visualisierungen] in Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
 
-# Neuanordnen und Ändern der Größe von [!UICONTROL Visualisierungen] in Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
-
-In diesem Video wird gezeigt, wie Sie ein benutzerdefiniertes Layout erstellen, indem Sie die Größe, Anordnung und Neuordnung von [!UICONTROL Visualisierungen] und Tabellen in Analysis Workspace ändern.
+In diesem Video erfahren Sie, wie Sie ein benutzerdefiniertes Layout erstellen, indem Sie die Größe von [!UICONTROL Visualisierungen] und Tabellen in Analysis Workspace ändern, neu anordnen und neu organisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12)

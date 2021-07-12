@@ -1,25 +1,24 @@
 ---
-title: Auswahl der zu visualisierenden Daten in Analysis Workspace
-description: Erfahren Sie, wie Sie präzise steuern können, was in der Freiform-Analyse visualisiert wird
-feature: Visualizations
+title: In Analysis Workspace zu visualisierende Daten auswählen
+description: Erfahren Sie, wie Sie in der Freiformanalyse präzise steuern können, was visualisiert wird.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2134
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5721a9b-ecdc-4498-8bb9-222ace0dc6dc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '39'
 ht-degree: 2%
 
 ---
 
+# In Analysis Workspace zu visualisierende Daten auswählen
 
-# Auswahl der zu visualisierenden Daten in Analysis Workspace
-
-Erfahren Sie, wie Sie präzise steuern können, was in der Freiform-Analyse visualisiert wird
+Erfahren Sie, wie Sie in der Freiformanalyse präzise steuern können, was visualisiert wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23993/?quality=12)

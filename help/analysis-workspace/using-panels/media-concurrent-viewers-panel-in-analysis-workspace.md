@@ -1,27 +1,26 @@
 ---
 title: Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace
-description: Für Kunden von Media Analytics können Sie mit dem Bedienfeld "Media Concurrent Viewers"nachvollziehen, wo es zu einer Spitzenzeitparallelität gekommen ist oder wo es zu Dropdown-Listen gekommen ist. So erhalten Sie wertvolle Einblicke in die Qualität von Inhalten und die Interaktion mit Viewern und helfen bei der Fehlerbehebung oder Planung für Volumen/Skalierung.
-feature: Panels
+description: Kunden von Media Analytics können mit dem Bedienfeld "Gleichzeitige Medienbetrachter"nachvollziehen, wo Spitzenzeiten von gleichzeitigen Ansichten auftraten oder wo es zu Abbrüchen kam. So erhalten Sie wertvolle Einblicke in die Qualität von Inhalten und die Interaktion mit Betrachtern und können bei der Fehlerbehebung oder Planung von Volumen/Skalierung helfen.
+feature: Bedienfelder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 17%
 
 ---
 
-
 # Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace
 
-Für Kunden von Media Analytics können Sie mit dem Bedienfeld &quot;Media Concurrent Viewers&quot;nachvollziehen, wo es zu einer Spitzenzeitparallelität gekommen ist oder wo es zu Dropdown-Listen gekommen ist. So erhalten Sie wertvolle Einblicke in die Qualität von Inhalten und die Interaktion mit Viewern und helfen bei der Fehlerbehebung oder Planung für Volumen/Skalierung.
+Kunden von Media Analytics können mit dem Bedienfeld &quot;Gleichzeitige Medienbetrachter&quot;nachvollziehen, wo Spitzenzeiten von gleichzeitigen Ansichten auftraten oder wo es zu Abbrüchen kam. So erhalten Sie wertvolle Einblicke in die Qualität von Inhalten und die Interaktion mit Betrachtern und können bei der Fehlerbehebung oder Planung von Volumen/Skalierung helfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 

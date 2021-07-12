@@ -1,25 +1,24 @@
 ---
-title: Einstellungen für Tabellendaten in Analysis Workspace
-description: 'Die Einstellungen für die Datenquelle stehen jetzt in den Freiform- und Kohortentabellen zur Verfügung. Zuvor konnten Datenquellen nur über verknüpfte Visualisierungen verwaltet werden. Jetzt können Sie aus den Tabelleneinstellungen sehen, welche Visualisierungen mit ihr verknüpft sind, und die Quelltabelle selbst ausblenden. '
-feature: Visualizations
+title: Tabellendatenquelleneinstellungen in Analysis Workspace
+description: 'Datenquelleneinstellungen sind jetzt in Freiform- und Kohortentabellen verfügbar. Zuvor konnten Datenquellen nur über die verknüpften Visualisierungen verwaltet werden. Jetzt können Sie in den Tabelleneinstellungen sehen, welche Visualisierungen damit verknüpft sind, und die Quelltabelle selbst ausblenden. '
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7530f41b-2d56-4e8e-a8eb-b3081f5f5d45
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # Tabelle [!UICONTROL Datenquelleneinstellungen] in Analysis Workspace {#table-data-source-settings-in-analysis-workspace}
 
-[!UICONTROL Datenquelleneinstellungen ] sind jetzt in  [!UICONTROL Freiform] - und   Kohortenformaten verfügbar. Zuvor konnten [!UICONTROL Datenquellen] nur über die verknüpften [!UICONTROL Visualisierungen] verwaltet werden. Jetzt können Sie in den Tabelleneinstellungen sehen, welche [!UICONTROL Visualisierungen] mit ihr verknüpft sind, und die Quelltabelle selbst ausblenden.
+[!UICONTROL Datenquelleneinstellungen ] sind jetzt über  [!UICONTROL Freiform] - und   Kohortenwerte verfügbar. Zuvor konnten [!UICONTROL Datenquellen] nur über die verknüpften [!UICONTROL Visualisierungen] verwaltet werden. Jetzt können Sie in den Tabelleneinstellungen sehen, was [!UICONTROL Visualisierungen] damit verknüpft sind, und die Quelltabelle selbst ausblenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23558/?quality=12)

@@ -1,7 +1,7 @@
 ---
-title: Textumbruch und Multidimensionaler Fluss in Analysis Workspace
-description: In diesem Video wird gezeigt, wie Sie die Verkürzung von Beschriftungen in Ihrer Flussvisualisierung aktivieren und deaktivieren. Erfahren Sie außerdem, wie Sie Dimensionen für die Analyse von mehrdimensionalen Flussläufen per Drag & Drop in Ihren Fluss ziehen können.
-feature: Visualizations
+title: Textumbruch und mehrdimensionaler Fluss in Analysis Workspace
+description: In diesem Video wird gezeigt, wie Sie die Abschneiden von Beschriftungen in Ihrer Flussvisualisierung aktivieren und deaktivieren. Lernen Sie außerdem, Dimensionen für die mehrdimensionale Flussanalyse per Drag-and-Drop in den Fluss zu ziehen.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
@@ -9,20 +9,19 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: da173124-ce09-4be3-9418-8791acd16240
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 11%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
-
 # Textumbruch und [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-In diesem Video wird gezeigt, wie Sie die Verkürzung der Beschriftung in Ihrem [!DNL flow visualization] aktivieren und deaktivieren. Lernen Sie außerdem, Dimensionen für mehrdimensionale [!DNL flow]-Analysen per Drag &amp; Drop auf Ihre [!DNL flow]-Variable zu ziehen.
+In diesem Video erfahren Sie, wie Sie die Kürzung von Beschriftungen in Ihrem [!DNL flow visualization] aktivieren und deaktivieren. Lernen Sie außerdem, Dimensionen für mehrdimensionale [!DNL flow]-Analyse per Drag-and-Drop in Ihre [!DNL flow]-Analyse zu ziehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 

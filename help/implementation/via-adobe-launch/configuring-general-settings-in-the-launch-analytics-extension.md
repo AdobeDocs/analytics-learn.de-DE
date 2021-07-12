@@ -1,26 +1,25 @@
 ---
-title: Konfigurieren allgemeiner Einstellungen in der Analytics-Erweiterung starten
-description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, können Sie mit diesem Video den Abschnitt mit den allgemeinen Einstellungen, einschließlich der Einstellung des Trackingservers, aufrufen.
-feature: Launch Implementation
+title: Konfigurieren von allgemeinen Einstellungen in der Launch-Erweiterung für Analytics
+description: Wenn Sie gerade erst mit Launch, der Adobe nach und der Adobe Analytics-Erweiterung beginnen, kann Ihnen dieses Video mit dem Konfigurationsteil für die allgemeinen Einstellungen, einschließlich der Einrichtung des Tracking-Servers, helfen.
+feature: Implementierung starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 15%
+source-wordcount: '132'
+ht-degree: 21%
 
 ---
 
+# Konfigurieren von [!UICONTROL Allgemein] Einstellungen in [!DNL Launch Analytics] [!UICONTROL Erweiterung] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-# Konfigurieren der Einstellungen [!UICONTROL Allgemein] in [!DNL Launch Analytics] [!UICONTROL Erweiterung] {#configuring-general-settings-in-the-launch-analytics-extension}
-
-Wenn Sie gerade erst mit Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, hilft Ihnen dieses Video mit dem Einstellungsabschnitt [!UICONTROL Allgemein], einschließlich der Einstellung des Trackingservers.
+Wenn Sie gerade erst mit Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, kann Ihnen dieses Video mit dem Einstellungsabschnitt [!UICONTROL Allgemein] der Konfiguration helfen, einschließlich der Einrichtung des Tracking-Servers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 

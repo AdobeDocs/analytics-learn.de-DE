@@ -1,26 +1,25 @@
 ---
-title: Freiform-Tabellensummen in Analysis Workspace
-description: In diesem Video werden einige Aktualisierungen der Freiform-Tabellen-Summen angezeigt, einschließlich der Möglichkeit, Gesamtsummen zu entfernen.
-feature: Freeform Tables
+title: Freiformtabellen-Summen in Analysis Workspace
+description: In diesem Video sehen Sie einige Aktualisierungen an den Gesamtwerten der Freiformtabelle, einschließlich der Möglichkeit, Gesamtwerte zu entfernen.
+feature: Freiformtabellen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 2%
+source-wordcount: '65'
+ht-degree: 21%
 
 ---
 
+# Freiformtabellen-Summen in Analysis Workspace
 
-# Freiform-Tabellensummen in Analysis Workspace
-
-In diesem Video werden einige Aktualisierungen der Gesamtwerte für die Freiform-Tabelle] angezeigt, einschließlich der Möglichkeit, Gesamtsummen zu entfernen. [!UICONTROL  Es zeigt Ihnen auch, wie Sie die Zeilen &quot;nicht angegeben&quot;oder &quot;keine&quot;entfernen können.
+In diesem Video sehen Sie einige Aktualisierungen an den Gesamtwerten der [!UICONTROL Freiformtabelle], einschließlich der Möglichkeit, Gesamtwerte zu entfernen. Außerdem erfahren Sie, wie Sie die Zeilen &quot;Nicht angegeben&quot;oder &quot;Keine&quot;entfernen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)

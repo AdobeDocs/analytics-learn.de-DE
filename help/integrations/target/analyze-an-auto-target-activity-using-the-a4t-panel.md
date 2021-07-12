@@ -3,13 +3,13 @@ title: Analysieren einer Aktivität vom Typ „Automatisches Targeting“ mithil
 description: Im Bereich Analytics for Target (A4T) können Sie Ihre Adobe Target-Aktivitäten und -Erlebnisse   analysieren. In diesem Video erfahren Sie, wie Sie mit dem Bedienfeld "Analytics for Target"die Ergebnisse eines Tests für automatisches Targeting visualisieren können.
 feature: Experience Cloud-Integration
 topic: Integrationen
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
 exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 35%

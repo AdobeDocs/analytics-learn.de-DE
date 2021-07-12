@@ -1,26 +1,25 @@
 ---
-title: Kuratieren und Freigeben im Analysis Workspace
-description: Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie es kuratieren (vereinfachen) und mit anderen Teams und Einzelpersonen in Ihren Organisationen teilen, damit sie es untersuchen und sich mit Daten selbst versorgen können. Dieses Video zeigt Ihnen, wie Sie Kuration und Freigabe durchführen.
-feature: Curate and Share
+title: Kuratieren und Freigeben in Analysis Workspace
+description: Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie es kuratieren (vereinfachen) und für andere Teams und Einzelpersonen in Ihren Unternehmen freigeben, damit diese es untersuchen und selbst mit Daten versorgen können. In diesem Video erfahren Sie, wie Sie mit Kuratierung und Freigabe arbeiten.
+feature: Kuratieren und Freigeben
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 18%
+source-wordcount: '126'
+ht-degree: 19%
 
 ---
 
+# [!UICONTROL Kuratieren und Freigeben in Analysis Workspace] {#curation-and-sharing-in-analysis-workspace}
 
-# Kuratieren und Freigeben im Analysis Workspace {#curation-and-sharing-in-analysis-workspace}
-
-Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie [!UICONTROL kuratieren] (vereinfachen) und es für andere Teams und Einzelpersonen in Ihren Unternehmen freigeben, damit sie es untersuchen und mit Daten selbst versorgen können. Dieses Video zeigt Ihnen, wie Sie mit [!UICONTROL Kuration] und Freigeben arbeiten.
+Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie [!UICONTROL kuratieren] (vereinfachen) und es mit anderen Teams und Einzelanwendern in Ihrem Unternehmen teilen, damit diese es untersuchen und mit Daten selbst versorgen können. In diesem Video erfahren Sie, wie Sie mit [!UICONTROL Kuratierung] und Freigabe arbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 

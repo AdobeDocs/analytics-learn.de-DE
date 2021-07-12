@@ -1,28 +1,27 @@
 ---
 title: Übersicht über Kohortentabellen in Analysis Workspace
-description: Die Einstellung "Rollierende Berechnung"in Kohortentabellen kann verwendet werden, um Kohorten über einen bestimmten Zeitraum zu analysieren, um zu verstehen, wie die gleichen Benutzer über einen bestimmten Zeitraum erhalten (oder gekürzt) werden.
-feature: Visualizations
+description: Mit der Einstellung Rollierende Berechnung in Kohortentabellen können Sie den Zeitraum für Kohorten analysieren, um zu verstehen, wie dieselben Benutzer über einen bestimmten Zeitraum erhalten (oder abwandern) werden.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 20%
+source-wordcount: '84'
+ht-degree: 21%
 
 ---
 
-
 # Übersicht über [!UICONTROL Kohortentabellen] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-Die Einstellung [!UICONTROL Rollierende Berechnung] innerhalb von [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten]-Zeiträume zu analysieren, um zu verstehen, wie dieselben Benutzer über einen bestimmten Zeitraum erhalten werden (oder [!UICONTROL churn]).
+Die Einstellung [!UICONTROL Rollierende Berechnung] innerhalb von [!UICONTROL Kohortentabellen] kann verwendet werden, um [!UICONTROL Kohorten] im Zeitverlauf zu analysieren, um zu verstehen, wie dieselben Benutzer im Zeitverlauf beibehalten werden (oder [!UICONTROL Abwanderung]).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).

@@ -1,27 +1,26 @@
 ---
-title: Zeitaufteilungs-Dimensionen in Analysis Workspace
-description: Die Zeitaufteilung nimmt den Zeitstempel der erfassten Treffer und unterteilt ihn in aussagekräftigere Dimensionen wie "Stunde des Tages"oder "Wochentag". Diese Dimensionen sind jetzt in Analysis Workspace sofort einsatzbereit.
-feature: Freeform Tables
+title: Zeitaufteilungsdimensionen in Analysis Workspace
+description: Bei der Zeitunterteilung wird der Zeitstempel erfasster Treffer in aussagekräftigere Dimensionen wie "Stunde des Tages"oder "Tag der Woche"unterteilt. Diese Dimensionen sind jetzt in Analysis Workspace vorkonfiguriert.
+feature: Freiformtabellen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 6%
+source-wordcount: '90'
+ht-degree: 22%
 
 ---
 
-
 # [!DNL Time-parting] Dimensionen in Analysis Workspace {#time-parting-dimensions-in-analysis-workspace}
 
-[!DNL Time-parting] nimmt den Zeitstempel der erfassten Treffer und unterteilt ihn in aussagekräftigere Dimensionen, wie &quot;Stunde des Tages&quot;oder &quot;Wochentag&quot;. Diese Dimensionen sind jetzt in Analysis Workspace sofort einsatzbereit.
+[!DNL Time-parting] nimmt den Zeitstempel der erfassten Treffer und unterteilt ihn in aussagekräftigere Dimensionen wie &quot;Stunde des Tages&quot;oder &quot;Tag der Woche&quot;. Diese Dimensionen sind jetzt in Analysis Workspace vorkonfiguriert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 

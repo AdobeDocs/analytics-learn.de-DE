@@ -1,26 +1,25 @@
 ---
-title: Bibliotheksverwaltung für Analytics konfigurieren
-description: Wenn Sie gerade erst mit der Experience Platform Launch-Erweiterung für Adobe Analytics beginnen, können Sie in diesem Video den Bibliotheksverwaltungsbereich der Konfiguration aufrufen, einschließlich der Auswahl der Report Suites, in die Sie Daten senden möchten.
-feature: Launch Implementation
+title: Konfigurieren der Bibliotheksverwaltung für Analytics
+description: Wenn Sie gerade erst mit der Experience Platform Launch-Erweiterung für Adobe Analytics beginnen, hilft Ihnen dieses Video beim Bibliotheksverwaltungsteil der Konfiguration, einschließlich der Auswahl von Report Suites, in die Sie Daten senden möchten.
+feature: Implementierung starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
+# Konfigurieren von [!UICONTROL Bibliotheksverwaltung] für [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-# [!UICONTROL Bibliotheksverwaltung] für [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension} konfigurieren
-
-Wenn Sie gerade erst mit Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, kann Ihnen dieses Video bei der [!UICONTROL Bibliotheksverwaltung] helfen, einschließlich der Auswahl der [!UICONTROL Report Suites], in denen Daten gesendet werden sollen.
+Wenn Sie gerade erst mit Experience Platform Launch beginnen und die Adobe Analytics [!UICONTROL Extension] verwenden, kann Ihnen dieses Video mit [!UICONTROL Bibliotheksverwaltung] helfen, einschließlich der Auswahl von [!UICONTROL Report Suites], in denen Daten gesendet werden sollen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 

@@ -1,26 +1,25 @@
 ---
 title: Intelligente Warnhinweise in Adobe Analytics
-description: Intelligente Warnhinweise bringen die Kraft der Anomalieerkennung direkt in Ihren Posteingang oder auf Ihr Handy. Wenn Sie sich sofort über wesentliche Änderungen in Ihren Schlüsselmetriken und Segmenten im Klaren sind, werden keine Gelegenheiten verpasst.
-feature: Data Science
+description: Intelligente Warnhinweise ermöglichen die Anomalieerkennung direkt in Ihrem Posteingang oder auf Ihrem Handy. Wenn Sie sich sofort über wesentliche Änderungen an Ihren Schlüsselmetriken und Segmenten im Klaren sind, werden keine Gelegenheiten verpasst.
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 11%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-
 # Intelligente Warnhinweise in Adobe Analytics {#intelligent-alerts-in-adobe-analytics}
 
-[!DNL Intelligent Alerts] die Macht der  [!UICONTROL Anomalieerkennung direkt in Ihren Posteingang oder auf Ihr Handy ] zu setzen. Wenn Sie sich sofort über wesentliche Änderungen in Ihren Schlüsselmetriken und Segmenten im Klaren sind, werden keine Gelegenheiten verpasst.
+[!DNL Intelligent Alerts] die Leistung von  [!UICONTROL Anomaly ] Detection direkt in Ihren Posteingang oder auf Ihr Telefon. Wenn Sie sich sofort über wesentliche Änderungen an Ihren Schlüsselmetriken und Segmenten im Klaren sind, werden keine Gelegenheiten verpasst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 

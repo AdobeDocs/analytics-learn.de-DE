@@ -1,26 +1,25 @@
 ---
-title: Starten Ihres ersten Projekts in Analysis Workspace
-description: In diesem Video erfahren Sie, wie Sie ein Projekt in Analysis Workspace mit standardmäßigen und benutzerdefinierten Vorlagen erstellen und wie Sie Elemente zwischen Projekten kopieren.
-feature: Projects
+title: Beginnen des ersten Projekts in Analysis Workspace
+description: In diesem Video erfahren Sie, wie Sie ein Projekt in Analysis Workspace mit standardmäßigen und benutzerdefinierten Vorlagen erstellen und Elemente zwischen Projekten kopieren.
+feature: Projekte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 1%
+source-wordcount: '83'
+ht-degree: 25%
 
 ---
 
+# Beginnen des ersten Projekts in Analysis Workspace
 
-# Starten Ihres ersten Projekts in Analysis Workspace
-
-In diesem Video erfahren Sie, wie Sie ein Projekt in Analysis Workspace mit standardmäßigen und benutzerdefinierten Vorlagen erstellen und wie Sie Elemente zwischen Projekten kopieren.
+In diesem Video erfahren Sie, wie Sie ein Projekt in Analysis Workspace mit standardmäßigen und benutzerdefinierten Vorlagen erstellen und Elemente zwischen Projekten kopieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 

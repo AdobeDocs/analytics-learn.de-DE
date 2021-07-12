@@ -1,30 +1,29 @@
 ---
 title: Komponentenkuratierung in Virtual Report Suites
-description: Virtual Report Suites können kuratiert werden, um Dimensionen, Metriken und Segmente in Analysis Workspace ein- und auszuschließen. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Datensatz benötigen oder eine andere Datennomenklatur verwenden.
+description: Virtual Report Suites können so kuratiert werden, dass Dimensionen, Metriken und Segmente in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
 
+# Komponenten-Kuratierung in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
 
-# Komponentenkuratierung in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
-
-[!UICONTROL Virtual Report ] Suites können so kuratiert werden, dass sie  [!UICONTROL Dimensionen],  [!UICONTROL Metriken] und   Segmente in Analysis Workspace ein- und ausschließen. Dies ist sehr hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Datensatz benötigen oder eine andere Datennomenklatur verwenden.
+[!UICONTROL Virtual Report ] Suites können so kuratiert werden, dass  [!UICONTROL Dimensionen],  [!UICONTROL Metriken] und   Segmente in Analysis Workspace ein- und ausgeschlossen werden. Dies ist sehr hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
-Wenn die Komponentenanpassung aktiviert ist, steht die [!UICONTROL Virtual Report Suite] nur in Analysis Workspace zur Verfügung.
+Wenn die Komponentenanpassung aktiviert ist, kann auf die [!UICONTROL Virtual Report Suite] nur ausschließlich in Analysis Workspace zugegriffen werden.
 
 Abschnitte in diesem Video:
 

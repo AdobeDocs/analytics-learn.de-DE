@@ -1,31 +1,30 @@
 ---
-title: Audience Analytics - Integrieren AAM Segmente in Analytics
-description: Audience Analytics ist eine neue Integration, mit der Sie Segmente vom Audience Manager (AAM) an Analytics (AA) in Echtzeit freigeben können, um Informationen zur Ermittlung, Segmentierung und Optimierung von Audiencen zu erhalten.
-feature: Experience Cloud Integration
+title: Audience Analytics – Integrieren von Adobe Audience Manager-Segmenten in Analytics
+description: Audience Analytics ist eine neue Integration, mit der Sie Segmente aus Audience Manager (AAM) in Echtzeit für Analytics (AA) freigeben können, um über die Zielgruppenerkennung, Segmentierung und Optimierung zu informieren.
+feature: Experience Cloud-Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: Integrationen
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 8%
 
 ---
 
+# Audience Analytics: AAM [!DNL Segments] in [!DNL Analytics] integrieren {#audience-analytics-integrate-aam-segments-into-analytics}
 
-# Audience Analytics: AAM [!DNL Segments] in [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics} integrieren
-
-[!UICONTROL Audience ] Analytics ist eine neue Integration, mit der Sie Segmente von Audience Manager  [!DNL Analytics] in Echtzeit freigeben können, um die Erkennung, Segmentierung und Optimierung von Audiencen zu informieren.
+[!UICONTROL Audience ] Analytics ist eine neue Integration, mit der Sie Segmente von Audience Manager  [!DNL Analytics] in Echtzeit freigeben können, um über die Erkennung, Segmentierung und Optimierung von Zielgruppen zu informieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
 
-Beispiel für [!UICONTROL Segment]-Daten, die freigegeben werden können, sind: demografische Daten von Drittanbietern von Daten, Daten aus der Kampagne von Anzeigen-Servern (z. B. Offsite-Impressionen) und integrierte CRM-Daten. Hierbei handelt es sich um die erste produktive Integration zwischen einem DMP und einer Analytics-Engine auf dem Markt.
+Beispiele für [!UICONTROL Segment] Daten, die freigegeben werden können, sind: demografische Daten von Drittanbietern, Kampagnendaten von Werbeservern (z. B. Offsite-Impressionen) und integrierten CRM-Daten. Hierbei handelt es sich um die erste produktionserregende Integration zwischen einer DMP und einer Analytics-Engine auf dem Markt.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).

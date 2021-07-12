@@ -1,25 +1,24 @@
 ---
-title: Nullstaatenverbesserungen in Analysis Workspace
-description: Der Nullstatus ist das Öffnungslayout von Analysis Workspace. Damit sowohl Anfänger als auch erfahrene Anwender von Analysis Workspace profitieren können, haben wir die linke Leiste, das leere Bedienfeld, die Freiform-Tabelle und die Ablagebereiche verbessert, um den Benutzern eine intuitivere Bedienung zu ermöglichen.
-feature: Projects
+title: Nullstatusverbesserungen in Analysis Workspace
+description: Der Status Null ist das erste Layout von Analysis Workspace. Damit sowohl Anfänger als auch erfahrene Benutzer von Analysis Workspace profitieren können, haben wir die linke Leiste, das leere Bedienfeld, die Freiformtabelle und die Ablageflächen verbessert, um für Benutzer intuitiver zu sein.
+feature: Projekte
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc37b2e5-bb00-40bc-a620-ef7d6a4e8fdf
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '89'
 ht-degree: 1%
 
 ---
 
+# [!DNL Zero State] Verbesserungen in Analysis Workspace {#zero-state-improvements-in-analysis-workspace}
 
-# [!DNL Zero State] Verbesserungen in Analysis Workspace  {#zero-state-improvements-in-analysis-workspace}
-
-&quot;[!DNL Zero State]&quot;ist das öffnende Layout von Analysis Workspace. Damit sowohl Anfänger als auch erfahrene Benutzer aus Analysis Workspace Nutzen ziehen können, wurden die linke Leiste, das leere Bedienfeld, die [!UICONTROL Freiformtabelle] und die Dropzonen verbessert, um für die Benutzer intuitiver zu sein.
+&quot;[!DNL Zero State]&quot;ist das erste Layout von Analysis Workspace. Damit sowohl Anfänger als auch erfahrene Benutzer von Analysis Workspace profitieren können, haben wir die linke Leiste, das leere Bedienfeld, die [!UICONTROL Freiformtabelle] und die Dropzonen verbessert, um für Benutzer intuitiver zu sein.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23560/?quality=12)

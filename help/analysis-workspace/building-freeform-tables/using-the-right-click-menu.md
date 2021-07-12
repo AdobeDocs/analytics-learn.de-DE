@@ -1,27 +1,26 @@
 ---
 title: Verwenden des Kontextmenüs in Analysis Workspace
-description: Erfahren Sie, wie Sie mit dem Kontextmenü in Analysis Workspace schneller Aufschlüsselungen und mehr durchführen können.
-feature: Freeform Tables
+description: Erfahren Sie, wie Sie mit dem Kontextmenü in Analysis Workspace schneller Aufschlüsselungen durchführen und vieles mehr.
+feature: Freiformtabellen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 288b3c97-21be-431e-800e-5854b078e9e6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 2%
+source-wordcount: '66'
+ht-degree: 24%
 
 ---
 
-
 # Verwenden des Kontextmenüs in Analysis Workspace {#using-the-right-click-menu-in-analysis-workspace}
 
-Erfahren Sie, wie Sie mit dem Kontextmenü in Analysis Workspace schneller Aufschlüsselungen und mehr durchführen können.
+Erfahren Sie, wie Sie mit dem Kontextmenü in Analysis Workspace schneller Aufschlüsselungen durchführen und vieles mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23981/?quality=12)
 
-Hinweis: Das Kontextmenü wurde noch weiter entwickelt, um [!DNL Date comparisons] einzuschließen, [!UICONTROL Warnungen] zu erstellen, kopierend, kontextbezogene [!UICONTROL Trichteranalyse]-Aktionen usw.
+Hinweis: Das Kontextmenü wurde um einiges erweitert: [!DNL Date comparisons], Erstellen von [!UICONTROL Warnhinweisen], Kopieren, In-Kontext [!UICONTROL Fallout]-Aktionen usw.

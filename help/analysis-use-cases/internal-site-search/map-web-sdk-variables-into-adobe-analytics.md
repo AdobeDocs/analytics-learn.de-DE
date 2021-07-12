@@ -1,23 +1,23 @@
 ---
 title: Zuordnen von Web SDK-Variablen in Adobe Analytics
-description: Erfahren Sie, wie Sie mithilfe von Verarbeitungsregeln Analysevariablen vom Web SDK bis Adobe Analytics zuordnen.
+description: Erfahren Sie, wie Sie Analysevariablen mithilfe von Verarbeitungsregeln vom Web-SDK bis zu Adobe Analytics zuordnen.
 feature: Nutzungsszenarios
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 13%
+ht-degree: 38%
 
 ---
 
 # Zuordnen von Web SDK-Variablen in Adobe Analytics
 
-Erfahren Sie, wie Sie mithilfe von Verarbeitungsregeln Analysevariablen vom Web SDK bis Adobe Analytics zuordnen.
+Erfahren Sie, wie Sie Analysevariablen mithilfe von Verarbeitungsregeln vom Web-SDK bis zu Adobe Analytics zuordnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
 

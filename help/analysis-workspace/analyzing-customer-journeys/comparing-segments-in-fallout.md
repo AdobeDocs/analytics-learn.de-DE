@@ -1,27 +1,26 @@
 ---
-title: Segmentvergleich in Trichteranalyse in Analysis Workspace
-description: In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden können.
-feature: Visualizations
+title: Vergleichen von Segmenten in Fallout in Analysis Workspace
+description: In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '61'
+ht-degree: 31%
 
 ---
 
+# Vergleichen von Segmenten in [!UICONTROL Fallout] in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
-# Vergleichen von Segmenten in [!UICONTROL Trichteranalyse] in Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
-
-In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden können.
+In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 

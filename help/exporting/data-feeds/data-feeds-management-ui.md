@@ -1,26 +1,25 @@
 ---
-title: Data Feeds Management-Benutzeroberfläche
-description: Mit dem Adobe Analytics Data Feed können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Datensee zusammenzuführen. Sie können Ihre eigenen Data Feeds in Adobe Analytics erstellen und verwalten. Dieses Video zeigt Ihnen, wie.
-feature: Data Feeds
+title: Benutzeroberfläche des Daten-Feed-Managements
+description: Mit dem Adobe Analytics-Daten-Feed können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Data Lake zusammenzuführen. Sie können Ihre eigenen Daten-Feeds in Adobe Analytics erstellen und verwalten. In diesem Video wird gezeigt, wie.
+feature: Daten-Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 
+# [!UICONTROL Benutzeroberfläche des Daten-Feed-Managements] {#data-feeds-management-ui}
 
-# [!UICONTROL Data ] FeedsManagement-Benutzeroberfläche  {#data-feeds-management-ui}
-
-Mit dem Adobe Analytics [!UICONTROL Data Feed] können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Datensee zusammenzuführen. Sie können Ihre eigenen [!UICONTROL Datenfeeds] in Adobe Analytics erstellen und verwalten. Dieses Video zeigt Ihnen, wie.
+Mit dem Adobe Analytics [!UICONTROL Daten-Feed] können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Data Lake zusammenzuführen. Sie können Ihre eigenen [!UICONTROL Daten-Feeds] in Adobe Analytics erstellen und verwalten. In diesem Video wird gezeigt, wie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 

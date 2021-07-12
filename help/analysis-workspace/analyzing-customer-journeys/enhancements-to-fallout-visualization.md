@@ -1,27 +1,26 @@
 ---
-title: Verbesserungen bei der Fallout-Visualisierung in Analysis Workspace
-description: In diesem Video werden Aktualisierungen der Fallout-Visualisierung gezeigt, die von Kunden dringend angefordert wurden, einschließlich direkter oder letzterer Schritte, Umbenennen von Berührungspunkten, Vergleichen unbegrenzter Segmente und Trends bei der Konvertierung von Touchpoints im Zeitverlauf.
-feature: Visualizations
+title: Verbesserungen der Fallout-Visualisierung in Analysis Workspace
+description: In diesem Video werden Aktualisierungen der Fallout-Visualisierung gezeigt, die von Kunden dringend angefordert wurden, einschließlich direkter und letzterer Schritte, Umbenennen von Touchpoints, Vergleichen unbegrenzter Segmente und Trends bei der Touchpoint-Konversion im Zeitverlauf.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
+# Verbesserungen von [!DNL Fallout Visualization] in Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-# Erweiterungen für [!DNL Fallout Visualization] in Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
-
-In diesem Video werden Updates für [!DNL Fallout Visualization] angezeigt, die von Kunden dringend angefordert wurden, einschließlich direkter oder letzterer Schritte, Umbenennen von Touchpoints, Vergleichen unbegrenzter Segmente und Trends bei der Konvertierung von Touchpoints im Zeitverlauf.
+In diesem Video werden Aktualisierungen an [!DNL Fallout Visualization] gezeigt, die von Kunden dringend angefordert wurden, einschließlich direkter oder letzterer Schritte, Umbenennen von Touchpoints, Vergleichen unbegrenzter Segmente und Trends bei der Touchpoint-Konversion im Zeitverlauf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 

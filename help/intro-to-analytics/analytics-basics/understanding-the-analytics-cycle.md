@@ -1,22 +1,21 @@
 ---
 title: Verstehen des Analytics-Zyklus
 description: In diesem einfachen, aber dennoch wichtigen Video erfahren Sie, wie Sie die Daten Ihrer Site analysieren. Wenn Sie sich ein wenig Zeit nehmen, um diesen Vorgang zu verstehen, kann das den Erfolg Ihres Analytics-Programms entscheidend beeinflussen.
-feature: Analytics Basics
+feature: Analytics-Grundlagen
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3564
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '89'
+exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # Verstehen des [!DNL Analytics]-Zyklus
 

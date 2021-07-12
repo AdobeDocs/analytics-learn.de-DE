@@ -1,28 +1,27 @@
 ---
-title: Latenzzeit-Analyse mit Kohortentabellen
-description: Die Einstellung "Latenztabelle"in "Kohortentabellen"ermöglicht es Ihnen, das Verhalten Ihrer Kohorten vor und nach dem Inklusionstempo zu analysieren (nicht nur nach den üblichen Kohortenabbildungen). Diese Einstellung ist hilfreich, um die Auswirkungen eines neuen Produkts oder einer neuen Kampagne zu analysieren.
-feature: Visualizations
+title: Latenzanalyse mit Kohortentabellen
+description: Mit der Einstellung "Latenztabelle"in Kohortentabellen können Sie das Verhalten Ihrer Kohorten vor und nach dem Aufnahmeereignis analysieren (nicht direkt nach den Standarddarstellungen in der Kohorte). Diese Einstellung ist beispielsweise hilfreich, um die Auswirkungen eines neuen Produkt- oder Kampagnen-Starts zu analysieren.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 14%
+source-wordcount: '120'
+ht-degree: 19%
 
 ---
 
+# Latenzanalyse mit [!UICONTROL Kohortentabellen] {#latency-analysis-with-cohort-tables}
 
-# Latenzzeit-Analyse mit [!UICONTROL Kohortentabellen] {#latency-analysis-with-cohort-tables}
-
-Die Einstellung [!UICONTROL Latenztabelle] in [!UICONTROL Kohortentabellen] ermöglicht es Ihnen, das Verhalten Ihrer [!UICONTROL Kohorten] vor und nach dem Inklusionsdiagramm zu analysieren (nicht nur nach den Standardabbildungen [!UICONTROL Kohorte]). Diese Einstellung ist hilfreich, um die Auswirkungen eines neuen Produkts oder einer neuen Kampagne zu analysieren.
+Mit der Einstellung [!UICONTROL Latenztabelle] in [!UICONTROL Kohortentabellen] können Sie das Verhalten Ihrer [!UICONTROL Kohorten] vor und nach dem Aufnahmeereignis analysieren (nicht direkt nach den Standarddarstellungen von [!UICONTROL Kohorte]). Diese Einstellung ist beispielsweise hilfreich, um die Auswirkungen eines neuen Produkt- oder Kampagnen-Starts zu analysieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).

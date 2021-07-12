@@ -1,26 +1,25 @@
 ---
 title: Segmentvergleich in Analysis Workspace
-description: Die wahren Unterschiede zwischen Marketingsegmenten zu verstehen, war immer ein schwieriger und zeitaufwendiger Prozess. Segment-IQ, Teil von Analysis Workspace in Adobe Analytics, vereinfacht diese Analyse, indem Sie zwei beliebige Analytics-Segmente für alle Ihre Dimensionen und Metriken untersuchen, um automatisch die statistisch bedeutendsten Unterschiede zu ermitteln.
-feature: Segmentation
+description: Die wahren Unterschiede zwischen Marketingsegmenten zu verstehen, war immer ein schwieriger und zeitaufwendiger Prozess. Segment IQ, Teil von Analysis Workspace in Adobe Analytics, vereinfacht diese Analyse, indem es zwei beliebige Analytics-Segmente für alle Dimensionen und Metriken untersucht, um automatisch die statistisch bedeutendsten Unterschiede zu ermitteln.
+feature: Segmentierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '122'
+ht-degree: 16%
 
 ---
 
+# [!UICONTROL Segmentvergleich in Analysis Workspace] {#segment-comparison-in-analysis-workspace}
 
-#  Segmentvergleich in Analysis Workspace  {#segment-comparison-in-analysis-workspace}
-
-Die wahren Unterschiede zwischen Marketingsegmenten zu verstehen, war immer ein schwieriger und zeitaufwendiger Prozess. [!DNL Segment IQ], ein Teil von Analysis Workspace in Adobe Analytics, vereinfacht diese Analyse, indem Sie zwei beliebige  [!DNL Analytics]  Segmente über all Ihre   Dimensionen und   Metriken hinweg untersuchen, um automatisch die statistisch bedeutendsten Unterschiede zu ermitteln.
+Die wahren Unterschiede zwischen Marketingsegmenten zu verstehen, war immer ein schwieriger und zeitaufwendiger Prozess. [!DNL Segment IQ], Teil von Analysis Workspace in Adobe Analytics, vereinfacht diese Analyse, indem zwei beliebige  [!DNL Analytics]  Segmente über all Ihre   Dimensionen und   Metriken hinweg untersucht werden, um automatisch ihre statistisch bedeutendsten Unterschiede zu ermitteln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 

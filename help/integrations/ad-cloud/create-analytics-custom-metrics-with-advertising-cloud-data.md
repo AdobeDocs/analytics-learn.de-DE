@@ -1,26 +1,25 @@
 ---
-title: Erstellen von Analytics Custom-Metriken mit Advertising Cloud-Daten
+title: Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising Cloud-Daten
 description: Nützliche benutzerspezifische Metriken, die bei der Verwendung von Advertising Cloud-Daten in Adobe Analytics erstellt werden.
-feature: Advertising Cloud Integration
+feature: Advertising Cloud-Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
-topic: Integrations
-role: Business Practitioner
+topic: Integrationen
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9c50787d-ee08-437a-81ab-4e0da7861269
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 87%
+source-wordcount: '46'
+ht-degree: 93%
 
 ---
 
-
-# Erstellen von Analytics Custom-Metriken mit Advertising Cloud-Daten
+# Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising Cloud-Daten
 
 Nützliche benutzerspezifische Metriken, die bei der Verwendung von Advertising Cloud-Daten in Adobe Analytics erstellt werden.
 

@@ -1,26 +1,25 @@
 ---
-title: Konfigurieren der Cookie-Einstellungen in der Analytics-Erweiterung starten
-description: Wenn Sie gerade erst mit Launch, per Adobe und der Adobe Analytics-Erweiterung beginnen, hilft Ihnen dieses Video, zu verstehen, ob und wie Sie die Cookie-Einstellungen in der Analytics-Erweiterung festlegen.
-feature: Launch Implementation
+title: Konfigurieren der Cookie-Einstellungen in der Launch-Erweiterung für Analytics
+description: Wenn Sie gerade erst mit Launch, der Adobe nach und der Adobe Analytics-Erweiterung beginnen, können Sie in diesem Video nachvollziehen, ob und wie die Cookie-Einstellungen in der Analytics-Erweiterung festgelegt werden.
+feature: Implementierung starten
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# Konfigurieren von Cookie-Einstellungen in der [!DNL Launch] [!DNL Analytics]-Erweiterung {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-# Konfigurieren der Cookie-Einstellungen in der [!DNL Launch] [!DNL Analytics]-Erweiterung {#configuring-cookie-settings-in-the-launch-analytics-extension}
-
-Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics-Erweiterung beginnen, können Sie in diesem Video nachvollziehen, ob und wie die Cookie-Einstellungen in der Erweiterung [!DNL Analytics] festgelegt werden.
+Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics-Erweiterung beginnen, können Sie in diesem Video nachvollziehen, ob und wie die Cookie-Einstellungen in der [!DNL Analytics]-Erweiterung festgelegt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 

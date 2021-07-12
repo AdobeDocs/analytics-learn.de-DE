@@ -1,25 +1,24 @@
 ---
 title: Rich Text Editor in Analysis Workspace
-description: Gehen Sie durch einige neue Funktionen, mit denen Analysten und Marketingexperten die Bearbeitung von Textvisualisierungen (oder Beschreibungen) in Analysis Workspace anwenden können - Fett, Kursivdruck, Überschriften, Hyperlinks und mehr.
-feature: Visualizations
+description: Machen Sie sich mit einigen neuen Funktionen vertraut, mit denen Analysten und Marketingexperten die Bearbeitung auf Textvisualisierungen (oder Beschreibungen) in Analysis Workspace anwenden können - Fett, kursiv, Überschriften, Hyperlinks und mehr.
+feature: Visualisierungen
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: '69'
+ht-degree: 18%
 
 ---
 
+# Rich-Text-Editor in Analysis Workspace {#rich-text-editor-in-analysis-workspace}
 
-# Rich Text Editor in Analysis Workspace {#rich-text-editor-in-analysis-workspace}
-
-Gehen Sie durch einige neue Funktionen, mit denen Analysten und Marketingexperten die Bearbeitung auf [!UICONTROL text] [!UICONTROL Visualisierungen] (oder Beschreibungen) in Analysis Workspace anwenden können: Fett, Kursivdruck, Überschriften, Hyperlinks und mehr.
+Führen Sie einige neue Funktionen durch, mit denen Analysten und Marketingexperten die Bearbeitung auf [!UICONTROL text] [!UICONTROL Visualisierungen] (oder Beschreibungen) in Analysis Workspace anwenden können: Fett, kursiv, Überschriften, Hyperlinks und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)

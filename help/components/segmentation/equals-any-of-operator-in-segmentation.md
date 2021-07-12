@@ -1,26 +1,25 @@
 ---
-title: Verwenden des Operators Gleich jedem Operator in der Segmentierung
-description: Entspricht einem der beiden Operatoren und Entspricht keinem der Segmentoperatoren wurde zum Segmentaufbau hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste bestimmter Elemente zu filtern, anstatt mehrere ODER-Anweisungen zu verwenden oder Enthält eines von ihnen. Die Verwendung dieser Operatoren anstelle von enthält wird auch dazu beitragen, die Geschwindigkeit der Abfrage zu verbessern.
-feature: Segmentation
+title: Verwenden des Operators entspricht einem von in der Segmentierung
+description: Entspricht keinem der Segmentoperatoren und Entspricht keinem der Segmentoperatoren, wurde zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste spezifischer Elemente zu filtern, anstatt mehrere OR-Anweisungen zu verwenden oder Enthält eines von. Durch die Verwendung dieser Operatoren anstelle von enthält wird auch die Geschwindigkeit der Abfrage verbessert.
+feature: Segmentierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
+# Verwenden des Operators &quot;entspricht einem von&quot;in der Segmentierung
 
-# Verwenden des Operators &quot;Gleich jedem von&quot;in der Segmentierung
-
-Segmentoperatoren &quot;Entspricht&quot;und &quot;Entspricht keinem der&quot;wurden zum Segmentaufbau hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste bestimmter Elemente zu filtern, anstatt mehrere ODER-Anweisungen oder &quot;Enthält eines von&quot;zu verwenden. Die Verwendung dieser Operatoren anstelle von &#39;enthält irgendeinen von&#39; trägt ebenfalls zur Verbesserung der Abfrage bei.
+Segmentoperatoren &quot;Entspricht einem von&quot;und &quot;Entspricht keinem von&quot;wurden zum Segment-Builder hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste spezifischer Elemente zu filtern, anstatt mehrere OR-Anweisungen oder &quot;Enthält beliebige von&quot;zu verwenden. Die Verwendung dieser Operatoren anstelle von &quot;enthält beliebige von&quot;verbessert auch die Abfrageschwindigkeit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 

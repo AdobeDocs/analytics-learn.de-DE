@@ -1,27 +1,26 @@
 ---
-title: Verwenden des Projektkonverters zum Verschieben von Projekten von Ad Hoc Analysis in Analytics Workspace
-description: Der Ad Hoc Analysis Project Converter konvertiert Ad Hoc Analysis-Projekte (AHA) nahtlos in Analysis Workspace-Projekte mit einem Klick.
-feature: Experience Cloud Integration
+title: Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace
+description: Der Ad Hoc Analysis Project Converter konvertiert Ad Hoc Analysis (AHA)-Projekte nahtlos in Analysis Workspace-Projekte, indem er auf eine Schaltfläche klickt.
+feature: Experience Cloud-Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrations
-role: Business Practitioner
+topic: Integrationen
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 3%
+source-wordcount: '89'
+ht-degree: 24%
 
 ---
 
+# Verwenden des Projektkonverters zum Verschieben von Projekten von [!DNL Ad Hoc Analysis] in [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-# Verwenden des Projektkonverters zum Verschieben von Projekten von [!DNL Ad Hoc Analysis] nach [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
-
-Der [!UICONTROL Ad Hoc Analysis] Projektkonverter konvertiert mit einem Klick auf eine Schaltfläche nahtlos [!UICONTROL Ad Hoc Analysis]- (AHA) Projekte in [!UICONTROL Analysis Workspace]-Projekte.
+Der [!UICONTROL Ad Hoc Analysis] Project Converter konvertiert [!UICONTROL Ad Hoc Analysis] (AHA)-Projekte nahtlos in [!UICONTROL Analysis Workspace]-Projekte mit einem Klick auf eine Schaltfläche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 

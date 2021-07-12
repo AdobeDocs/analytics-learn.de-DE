@@ -1,26 +1,25 @@
 ---
 title: Übersicht über Klassifizierungen in Adobe Analytics
-description: Klassifizierungen sind eine leistungsstarke Methode, um Ihren Produkten, Kampagnen, Seiten, Kunden und mehr Metadaten - beschreibende Attribute - hinzuzufügen. Diese Attribute können Ihnen helfen, Ihre Marketing- und Erlebnisbemühungen besser zu verstehen, indem Sie ähnliche Elemente gruppieren und Daten unterteilen, um tief in das einzutauchen, was für Sie funktioniert und nicht.
+description: Klassifizierungen sind eine leistungsstarke Methode, um Ihren Produkten, Kampagnen, Seiten, Kunden und mehr Metadaten - beschreibende Attribute - hinzuzufügen. Diese Attribute helfen Ihnen dabei, Ihre Marketing- und Erlebnisbemühungen besser zu verstehen, indem Sie ähnliche Elemente gruppieren und Daten aufschlüsseln können, um tiefer in die Funktionen und Aufgaben zu tauchen.
 feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
-
 # Übersicht über [!UICONTROL Klassifizierungen] in Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
 
-[!UICONTROL Mit ] Klassifizierungen können Sie Ihren Produkten, Kampagnen, Seiten, Kunden und vielem mehr Metadaten - beschreibende Attribute - hinzufügen. Diese Attribute können Ihnen helfen, Ihre Marketing- und Erlebnisbemühungen besser zu verstehen, indem Sie ähnliche Elemente gruppieren und Daten unterteilen, um tief in das einzutauchen, was für Sie funktioniert und nicht.
+ Classifications sind eine leistungsstarke Methode, um Ihren Produkten, Kampagnen, Seiten, Kunden und mehr Metadaten - beschreibende Attribute - hinzuzufügen. Diese Attribute helfen Ihnen dabei, Ihre Marketing- und Erlebnisbemühungen besser zu verstehen, indem Sie ähnliche Elemente gruppieren und Daten aufschlüsseln können, um tiefer in die Funktionen und Aufgaben zu tauchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 

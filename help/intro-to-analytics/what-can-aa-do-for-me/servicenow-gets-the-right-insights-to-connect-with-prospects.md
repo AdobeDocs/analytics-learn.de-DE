@@ -1,22 +1,21 @@
 ---
 title: Kunden-Nutzungsszenario – ServiceNow erhält die richtigen Einblicke zur Gewinnung potenzieller Kunden
 description: Finden Sie heraus, wie ServiceNow mit Adobe Advertising Cloud und Adobe Analytics verwertbare Daten von seinen Marketing-Kanälen abruft und die Investitionsrendite bei Paid-Search-Werbung steigert.
-feature: Use Cases
+feature: Nutzungsszenarios
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '108'
+exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # Kunden-Nutzungsszenario: [!DNL ServiceNow] erhält die richtigen Einblicke zur Gewinnung potenzieller Kunden
 

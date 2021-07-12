@@ -1,27 +1,26 @@
 ---
 title: Rollierende Datumsbereiche in Segmenten
-description: Mit Adobe Analytics können Sie Fragen wie - Wie hoch war mein rollierender Durchschnitt von 60 Tagen beim Umsatz? oder - Wie viele Besucher haben in der letzten Woche mehr als fünfmal Inhalte in meiner App angezeigt? durch Einbeziehung rollierender Datumsbereiche in Segmente. Dieses Video zeigt Ihnen, wie Sie das machen.
-feature: Segmentation
+description: 'Mit Adobe Analytics können Sie Fragen beantworten wie: Wie hoch war mein rollierender Durchschnitt von 60 Tagen beim Umsatz? oder - Wie viele Besucher haben in der letzten Woche mehr als fünfmal Inhalte in meiner App angezeigt? durch Einbeziehung rollierender Datumsbereiche in Segmente. In diesem Video erfahren Sie, wie Sie das machen.'
+feature: Segmentierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 4%
 
 ---
 
+# Rollierende [!UICONTROL Datumsbereiche] in [!UICONTROL Segmente] {#rolling-date-ranges-in-segments}
 
-# Rollierend [!UICONTROL Datumsbereiche] in [!UICONTROL Segmente] {#rolling-date-ranges-in-segments}
-
-Mit Adobe Analytics können Sie Fragen wie &quot;Wie hoch war mein 60-Tage-rollierender Durchschnitt für Umsatz?&quot; beantworten. oder &quot;Wie viele Besucher haben in der letzten Woche mehr als fünfmal Inhalte in meiner App angezeigt?&quot; durch Aufnahme rollierender [!UICONTROL Datumsbereiche] in [!UICONTROL Segmente]. Dieses Video zeigt Ihnen, wie Sie das machen.
+Mit Adobe Analytics können Sie Fragen beantworten wie &quot;Wie hoch war mein rollierender Durchschnitt von 60 Tagen beim Umsatz?&quot; oder &quot;Wie viele Besucher haben in der letzten Woche mehr als fünfmal Inhalte in meiner App angezeigt?&quot; durch Einbeziehung rollierender [!UICONTROL Datumsbereiche] in [!UICONTROL Segmente]. In diesem Video erfahren Sie, wie Sie das machen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
-Weitere Informationen zu dieser Funktion finden Sie in der Dokumentation [unter ](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).
+Weitere Informationen zu dieser Funktion finden Sie in der Dokumentation [a1/>.](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui)

@@ -1,26 +1,25 @@
 ---
-title: Segmentieren von Containern in Adobe Analytics
-description: Dieses Video zeigt, wie Sie mit den drei verschiedenen Segmenttypen im Segmentaufbau von Adobe Analytics arbeiten können.
-feature: Segmentation
+title: Segmentbehälter in Adobe Analytics
+description: In diesem Video wird gezeigt, wie mit den drei verschiedenen Segmentbehältertypen im Segmentaufbau von Adobe Analytics gearbeitet wird.
+feature: Segmentierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '73'
+ht-degree: 13%
 
 ---
 
+#   Segmentcontainer in Adobe Analytics {#segment-containers-in-adobe-analytics}
 
-# [!UICONTROL Segmentcontainer ]  in Adobe Analytics  {#segment-containers-in-adobe-analytics}
-
-Dieses Video zeigt, wie Sie mit den drei verschiedenen Typen [!UICONTROL segment] [!UICONTROL Container] im [!UICONTROL Segmentaufbau] von Adobe Analytics arbeiten.
+In diesem Video erfahren Sie, wie Sie mit den drei verschiedenen [!UICONTROL Segment] [!UICONTROL Container]-Typen im [!UICONTROL Segmentaufbau] von Adobe Analytics arbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 

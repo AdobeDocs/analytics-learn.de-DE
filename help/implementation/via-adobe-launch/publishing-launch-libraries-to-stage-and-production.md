@@ -1,25 +1,24 @@
 ---
-title: Veröffentlichen von Launch-Bibliotheken auf der Bühne und in der Produktion
-description: Nachdem Sie die Implementierung auf Ihrem Entwicklungsserver abgeschlossen haben, sollten Sie sie in eine Staging-Umgebung verschieben, dort testen und dann in Ihre Produktionsserver-Umgebung verschieben. Dieses Video zeigt diesen Prozess Schritt für Schritt.
-feature: Launch Implementation
+title: Veröffentlichen von Launch-Bibliotheken in der Staging- und Produktionsumgebung
+description: Nachdem Sie Ihre Implementierung auf Ihrem Entwicklungsserver gesperrt haben, sollten Sie sie in eine Staging-Umgebung verschieben, dort testen und dann in Ihre Produktionsumgebung verschieben. In diesem Video wird dieser Prozess Schritt für Schritt gezeigt.
+feature: Implementierung starten
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
+# Veröffentlichen von Launch-Bibliotheken in der Staging- und Produktionsumgebung
 
-# Veröffentlichen von Launch-Bibliotheken auf der Bühne und in der Produktion
-
-Nachdem Sie Ihre Implementierung auf Ihrem Entwicklungsserver abgeschlossen haben, sollten Sie sie in eine Staging-Umgebung verschieben, dort testen und dann in Ihre Produktionsserver-Umgebung verschieben. Dieses Video zeigt diesen Prozess Schritt für Schritt.
+Nachdem Sie Ihre Implementierung auf Ihrem Entwicklungsserver abgeschlossen haben, sollten Sie sie in eine Staging-Umgebung verschieben, dort testen und dann in Ihre Produktionsumgebung verschieben. In diesem Video wird dieser Prozess Schritt für Schritt gezeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12)

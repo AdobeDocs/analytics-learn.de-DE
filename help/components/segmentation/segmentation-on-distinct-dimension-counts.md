@@ -1,26 +1,25 @@
 ---
-title: Segmentierung für unterschiedliche Zählungen von Dimensionen
-description: Mit den neuen Operatoren "Unterscheidungszahl"im Segment-Builder können Sie je nach der Anzahl der eindeutigen Elemente innerhalb einer Dimension segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden oder bei denen mehr als 5 Produkte gekauft wurden, d. h. innerhalb einer Bestellung.
-feature: Segmentation
+title: Segmentierung nach einzelnen Dimensionswerten
+description: Mit den neuen Operatoren für Distinct Count im Segment Builder können Sie basierend auf der Anzahl der eindeutigen Elemente innerhalb einer Dimension segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden, oder Treffern, bei denen mehr als 5 Produkte gekauft wurden, d. h. innerhalb einer Bestellung.
+feature: Segmentierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 13%
 
 ---
 
+# Segmentierung nach einzelnen Dimensionswerten {#segmentation-on-distinct-dimension-counts}
 
-# Segmentierung bei unterschiedlichen Zählungen von Dimensionen {#segmentation-on-distinct-dimension-counts}
-
-Mit den neuen Operatoren [!UICONTROL Unterscheidungszahl] im [!UICONTROL Segmentaufbau] können Sie ein Segment basierend auf der Anzahl der eindeutigen Elemente innerhalb einer [!UICONTROL Dimension] segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden oder bei denen mehr als 5 Produkte gekauft wurden, d. h. innerhalb einer Bestellung.
+Mit den neuen Operatoren [!UICONTROL Distinct Count] im [!UICONTROL Segment Builder] können Sie basierend auf der Anzahl eindeutiger Elemente innerhalb einer beliebigen [!UICONTROL Dimension] segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden, oder Treffern, bei denen mehr als 5 Produkte gekauft wurden, d. h. innerhalb einer Bestellung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
 

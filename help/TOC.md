@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -111,8 +111,8 @@ ht-degree: 98%
       + [Auswählen der zu visualisierenden Daten](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Daten in Visualisierungen einbringen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Verwenden von Dropdown-Listen für Komponenten in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualisierungen von Bereich und Bereich gestapelt](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Balken und Balken - gestapelte Visualisierungen](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Visualisierungen von Bereichen und gestapelten Bereichen](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualisierungen mit Balken und gestapelten Balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Aufzählungsgrafik-Visualisierung](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Donut-Visualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)

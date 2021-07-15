@@ -1,17 +1,17 @@
 ---
-title: Adobe Analytics-Lehrplan
+title: Adobe Analytics-Lehrplan für den Unterricht
 description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics-Lehrplan
+# Adobe Analytics-Lehrplan für den Unterricht
 
 >[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
@@ -33,6 +33,6 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 Dieses Lehrangebot mit zielgerichteten Aktivitäten am Ende eines jeden Abschnitts kann mit der Adobe Analytics-Sandbox-Umgebung (Universität) kombiniert werden.
 
-Registrieren Sie sich hier für den Zugriff: [Registrierung des Analytics-Lehrplans](https://experienceleague.adobe.com/landing/analytics-university/)
+Registrieren Sie sich hier für den Zugriff: [Registrierung für den Analytics-Lehrplan](https://experienceleague.adobe.com/landing/analytics-university?lang=de)
 
 [Download der PDF mit dem Lehrangebot](assets/Adobe-Analytics-Curriculum_2021.pdf)

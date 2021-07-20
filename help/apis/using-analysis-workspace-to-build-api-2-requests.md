@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Adobe Analytics API 2.0-Anforderungen mit Analysis Workspace
 description: In diesem Video zeigen wir Ihnen, wie Sie Analysis Workspace nutzen können, um API 2.0-Anforderungen automatisch zu erstellen. Durch Debuggen der Benutzeroberfläche können Sie JSON-Anforderungen kopieren und für die Ausgabe von Analytics-Daten direkt in einen beliebigen API-Client einfügen.
-feature: 'API '
+feature: API
 topics: null
 activity: use
 doc-type: feature video
@@ -11,7 +11,7 @@ role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 

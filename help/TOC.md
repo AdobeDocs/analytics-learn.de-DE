@@ -4,7 +4,7 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
 workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 100%
@@ -119,7 +119,7 @@ ht-degree: 100%
       + [Linienvisualisierung](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Textvisualisierung](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Streudiagramm-Visualisierung](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-Visualisierung](analysis-workspace/visualizations/treemap-visualization.md)

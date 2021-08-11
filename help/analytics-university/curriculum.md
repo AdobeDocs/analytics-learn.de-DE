@@ -4,10 +4,10 @@ description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlag
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 76%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 ## Analytics-Kursinhalte
 
 Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
+
+### Ein neuer Kurs, der Sie bei der Vorbereitung unterstützt
+
+Um uns auf das Lernen und die Lehre des Analysecurriculums vorzubereiten, haben wir einen brandneuen Kurs in Adobe Education Exchange begonnen, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Schüler/innen auf die 4 Kernmodule und darüber hinaus zu unterrichten.
+
+Melden Sie sich hier für den Kurs an: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### Im Folgenden erfahren Sie, was Sie lernen werden:
 

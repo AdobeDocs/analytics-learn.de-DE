@@ -1,6 +1,6 @@
 ---
 title: Experience League LIVE-Ereignisse
-description: Eine Kollektion von Links zu vorherigen Experience League-LIVE-Ereignissen
+description: Eine Sammlung von Links zu vorherigen Experience League LIVE-Ereignissen
 type: Event
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,14 +9,14 @@ hidefromtoc: true
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE ist eine Live-Streaming-Show, die vom Experience League-Team produziert wurde und praktische Tipps, Tricks und Strategien bietet, die Sie in Experience Cloud-Anwendungen, Anwendungsdiensten und Adobe Experience Platform anwenden können.
+Experience League LIVE ist eine Live-Streaming-Show, die vom Experience League-Team produziert wird und praktische Tipps, Tricks und Strategien bietet, die Sie in Experience Cloud-Programmen, in Programm-Services und in Adobe Experience Platform anwenden können.
 
 ## Nächste Folge: Experience Platform und Echtzeit-Kundendatenplattform!
 
@@ -24,7 +24,7 @@ Experience League LIVE ist eine Live-Streaming-Show, die vom Experience League-T
 *FolgeGuests:* Aaron Shields, Yaya Wang, Andres Monroy 
 ***MARK THE DATE!*** Am Donnerstag, den 26.  **August** , um  **9**  Uhr Pazifikzeit
 
-## Bevorstehende Episoden
+## Bevorstehende Folgen
 
 Machen Sie sich über die folgenden bevorstehenden Episoden der Experience League LIVE begeistert!
 
@@ -62,9 +62,9 @@ Machen Sie sich über die folgenden bevorstehenden Episoden der Experience Leagu
 </tr>
 </table>
 
-## Wiederholungen vergangener Episoden
+## Wiederholungen vergangener Folgen
 
-Hast du eine Folge von Experience League LIVE verpasst? Wir verzeihen dir. Hier finden Sie Links, damit Sie sich vergangene Folgen ansehen können.
+Haben Sie eine Folge von Experience League LIVE verpasst? Das kann natürlich einmal vorkommen. Hier finden Sie Links, damit Sie sich vergangenen Folgen ansehen können.
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Hast du eine Folge von Experience League LIVE verpasst? Wir verzeihen dir. Hier 
 
 >[!TIP]
 >
->Weitere Lernmethoden finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/#dashboard/learning) sowie in den einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in den einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).

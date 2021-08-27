@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 ### Ein neuer Kurs, der Sie bei der Vorbereitung unterstützt
 
-Um uns auf das Lernen und die Lehre des Analysecurriculums vorzubereiten, haben wir einen brandneuen Kurs in Adobe Education Exchange begonnen, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Schüler/innen auf die 4 Kernmodule und darüber hinaus zu unterrichten.
+Als Vorbereitung auf das Lernen und das Vermitteln des Analytics-Lernangebots haben wir auf Adobe Education Exchange einen komplett neuen Kurs zur Verfügung gestellt, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Lernenden in den vier Kernmodulen und darüber hinaus zu unterrichten.
 
 Melden Sie sich hier für den Kurs an: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 

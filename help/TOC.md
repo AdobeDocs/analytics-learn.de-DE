@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -213,7 +213,7 @@ ht-degree: 96%
 + Administration {#administration}
    + Unternehmenseinstellungen {#company-settings}
       + [E-Mail-Domänenbeschränkungen erzwingen](administration/company-settings/enforce-email-domain-restrictions.md)
-      + [Die verfügbaren Funktionen Ihres Kontos anzeigen](administration/company-settings/view-your-accounts-available-features.md)
+      + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
    + Benutzerverwaltung {#user-management}
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Beschränken des Report Suite-Zugriffs in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
@@ -227,14 +227,14 @@ ht-degree: 96%
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurieren von Variablen in der Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Aktivieren Sie die Einstellung &quot;Zeitstempel optional&quot;](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Aktivieren Sie die Einstellung „Zeitstempel optional“](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurieren von Bot-Regeln in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
       + [Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Die richtigen Personen für Ihr Analytics-Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Traffic-Management {#traffic-management}
       + [Nutzung der Server-Aufrufe](administration/traffic-management/server-call-usage.md)
-      + [Bevorstehende Traffic-Spitze verwalten](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
+      + [Verwalten einer bevorstehenden Traffic-Spitze](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Protokolle {#logs}
       + [Nutzungsprotokoll-Tracking für Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Übersicht über die Analytics-Admin-Protokolle](administration/logs/overview-of-analytics-admin-logs.md)
@@ -320,12 +320,12 @@ ht-degree: 96%
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Einführung in Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Data Warehouse-Anfrage über SFTP senden](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Senden von Data Warehouse-Anfragen über SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Daten-Feeds {#data-feeds}
       + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
       + [Herunterladen des Daten-Feed-Authentifizierungsschlüssels](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Ermitteln der Daten-Feed-ID](exporting/data-feeds/find-your-data-feed-id.md)
-      + [Datenfeed-Auftrag erneut ausführen](exporting/data-feeds/rerun-a-data-feed-job.md)
+      + [Erneutes Ausführen eines Daten-Feed-Auftrags](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Gleichzeitiges Hinzufügen von Segmenten in mehrere Anforderungen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomalieerkennung in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)

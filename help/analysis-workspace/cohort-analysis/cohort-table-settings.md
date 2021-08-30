@@ -1,7 +1,7 @@
 ---
 title: Einstellungen der Kohortentabellen
 description: 'Es gibt verschiedene Einstellungen der Kohortentabelle, mit denen Sie Ihre Ansicht der Bindung oder Abwanderung anpassen können. In diesem Video werden sie hervorgehoben dargestellt. '
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,4 +32,4 @@ Anpassungen für die [!UICONTROL Kohortentabelle] ermöglichen unter anderem Fol
 
 Die durchschnittliche Zeile ist besonders hilfreich beim Anzeigen von [!UICONTROL retention] oder [!UICONTROL churn] insgesamt, anstatt von einzelnen [!UICONTROL Kohorten]-Zeilen.
 
-Weitere Informationen zur Analyse [!UICONTROL cohort] finden Sie in der [Dokumentation](https://docs.adobe.com/help/de-DE/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Weitere Informationen zur Analyse [!UICONTROL cohort] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).

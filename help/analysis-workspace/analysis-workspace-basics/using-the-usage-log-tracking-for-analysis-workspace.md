@@ -1,8 +1,8 @@
 ---
 title: Verwenden des Nutzungsprotokoll-Trackings für Analysis Workspace
-seo-title: Verwenden des Nutzungsprotokoll-Trackings für Analysis Workspace
+seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie das Nutzungsprotokoll-Tracking bei Workspace-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
-seo-description: In diesem Video erfahren Sie, wie Sie das Nutzungsprotokoll-Tracking bei Workspace-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,11 +11,10 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
@@ -39,7 +38,7 @@ Projektansichten sind der beste Hinweis darauf, ob Ihre Benutzer [!DNL Workspace
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Weitere Informationen zu Protokollen](https://marketing.adobe.com/resources/help/de_DE/reference/logs.html)
+* [Weitere Informationen zu Protokollen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Demo-Dashboard herunterladen](https://adobe.ly/2ygP5ws)
 
 WAS KOMMT ALS NÄCHSTES: Wir arbeiten daran, diese Informationen in Kürze in einer benutzerfreundlichen UI (und mit mehr Details) innerhalb von [!DNL Analytics] zu präsentieren.

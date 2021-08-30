@@ -1,7 +1,7 @@
 ---
 title: Mehrere Report Suites in Analysis Workspace
 description: Mehrere Suites können in einem einzigen Arbeitsbereich-Projekt analysiert werden, indem Report Suites auf Bedienfeldebene ausgewählt werden. Auf diese Weise können Sie eine parallele Bedienfeldanalyse für verschiedene Datensätze durchführen.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 45%
+source-wordcount: '145'
+ht-degree: 44%
 
 ---
 
@@ -29,4 +29,4 @@ Mehrere [!UICONTROL Report Suites] können in einem einzelnen [!DNL Workspace] P
 
 Daten aus mehreren [!UICONTROL Report Suites] können nicht in Tabellen, [!UICONTROL Segmenten] oder [!UICONTROL berechneten Metriken] kombiniert werden (zusammengefasst, aufgeteilt usw.). Die Best Practice für einen ganzheitlichen Datenansatz besteht weiterhin darin, alle Treffer an eine &quot;globale Suite&quot;zu senden.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=de).

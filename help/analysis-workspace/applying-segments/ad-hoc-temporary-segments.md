@@ -1,7 +1,7 @@
 ---
 title: Ad-hoc-Segmente (temporär) in Analysis Workspace
 description: Wollten Sie schon einmal schnell ein einfaches Segment erstellen, um eine bestimmte Frage zu beantworten, und dann das Segment verwerfen, sodass es Ihre Liste gespeicherter Segmente nicht ausfüllt? Jetzt können Sie den Bericht für diese Merchandising-Teams!
-feature: Segmentierung
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2010
 role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -26,4 +26,4 @@ Wollten Sie schon einmal schnell ein einfaches Segment erstellen, um eine bestim
 
 Ad-hoc-Segmente funktionieren innerhalb des Projekts, in dem sie erstellt werden, werden jedoch nur dann dauerhaft gespeichert, wenn Sie sie speichern.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Funktionsdokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Funktionsdokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).

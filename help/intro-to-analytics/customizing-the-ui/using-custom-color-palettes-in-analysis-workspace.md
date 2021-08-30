@@ -1,7 +1,7 @@
 ---
 title: Verwenden von eigenen Farbpaletten in Analysis Workspace
 description: Sie können die Farbpalette in Analysis Workspace ändern, um sie besser an Ihre Marke oder die Ihrer Kunden anzupassen.
-feature: Workspace – Allgemeines
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 1943
 role: User
 level: Beginner
 exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 21%
+source-wordcount: '115'
+ht-degree: 11%
 
 ---
 
@@ -25,4 +25,4 @@ Sie können die in [!UICONTROL Analysis Workspace] verwendete Farbpalette ] änd
 
 Wir bieten 5 OOTB-Paletten sowie die Möglichkeit, Ihre eigene eindeutige Farbzeichenfolge anzugeben. Farben wirken sich auf alle kategorischen Visualisierungen in [!UICONTROL Analysis Workspace] aus. Die einzigen ausgeschlossenen [!UICONTROL Visualisierungen] sind [!UICONTROL Zusammenfassungsänderung], bedingte Formatierung in [!UICONTROL Freiformtabellen], Einstiege/Ausstiege in [!UICONTROL Fluss] und [!UICONTROL Zuordnung].
 
-Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/color_palettes.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=en).

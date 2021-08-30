@@ -1,7 +1,7 @@
 ---
 title: Verbesserungen bei Segmentablagezonen in Analysis Workspace
 description: Die Ablageflächen für Segmente wurden verbessert, sodass Sie alles an einer beliebigen Stelle in einem Projekt ablegen können.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2008
 role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 8%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 9%
 
 Sie können jetzt vollständige [!UICONTROL Dimensionen] und [!UICONTROL Metriken] ablegen, zusätzlich zur bestehenden Unterstützung für [!UICONTROL Dimensionselemente], [!UICONTROL Datumsbereiche] und [!UICONTROL Segmente]. Darüber hinaus wurde die Handhabung von [!UICONTROL Dimension]-Elementen von &quot;nicht angegeben&quot;und &quot;keine&quot;verbessert, wenn sie in der Dropzone [!UICONTROL Segment] abgelegt werden.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).

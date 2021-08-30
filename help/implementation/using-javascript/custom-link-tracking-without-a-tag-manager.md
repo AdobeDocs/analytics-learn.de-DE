@@ -1,7 +1,7 @@
 ---
 title: Benutzerspezifisches Linktracking ohne Tag-Manager
 description: Bei vielen Aktionen auf der Seite sollte Tracking nicht wie ein Seitenaufruf behandelt werden. In diesem Video erfahren Sie, wie Sie ein Linktracking-Beacon für Analytics codieren, wenn Sie keinen Tag-Manager (wie Experience Platform Launch) verwenden. Sehen Sie sich den Code an und lernen Sie einen wichtigen Tipp kennen.
-feature: AppMeasurement-Implementierung
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ Im Folgenden finden Sie den Beispielcode für den benutzerspezifischen Link im V
     Click here to share on FaceBook
 </a>
 ```
-
-Weitere Informationen zu benutzerspezifischen Links finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/sc/implement/function_tl.html).

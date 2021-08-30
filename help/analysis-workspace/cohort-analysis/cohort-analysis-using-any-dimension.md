@@ -1,7 +1,7 @@
 ---
 title: Kohortenanalyse mit einer beliebigen Dimension
 description: Mit der Option "Dimension der benutzerdefinierten Kohorte"können Sie Kohorten anhand anderer Dimensionen als der Zeit analysieren. Vergleichen Sie Kohorten nach Marketing-Kanal, Kampagnenregion, Produktseite usw. , um besser zu verstehen, wie sich die Bindung (oder Abwanderung) nach Dimensionselement ändert.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 28%
+ht-degree: 17%
 
 ---
 
@@ -24,4 +24,4 @@ Mit der Option Benutzerdefinierte [!UICONTROL Kohorte] [!UICONTROL Dimension] k�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/cohort_analysis.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

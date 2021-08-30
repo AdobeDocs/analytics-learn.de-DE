@@ -10,10 +10,10 @@ kt: 1769
 role: User
 level: Intermediate
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 1%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Sie können [!UICONTROL Metriken] jetzt über mehrere [!UICONTROL Report Builder
 
 Diese Funktion ergänzt die vorhandenen Funktionen zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten] über Anforderungen hinweg. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über &quot;[!UICONTROL Mehrere bearbeiten]&quot;im Fenster &quot;Verwalten&quot;erfolgen.
 
-Weitere Informationen zu dieser Funktion finden Sie in der Dokumentation [a1/>.](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html)
+Weitere Informationen zu dieser Funktion finden Sie in der Dokumentation [a1/>.](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en)

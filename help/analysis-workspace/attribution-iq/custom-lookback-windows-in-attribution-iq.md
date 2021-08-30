@@ -11,10 +11,10 @@ kt: 5553
 role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 61%
+source-wordcount: '141'
+ht-degree: 60%
 
 ---
 
@@ -24,4 +24,4 @@ Mit benutzerdefinierten Rückblendfenstern können Sie das Attributionsfenster �
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de#lookback-windows)

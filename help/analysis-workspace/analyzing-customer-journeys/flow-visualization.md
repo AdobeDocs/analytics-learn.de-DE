@@ -1,7 +1,7 @@
 ---
 title: Fluss-Visualisierung im Analysis Workspace
 description: Dieses Video führt Sie durch die Flussvisualisierung in Analysis Workspace. Sie können Flow verwenden, um Benutzerbewegungen anzuzeigen und zu untersuchen, um Ihre Journey besser zu verstehen.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2279
 role: User
 level: Beginner
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 31%
+source-wordcount: '77'
+ht-degree: 18%
 
 ---
 
@@ -24,4 +24,4 @@ Dieses Video führt Sie durch die [!DNL Flow visualization] in Analysis Workspac
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/flow.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

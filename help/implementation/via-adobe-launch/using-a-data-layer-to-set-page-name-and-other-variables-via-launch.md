@@ -1,7 +1,7 @@
 ---
 title: Verwenden einer Datenschicht zum Festlegen des Seitennamen und anderer Variablen in Adobe Analytics über Launch
 description: Die Verwendung einer Datenschicht für Analytics und andere Experience Cloud-Lösungen gilt als Best Practice. In diesem Video erfahren Sie, wie Sie Ihre Werte aus der Datenschicht ziehen und in Launch verwenden, um Variablen in Adobe Analytics zu füllen.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ Die Verwendung einer Datenschicht für [!DNL Analytics] und andere Experience Cl
 
 ## Datenschichten {#data-layers}
 
-Es empfiehlt sich, beim Arbeiten mit Daten auf Ihrer Site und Adobe Experience Cloud-Lösungen, insbesondere mit Adobe Analytics, eine Datenschicht zu verwenden. Eine _Datenschicht_ ist ein Framework von JavaScript-Objekten, die Entwickler in Seiten einfügen. Die Datenschichten können von Tracking-Tools (einschließlich Tag-Management-Systemen wie [!DNL Experience Platform Launch]) verwendet werden, um Berichte zu füllen. Weitere Informationen zu Datenschichten finden Sie in der [Experience Cloud-Dokumentation](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) oder auf der [W3C-Site](https://www.w3.org/).
+Es empfiehlt sich, beim Arbeiten mit Daten auf Ihrer Site und Adobe Experience Cloud-Lösungen, insbesondere mit Adobe Analytics, eine Datenschicht zu verwenden. Eine _Datenschicht_ ist ein Framework von JavaScript-Objekten, die Entwickler in Seiten einfügen. Die Datenschichten können von Tracking-Tools (einschließlich Tag-Management-Systemen wie [!DNL Experience Platform Launch]) verwendet werden, um Berichte zu füllen. Weitere Informationen zu Datenschichten finden Sie in der [Experience Cloud-Dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) oder auf der [W3C-Site](https://www.w3.org/).
 
 Weitere Informationen finden Sie im Blog [Datenschichten: Von Buzzword zu Best Practice,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), das Ihnen einige großartige Informationen über Datenschichten sowie einige Beispiele bietet.
 

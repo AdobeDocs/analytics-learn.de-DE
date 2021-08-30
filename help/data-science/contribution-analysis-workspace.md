@@ -1,7 +1,7 @@
 ---
 title: Beitragsanalyse in Analysis Workspace
 description: Dieses Video führt Sie durch die Beitragsanalyse und die Möglichkeit, maschinelles Lernen zu verwenden, um die Faktoren, die zu einem Trend in Ihren Daten beigetragen haben, schnell und einfach zu erklären.
-feature: Data Science
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 31%
+source-wordcount: '99'
+ht-degree: 19%
 
 ---
 
@@ -25,4 +25,4 @@ Dieses Video führt durch [!UICONTROL Beitragsanalyse] und die Möglichkeit, mas
 
 [!UICONTROL Beitragsanalysen ] sind in Analysis Workspace für Kunden von Adobe Analytics Premium verfügbar.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/anomaly_detection.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

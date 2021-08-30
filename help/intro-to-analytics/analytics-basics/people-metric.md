@@ -1,7 +1,7 @@
 ---
 title: Metrik für Personen in Adobe Analytics
 description: Adobe Analytics bietet jetzt eine Metrik für Personen, die auf Basis der Adobe Experience Cloud-Gerätekooperation dafür sorgt, dass Besucher nicht mehrfach gezählt werden. Dieses Video enthält weitere Informationen hierzu und zeigt Ihnen die ersten Schritte.
-feature: Metriken
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1986
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 85%
 
 ---
 
@@ -26,6 +26,6 @@ Adobe Analytics bietet jetzt eine Metrik für [!UICONTROL Personen], die auf Bas
 
 Wenn Sie zur [!UICONTROL Gerätekooperation] gehören, können Sie Metriken auf Basis von Personen und nicht nur anhand von Besuchern berechnen.
 
-Weitere Informationen zur [!UICONTROL Gerätekooperation] finden Sie in [dieser Dokumentation](https://marketing.adobe.com/resources/help/de_DE/mcdc/).
+Weitere Informationen zur [!UICONTROL Gerätekooperation] finden Sie in [dieser Dokumentation](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=en).
 
-Weitere Informationen zur Metrik für [!UICONTROL Personen] finden Sie in [dieser Dokumentation](https://marketing.adobe.com/resources/help/de_DE/mcdc/mcdc-people.html).
+Weitere Informationen zur Metrik für [!UICONTROL Personen] finden Sie in [dieser Dokumentation](https://experienceleague.adobe.com/docs/device-co-op/using/data/people.html?lang=en).

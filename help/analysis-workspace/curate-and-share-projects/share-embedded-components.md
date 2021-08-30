@@ -1,7 +1,7 @@
 ---
 title: Freigeben eingebetteter Komponenten in Analysis Workspace
 description: Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, vergessen jedoch auch, die Segmente und Metriken, die Sie mit Ihren Kollegen aufgenommen haben, freizugeben. In diesem Video wird gezeigt, wie Sie jetzt Segmente und Metriken im Prozess der Projektfreigabe freigeben können, sodass Kollegen jedes Mal sehen, was Sie beabsichtigen.
-feature: Kuratieren und Freigeben
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2295
 role: User
 level: Beginner
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, aber Sie vergess
 
 >[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/de_DE/analytics/analysis-workspace/curate.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

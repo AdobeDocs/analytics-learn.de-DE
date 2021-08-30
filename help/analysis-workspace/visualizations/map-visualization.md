@@ -1,7 +1,7 @@
 ---
 title: Zuordnungsvisualisierung in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie die neue Zuordnungsvisualisierung in Analysis Workspace verwenden. Mit dem Map-Video können Sie entweder mobile (lat/long) oder Web-Daten (IP-Adressen) mit einer dynamischen Karte anzeigen, um eine Vorstellung von der Kundennutzung im Kontext ihres Standorts zu erhalten.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Abschnitte in diesem Video:
 
 7:00 - Heatmap-Ansicht
 
-Weitere Informationen zu dieser [!UICONTROL Visualisierung] finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
+Weitere Informationen zu dieser [!UICONTROL Visualisierung] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).

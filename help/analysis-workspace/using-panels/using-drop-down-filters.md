@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Dropdown-Filtern in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie Dropdown-Filter in Analysis Workspace verwenden können, um den Inhalt eines Bedienfelds dynamisch zu ändern.
-feature: Bedienfelder
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 3%
@@ -27,4 +27,4 @@ Die Dropzone des Bedienfelds verfügt jetzt über Dropdown-Filterfunktionen. Dro
 
 Dropdown-Listen sind auch eine hilfreiche Möglichkeit zur Konsolidierung von Projekten und Bereichen. Wenn Sie beispielsweise mehrere Versionen eines Projekts haben, das länderspezifische Berichte bereitstellt, können Sie diese Projekte jetzt in einem einzelnen Projekt reduzieren und eine Dropdown-Liste für Länder hinzufügen, zwischen der Benutzer umschalten können.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).

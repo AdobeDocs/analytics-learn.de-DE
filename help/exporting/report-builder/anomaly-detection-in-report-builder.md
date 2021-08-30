@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 32%
+ht-degree: 30%
 
 ---
 
@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie Ihren Datenanforderungen [!UICONTROL Anomalieerkennung] [!
 
 In [!UICONTROL Report Builder] können Sie [!UICONTROL Metrik]-Aktuale sowie erwartete Werte und obere und untere Begrenzungen zurückgeben, um die Daten, die Sie analysieren und freigeben, tiefer einzugrenzen.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).

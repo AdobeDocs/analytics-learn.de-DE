@@ -1,20 +1,20 @@
 ---
 title: Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace
 description: Der Ad Hoc Analysis Project Converter konvertiert Ad Hoc Analysis (AHA)-Projekte nahtlos in Analysis Workspace-Projekte, indem er auf eine Schaltfläche klickt.
-feature: Experience Cloud-Integration
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrationen
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 24%
+source-wordcount: '72'
+ht-degree: 19%
 
 ---
 
@@ -24,6 +24,3 @@ Der [!UICONTROL Ad Hoc Analysis] Project Converter konvertiert [!UICONTROL Ad Ho
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
-## Zusätzliche Ressourcen {#additional-resources}
-
-* [Funktionsdokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)

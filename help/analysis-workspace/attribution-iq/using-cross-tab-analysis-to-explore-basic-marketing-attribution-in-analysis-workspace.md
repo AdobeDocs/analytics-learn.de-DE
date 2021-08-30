@@ -1,7 +1,7 @@
 ---
 title: Tabulatorübergreifende Analysen zur Erforschung der grundlegenden Marketing-Attribution in Analysis Workspace
 description: Es gibt verschiedene Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weiter zu verfeinern. In diesem Video gehen wir darauf ein, wie Sie mithilfe tabulatorübergreifender Analysen in Workspace tiefere Einblicke aus dem Bericht Marketing-Kanäle gewinnen können.
-feature: Marketing-Kanäle
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Es gibt verschiedene Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytic
 * 4:30 - Spalteneinstellungen können jetzt stapelweise statt 1:1 aktualisiert werden. Weitere Informationen finden Sie in 8:45 des Videos: [Zeilen- und Spalteneinstellungen in Freiformtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Weitere Informationen zu diesem Thema finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/attribution/models.html).
+Weitere Informationen zu diesem Thema finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de).

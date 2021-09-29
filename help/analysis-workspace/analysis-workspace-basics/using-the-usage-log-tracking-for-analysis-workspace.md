@@ -12,9 +12,9 @@ author: Doug Moore
 team: Technical Marketing
 kt: 1597
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Projektansichten sind der beste Hinweis darauf, ob Ihre Benutzer [!DNL Workspace
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Weitere Informationen zu Protokollen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [Weitere Informationen zu Protokollen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=de)
 * [Demo-Dashboard herunterladen](https://adobe.ly/2ygP5ws)
 
 WAS KOMMT ALS NÄCHSTES: Wir arbeiten daran, diese Informationen in Kürze in einer benutzerfreundlichen UI (und mit mehr Details) innerhalb von [!DNL Analytics] zu präsentieren.

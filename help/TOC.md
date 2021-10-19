@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + Segmentierung {#segmentation}
       + [Übersicht über den Segmentaufbau](components/segmentation/segment-builder-overview.md)
       + [Suchen und Erstellen von Segmenten](components/segmentation/finding-and-creating-segments.md)
-      + [Vor/Nach Sequenzen in der sequenziellen Segmentierung](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Rollierende Datumsbereiche in Segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentvergleich in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segment-Container](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=de)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=de)
       + [Sequenzielle Segmentierung](components/segmentation/sequential-segmentation.md)
+      + [Vor/Nach Sequenzen in der sequenziellen Segmentierung](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentierung nach einzelnen Dimensionswerten](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimensionsmodelle in der Segmentierung](components/segmentation/dimension-models-in-segmentation.md)
       + [Operator „ist gleich eines von“ bei der Segmentierung](components/segmentation/equals-any-of-operator-in-segmentation.md)
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Analytics-Grundlagen für Geschäftsbenutzer wurden eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Die Analytics-Grundlagen für Geschäftsbenutzer wurden eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)

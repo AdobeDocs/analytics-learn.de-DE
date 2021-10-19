@@ -1,24 +1,29 @@
 ---
 title: Sequenzielle Segmentierung in Adobe Analytics
-description: Dieses Video führt Sie durch die Segmentierung von Verhaltenssequenzen in Adobe Analytics und deren Verwendung zum Vergleich von Marketing-Kanälen und Fallouts.
+description: Dieses Video zeigt Ihnen, wie Sie ein Segment aus Verhaltensfolgen auf Ihrer Site oder in Ihrer App in Analysis Workspace erstellen. Mit anderen Worten, Sie möchten vielleicht ein Segment von Besuchern aufbauen, die das A und dann das B gemacht haben, sodass Sie sehen können, wie diese Abfolge von Ereignissen alle anderen Daten beeinflusst hat. Viel Spaß!
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2302
+thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
 # Sequenzielle Segmentierung in Adobe Analytics {#sequential-segmentation-in-adobe-analytics}
 
-Dieses Video führt Sie durch die Segmentierung von Verhaltenssequenzen in Adobe Analytics und deren Verwendung zum Vergleich von [!UICONTROL Marketing-Kanälen] und [!UICONTROL Fallouts].
+Dieses Video zeigt Ihnen, wie Sie ein Segment aus Verhaltensfolgen auf Ihrer Site oder in Ihrer App in Analysis Workspace erstellen. Mit anderen Worten, Sie möchten vielleicht ein Segment von Besuchern aufbauen, die &quot;Sache A&quot; gemacht und dann &quot;Sache B&quot; gemacht haben, damit Sie sehen können, wie diese Abfolge von Ereignissen alle anderen Daten beeinflusst hat. Viel Spaß!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+
+## Verwandte Videos
+
+[Vorher und Nachher-Sequenz in sequenzieller Segmentierung](before-after-sequences-in-sequential-segmentation.md)
+
+## Zusätzliche Informationen
+
+Weitere Informationen zu diesem Thema finden Sie im [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=de).

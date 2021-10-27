@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '2209'
+source-wordcount: '2208'
 ht-degree: 99%
 
 ---
@@ -160,8 +160,8 @@ ht-degree: 99%
       + [Arbeiten mit Dimensionen in einer Freiformtabelle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=de)
    + Kalender und Datumsbereiche {#calendar-and-date-ranges}
       + [Verwenden von Datumsangaben in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Anwenden wiederverwendbarer Datumsbereiche in Ihrem Projekt](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Verwenden von Datumsbereichen und -vergleichen in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [Verwendung von Datumsbereichen und Kalender in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [Erstellen von benutzerdefinierten Datumsbereichen](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumsvergleiche in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Die Analytics-Grundlagen für Geschäftsbenutzer wurden eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Analytics-Grundlagen für Geschäftsbenutzer wurden eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)

@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
-workflow-type: ht
-source-wordcount: '294'
+source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
+workflow-type: tm+mt
+source-wordcount: '292'
 ht-degree: 100%
 
 ---
 
 # Überblick
 
-Willkommen auf der Tutorial-Site zu [!DNL Analytics].  Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics schneller als je zuvor Kundeneinblicke gewinnen können.  Als ersten Schritt
+Willkommen auf der Tutorial-Site zu [!DNL Analytics].  Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics schneller als je zuvor Kundeneinblicke gewinnen können.  Als ersten Schritt
 * Die neuesten Informationen finden Sie unten im Abschnitt **Neue Funktionen**
 * Die **Auswahl der Mitarbeiter** zeigt einige unserer Lieblingsinhalte
 * Erkunden Sie den Inhalt sortiert nach Thema und Unterthema in der **linken Navigation**

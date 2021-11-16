@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
 source-wordcount: '2225'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 98%
       + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics-Grundlagen {#analytics-basics}
-      + [Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Schaltfläche „In Arbeitsbereich ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [So werden Analytics-Daten erfasst](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Anmelden bei Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)

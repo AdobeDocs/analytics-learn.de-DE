@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2225'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 99%
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Verwenden des Bedienfelds „Attribution IQ“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=de)
       + [Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Bedienfeld &quot;Besuchszeit für Medienwiedergabe&quot;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
+      + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=de)
       + [Verwenden von Dropdown-Filtern](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbesserungen bei Segmentablagebereichen](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -221,7 +221,7 @@ ht-degree: 99%
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Beschränken des Report Suite-Zugriffs in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Übertragen von Benutzer-Assets an einen anderen Benutzer](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [Überprüfen Sie die verknüpfte IMS-ID, um Anmeldeprobleme zu vermeiden.](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [Überprüfen Sie die verknüpfte IMS-ID, um Anmeldeprobleme zu vermeiden](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Report Suites verwalten {#manage-report-suites}
       + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
@@ -382,7 +382,7 @@ ht-degree: 99%
       + [Einzelhandels-Super-Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=de)
 + Media Analytics {#media-analytics}
    + Messen von Media Analytics {#measuring-media-analytics}
-      + [Bedienfeld &quot;Besuchszeit für Medienwiedergabe&quot;](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Verwenden der Vorlage für den Audioverbrauch in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Mobile-App-Analyse {#mobile-app-analytics}
    + Implementierung {#implementation}

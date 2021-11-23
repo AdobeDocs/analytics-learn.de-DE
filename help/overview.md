@@ -10,7 +10,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Willkommen auf der Tutorial-Site zu [!DNL Analytics].  Durch die Verwendung dies
 
 ## Neuigkeiten
 
-* **[Rechtsklick für Workspace-Effizienz (Video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Rechtsklick für Arbeitsbereich-Effizienz (Video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
    *Erfahren Sie mehr über die beliebtesten Rechtsklicks in Analysis Workspace und deren Verwendung. Von [!UICONTROL Freiformtabellen] bis hin zu [!UICONTROL  bis hin zu Fallout-Visualisierungen]: Durch Rechtsklicks nutzen Sie [!DNL Workspace] noch effizienter und besser.*

@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2235'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -225,7 +225,7 @@ ht-degree: 99%
    + Report Suites verwalten {#manage-report-suites}
       + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Erkennung von Paid Search konfigurieren](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Konfigurieren der Paid-Search-Erkennung](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Anpassen der Menüs in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)

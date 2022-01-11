@@ -2,11 +2,12 @@
 title: Segmentverwaltung und -freigabe in Adobe Analytics
 description: Sie können großartige Segmente erstellen, aber warum behalten Sie sie bei sich selbst? In diesem Video erfahren Sie einige Tipps zum Teilen und Verwalten Ihrer Segmente, damit Sie und andere die Güte genießen können.
 feature: Segmentation
+thumbnail: 25402.jpg
 kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: 0a89dbee943292e969e1a971411e4af0468f58cb
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 9%

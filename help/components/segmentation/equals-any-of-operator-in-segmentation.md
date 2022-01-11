@@ -2,15 +2,13 @@
 title: Verwenden des Operators entspricht einem von in der Segmentierung
 description: Entspricht keinem der Segmentoperatoren und Entspricht keinem der Segmentoperatoren, wurde zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren, um nach einer Liste spezifischer Elemente zu filtern, anstatt mehrere OR-Anweisungen zu verwenden oder Enthält eines von. Durch die Verwendung dieser Operatoren anstelle von enthält wird auch die Geschwindigkeit der Abfrage verbessert.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 32960.jpg
 team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 4%

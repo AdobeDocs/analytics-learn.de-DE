@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ In diesem Video erfahren Sie, wie Sie Dropdown-Filter in Analysis Workspace verw
 
 >[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
 
-Die Dropzone des Bedienfelds verfügt jetzt über Dropdown-Filterfunktionen. Dropdown-Filter ermöglichen es Analysten und Endbenutzern, über kontrollierte Filter mit den Daten zu interagieren. Sie können aus einem beliebigen Komponententyp einen Dropdown-Filter erstellen und dann in der Dropdown-Liste zwischen Elementen wechseln, um die Bedienfeldinhalte zu filtern. Sie können auch mehrere Dropdown-Listen zu einem Bedienfeld hinzufügen, um die Kontrolle zu verbessern.
+Der Bedienfeld-Ablagebereich verfügt jetzt über Dropdown-Filterfunktionen. Dropdown-Filter ermöglichen es Analysten und Endbenutzern, über kontrollierte Filter mit den Daten zu interagieren. Sie können aus einem beliebigen Komponententyp einen Dropdown-Filter erstellen und dann in der Dropdown-Liste zwischen Elementen wechseln, um die Bedienfeldinhalte zu filtern. Sie können auch mehrere Dropdown-Listen zu einem Bedienfeld hinzufügen, um die Kontrolle zu verbessern.
 
-Dropdown-Listen sind auch eine hilfreiche Möglichkeit zur Konsolidierung von Projekten und Bereichen. Wenn Sie beispielsweise mehrere Versionen eines Projekts haben, das länderspezifische Berichte bereitstellt, können Sie diese Projekte jetzt in einem einzelnen Projekt reduzieren und eine Dropdown-Liste für Länder hinzufügen, zwischen der Benutzer umschalten können.
+Dropdown-Listen sind auch eine hilfreiche Möglichkeit zur Konsolidierung von Projekten und Bedienfeldern. Wenn Sie beispielsweise mehrere Versionen eines Projekts haben, das länderspezifische Berichte bereitstellt, können Sie diese Projekte jetzt in einem einzelnen Projekt zusammenfassen und eine Dropdown-Liste für Länder hinzufügen, aus der Benutzer Länder auswählen und so zwischen den einzelnen Ländern wechseln können.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=de).

@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [Bearbeiten eingehender Daten mit Verarbeitungsregeln](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurieren von Traffic-Variablen (Props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Traffic-Klassifizierungen konfigurieren](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Konfigurieren von Variablen in der Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Konversionsklassifizierungen konfigurieren](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurieren von Listenvariablen](administration/manage-report-suites/configuring-list-variables.md)
       + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Konfigurieren von Variablen in der Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Aktivieren Sie die Einstellung „Zeitstempel optional“](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurieren von Bot-Regeln in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}

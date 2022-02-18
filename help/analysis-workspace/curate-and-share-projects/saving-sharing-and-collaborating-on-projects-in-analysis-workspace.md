@@ -1,6 +1,6 @@
 ---
-title: Speichern, Freigeben und Zusammenarbeiten an Projekten in Analysis Workspace
-description: In diesem Video erfahren Sie, wie Sie Projekte für sich speichern und exportieren, Projekte an andere Empfänger senden und andere zur Zusammenarbeit an Ihrem Projekt einladen können.
+title: Speichern und Freigeben von sowie Zusammenarbeiten an Projekten in Analysis Workspace
+description: In diesem Video erfahren Sie, wie Sie Projekte für sich selbst speichern und exportieren, Projekte an andere Empfänger senden und andere zur Zusammenarbeit an Ihrem Projekt einladen können.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# Speichern, Freigeben und Zusammenarbeiten an Projekten in Analysis Workspace
+# Speichern und Freigeben von sowie Zusammenarbeiten an Projekten in Analysis Workspace
 
-In diesem Video erfahren Sie, wie Sie Projekte für sich speichern und exportieren, Projekte an andere Empfänger senden und andere zur Zusammenarbeit an Ihrem Projekt einladen können.
+In diesem Video erfahren Sie, wie Sie Projekte für sich selbst speichern und exportieren, Projekte an andere Empfänger senden und andere zur Zusammenarbeit an Ihrem Projekt einladen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 

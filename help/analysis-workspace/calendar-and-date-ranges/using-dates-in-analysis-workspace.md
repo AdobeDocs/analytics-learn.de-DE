@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Datumsangaben in Analysis Workspace
-description: '"In diesem Video werden drei verschiedene Methoden zum Arbeiten mit Datumsangaben in der Freiformanalyse erläutert: den Kalender, die Elemente des Datumsbereichs und die Granularität. Nicht angezeigt, etwas peinlich: Verwendung von Datumswerten zur Aktivierung von Liniendiagrammen. "'
-feature: Kalender
+description: '„In diesem Video werden drei verschiedene Methoden zum Arbeiten mit Datumsangaben in der Freiformanalyse erläutert: der Kalender, die Elemente des Datumsbereichs und die Granularität. Nicht gezeigt wird allerdings die Verwendung von Datumsangaben zur Aktivierung von Liniendiagrammen. “'
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
 # Verwenden von Datumsangaben in Analysis Workspace {#using-dates-in-analysis-workspace}
 
-In diesem Video werden drei verschiedene Methoden zum Arbeiten mit Datumsangaben in der Analyse [!DNL Freeform] erläutert: den Kalender, die Elemente [!UICONTROL Datumsbereich] und die Granularitätselemente. Nicht angezeigt, etwas peinlich: Verwendung von Datumswerten zur Aktivierung von Liniendiagrammen.
+In diesem Video werden drei verschiedene Methoden zum Arbeiten mit Datumsangaben in der [!DNL Freeform]-Analyse erläutert: der Kalender, die Elemente des [!UICONTROL Datumsbereichs] und die Granularität. Nicht gezeigt wird allerdings die Verwendung von Datumsangaben zur Aktivierung von Liniendiagrammen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)

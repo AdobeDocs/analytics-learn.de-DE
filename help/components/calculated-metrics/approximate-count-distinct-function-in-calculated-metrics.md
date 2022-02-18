@@ -1,7 +1,7 @@
 ---
-title: Ungefährer Distinct Count in berechneten Metriken
-description: Dem Generator für berechnete Metriken wurde die Funktion Ungefährer Distinct Count hinzugefügt. Es handelt sich dabei um eine seit langem erwartete Funktion, die die ungefähre Anzahl unterschiedlicher Dimensionselemente für eine ausgewählte Dimension zurückgibt.
-feature: Berechnete Metriken
+title: Funktion „Ungefährer Distinct Count“ in berechneten Metriken
+description: Die Funktion „Ungefährer Distinct Count“ wurde dem Generator für berechnete Metriken hinzugefügt. Diese lang erwartete Funktion zeigt den individuellen Annäherungswert der Dimensionselemente für eine ausgewählte Dimension an.
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
-# Ungefährer Distinct Count in berechneten Metriken{#approximate-count-distinct-function-in-calculated-metrics}
+# [!UICONTROL Funktion] [!UICONTROL Ungefährer Distinct Count] in [!UICONTROL berechneten Metriken] {#approximate-count-distinct-function-in-calculated-metrics}
 
-Dem [!UICONTROL Generator für berechnete Metriken]wurde eine [!UICONTROL Ungefähre Funktion für ungefähre Anzahl] [!UICONTROL Funktion] hinzugefügt. Es handelt sich um eine seit langem erwartete [!UICONTROL Funktion], die die [!UICONTROL ungefähren Distincate Count] von [!UICONTROL Dimension] für ausgewählte [!UICONTROL Dimension] zurückgibt.
+Die [!UICONTROL Funktion] [!UICONTROL Ungefährer Distinct Count] wurde dem [!UICONTROL Generator für berechnete Metriken] hinzugefügt. Diese lang erwartete [!UICONTROL Funktion] zeigt den [!UICONTROL individuellen Annäherungswert] der [!UICONTROL Dimensionselemente] für ausgewählte [!UICONTROL Dimension] an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
-Sie können die Metrik [!UICONTROL metric] in jedem Bericht verwenden, um die Zählung einer [!UICONTROL Dimension] im Vergleich zu Werten anderer zu verstehen. Beispielsweise die Anzahl der Unique Customers nach Marketing-Kanal.
+Sie können die [!UICONTROL Metrik] in jedem Bericht verwenden, um die Zahl einer [!UICONTROL Dimension] im Vergleich zu den Werten einer anderen zu verstehen. Beispielsweise die Anzahl der Unique Customers nach Marketing-Kanal.

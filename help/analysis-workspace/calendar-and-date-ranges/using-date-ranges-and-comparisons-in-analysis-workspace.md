@@ -9,15 +9,15 @@ role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# Verwenden [!UICONTROL Datumsbereiche] und Vergleiche in Analysis Workspace
+# Verwenden von [!UICONTROL Datumsbereichen] und -vergleichen in Analysis Workspace
 
-In diesem Video erfahren Sie, wie Sie Datumsangaben, [!UICONTROL Datumsbereiche], und Datumsvergleiche , um Ihre Tabellen und Visualisierungen an den richtigen Zeitrahmen anzupassen.
+In diesem Video erfahren Sie, wie Sie mit Datumsangaben, [!UICONTROL Datumsbereichen] und Datumsvergleichen Ihre Tabellen und Visualisierungen an den richtigen Zeitrahmen anpassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 

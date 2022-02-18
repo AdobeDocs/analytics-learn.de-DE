@@ -1,6 +1,6 @@
 ---
 title: Einstellungen der Kohortentabellen
-description: 'Es gibt verschiedene Einstellungen der Kohortentabelle, mit denen Sie Ihre Ansicht der Bindung oder Abwanderung anpassen können. In diesem Video werden sie hervorgehoben dargestellt. '
+description: 'Es gibt verschiedene Einstellungen der Kohortentabellen, mit denen Sie Ihre Ansicht der Kundenbindung oder Abwanderung anpassen können. In diesem Video werden sie vorgestellt. '
 feature: Visualizations
 topics: null
 activity: use
@@ -12,24 +12,24 @@ role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Einstellungen der Kohortentabellen]
+# Einstellungen der [!UICONTROL Kohortentabellen]
 
-Es gibt mehrere Parameter von ® , mit denen Sie Ihre Ansicht von [!UICONTROL retention] oder [!UICONTROL churn] anpassen können. In diesem Video werden sie hervorgehoben dargestellt.
+Es gibt mehrere Einstellungen, mit denen Sie Ihre Ansicht der [!UICONTROL Kundenbindung] oder [!UICONTROL Abwanderung] anpassen können. In diesem Video werden sie vorgestellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
 
-Anpassungen für die [!UICONTROL Kohortentabelle] ermöglichen unter anderem Folgendes:
+Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichkeiten:
 
 1. Nur Prozentsätze anzeigen
 1. Prozentsätze auf die nächste Ganzzahl runden
-1. Zeigt eine Zeile mit dem durchschnittlichen Prozentwert oben in der Tabelle an/blendet sie aus.
+1. Eine Zeile mit den durchschnittlichen Prozentwerten oben in der Tabelle anzeigen/ausblenden.
 
-Die durchschnittliche Zeile ist besonders hilfreich beim Anzeigen von [!UICONTROL retention] oder [!UICONTROL churn] insgesamt, anstatt von einzelnen [!UICONTROL Kohorten]-Zeilen.
+Die Durchschnittszeile ist besonders hilfreich bei der Betrachtung von [!UICONTROL Kundenbindung] oder [!UICONTROL Abwanderung] insgesamt und nicht nach einzelnen [!UICONTROL Kohorten]-Zeilen.
 
-Weitere Informationen zur Analyse [!UICONTROL cohort] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
+Weitere Informationen zur [!UICONTROL Kohorten]-Analyse finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=de).

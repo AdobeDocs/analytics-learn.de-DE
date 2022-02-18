@@ -1,7 +1,7 @@
 ---
-title: Grundkonfiguration der Launch-Erweiterung für Analytics
+title: Grundlegende Konfiguration der Launch-Erweiterung für Analytics
 description: In diesem Video wird gezeigt, wie Sie die Analytics-Erweiterung in Launch für eine einfache Site schnell konfigurieren können.
-feature: Implementierung starten
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 

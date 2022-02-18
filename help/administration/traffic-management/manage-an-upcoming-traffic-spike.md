@@ -1,24 +1,24 @@
 ---
-title: Bevorstehende Traffic-Spitze verwalten
-description: Adobe versucht, mit Kunden zusammenzuarbeiten, um sicherzustellen, dass ein Ereignis mit hohem Traffic erfolgreich ist. Die Planung von Traffic-Spitzen ist der Ausgangspunkt dieses Partnerschaftsprozesses. Im Abschnitt „Spitze planen“ können Sie Adobe vor vorübergehenden Traffic-Spitzen warnen, damit geeignete Ressourcen vorgesehen werden können.
-feature: Datenkonfiguration und -erfassung, Traffic-Management
-topic: Zusammenarbeit
+title: Verwalten einer bevorstehenden Traffic-Spitze
+description: Adobe sucht die Partnerschaft mit Kunden, um den Erfolg eines Ereignisses mit hohem Traffic sicherzustellen. Die Planung von Traffic-Spitzen ist der Ausgangspunkt dieses Partnerschaftsprozesses. Im Abschnitt „Spitze planen“ können Sie Adobe vor temporären Traffic-Spitzen warnen, sodass ausreichende Ressourcen zugewiesen werden können.
+feature: Data Configuration and Collection, Traffic Management
+topic: Collaboration
 role: User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 40%
+exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
+# Verwalten einer bevorstehenden Traffic-Spitze
 
-# Bevorstehende Traffic-Spitze verwalten
-
-Adobe versucht, mit Kunden zusammenzuarbeiten, um sicherzustellen, dass ein Ereignis mit hohem Traffic erfolgreich ist. Die Planung von Traffic-Spitzen ist der Ausgangspunkt dieses Partnerschaftsprozesses. Im Abschnitt „Spitze planen“ können Sie Adobe vor vorübergehenden Traffic-Spitzen warnen, damit geeignete Ressourcen vorgesehen werden können.
+Adobe sucht die Partnerschaft mit Kunden, um den Erfolg eines Ereignisses mit hohem Traffic sicherzustellen. Die Planung von Traffic-Spitzen ist der Ausgangspunkt dieses Partnerschaftsprozesses. Im Abschnitt „Spitze planen“ können Sie Adobe vor temporären Traffic-Spitzen warnen, sodass ausreichende Ressourcen zugewiesen werden können.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)

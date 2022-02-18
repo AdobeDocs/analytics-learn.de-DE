@@ -1,7 +1,7 @@
 ---
-title: Beschränken des Report Suite-Zugriffs in der Admin Console
-description: Adobe Analytics-Benutzer benötigen Zugriff auf die richtigen Daten. Erfahren Sie, wie Sie mit der Admin Console sicherstellen können, dass Benutzer nur auf die Report Suite(s) zugreifen können, die für ihre Rolle erforderlich ist/sind. Führen Sie diese kurzen Schritte in der Adobe Admin Console aus, um ein Report Suite-spezifisches Produktprofil in Ihrer Organisation zu erstellen.
-feature: Benutzerverwaltung
+title: Beschränken des Zugriffs auf Report Suites in der Admin Console
+description: Benutzer von Adobe Analytics benötigen Zugriff auf genau die richtigen Daten. Erfahren Sie, wie Sie mit der Admin Console sicherstellen können, dass Benutzer nur auf die Report Suites zugreifen können, die für ihre Rolle erforderlich sind. Führen Sie diese kurzen Schritte in der Adobe Admin Console aus, um ein für eine Report Suite spezifisches Produktprofil in Ihrer Organisation zu erstellen.
+feature: User Management
 topics: null
 activity: setup
 doc-type: technical video
@@ -13,14 +13,14 @@ role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '122'
+ht-degree: 100%
 
 ---
 
-# Beschränken des Report Suite-Zugriffs in der [!UICONTROL Admin Console]
+# Beschränken des Zugriffs auf Report Suites in der [!UICONTROL Admin Console]
 
-Adobe Analytics-Benutzer benötigen Zugriff auf die richtigen Daten. Erfahren Sie, wie Sie mit der [!UICONTROL Admin Console] sicherstellen können, dass Benutzer nur auf die Report Suite(s) zugreifen können, die für ihre Rolle erforderlich ist/sind. Führen Sie die folgenden kurzen Schritte im Abschnitt [Adobe Admin Console](https://adminconsole.adobe.com/) aus, um ein Report Suite-spezifisches Produktprofil in Ihrem Unternehmen zu erstellen.
+Benutzer von Adobe Analytics benötigen Zugriff auf genau die richtigen Daten. Erfahren Sie, wie Sie mit der [!UICONTROL Admin Console] sicherstellen können, dass Benutzer nur auf die Report Suites zugreifen können, die für ihre Rolle erforderlich sind. Führen Sie diese kurzen Schritte in der [Adobe Admin Console](https://adminconsole.adobe.com/de) aus, um ein für eine Report Suite spezifisches Produktprofil in Ihrer Organisation zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)

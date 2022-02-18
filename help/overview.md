@@ -60,7 +60,7 @@ Willkommen auf der Tutorial-Site zu [!DNL Analytics].  Durch die Verwendung dies
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Vorlage für Training-Tutorials in Analysis Workspace" src="assets/33773.jpg" />
+      <img alt="Vorlage für Trainings-Tutorials in Analysis Workspace" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">

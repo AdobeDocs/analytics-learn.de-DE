@@ -1,24 +1,24 @@
 ---
-title: Verwenden der Donut-Visualisierung
-description: In diesem Video erfahren Sie, wie Sie die Donut-Visualisierung in Ihrem Analysis Workspace-Projekt hinzufügen und konfigurieren.
-feature: Visualisierungen
+title: Verwenden der Ringdiagramm-Visualisierung
+description: In diesem Video erfahren Sie, wie Sie die Ringdiagramm-Visualisierung in Ihrem Analysis Workspace-Projekt hinzufügen und konfigurieren.
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334309.jpg
 kt: 8130
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 26%
+exl-id: 24f6db24-f8b3-4506-964c-da23e0e0b505
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '59'
+ht-degree: 100%
 
 ---
 
+# Verwenden der Ringdiagramm-Visualisierung
 
-# Verwenden der Donut-Visualisierung
-
-In diesem Video erfahren Sie, wie Sie die Donut-Visualisierung in Ihrem Analysis Workspace-Projekt hinzufügen und konfigurieren.
+In diesem Video erfahren Sie, wie Sie die Ringdiagramm-Visualisierung in Ihrem Analysis Workspace-Projekt hinzufügen und konfigurieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=de).

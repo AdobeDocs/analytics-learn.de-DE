@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren der Postleitzahleneinstellungen in Adobe Analytics
+title: Konfigurieren der Postleitzahleinstellungen in Adobe Analytics
 seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
 description: In diesem Video erfahren Sie, wie Sie die Einstellungen für Postleitzahlen konfigurieren, damit Sie Analysen auf der Grundlage dieser Regionsdaten durchführen können.
 seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
@@ -15,16 +15,16 @@ role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Konfigurieren von [!UICONTROL Postleitzahleneinstellungen] und Postleitzahleneinstellungen in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Konfigurieren der [!UICONTROL Postleitzahleinstellungen] in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-In diesem Video erfahren Sie, wie Sie die Einstellungen für [!UICONTROL zip] und Postleitzahlen konfigurieren, damit Sie Analysen auf der Grundlage dieser Regionsdaten durchführen können.
+In diesem Video erfahren Sie, wie Sie die Einstellungen für [!UICONTROL Postleitzahlen] konfigurieren, damit Sie Analysen auf der Grundlage dieser Regionsdaten durchführen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-Weitere Informationen zu den Einstellungen für [!UICONTROL Postleitzahl] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Weitere Informationen zu den Einstellungen für [!UICONTROL Postleitzahlen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=de).

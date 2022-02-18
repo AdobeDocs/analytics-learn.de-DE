@@ -1,7 +1,7 @@
 ---
 title: Die richtigen Personen für Ihr Analytics-Team
-description: Es ist sehr wichtig, die richtigen Personen in Ihrem Team zu finden, wenn Sie Adobe Analytics implementieren und die Aktivität auf Ihrer Site analysieren. In diesem Video erhalten Sie einen schnellen Überblick über die verschiedenen Rollen, die Sie ausfüllen möchten.
-feature: Analytics-Grundlagen
+description: Bei der Implementierung von Adobe Analytics und auch bei der Analyse der Aktivitäten auf Ihrer Site ist es sehr wichtig, die richtigen Personen für Ihr Team zu finden. In diesem Video erhalten Sie einen kurzen Überblick über die verschiedenen Rollen, die Sie besetzen sollten.
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,14 +11,14 @@ role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
-# Abrufen der richtigen Personen in Ihrem [!DNL Analytics]-Team
+# Die richtigen Personen für Ihr [!DNL Analytics]-Team
 
-Es ist sehr wichtig, die richtigen Personen in Ihrem Team zu finden, wenn Sie Adobe Analytics implementieren und die Aktivität auf Ihrer Site analysieren. In diesem Video erhalten Sie einen schnellen Überblick über die verschiedenen Rollen, die Sie ausfüllen möchten.
+Bei der Implementierung von Adobe Analytics und auch bei der Analyse der Aktivitäten auf Ihrer Site ist es sehr wichtig, die richtigen Personen für Ihr Team zu finden. In diesem Video erhalten Sie einen kurzen Überblick über die verschiedenen Rollen, die Sie besetzen sollten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)

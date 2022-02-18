@@ -1,7 +1,7 @@
 ---
-title: 7 Tipps und Tricks, die das schnellere und einfachere Erstellen benutzerdefinierter Analytics-Projekte ermöglichen
-description: Analysis Workspace ist ein leistungsstarkes Tool in Adobe Analytics, mit dem Sie wirkungsvollere Analyseprojekte erstellen können. Es verfügt über ein umfangreiches Funktionsumfang, mit dem Sie jede Art von Freiformanalyse durchführen können, aber über ein einfaches Benutzererlebnis, das diese Leistung und Skalierung verfügbar macht.
-feature: Workspace – Allgemeines
+title: 7 Tipps und Tricks zum schnelleren und einfacheren Erstellen benutzerdefinierter Analytics-Projekte
+description: Analysis Workspace ist ein leistungsstarkes Tool in Adobe Analytics, mit dem Sie wirkungsvollere Analyseprojekte erstellen können. Es hat ein umfangreichen Funktionsumfang, mit dem Sie jede Art von Freiformanalyse durchführen können, aber gleichzeitig bietet das Tool ein einfaches Benutzererlebnis, durch das diese Leistungsfähigkeit und Skalierbarkeit auch für alle zugänglich wird.
+feature: Workspace Basics
 topics: topics
 activity: use
 doc-type: feature video
@@ -11,91 +11,91 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '1056'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1054'
+ht-degree: 100%
 
 ---
 
-# 7 Tipps und Tricks, die das schnellere und einfachere Erstellen benutzerdefinierter Analytics-Projekte ermöglichen
+# 7 Tipps und Tricks zum schnelleren und einfacheren Erstellen benutzerdefinierter Analytics-Projekte
 
 **Erweitern Sie Ihre Analysis Workspace-Kenntnisse!**
-Analysis Workspace ist ein leistungsstarkes Tool in Adobe Analytics, mit dem Sie wirkungsvollere Analyseprojekte erstellen können. Es verfügt über ein umfangreiches Funktionsumfang, mit dem Sie jede Art von Freiformanalyse durchführen können, aber über ein einfaches Benutzererlebnis, das diese Leistung und Skalierung verfügbar macht.
+Analysis Workspace ist ein leistungsstarkes Tool in Adobe Analytics, mit dem Sie wirkungsvollere Analyseprojekte erstellen können. Es hat ein umfangreichen Funktionsumfang, mit dem Sie jede Art von Freiformanalyse durchführen können, aber gleichzeitig bietet das Tool ein einfaches Benutzererlebnis, durch das diese Leistungsfähigkeit und Skalierbarkeit auch für alle zugänglich wird.
 
 ## Build: Drilldown zu den richtigen Datenpunkten
 
-### ***Tipp 1: Legen Sie eine beliebige  [!UICONTROL Dimension], einen  [!UICONTROL Datumsbereich], ein  [!UICONTROL Segment] oder eine   Metrik in einen beliebigen Teil Ihres Projekts ab.***
+### ***Tipp 1: Ziehen Sie beliebige [!UICONTROL Dimensionen], [!UICONTROL Datumsbereiche], [!UICONTROL Segmente] oder [!UICONTROL Metriken] in einen beliebigen Teil Ihres Projekts.***
 
-Ziehen Sie einfach ein [!UICONTROL Segment] oder eine beliebige andere Komponente in die Dropzone [!UICONTROL Segment] oben in einem beliebigen Bedienfeld und Sie können dieses Bedienfeld schnell zu bestimmten Datenpunkten aufteilen. Sie können Ihr Bedienfeld beispielsweise so segmentieren, dass nur Treffer mit Bestellungen angezeigt werden, indem Sie die Metrik [!UICONTROL metric] &quot;Bestellungen&quot;in die Dropzone [!UICONTROL Segment] ablegen. Sie können auch nach Daten segmentieren, die nicht in einer Komponente vorhanden sind (um beispielsweise Treffer ohne Bestellungen anzuzeigen), indem Sie das Dimensionselement &quot;nicht angegeben&quot;oder &quot;keine&quot;in der Zone ablegen.
+Ziehen Sie einfach ein [!UICONTROL Segment] oder eine andere Komponente per Drag-and-Drop in den Ablegebereich für [!UICONTROL Segmente] am oberen Rand eines Bedienfelds. Dann können Sie dieses Bedienfeld schnell zu bestimmten Datenpunkten segmentieren. Sie können Ihr Bedienfeld beispielsweise so segmentieren, dass nur Treffer mit Bestellungen angezeigt werden, indem Sie die [!UICONTROL Metrik] „Bestellungen“ in den Ablegebereich für [!UICONTROL Segmente] ziehen. Sie können auch nach Daten segmentieren, die nicht in einer Komponente vorhanden sind (um beispielsweise Treffer ohne Bestellungen anzuzeigen), indem Sie das Dimensionselement „nicht angegeben“ oder „keine“ in den Ablegebereich ziehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
 >[!TIP]
 >
->**Probieren Sie Folgendes aus:** Im Kontextmenü steht Ihnen eine Welt der Effizienz zur Verfügung. Von diesem Menü aus können Sie direkt in Ihrem Analysis Workspace-Workflow auf viele Tools und Funktionen zugreifen. Klicken Sie im Zweifelsfall mit der rechten Maustaste, um zu sehen, ob das benötigte Tool oder die benötigte Funktion in der Nähe ist.
+>**Probieren Sie Folgendes aus:** Im Kontextmenü steht Ihnen eine Reihe von effizienten Funktionen zur Verfügung. Von diesem Menü aus können Sie direkt in Ihrem Analysis Workspace-Workflow auf viele Tools und Funktionen zugreifen. Klicken Sie im Zweifelsfall mit der rechten Maustaste, um zu sehen, ob das benötigte Tool oder die benötigte Funktion im Kontextmenü verfügbar ist.
 
-### ***Tipp 2: Einfache Metriken erstellen, ohne den Workflow verlassen zu müssen***
+### ***Tipp 2: Erstellen Sie einfache Metriken, ohne den Workflow verlassen zu müssen.***
 
-Mit der Option Schnell [!UICONTROL Berechnete Metriken] können Sie direkt in Analysis Workspace neue [!UICONTROL Metriken] erstellen, anstatt zum Builder [!UICONTROL Berechnete Metrik] zu navigieren. Wählen Sie einfach die zu berechnenden [!UICONTROL metric]-Spalten aus und wählen Sie dann im Kontextmenü die Option &quot;[!UICONTROL Metrik aus Auswahl erstellen]&quot;. Jetzt können Sie hinzufügen, subtrahieren, teilen, multiplizieren und vieles mehr, ohne Ihr Projekt zu verlassen und Ihren Gedankengang zu brechen.
+Mit schnellen [!UICONTROL berechneten Metriken] können Sie neue [!UICONTROL Metriken] direkt in Analysis Workspace erstellen und müssen hierzu nicht erst zum Builder für [!UICONTROL berechnete Metriken] wechseln. Wählen Sie einfach die [!UICONTROL Metrik]-Spalten aus, die Sie berechnen möchten, und wählen Sie dann im Kontextmenü die Option [!UICONTROL Metrik aus Auswahl erstellen]. Jetzt können Sie hinzufügen, subtrahieren, teilen, multiplizieren und vieles mehr, ohne Ihr Projekt zu verlassen und Ihren Gedankengang zu unterbrechen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
 
 >[!TIP]
 >
->**Hilfreicher Hinweis:** Bei der Verwendung von Quick   Calculated Metrics [!UICONTROL  können bis zu zwei ]Metrikspalten ausgewählt werden. Verwenden Sie den Builder [!UICONTROL Berechnete Metrik] , um [!UICONTROL Metriken] zu erstellen, die mehr als zwei [!UICONTROL Metriken] enthalten.
+>**Hilfreicher Hinweis:** Bei Verwendung der schnellen [!UICONTROL berechneten Metriken] können bis zu zwei [!UICONTROL Metrik]-Spalten ausgewählt werden. Verwenden Sie den Generator für [!UICONTROL berechnete Metriken], um [!UICONTROL Metriken] zu erstellen, die mehr als zwei [!UICONTROL Metriken] enthalten.
 
 ## Visualisieren: Daten in Projekten zum Leben erwecken
 
-### ***Tipp 3: Kopieren und Einfügen von Visualisierungen und Bedienfeldern an beliebiger Stelle***
+### ***Tipp 3: Kopieren Sie Visualisierungen und Bedienfelder und fügen Sie sie an beliebiger Stelle ein.***
 
-Kopieren Sie einfach Visualisierungen und Bedienfelder von einem Ort aus und fügen Sie sie einem anderen hinzu, selbst in einem anderen Projekt. So können Sie Daten einfach verschieben, während Ihr Projekt wächst, und Ihre Ergebnisse für neue Benutzer freigeben, sodass diese keine neue Analyse starten müssen. Klicken Sie einfach mit der rechten Maustaste auf das Bedienfeld oder die Visualisierung, das/die Sie kopieren möchten, wählen Sie &quot;[!UICONTROL Visualisierung kopieren]&quot;und klicken Sie mit der rechten Maustaste auf ein leeres Bedienfeld, um es einzufügen.
+Kopieren Sie ganz einfach Visualisierungen und Bedienfelder von einem Ort und fügen Sie sie einem anderen Ort hinzu, selbst in einem anderen Projekt. So können Sie Daten einfach verschieben, während Ihr Projekt wächst, und Ihre Ergebnisse für neue Benutzer freigeben, sodass diese keine neue Analyse starten müssen. Klicken Sie einfach mit der rechten Maustaste auf das Bedienfeld oder die Visualisierung, das bzw. die Sie kopieren möchten, wählen Sie die Option [!UICONTROL Visualisierung kopieren] aus und klicken Sie mit der rechten Maustaste auf ein leeres Bedienfeld, um das Bedienfeld oder die Visualisierung einzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
 
 >[!TIP]
 >
->**Hohe Anforderung:** Unsere Kunden haben uns gebeten, Visualisierungen und Bedienfelder einfach zu kopieren und einzufügen. Jetzt verbringen sie weniger Zeit damit, Einblicke zu gewinnen, und mehr Zeit, neue zu entdecken.
+>**Häufig angefragte Funktion:** Unsere Kunden haben uns gebeten, das Kopieren und Einfügen von Visualisierungen und Bedienfeldern zu vereinfachen. Jetzt verbringen sie weniger Zeit damit, Erkenntnisse nachzuvollziehen, und mehr Zeit damit, neue Erkenntnisse zu entdecken.
 
-### ***Tipp 4: Wechseln zwischen Visualisierungen mit Zeitgranularität mit nur einem Klick***
+### ***Tipp 4: Wechseln Sie mit nur einem Klick zwischen Visualisierungen mit Zeitgranularität.***
 
-Einfaches Ändern der Zeitansicht beim Arbeiten mit Trendvisualisierungen. In früheren Analysis Workspace-Iterationen bedeutete eine Zeitänderung, das Ausblenden einer Quelltabelle aufzuheben, eine neue [!UICONTROL Dimension] hinzuzufügen und die Tabelle dann erneut auszublenden. Jetzt ist es so einfach, die Zeitgranularität auszuwählen, die Sie demonstrieren möchten, direkt aus dem Dropdown-Menü &quot;[!UICONTROL Visualisierungseinstellungen]&quot; (obere rechte Zahnrad).
+Ändern Sie ganz einfach die Zeitansicht beim Arbeiten mit Trend-Visualisierungen. In früheren Iterationen von Analysis Workspace war es bei einer Zeitänderung nötig, eine Quelltabelle einzublenden, eine neue [!UICONTROL Dimension] hineinzuziehen und anschließend die Tabelle erneut auszublenden. Jetzt müssen Sie lediglich die Zeitgranularität, die Sie demonstrieren möchten, direkt über das Dropdown-Menü [!UICONTROL Visualisierungseinstellungen] (Zahnrad oben rechts) auswählen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
 
-## Freigabe: Einfachere Verwendung und besseres Verständnis der Ergebnisse für andere
+## Freigabe: Einfacheres Verwenden und Verstehen von Ergebnissen durch andere
 
-### ***Tipp 5: Erstellen Sie einen benutzerdefinierten  [!DNL Virtual Report Suite] für bestimmte Geschäftseinheiten.***
+### ***Tipp 5: Erstellen Sie eine benutzerdefinierte [!DNL Virtual Report Suite] für bestimmte Geschäftsbereiche***
 
-Adobe Analytics erfasst enorme Datenmengen. Die Komponentenkuratierung in [!DNL Virtual Report Suites] ermöglicht es Administratoren, einen Datensatz für jede Geschäftseinheit in einer Organisation zu erstellen. Das bedeutet, dass Analysten, die in Analysis Workspace arbeiten, nicht durch Daten navigieren müssen, um herauszufinden, was für sie am wichtigsten ist. Markieren Sie einfach das Kästchen &quot;[!UICONTROL Anpassung von Komponenten virtueller Report Suites aktivieren]&quot;im [!UICONTROL Virtual Report Suites]-Builder unter [!UICONTROL &quot;Komponenten]&quot;und wählen Sie dann die [!UICONTROL Komponenten] aus, die den Messungen eines bestimmten Teams entsprechen.
+Adobe Analytics erfasst enorme Mengen an Daten. Die Komponentenkuratierung in [!DNL Virtual Report Suites] ermöglicht es Administratoren, einen Datensatz für jede Geschäftseinheit in einer Organisation zu erstellen. Das bedeutet, dass Analysten, die in Analysis Workspace arbeiten, nicht durch Daten navigieren müssen, um herauszufinden, was für sie am wichtigsten ist. Markieren Sie einfach das Kästchen mit dem Titel [!UICONTROL Anpassung der Virtual Report Suite-Komponenten aktivieren] im Generator für [!UICONTROL Virtual Report Suites] unter [!UICONTROL Komponenten] und wählen Sie dann die [!UICONTROL Komponenten] aus, die zu den Maßnahmen eines bestimmten Teams passen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
 >[!TIP]
 >
->**Hilfreicher Hinweis:** Sie können den Namen von Komponenten in einer  [!UICONTROL Virtual Report ] Suite auch so ändern, dass er der Nomenklatur bestimmter Geschäftseinheiten entspricht. Klicken Sie einfach auf das Stiftsymbol neben der Komponente und geben Sie einen neuen Namen ein.
+>**Hilfreicher Hinweis:** Sie können auch den Namen von Komponenten in einer [!UICONTROL Virtual Report Suite] so anpassen, dass er zur Nomenklatur bestimmter Geschäftseinheiten passt. Klicken Sie einfach auf das Stiftsymbol neben der Komponente und geben Sie einen neuen Namen ein.
 
-### ***Tipp 6: Verknüpfung zu Bereichen und Visualisierungen innerhalb eines Projekts oder über Projekte hinweg***
+### ***Tipp 6: Erstellen Sie Verknüpfungen zu Bedienfeldern und Visualisierungen innerhalb eines Projekts oder über Projekte hinweg.***
 
-Erstellen Sie Links, die Zielgruppen an beliebigen Stellen in Analysis Workspace ansprechen. Klicken Sie einfach mit der rechten Maustaste auf das Bedienfeld, auf das Sie verlinken möchten, wählen Sie &quot;[!UICONTROL Bereichslink abrufen]&quot;und kopieren Sie es. Markieren Sie dann den Text, aus dem Sie eine Verknüpfung herstellen möchten, wählen Sie das Link-Symbol im Texteditor eines Textfelds oder einer Beschreibung aus und fügen Sie ihn ein. Um eine Verknüpfung zu einem gesamten Projekt herzustellen, klicken Sie einfach auf die Registerkarte &quot;[!UICONTROL Share]&quot;, wählen Sie &quot;[!UICONTROL Projektverknüpfung abrufen]&quot;und führen Sie die oben beschriebenen Schritte aus.
+Erstellen Sie Verknüpfungen, die Zielgruppen an beliebigen Stellen in Analysis Workspace führen. Klicken Sie mit der rechten Maustaste auf das Bedienfeld, das das Ziel der Verknüpfung sein soll, und wählen Sie [!UICONTROL Bedienfeld-Link anfordern] und kopieren Sie diesen Link. Markieren Sie dann den Text, der der Startpunkt der Verknüpfung sein soll, wählen Sie das Link-Symbol im Texteditor eines Textfelds oder einer Beschreibung aus und fügen Sie den kopierten Link ein. Um eine Verknüpfung zu einem gesamten Projekt herzustellen, klicken Sie einfach auf die Registerkarte [!UICONTROL Freigeben], wählen Sie [!UICONTROL Projektverknüpfung abrufen] und führen Sie dieselben Schritte wie oben aus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
 >[!TIP]
 >
->**Hilfreicher Hinweis:** Es gibt verschiedene Möglichkeiten, durch Verknüpfungen das Erlebnis Ihrer Leser zu verbessern. Sie können sie auf Abbildungen verweisen, die den Ergebnissen und Empfehlungen in Projekten entsprechen. Oder lassen Sie es ihnen zu, direkt von einem Inhaltsverzeichnis zu den Bereichen zu springen, die sie interessieren. Sie können auch mit anderen Benutzerprojekten verknüpfen, die sich auf Ihre Analyse beziehen
+>**Hilfreicher Hinweis:** Es gibt mehrere Möglichkeiten, wie Verknüpfungen das Erlebnis Ihrer Leser verbessern können. Sie können sie zu Abbildungen lenken, die den Ergebnissen und Empfehlungen in Projekten entsprechen. Oder erlauben Sie es ihnen, direkt von einem Inhaltsverzeichnis zu den Bereichen zu springen, die sie interessieren. Sie können auch Verknüpfungen zu Projekten anderer Benutzer erstellen, die sich auf Ihre Analyse beziehen.
 
-### ***Tipp 7: Projekte als wiederverwendbare benutzerdefinierte Vorlagen speichern***
+### ***Tipp 7: Speichern Sie Projekte als wiederverwendbare benutzerdefinierte Vorlagen***
 
-Sie können jetzt ganz einfach jedes Projekt in eine benutzerdefinierte Vorlage umwandeln. Wählen Sie einfach &quot;[!UICONTROL Als Vorlage speichern]&quot;aus dem Dropdown-Menü &quot;[!UICONTROL Projekt]&quot;und fügen Sie Tags hinzu, die die Vorlage leicht auffindbar machen, und klicken Sie auf &quot;[!UICONTROL Projekt als Vorlage speichern]&quot;. Jetzt steht die Vorlage allen Analysis Workspace-Benutzern auf der Registerkarte &quot;[!UICONTROL Benutzerdefinierte Vorlagen]&quot;zur Verfügung. Dadurch können Analysten ihre Projekte mit aussagekräftigen Datenpunkten beginnen, anstatt von Anfang an mit quadratischen Datenpunkten zu beginnen.
+Sie können jetzt ganz einfach jedes Projekt in eine benutzerdefinierte Vorlage umwandeln. Wählen Sie einfach [!UICONTROL Als Vorlage speichern] aus dem Dropdown-Menü [!UICONTROL Projekt], fügen Sie Tags hinzu, die das Auffinden der Vorlage erleichtern, und klicken Sie auf [!UICONTROL Projekt als Vorlage speichern]. Die Vorlage steht nun allen Analysis Workspace-Benutzern auf der Registerkarte [!UICONTROL Benutzerdefinierte Vorlagen] zur Verfügung. Dadurch können Analysten ihre Projekte mit aussagekräftigen Datenpunkten beginnen, anstatt bei null anzufangen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
 >[!TIP]
 >
->**Hoch angeforderte Funktion:** Mehrere Kunden forderten uns auf, Projekte als benutzerdefinierte Vorlagen zu speichern. Diese Funktion ist zu einem ihrer Favoriten geworden.
+>**Häufig angefragte Funktion:** Mehrere Kunden haben uns gebeten, das Speichern von Projekten als benutzerdefinierte Vorlagen zu ermöglichen. Diese Funktion ist zu einem ihrer Favoriten geworden.
 
-[Hier finden Sie weitere Tipps und Tricks zur Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Klicken Sie hier, um auf Experience League weitere Tipps und Tricks zu erhalten](https://experienceleague.adobe.com/?search=tips&amp;lang=de#recommended/solutions/analytics)
 
 | Über den Autor |  |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser ist Manager des Adobe Analytics-Produktmanagementteams. <br> In dieser Rolle trifft sie sich mit Kunden, um ihre Geschäftsanforderungen zu verstehen, und  <br>nutzt dabei das, was sie gelernt hat, um die Adobe Analytics-Produkt-Roadmap zu informieren  <br>und neue Produktfunktionen zu priorisieren. Vor ihrer aktuellen Position war <br>Jen eine Hauptberaterin im Adobe Consulting-Team und arbeitete als <br>Subjektexperte für Datenvisualisierung, Analysis Workspace und [!DNL Report Builder]. <br><br>Mit ihren Einblicken in die Praxis haben wir die folgenden Tipps und Tricks kuratiert, um das Erstellen, Visualisieren und Freigeben Ihrer Analysis Workspace-Projekte zu  <br>vereinfachen |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser ist Manager im Produkt-Management-Team von Adobe Analytics. <br> In dieser Funktion trifft sie sich mit Kunden, um deren geschäftliche Anforderungen zu verstehen, <br>und nutzt die dabei gewonnenen Erkenntnisse, um die Produkt-Roadmap für Adobe Analytics zu erstellen <br>und Prioritäten für neue Produktfunktionen zu setzen. Vor ihrer derzeitigen Position war <br>Jen als Hauptberaterin des Consulting-Teams von Adobe tätig, nämlich als <br>Expertin für Datenvisualisierung, Analysis Workspace und [!DNL Report Builder]. <br><br>Auf der Grundlage ihrer Erfahrungen aus der Praxis haben wir die folgenden Tipps und Tricks zusammengestellt, die <br>die Erstellung, Visualisierung und Freigabe Ihrer Analysis Workspace-Projekte erleichtern |

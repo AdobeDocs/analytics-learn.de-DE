@@ -1,24 +1,24 @@
 ---
-title: Aktivieren Sie die Einstellung "Zeitstempel optional"
-description: Zeitstempel optional ermöglichen es uns, Daten mit und ohne Zeitstempel in derselben globalen Report Suite zu kombinieren, mit Zeitstempel versehene Daten von einer mobilen App an eine globale Report Suite zu senden und Apps zu aktualisieren, um Offline-Tracking zu nutzen, ohne eine neue Report Suite erstellen zu müssen.
-feature: Datenkonfiguration und -erfassung, Report Suite-Einstellungen
-topic: 'Administration '
+title: Aktivieren der Einstellung „Zeitstempel optional“
+description: Mit „Zeitstempel optional“ können wir zeitgestempelte und nicht zeitgestempelte Daten in derselben globalen Report Suite mischen, zeitgestempelte Daten von einer Mobile App an eine globale Report Suite senden und Programme auf Offline-Tracking umstellen, ohne eine neue Report Suite erstellen zu müssen.
+feature: Data Configuration and Collection, Report Suite Settings
+topic: Administration
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
-source-git-commit: e5b9693a941d72ba7d610dcc8472dff40c05d407
-workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
+# Aktivieren der Einstellung „Zeitstempel optional“
 
-# Aktivieren Sie die Einstellung &quot;Zeitstempel optional&quot;
-
-Zeitstempel optional ermöglichen es uns, Daten mit und ohne Zeitstempel in derselben globalen Report Suite zu kombinieren, mit Zeitstempel versehene Daten von einer mobilen App an eine globale Report Suite zu senden und Apps zu aktualisieren, um Offline-Tracking zu nutzen, ohne eine neue Report Suite erstellen zu müssen.
+Mit „Zeitstempel optional“ können wir zeitgestempelte und nicht zeitgestempelte Daten in derselben globalen Report Suite mischen, zeitgestempelte Daten von einer Mobile App an eine globale Report Suite senden und Programme auf Offline-Tracking umstellen, ohne eine neue Report Suite erstellen zu müssen.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)

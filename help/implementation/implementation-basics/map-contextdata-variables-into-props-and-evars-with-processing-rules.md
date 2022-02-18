@@ -23,4 +23,4 @@ Wenn Sie in Ihrer Adobe Analytics-Implementierung [!DNL contextData]-Variablen v
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=de).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=de).

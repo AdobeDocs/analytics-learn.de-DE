@@ -1,6 +1,6 @@
 ---
 title: Tastaturbefehle in Analysis Workspace
-description: 'In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, die Ihnen zeigen, wie Sie schneller und effizienter wechseln können. '
+description: 'In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, sodass Sie lernen, schneller und effizienter in Analysis Workspace zu navigieren. '
 feature: Workspace Basics
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: f344469b-b925-4978-918f-5204f6f10094
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Tastaturbefehle in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
 
-In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, die Ihnen zeigen, wie Sie schneller und effizienter wechseln können.
+In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, sodass Sie lernen, schneller und effizienter in Analysis Workspace zu navigieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=en).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=de).

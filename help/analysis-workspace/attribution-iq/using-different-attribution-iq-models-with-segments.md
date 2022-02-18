@@ -13,16 +13,16 @@ role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-# Verwenden verschiedener [!DNL Attribution IQ] [!UICONTROL Modelle] mit Segmenten in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
+# Verwenden verschiedener [!DNL Attribution IQ]-[!UICONTROL Modelle] mit Segmenten in Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
-In diesem Video erfahren Sie, wie Sie [!DNL Attribution IQ] [!UICONTROL Modelle] zusammen mit Adobe Analytics-Segmenten auf Ihrer Site verwenden.
+In diesem Video erfahren Sie, wie Sie [!DNL Attribution IQ]-[!UICONTROL Modelle] zusammen mit Adobe Analytics-Segmenten auf Ihrer Site verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
-Wenn Sie eine Analyse auf Ihrer Site durchführen, verwenden Sie häufig Segmente, um sich auf eine bestimmte Gruppe von Besuchern, Besuchen oder Treffern zu konzentrieren. Hierfür sollten Sie jetzt einen Schritt hinzufügen, um zu überlegen, welches Attributionsmodell in Verbindung mit dem Segment, den Metriken und dem Gesamtbericht am besten funktioniert.
+Wenn Sie eine Analyse auf Ihrer Site durchführen, verwenden Sie häufig Segmente, um sich auf eine bestimmte Gruppe von Besuchern, Besuchen oder Treffern zu konzentrieren. Hierbei sollten Sie jetzt einen Schritt hinzufügen und überlegen, welches Attributionsmodell in Verbindung mit dem Segment, den Metriken und dem Gesamtbericht am besten funktioniert.

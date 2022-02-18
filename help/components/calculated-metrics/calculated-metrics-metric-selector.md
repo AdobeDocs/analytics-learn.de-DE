@@ -1,7 +1,7 @@
 ---
-title: Berechnete Metriken – Metrikauswahl
+title: 'Berechnete Metriken: Metrikauswahl'
 description: Übersicht über die Metrikauswahl in Adobe Analytics
-feature: Berechnete Metriken
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 23%
+workflow-type: ht
+source-wordcount: '24'
+ht-degree: 100%
 
 ---
 

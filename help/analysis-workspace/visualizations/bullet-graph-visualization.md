@@ -1,7 +1,7 @@
 ---
-title: Lineardiagramm-Visualisierung in Analysis Workspace
-description: Lineardiagramme sind eine nützliche Methode, um den Fortschritt in Richtung (oder darüber) eines Ziels in Ihrer Analyse anzuzeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
-feature: Visualisierungen
+title: Visualisierung mit horizontalen Säulendiagrammen in Analysis Workspace
+description: Horizontale Säulendiagramme sind nützlich, um den Fortschritt hin zu einem Ziel (oder darüber hinaus) in Ihrer Analyse zu zeigen. Sie bieten Ihnen eine weitere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
+feature: Visualizations
 activity: use
 doc-type: feature video
 kt: 2116
@@ -10,16 +10,16 @@ level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '89'
+ht-degree: 100%
 
 ---
 
-#  BulletGraph-  Visualisierung in Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
+# [!UICONTROL Visualisierung] mit [!UICONTROL horizontalen Säulendiagrammen] in Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
 
- Bulletins sind eine nützliche Möglichkeit, den Fortschritt hin zu einem Ziel in Ihrer Analyse (oder darüber) zu zeigen. Sie bieten Ihnen eine andere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
+[!UICONTROL Horizontale Säulendiagramme] sind nützlich, um den Fortschritt hin zu einem Ziel (oder darüber hinaus) in Ihrer Analyse zu zeigen. Sie bieten Ihnen eine weitere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=de).

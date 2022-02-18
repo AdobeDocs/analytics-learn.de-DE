@@ -1,7 +1,7 @@
 ---
 title: Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics
 description: Die meisten Berichte in Reports and Analytics beinhalten die Schaltfläche „In Workspace ausprobieren“, über die Sie die aktuelle Ansicht in Analysis Workspace reproduzieren können, um weitere Anpassungen vorzunehmen.
-feature: Analytics-Grundlagen
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics
-description: In diesem Video werden Sie durch Data Governance und darüber geführt, wie die Datenbeschriftung zur DSGVO-Bereitschaft passt. Es bietet ein praktisches Beispiel für die Datenbeschriftung mithilfe von Data Governance.
+description: Dieses Video zeigt Ihnen die einzelnen Schritte der Data Governance und auch, welche Rolle Daten im Hinblick auf die Einhaltung der DSGVO-Vorschriften spielen. Es bietet ein praktisches Beispiel für den Umgang mit Daten unter Anwendung von Data Governance.
 feature: Privacy
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: Admin, Architect
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
 
-In diesem Video werden Sie durch Data Governance und darüber geführt, wie die Datenbeschriftung zur DSGVO-Bereitschaft passt. Es bietet ein praktisches Beispiel für die Datenbeschriftung mithilfe von Data Governance.
+Dieses Video zeigt Ihnen die einzelnen Schritte der Data Governance und auch, welche Rolle Daten im Hinblick auf die Einhaltung der DSGVO-Vorschriften spielen. Es bietet ein praktisches Beispiel für den Umgang mit Daten unter Anwendung von Data Governance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=de).

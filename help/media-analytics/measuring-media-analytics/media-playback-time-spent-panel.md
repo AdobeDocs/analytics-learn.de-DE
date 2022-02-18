@@ -1,24 +1,24 @@
 ---
-title: Bedienfeld "Besuchszeit für Medienwiedergabe"
-description: Über das Bedienfeld "Besuchszeit für Medienwiedergabe"können Medienbenutzer ihre Anzeige anhand der Zeitdauer verstehen, die während des Tages über eine bestimmte Granularität angezeigt wurde. Sie können auch für einen Tageszeitraum ein- oder auszoomen oder sequenzielle Zeitsegmente erstellen, um den Lead im Tagesverlauf deutlich anzuzeigen.
+title: Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“
+description: Über das Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“ können Medienbenutzer anhand der Zeit, die Betrachter während eines Tages in einer bestimmten Granularität mit dem Betrachten verbringen, mehr Informationen zu Ihrer Betrachtern erhalten. Sie können auch einen Tageszeitraum genauer betrachten oder sequenzielle Zeitsegmente erstellen, um die zu- und abgeführten Anteile im Tagesverlauf deutlich anzuzeigen.
 feature: Panels
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 338699.jpg
 kt: 9379
-source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
-workflow-type: tm+mt
+exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
+source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“
 
-# Bedienfeld &quot;Besuchszeit für Medienwiedergabe&quot;
-
-Über das Bedienfeld &quot;Besuchszeit für Medienwiedergabe&quot;können Medienbenutzer ihre Anzeige anhand der Zeitdauer verstehen, die während des Tages über eine bestimmte Granularität angezeigt wurde. Sie können auch für einen Tageszeitraum ein- oder auszoomen oder sequenzielle Zeitsegmente erstellen, um den Lead im Tagesverlauf deutlich anzuzeigen.
+Über das Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“ können Medienbenutzer anhand der Zeit, die Betrachter während eines Tages in einer bestimmten Granularität mit dem Betrachten verbringen, mehr Informationen zu Ihrer Betrachtern erhalten. Sie können auch einen Tageszeitraum genauer betrachten oder sequenzielle Zeitsegmente erstellen, um die zu- und abgeführten Anteile im Tagesverlauf deutlich anzuzeigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=de).

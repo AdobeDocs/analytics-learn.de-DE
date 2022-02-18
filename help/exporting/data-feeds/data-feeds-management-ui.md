@@ -1,7 +1,7 @@
 ---
 title: Benutzeroberfläche des Daten-Feed-Managements
-description: Mit dem Adobe Analytics-Daten-Feed können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Data Lake zusammenzuführen. Sie können Ihre eigenen Daten-Feeds in Adobe Analytics erstellen und verwalten. In diesem Video wird gezeigt, wie.
-feature: Daten-Feeds
+description: Der Daten-Feed von Adobe Analytics ermöglicht es Ihnen, Clickstream-Rohdaten zu importieren und sie in einem Data Warehouse oder einem Daten-Pool mit anderen Datenquellen zusammenzuführen. Mit Adobe Analytics können Sie auch Ihre eigenen Daten-Feeds erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
 source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
-workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Benutzeroberfläche des Daten-Feed-Managements] {#data-feeds-management-ui}
+# Benutzeroberfläche des [!UICONTROL Daten-Feed]-Managements {#data-feeds-management-ui}
 
-Mit dem Adobe Analytics [!UICONTROL Daten-Feed] können Sie Clickstream-Rohdaten exportieren, um sie zu importieren und mit anderen Datenquellen in einem EDW- oder Data Lake zusammenzuführen. Sie können Ihre eigenen [!UICONTROL Daten-Feeds] in Adobe Analytics erstellen und verwalten. In diesem Video wird gezeigt, wie.
+Der [!UICONTROL Daten-Feed] von Adobe Analytics ermöglicht es Ihnen, Clickstream-Rohdaten zu importieren und sie in einem Data Warehouse oder einem Daten-Pool mit anderen Datenquellen zusammenzuführen. Mit Adobe Analytics können Sie auch Ihre eigenen [!UICONTROL Daten-Feeds] erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=de#).

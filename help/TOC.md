@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
 source-wordcount: '2268'
 ht-degree: 99%
@@ -217,6 +217,7 @@ ht-degree: 99%
    + Schlüsselkompetenzen für Administratoren {#key-admin-skills}
       + [Stärkung der Gemeinschaft](administration/key-admin-skills/empowered-community.md)
       + [Vereinfachen und verbringen Sie weniger Zeit mit dem Trainieren von Benutzern](administration/key-admin-skills/simplify-training-users.md)
+      + [Die richtigen Personen für Ihr Analytics-Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
@@ -243,7 +244,6 @@ ht-degree: 99%
       + [Konfigurieren von Bot-Regeln in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
       + [Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-      + [Die richtigen Personen für Ihr Analytics-Team](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Traffic-Management {#traffic-management}
       + [Nutzung der Server-Aufrufe](administration/traffic-management/server-call-usage.md)
       + [Verwalten einer bevorstehenden Traffic-Spitze](administration/traffic-management/manage-an-upcoming-traffic-spike.md)

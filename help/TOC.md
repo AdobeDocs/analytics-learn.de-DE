@@ -5,8 +5,8 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
-source-wordcount: '2280'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -215,7 +215,7 @@ ht-degree: 98%
    + [Echtzeitberichte in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
    + Schlüsselkompetenzen für Administratoren {#key-admin-skills}
-      + [Stärkung der Gemeinschaft](administration/key-admin-skills/empowered-community.md)
+      + [Aufbau einer gestärkten Community](administration/key-admin-skills/empowered-community.md)
       + [Vereinfachen und verbringen Sie weniger Zeit mit dem Trainieren von Benutzern](administration/key-admin-skills/simplify-training-users.md)
       + [Die richtigen Personen für Ihr Analytics-Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Unternehmenseinstellungen {#company-settings}

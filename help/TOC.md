@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 0%
       + [Touristik-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Übergang von anderen Plattformen {#transitioning-from-other-platforms}
+      + [Übergang von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
       + [Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)

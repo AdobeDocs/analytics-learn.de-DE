@@ -37,11 +37,11 @@ Als Erstes betrachten wir die Berichterstellung &quot;vor Ort&quot;.
 
 ### 2.1. In-Site-Berichte
 
-#### 2.1.1. Startbildschirm
+#### 2.1.1. Home Screen
 
 Sowohl Adobe Analytics als auch Google Analytics bieten eine Möglichkeit, die erste Ansicht anzupassen, die ein Benutzer bei seiner Anmeldung sieht.
 
-##### 2.1.1.1. Arbeitsbereich/Benutzerdefinierter Startbildschirm (Adobe Analytics)
+##### 2.1.1.1. Workspace / Custom Set Home Screen (Adobe Analytics)
 
 Adobe Analytics geht nicht davon aus, dass ein vordefinierter Bericht erstellt wird, der allen Benutzern bei der Anmeldung angezeigt wird. Die Standard-Startseite führt den Benutzer zum Workspace-Landingscreen, auf dem jeder Benutzer alle Workspace-Berichte anzeigt, die er erstellt oder für ihn freigegeben hat. Außerdem kann jeder Benutzer einen dieser Berichte bei Bedarf als Startbildschirm festlegen.
 
@@ -146,11 +146,11 @@ Google verfügt über einige Tools zum Erstellen von Berichten auf der Benutzero
 
 Für diejenigen, die in Google Analytics versiert sind, wie Sie das hier lesen, könnten Sie sagen: &quot;Warte mal kurz, was ist mit Google Data Studio, ist das nicht besser mit dem Arbeitsbereich der Adobe?&quot; und Sie hätten Recht, da Data Studio jedoch technisch nicht Teil des Analytics-Tools ist und Verbindungen zu verschiedenen Datenquellen ermöglicht, wird dieses Tool später im Abschnitt &quot;Erweiterter Zugriff auf Berichte&quot;dieser Diskussion behandelt (insbesondere Abschnitt 2.2.3).
 
-Google-Dashboards und benutzerspezifische Berichte ermöglichen es Ihnen, mehrere Visualisierungen in einem Bericht zusammenzuführen. Im Gegensatz zu Workspace sind Sie jedoch weiterhin in einfache Korrelationen eingeschlossen und erfahren, welche Daten in welche Spalten eingefügt werden können.
+Google Dashboards and Custom Reports allow you to pull multiple visualizations together into one report, but unlike Workspace, you are still locked into simple correlations and what data can be placed into what columns.
 
-Eine der größten Herausforderungen bei benutzerspezifischen Berichten besteht darin, dass ein Filter bei der Erstellung für alle Tabs des Berichts gilt... Es gibt keine Möglichkeit, zwei verschiedene Filter innerhalb desselben Berichts zu vergleichen.
+In Custom Reports, one of the biggest challenges is the fact that when you create a filter it applies to all tabs of the report… there is no way to compare two different filters within the same report.
 
-Für Oberflächenvergleiche übernimmt sie die Aufgabe. Diese ähneln den Adobe Legacy Dashboards, benutzerdefinierten Berichten und Lesezeichen. Grundlegende Tools zur Unterstützung Ihrer Anforderungen, die sich in der Report Suite befinden.
+Für Oberflächenvergleiche übernimmt sie die Aufgabe. These are all similar to the Adobe Legacy Dashboards, Custom Reports and Bookmarks. Grundlegende Tools zur Unterstützung Ihrer Anforderungen, die sich in der Report Suite befinden.
 
 #### 2.1.3. Berichte
 
@@ -158,7 +158,7 @@ Sowohl Google als auch Adobe verfügen über einige navigierbare Berichte, bei d
 
 ##### 2.1.3.1. Adobe Analytics-Berichte
 
-Adobe Analytics verfügt auch über einen Abschnitt &quot;Berichte&quot;, der jedoch größtenteils schrittweise zugunsten der Analysis Workspace eingestellt wird (und für diese Benutzeroberfläche wurde sogar das Ende der Nutzungsdauer angekündigt, da Workspace [Abschnitt 2.1.2.1] ist ein sehr viel leistungsfähigeres Tool), in dem die meisten Tabellen einfacher erstellt und geändert werden können. Die Bereiche der Adobe sind weitaus stärker aufgeschlüsselt, und dies kann entmutigend sein:
+Adobe Analytics verfügt auch über einen Abschnitt &quot;Berichte&quot;, der jedoch größtenteils schrittweise zugunsten der Analysis Workspace eingestellt wird (und für diese Benutzeroberfläche wurde sogar das Ende der Nutzungsdauer angekündigt, da Workspace [Abschnitt 2.1.2.1] ist ein sehr viel leistungsfähigeres Tool), in dem die meisten Tabellen einfacher erstellt und geändert werden können. Adobe&#39;s sections are far more broken out, and this can be daunting:
 
 ![image3](assets/ga-to-aa_6.png)
 
@@ -210,9 +210,9 @@ Neben der &quot;In-Site-Berichterstellung&quot;bieten die meisten Tools erweiter
 
 #### 2.2.1. Adobe Analytics Report Builder (Microsoft Excel-Erweiterung)
 
-Workspace ist ein großartiges Tool. Manchmal müssen Sie Ihre Daten jedoch in eine benutzerdefinierte Tabelle übertragen, um mehrere Datenquellen zusammenfügen zu können. Hier kommt Report Builder ins Spiel.
+Workspace is a great tool, but sometimes you need to get your data into a customized spreadsheet, possibly so that you can stitch together multiple sources of data. This is where Report Builder comes into play.
 
-Report Builder ist ein Plug-in für Microsoft Excel, mit dem Sie Verbindungen zu Ihren Adobe Analytics-Daten erstellen können, um Tabellendaten abzurufen, die Sie in Excel bearbeiten können. Um dies effizient zu nutzen, ziehen Sie die Daten in einige Rohdaten-Tabs, verwenden Sie dann Excel-Zellreferenzen, um Daten aus diesen Registerkarten in einen einzigen konsolidierten Bericht zu ziehen, und erstellen Sie dann Diagramme und Visualisierungen.
+Report Builder is a plug-in for Microsoft Excel that allows you to create connections to your Adobe Analytics data to pull in tabular data that you can manipulate within Excel. Um dies effizient zu nutzen, ziehen Sie die Daten in einige Rohdaten-Tabs, verwenden Sie dann Excel-Zellreferenzen, um Daten aus diesen Registerkarten in einen einzigen konsolidierten Bericht zu ziehen, und erstellen Sie dann Diagramme und Visualisierungen.
 
 >[!NOTE]
 >
@@ -236,7 +236,7 @@ Es ist immer noch ein mächtiges Werkzeug, und ich würde die Leute nicht davon 
 
 #### 2.2.4. Google Spreadsheet-Erweiterung
 
-Für meine eigenen Zwecke, wenn ich Daten auf erweiterte Weise von Google Analytics abrufen muss, ist mein persönliches Tool die Google-Tabellenkalkulationserweiterung. Natürlich muss ich mehrere Verbindungen zu meinen GA-Tabellen herstellen, aber wie der Report Builder der Adobe kann ich auch auf die Zellen aus den Rohdaten verweisen, die benötigten Berichte erstellen und sie dann mithilfe der Diagrammfunktionen des Google-Arbeitsblatts visualisieren.
+Für meine eigenen Zwecke, wenn ich Daten auf erweiterte Weise von Google Analytics abrufen muss, ist mein persönliches Tool die Google-Tabellenkalkulationserweiterung. Sure, I need to make multiple connections to my GA tables, but like Adobe&#39;s Report Builder, I can reference the cells from the raw data and build out the reports I need, then visualize them using the graphing capabilities of Google Spreadsheet.
 
 
 ## 3. Rohdatenexporte
@@ -247,9 +247,9 @@ Für solche Fälle, in denen Sie wirklich Rohdaten benötigen, bieten sowohl Ado
 
 In Abschnitt 2.2.2 erwähnte ich, dass die Adobe Analytics-API aus &quot;verarbeiteten Daten&quot;abgerufen wurde. Der Rohdaten-Feed ruft weiterhin Daten ab, die von den im Admin-Bereich eingerichteten &quot;Verarbeitungsregeln&quot;verarbeitet wurden (stellen Sie sicher, dass Ihre Rohdaten verzögert sind, um sicherzustellen, dass alle diese Regeln zum Zeitpunkt des Abrufs des Rohdaten-Feeds abgeschlossen sind). Diese Rohdaten enthalten jedoch alle Daten, die überall sonst ausgeschlossen sind.
 
-Das bedeutet, dass all Ihre Bot-Ausschlüsse, internen IP-gefilterten Daten usw. in den Rohdaten-Feeds enthalten sind. Es gibt Flags, die diese Daten identifizieren. Wenn Sie also einen Data Lake erstellen, kann Ihr Technikerteam eine Logik zur entsprechenden Verarbeitung dieser Daten erstellen.
+This means that all your Bot exclusions, internal IP filtered data, etc will be included in the raw data feeds. Es gibt Flags, die diese Daten identifizieren. Wenn Sie also einen Data Lake erstellen, kann Ihr Technikerteam eine Logik zur entsprechenden Verarbeitung dieser Daten erstellen.
 
-Die Rohdaten-Feeds können angepasst werden, um alle Datenspalten oder nur bestimmte Spalten zu senden, wenn Sie einen zielgerichteteren Feed benötigen.
+The raw data feeds can be customized to send all the columns of data, or only specific columns if you need a more focused feed.
 
 Die Feeds können direkt an FTP, SFTP, S3 usw. gesendet werden.
 

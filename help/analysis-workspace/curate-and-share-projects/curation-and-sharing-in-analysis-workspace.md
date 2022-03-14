@@ -8,14 +8,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 89%
+source-wordcount: '124'
+ht-degree: 90%
 
 ---
 
-# title Kuratieren und Freigeben in Analysis Workspace
+# Kuratieren und Freigeben in Analysis Workspace
 
 Nachdem Sie ein Projekt in Analysis Workspace erstellt haben, können Sie es [!UICONTROL kuratieren] (vereinfachen) und für andere Teams und Einzelpersonen in Ihren Unternehmen freigeben, damit diese es erkunden und sich selbst mit Daten versorgen können. In diesem Video erfahren Sie, wie Sie mit [!UICONTROL Kuratierung] und Freigabe arbeiten.
 

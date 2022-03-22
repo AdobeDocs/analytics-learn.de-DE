@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
+source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 98%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 98%
       + [Erstellen eines Inhaltsverzeichnisses](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Rechtsklick für Workspace-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Tastaturkürzel](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Anmerkungen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Menüleiste](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Projekt-Management](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Rückgängigmachen von Aktionen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)

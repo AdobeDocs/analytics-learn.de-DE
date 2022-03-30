@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
-source-wordcount: '2294'
+source-wordcount: '2299'
 ht-degree: 97%
 
 ---
@@ -151,6 +151,7 @@ ht-degree: 97%
       + [Segmente auf Bedienfeldebene](analysis-workspace/using-panels/panel-level-segments.md)
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Schnellsegmente in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Metriken {#metrics}
       + [Verstehen von grundlegenden Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
@@ -234,7 +235,7 @@ ht-degree: 97%
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Konfigurieren der gebührenpflichtigen Sucherkennung](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Marketingkanäle einrichten](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Einrichten von Marketingkanal-Verarbeitungsregeln](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Erstellen von Marketing-Kanal-Verarbeitungsregeln](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Anpassen der Menüs in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Bearbeiten eingehender Daten mit Verarbeitungsregeln](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurieren von Traffic-Variablen (Props)](administration/manage-report-suites/configuring-traffic-variables-props.md)

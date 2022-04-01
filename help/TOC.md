@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
 source-wordcount: '2299'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 97%
       + [Touristik-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Übergang von anderen Plattformen {#transitioning-from-other-platforms}
-      + [Übergang von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+   + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
+      + [Wechsel von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
       + [Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -218,10 +218,10 @@ ht-degree: 97%
 + Reports and Analytics {#reports-and-analytics}
    + [Echtzeitberichte in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
-   + Schlüsselkompetenzen für Administratoren {#key-admin-skills}
+   + Wichtige Admin-Fähigkeiten {#key-admin-skills}
       + [Aufbau einer gestärkten Community](administration/key-admin-skills/empowered-community.md)
-      + [Vereinfachen und verbringen Sie weniger Zeit mit dem Trainieren von Benutzern](administration/key-admin-skills/simplify-training-users.md)
-      + [Die richtigen Personen für Ihr Analytics-Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [Vereinfachen und Verkürzen der Benutzerschulung](administration/key-admin-skills/simplify-training-users.md)
+      + [Finden der richtigen Personen für Ihr Analytics-Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
@@ -234,8 +234,8 @@ ht-degree: 97%
       + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Konfigurieren der gebührenpflichtigen Sucherkennung](administration/manage-report-suites/configure-paid-search-detection.md)
-      + [Marketingkanäle einrichten](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Erstellen von Marketing-Kanal-Verarbeitungsregeln](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Einrichten von Marketing-Kanälen](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [Erstellen von Verarbeitungsregeln für Marketing-Kanäle](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Anpassen der Menüs in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Bearbeiten eingehender Daten mit Verarbeitungsregeln](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurieren von Traffic-Variablen (Props)](administration/manage-report-suites/configuring-traffic-variables-props.md)

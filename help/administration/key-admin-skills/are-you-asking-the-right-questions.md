@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Senden Sie eine Liste von Fragen, die Sie vor dem Entdeckungstreffen prüfen kö
 
 Die Fragen variieren je nach technischem oder analytischem Können, Unternehmensstruktur oder Komplexität des Themas der Datenerfassung. Oft ist es hilfreich, mit Fragen über die gesamte Organisation zu beginnen, dann die Rolle Ihres Stakeholders bei der Unterstützung dieser organisatorischen Ziele und so weiter zu diskutieren und mehr Details zu erhalten. Anschließend können Sie sicherstellen, dass die diskutierten detaillierten Datenpunkte die übergeordneten Ziele der Organisation effektiv unterstützen. Außerdem können Sie kreativ denken und neue Ideen für Daten vorschlagen, die ihre Ziele unterstützen.
 
-[Diese Vorlage durchsuchen](assets/stakeholder-questionnaire.pdf) mit mehreren Beispielfragen für Interviews mit Interessengruppen. Verwenden Sie sie erneut oder passen Sie sie an, um relevante Fragen für Ihre Diskussionen vorzubereiten.
+[Diese Vorlage durchsuchen](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} mit mehreren Beispielfragen für Interviews mit Interessengruppen. Verwenden Sie sie erneut oder passen Sie sie an, um relevante Fragen für Ihre Diskussionen vorzubereiten.
 
 ### 2. Beispielberichte anfordern
 

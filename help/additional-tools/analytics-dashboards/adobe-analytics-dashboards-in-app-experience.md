@@ -1,25 +1,23 @@
 ---
 title: In-App-Erlebnis für Adobe Analytics-Dashboards
-description: In diesem Video erfahren Sie, wie Sie mit der Mobile App Adobe Analytics-Dashboards auf von Ihnen erstellte oder für Sie freigegebene Scorecards zugreifen und diese anzeigen können.
+description: In diesem Video erfahren Sie, wie Sie mit Adobe Analytics-Dashboards (mobile Anwendung) auf von Ihnen erstellte oder für Sie freigegebene "Scorecards"zugreifen und diese anzeigen können.
 feature: Analytics Dashboards
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 5287
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 34545.jpg
+kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 100%
+ht-degree: 22%
 
 ---
 
 # In-App-Erlebnis für Adobe Analytics-Dashboards
 
-In diesem Video erfahren Sie, wie Sie mit der Mobile App Adobe Analytics-Dashboards auf von Ihnen erstellte oder für Sie freigegebene Scorecards zugreifen und diese anzeigen können.
+In diesem Video erfahren Sie, wie Sie mit Adobe Analytics-Dashboards (mobile Anwendung) auf von Ihnen erstellte oder für Sie freigegebene &quot;Scorecards&quot;zugreifen und diese anzeigen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 

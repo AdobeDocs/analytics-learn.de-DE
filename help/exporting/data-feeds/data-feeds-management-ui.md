@@ -1,25 +1,23 @@
 ---
-title: Benutzeroberfläche des Daten-Feed-Managements
+title: Data Feeds Management-Benutzeroberfläche
 description: Der Daten-Feed von Adobe Analytics ermöglicht es Ihnen, Clickstream-Rohdaten zu importieren und sie in einem Data Warehouse oder einem Daten-Pool mit anderen Datenquellen zusammenzuführen. Mit Adobe Analytics können Sie auch Ihre eigenen Daten-Feeds erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
 feature: Data Feeds
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2353
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25452.jpg
+kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 
-# Benutzeroberfläche des [!UICONTROL Daten-Feed]-Managements {#data-feeds-management-ui}
+# [!UICONTROL Datenfeeds] Management-Benutzeroberfläche {#data-feeds-management-ui}
 
-Der [!UICONTROL Daten-Feed] von Adobe Analytics ermöglicht es Ihnen, Clickstream-Rohdaten zu importieren und sie in einem Data Warehouse oder einem Daten-Pool mit anderen Datenquellen zusammenzuführen. Mit Adobe Analytics können Sie auch Ihre eigenen [!UICONTROL Daten-Feeds] erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
+Die Adobe Analytics [!UICONTROL Datenfeed] ermöglicht Ihnen den Export von Clickstream-Rohdaten zum Importieren und Zusammenführen mit anderen Datenquellen in einem EDW oder Data Lake. Mit Adobe Analytics können Sie auch Ihre eigenen [!UICONTROL Daten-Feeds] erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 

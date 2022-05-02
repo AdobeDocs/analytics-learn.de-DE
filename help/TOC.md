@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -188,7 +188,7 @@ ht-degree: 96%
       + [Kuratieren und Freigeben in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direkter Link zu einem Projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Herunterladen von 50.000 Objekten als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportieren in CSV und PDF von Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exportieren von Daten als CSV- und PDF-Datei aus Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Zeitplan und herunterladbare Projekte](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Freigeben von Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -225,9 +225,9 @@ ht-degree: 96%
       + [Aufbau einer gestärkten Community](administration/key-admin-skills/empowered-community.md)
       + [Vereinfachen und Verkürzen der Benutzerschulung](administration/key-admin-skills/simplify-training-users.md)
       + [Finden der richtigen Personen für Ihr Analytics-Team](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [Platz am Tisch](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [Aussagekräftige Geschichten mit Daten erzählen](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [Technische Adobe Analytics-Sprache nicht technisch übersetzen](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Etwas mitzureden haben](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Mit Daten aussagekräftige Geschichten erzählen](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [Übersetzen der technischen Sprache von Adobe Analytics](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Funktionsübergreifendes Arbeiten](administration/key-admin-skills/working-cross-functionally.md)
       + [Stellen Sie die richtigen Fragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Unternehmenseinstellungen {#company-settings}
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Einführung in Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Senden von Data Warehouse-Anfragen über SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Data Warehouse-Berichte in Tableau-Datenextraktion senden](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Data Warehouse-Berichte im Tableau-Data-Extract-Format senden](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Daten-Feeds {#data-feeds}
       + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
       + [Herunterladen des Authentifizierungsschlüssels für einen Daten-Feed](exporting/data-feeds/download-the-data-feed-authentication-key.md)
@@ -387,7 +387,7 @@ ht-degree: 96%
       + [Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising Cloud-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Erstellen von Site-Einstiegsberichten für Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Erstellen von Advertising Cloud-Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad-hoc-Analyse {#ad-hoc-analytics}
+   + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)

@@ -1,6 +1,6 @@
 ---
-title: Technische Adobe Analytics-Sprache nicht technisch übersetzen
-description: Mit mehr Augen auf die digitale Welt als je zuvor besteht ein wachsender Bedarf, die umfangreichen Daten, die in Ihrer Adobe Analytics-Einrichtung verfügbar sind, zu verstehen, zu analysieren und zu nutzen. Diese verstärkte Aufmerksamkeit könnte eine Reihe von Interessengruppen aufdecken, die völlig neu in der Welt von Props und eVars sind. Als Adobe Analytics-Experte Ihres Unternehmens müssen Sie Ihren Stakeholdern dabei helfen, die technischen Details zu verstehen und Ihre Adobe Analytics-Investition optimal zu nutzen.
+title: Übersetzen der technischen Sprache von Adobe Analytics
+description: Angesichts der steigenden Bedeutung der Digitalisierung steigt auch die Notwendigkeit, die umfangreichen Datenmengen in Ihrem Adobe Analytics-System zu verstehen, zu analysieren und zu nutzen. Aufgrund dieser verstärkten Aktivitäten könnten Sie in Ihrem Unternehmen auch auf eine Reihe von Benutzer stoßen, denen die Welt der Props und eVars völlig neu ist. Als Adobe Analytics-Experte Ihres Unternehmens müssen Sie diesen Anwendern helfen, die Technologie dahinter zu verstehen und das Meiste aus Ihrer Adobe Analytics-Investition zu holen.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,64 +8,64 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1017'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Technische Adobe Analytics-Sprache nicht technisch übersetzen
+# Übersetzen der technischen Sprache von Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
-## Verschiedene Sprachen sprechen
+## Wir sprechen unterschiedliche Sprachen
 
-Mit mehr Augen auf die digitale Welt als je zuvor besteht ein wachsender Bedarf, die umfangreichen Daten, die in Ihrer Adobe Analytics-Einrichtung verfügbar sind, zu verstehen, zu analysieren und zu nutzen. Diese verstärkte Aufmerksamkeit könnte eine Reihe von Interessengruppen aufdecken, die völlig neu in der Welt von Props und eVars sind. Als Adobe Analytics-Experte Ihres Unternehmens müssen Sie Ihren Stakeholdern dabei helfen, die technischen Details zu verstehen und Ihre Adobe Analytics-Investition optimal zu nutzen.
+Angesichts der steigenden Bedeutung der Digitalisierung steigt auch die Notwendigkeit, die umfangreichen Datenmengen in Ihrem Adobe Analytics-System zu verstehen, zu analysieren und zu nutzen. Aufgrund dieser verstärkten Aktivitäten könnten Sie in Ihrem Unternehmen auch auf eine Reihe von Benutzer stoßen, denen die Welt der Props und eVars völlig neu ist. Als Adobe Analytics-Experte Ihres Unternehmens müssen Sie diesen Anwendern helfen, die Technologie dahinter zu verstehen und das Meiste aus Ihrer Adobe Analytics-Investition zu holen.
 
-Im Folgenden finden Sie vier Tipps, die ich für hilfreich gehalten habe, um meine Stakeholder dazu zu bringen, die technische Sprache von Adobe Analytics zu verstehen.
+Im Folgenden finden Sie vier Tipps, die mir geholfen haben, meinen Anwendern die technische Sprache von Adobe Analytics verständlich zu machen.
 
-## Tipp 1: Starten Sie Ihre Stakeholder stark
+## Tipp 1: Bieten Sie Ihren Anwendern eine gute Ausgangsposition
 
-Ein solides Onboarding-Programm für Ihre neuen Adobe Analytics-Benutzer ist entscheidend für die Übernahme von Anfang an. Ihr Onboarding-Programm wird oft zum ersten Mal die wunderbare Welt der Props und eVars sein. Ihr Onboarding-Programm muss erreichbar, relevant und speicherbar sein, um sicherzustellen, dass Ihre Benutzer weiterhin zum Tool zurückkehren.
+Ein solides Onboarding-Programm für Ihre neuen Adobe Analytics-Anwender ist entscheidend dafür, dass sie das neue System von Anfang an befürworten. Ihr Onboarding-Programm wird oft die erste Gelegenheit sein, bei der sie mit der wunderbaren Welt der Props und eVars Bekanntschaft machen. Deshalb muss Ihr Onboarding-Programm gut verständlich, relevant und einprägsam sein. Schließlich möchten Sie sicherstellen, dass Ihre Benutzer das Tool auch wirklich verwenden.
 
-Hier ist beispielsweise meine bevorzugte Methode, neue Analysten über eVars und Zuordnungsmethoden zu informieren: Stellen Sie sich vor, Sie sind auf einem abendlichen Spaziergang in Ihrer Gegend und nein, Sie treten auf ein Stück Kaugummi. Für den Rest deines Spaziergangs ist das Stück Kaugummi jetzt auf den Boden deines Schuhs gefesselt (wie eine eVar!). Man macht ein paar Schritte nach vorne und ein weiteres Stück Kaugummi hängt an Ihrem Schuh fest. Am Ende Ihres Spaziergangs entscheiden Sie sich, Ihre Schuhe auszuwerfen. Was hat dich zu dieser Entscheidung geführt? War es das erste Stück Kaugummi, auf das du getreten bist, das letzte, oder waren beide gleichermaßen schuld?
-
->[!TIP]
->
->**Komponenten (d. h. Dimensionen, Segmente und Metriken) mit Beschreibungen eindeutig benennen**
->Die Freigabe des Datenwörterbuchs für eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten Ihres Unternehmens, aber erwarten Sie nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren beabsichtigte Verwendung nach Index/Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen beschreiben. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten von eVars und unendlichen Metriken/Segmenten zu finden.
-
-## Tipp 2: Suchen einer gemeinsamen Sprache
-
-Egal in welcher Branche Sie arbeiten, finden Sie die gemeinsame Sprache, die die Welt von Adobe Analytics mit etwas verbindet, das Ihren Stakeholdern bekannt ist.
-
-At [!DNL The Home Depot], kann ein Händler oder ein Store-Manager mit einem Treffer, Besuch oder Unique Visitor nicht vertraut sein. Wir könnten ihnen eine Erklärung zu Analytics-Server-Aufrufen, Browser-Sitzungen, Timeouts und Cookies geben... oder wir könnten sie zurück an unseren physischen Speicher und unsere Kunden (d. h. diese gemeinsame Sprache) bringen. Ein Unique Visitor wird zu einem Kunden, der durch unsere Haustüren geht. Website-Besuche werden zu der Anzahl der Besuche eines [!DNL Home Depot] den Kunden speichern. Und Treffer werden zu Kundenaktionen wie das Gehen der Gänge oder das Gespräch mit einem Geschäftspartner.
+Hier ist meine bevorzugte Methode, neuen Analysten eVars und Zuordnungsmethoden näherzubringen: Stellen Sie sich vor, Sie sind auf einem abendlichen Spaziergang in unterwegs und – oh nein – Sie treten auf einen Kaugummi. Für den Rest Ihres Spaziergangs klebt dieser Kaugummi jetzt auf Ihrer Schuhsohle (wie eine eVar!). Sie machen ein paar Schritte und schon klebt ein weiterer Kaugummi an Ihrem Schuh. Am Ende des Spaziergangs entscheiden Sie sich, Ihre Schuhe wegzuwerfen. Was hat Sie zu dieser Entscheidung gebracht? War es der erste Kaugummi, auf den Sie getreten sind, der letzte, oder waren beide gleichermaßen schuld?
 
 >[!TIP]
 >
->**Stellen Sie sicher, dass Ihre Implementierung diese gemeinsame Sprache widerspiegelt.**
->Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Einkaufswagen als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in eine Einkaufstasche umbenennen.
->
->Erwägen Sie die Erstellung Ihres eigenen kontrollierten Vokabulars für Ihre Organisation, wenn Sie mehrere synonyme Begriffe im Umlauf finden oder wenn es Begriffe gibt, die Ihre Benutzer häufig übertreffen. Nehmen Sie die Initiative, die Standardisierung der bevorzugten Terminologie voranzutreiben. Lesen Sie auch die gängigsten verwirrenden Begriffe in Ihren Onboarding- und Aktivierungssitzungen, um Benutzer bei der Akklimatisierung zu unterstützen.
+>**Benennen Sie Komponenten (d. h. Dimensionen, Segmente und Metriken) mit beschreibenden Namen.**
+>Die Freigabe des Datenkatalogs von eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten in Ihrem Unternehmen, erwarten Sie aber nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren Verwendung nach Index oder Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen versehen sind. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten eVars und Metriken/Segmenten zu finden.
 
-## Tipp 3: Eine Gruppe von Rockstars bilden
+## Tipp 2: Finden Sie eine gemeinsame Sprache
 
-Achten Sie auf Ihre Analytics-Rockstars - diejenigen, die die technischen Nuancen von Adobe Analytics schnell erfassen und sie bei allen Analysen sofort anwenden können. Ob formell oder informell, nutzen Sie Ihre Gruppe von Rockstars, um Änderungen an Ihrem Onboarding-Programm zu testen oder Beta-Benutzer eines neuen Berichts zu sein. Sie können auch erkennen, wann in ihren eigenen Teams Lücken im Analysewissen bestehen.
+Egal in welcher Branche Sie tätig sind – finden Sie eine gemeinsame Sprache, die eine Brücke schlägt von der Welt von Adobe Analytics zum Fachbereich Ihrer Anwender.
 
-At [!DNL The Home Depot], haben wir eine Adobe Analytics-Herausforderung gehostet, bei der wir unseren Benutzern komplexe Fragen gestellt haben, die mit dem Tool gelöst werden konnten. Die Herausforderung war sowohl die Kennzeichnung einiger Analytics Rockstars als auch die Unterstützung für das Verständnis der technischen Adobe Analytics-Details.
+Bei [!DNL The Home Depot] können Händler oder Store-Manager möglicherweise nichts mit „Hit“, „Besuch“ oder „Unique Visitor“ anfangen. Wir könnten diesen Personen Analytics-Server-Aufrufe, Browser-Sitzungen, Timeouts und Cookies erklären... oder wir könnten ihnen anhand unseres physischen Ladengeschäfts und unserer Kunden eine Erklärung liefern (d. h. in dieser allen verständlichen Sprache). Ein Unique Visitor wird dann zu einem Kunden, der durch unsere Ladentür tritt. Website-Besuche werden zu Besuchen eines [!DNL Home Depot]-Geschäfts, die ein Kunde gemacht hat. Und Hits werden zu Kundenaktionen, wie etwa das Schlendern durch die Gänge oder das Sprechen mit einem Verkaufsassistenten.
 
 >[!TIP]
 >
->**Erstellen von mit Anmerkungen versehenen lösungsspezifischen Workspace-Vorlagen und -Anleitungen**
->Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars dabei helfen, auf dem richtigen Weg zu bleiben.
+>**Stellen Sie sicher, dass Ihre Implementierung diese allgemein verständliche Sprache widerspiegelt.**
+>Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Warenkörbe als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in „Einkaufstasche“ umbenennen.
 >
->Dank der Flexibilität von Analysis Workspace können Sie Vorlagen für eine schnellere Analyse sowie für Self-Service und die Selbstaktivierung erstellen. Durch die Kombination der Funktionen von Funktionen wie kuratierten Vorlagen, Anmerkungen und der Verknüpfung zwischen/innerhalb des Arbeitsbereichs können Sie effiziente, barrierefreie und leicht zu verbreitende Anleitungen für nichttechnische Benutzer im Kontext von Adobe Analytics erstellen.
+>Erwägen Sie die Erstellung eines eigenen einheitlichen Vokabulars für Ihr Unternehmen, wenn mehrere synonyme Begriffe in Verwendung sind oder wenn es Begriffe gibt, über die Ihre Anwender häufig stolpern. Setzen Sie Schritte, um die Verwendung der bevorzugten, standardisierten Terminologie zu festigen. Und nehmen Sie in Ihren Onboarding-Sitzungen die üblicherweise verwirrenden Begriffe durch, um Anwender bei der Einarbeitung zu unterstützen.
 
-## Tipp 4: Offene Kommunikationskanäle beibehalten
+## Tipp 3: Bilden Sie eine Gruppe von Rockstars
 
-Bieten Sie Interessengruppen vielfältige Möglichkeiten, Hilfe beim Erstellen von Adobe Analytics-Dashboards zu erhalten. Sie können Öffnungszeiten ausrichten, in denen Interessengruppen Fragen beantworten und mit einem Experten gepaart werden können. Oder richten Sie einen Hilfskanal ein, über den Interessengruppen Fragen in einer sicheren Lernumgebung stellen können.
+Halten Sie die Augen nach Analytics-Rockstars offen – Personen, die die technischen Feinheiten von Adobe Analytics schnell erfassen und bei ihren Analysen sofort anwenden können. Nutzen Sie Ihre Gruppe von Rockstars, ob formell oder informell, um Änderungen an Ihrem Onboarding-Programm zu testen oder setzen Sie sie als Beta-Benutzer eines neuen Berichts ein. Diese Personen können Sie auch auf Wissenslücken in ihrem Team in Bezug auf Analytics hinweisen.
 
-At [!DNL The Home Depot], lieben unsere Stakeholder unsere Öffnungszeiten und Slack-Helpline. Seit der Einführung dieser offenen Kanäle haben wir eine höhere Genauigkeit bei der Berichterstellung gesehen und unsere Adobe Analytics-Akzeptanz ist in die Höhe getrieben. In der Vergangenheit haben wir es zu den Top-5 % der Adobe Analytics-Adoptionsbewertungen für alle Einzelhändler weltweit gemacht!
+Bei [!DNL The Home Depot] veranstalteten wir eine Adobe Analytics Challenge, bei der wir unseren Benutzern komplexe Fragen stellten, die mithilfe des Tools gelöst werden mussten. Die Challenge zeigte uns, wer unsere Analytics-Rockstars waren und wie gut unsere Anwender die technischen Details von Adobe Analytics verstanden.
 
-Den Benutzern zu helfen, die technische Welt von Adobe Analytics zu verstehen, ist keine einfache Aufgabe. Ich hoffe, dass diese Tipps und Beispiele dazu beitragen werden, Ihre Stakeholder in die Lage zu versetzen, tief zu tauchen, diese Freiformtabellen zu erstellen und sich in die Welt der Props und eVars zu verlieben.
+>[!TIP]
+>
+>**Erstellen Sie mit Anmerkungen versehene lösungsspezifische Workspace-Vorlagen und -Anleitungen.**
+>Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars zusätzliche Unterstützung bieten.
+>
+>Dank der Flexibilität von Analysis Workspace können Sie Vorlagen für eine schnellere Analyse sowie für den Self-Service und die Selbsthilfe erstellen. Durch die Kombination von Funktionen wie kuratierte Vorlagen, Anmerkungen und die Verknüpfung zwischen Arbeitsbereichen können Sie effektive Anleitungen für nichttechnische Anwender von Adobe Analytics erstellen, die einfach genutzt und verteilt werden können.
+
+## Tipp 4: Halten Sie die Kommunikationskanäle offen
+
+Bieten Sie Anwendern vielfältige Möglichkeiten, sich Hilfe beim Erstellen von Adobe Analytics-Dashboards zu holen. Sie könnten Zeiten einrichten, zu denen Anwender Fragen stellen können und Experten zur Verfügung stellen, die mit dem Fragesteller zusammenarbeiten. Oder richten Sie eine Helpline ein, über die Anwender Fragen in einer geschützten Lernumgebung stellen können.
+
+Bei [!DNL The Home Depot] sind unsere Fragezeiten und die Helpline bei unseren Anwendern sehr beliebt. Seit der Einführung dieser offenen Kanäle hat sich die Genauigkeit unserer Berichte verbessert und die Akzeptanz von Adobe Analytics in unserer Belegschaft hat enorm zugenommen. In der Vergangenheit haben wir es bei den Adobe Analytics-Akzeptanzbewertungen unter die besten 5 % aller Einzelhändler weltweit geschafft!
+
+Ihren Anwendern die technische Welt von Adobe Analytics vertraut zu machen, ist keine einfache Aufgabe. Ich hoffe, dass diese Tipps und Beispiele Ihre Anwender besser in die Lage versetzen werden, tiefer in die Thematik einzutauchen, Freiformtabellen zu erstellen und sich in der Welt der Props und eVars zu Hause zu fühlen.

@@ -1,23 +1,23 @@
 ---
 title: Schnellsegmente in Analysis Workspace
-description: Schnellsegmente sind ein vereinfachtes Segmentierungserlebnis direkt auf der Arbeitsfläche von Workspace. Schnellsegmente ermöglichen es Benutzern, direkt Segmente mit bis zu drei Regeln zu erstellen, ohne den Analyse-Workflow verlassen zu müssen.
+description: Schnellsegmente ermöglichen die vereinfachte Segmentierung direkt in der Arbeitsfläche von Workspace. Damit können Benutzer mit bis zu drei Regeln Segmente erstellen, ohne den Analyse-Workflow verlassen zu müssen.
 feature: Segmentation
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341466.jpg
 kt: 10029
-source-git-commit: 5c211a205283d7238e2083a1d07e2b8bd424ddfc
-workflow-type: tm+mt
+exl-id: 9ee37819-f3b2-4436-ac41-b68b23a807f2
+source-git-commit: b1a5cd54acde9d75e591675a1fbd33cd123a3a29
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-
 # Schnellsegmente in Analysis Workspace
 
-&quot;Schnellsegmente&quot;ist ein vereinfachtes Segmentierungserlebnis direkt auf der Arbeitsfläche von Workspace. Schnellsegmente ermöglichen es Benutzern, direkt Segmente mit bis zu drei Regeln zu erstellen, ohne den Analyse-Workflow verlassen zu müssen.
+„Schnellsegmente“ ermöglichen die vereinfachte Segmentierung direkt in der Arbeitsfläche von Workspace. Damit können Benutzer mit bis zu drei Regeln Segmente erstellen, ohne den Analyse-Workflow verlassen zu müssen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
 

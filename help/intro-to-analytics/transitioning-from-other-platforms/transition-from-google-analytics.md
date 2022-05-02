@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ Weitere Einzelheiten zu Workspace werden später in diesem Handbuch erläutert. 
 
 ##### 2.1.1.2. Startbildschirm-Insights (Google Analytics)
 
-* Der Google Analytics-Startbildschirm bietet Ihnen einige vordefinierte Visualisierungen. Diese umfassen u. a. Folgendes:
+* Der Google Analytics-Startbildschirm bietet Ihnen einige vordefinierte Visualisierungen.  Diese umfassen u. a. Folgendes:
 * Benutzer, Sitzungen, Absprungrate und Sitzungsdauer in den letzten 7 Tagen
 * Benutzer nach Tageszeit in den letzten 30 Tagen
 * Aktuelle Benutzer und die aktivsten Seiten
@@ -148,7 +148,7 @@ Wer sich mit Google Analytics auskennt, wird sich jetzt vielleicht fragen, ob Go
 
 Google-Dashboards und benutzerdefinierte Berichte ermöglichen es Ihnen, mehrere Visualisierungen in einem Bericht zusammenzufassen. Im Gegensatz zu Workspace sind Sie aber immer noch auf einfache Korrelationen beschränkt und können nicht festlegen, welche Daten in welche Spalten eingefügt werden können.
 
-Bei benutzerdefinierten Berichten besteht eine der größten Herausforderungen darin, dass ein Filter, den Sie erstellen, für alle Registerkarten des Berichts gilt ... Es gibt keine Möglichkeit, zwei verschiedene Filter innerhalb desselben Berichts zu vergleichen.
+Bei benutzerdefinierten Berichten besteht eine der größten Herausforderungen darin, dass ein Filter, den Sie erstellen, für alle Registerkarten des Berichts gilt... Es gibt keine Möglichkeit, zwei verschiedene Filter innerhalb desselben Berichts zu vergleichen.
 
 Für oberflächliche Vergleiche ist dies ausreichend. All diese Funktionen ähneln denen der älteren Dashboards, benutzerdefinierten Berichten und Lesezeichen von Adobe. Grundlegende Tools zur Erfüllung Ihrer Anforderungen, die in der Report Suite enthalten sind.
 
@@ -172,13 +172,13 @@ Hier finden Sie auch „Bot“-Berichte. Traffic von Bots ist zwar von allen Sta
 
 „Mobile“ ist eine Gruppierung von Daten, die sich auf Mobilgeräte beziehen, wie Geräte, Gerätetypen usw. Alle diese Funktionen sind in Workspace verfügbar.
 
-„Pfade“ ist ein weiteres Element, das in Workspace nicht wirklich verfügbar ist. In Workspace gibt es zwar ein Flussdiagramm, aber Sie können nur die Eingangs- und Ausgangsflüsse für eine einzelne Seite/einen einzelnen Wert sehen, während Sie mit „Pfade“ die am häufigsten verwendeten Pfade auf Ihrer Website sehen können. Standardmäßig ist „Seiten“ der erste Pfadbericht, der für Sie eingerichtet wird, Sie können dies aber für benutzerdefinierte Eigenschaften aktivieren (wenn Sie z. B. einen Wert für „Seitentyp“ nachverfolgen, können Sie sich die Pfade innerhalb der Seitentypen ansehen). Ein weiterer Punkt, der mir persönlich an der Funktion „Pfade“ gefällt, ist die einfache Art und Weise, in der die Informationen präsentiert werden ... Das Flussdiagramm in Workspace kann (abhängig von der angezeigten Datenmenge) schnell überwältigend werden. Ich empfehle, beide auszuprobieren ... beide haben ihren Nutzen und Wert, je nachdem, was Sie erreichen wollen. Es sollte beachtet werden, dass für „Flüsse“ jede Dimension verwendet werden kann, während die Pfadbestimmung in einer Prop in der Verwaltungskonsole eingerichtet werden muss.
+„Pfade“ ist ein weiteres Element, das in Workspace nicht wirklich verfügbar ist. In Workspace gibt es zwar ein Flussdiagramm, aber Sie können nur die Eingangs- und Ausgangsflüsse für eine einzelne Seite/einen einzelnen Wert sehen, während Sie mit „Pfade“ die am häufigsten verwendeten Pfade auf Ihrer Website sehen können. Standardmäßig ist „Seiten“ der erste Pfadbericht, der für Sie eingerichtet wird, Sie können dies aber für benutzerdefinierte Eigenschaften aktivieren (wenn Sie z. B. einen Wert für „Seitentyp“ nachverfolgen, können Sie sich die Pfade innerhalb der Seitentypen ansehen). Ein weiterer Punkt, der mir persönlich an der Funktion „Pfade“ gefällt, ist die einfache Art und Weise, in der die Informationen präsentiert werden... Das Flussdiagramm in Workspace kann (abhängig von der angezeigten Datenmenge) schnell überwältigend werden. Ich empfehle, beide auszuprobieren... beide haben ihren Nutzen und Wert, je nachdem, was Sie erreichen wollen. Es sollte beachtet werden, dass für „Flüsse“ jede Dimension verwendet werden kann, während die Pfadbestimmung in einer Prop in der Verwaltungskonsole eingerichtet werden muss.
 
 Die Berichte über Traffic-Quellen, Kampagnen und Marketing-Kanäle ähneln alle dem Akquisebericht in Google. Der Bericht über Traffic-Quellen konzentriert sich auf die tatsächlichen Referrer, der Bericht über Kampagnen konzentriert sich auf Ihre Kampagnen-Codes und der Bericht über Marketing-Kanäle konzentriert sich ebenfalls auf Kampagnen-Codes, wendet aber zusätzlich eine von Ihnen festgelegte Logik an, wie die Informationen zu verarbeiten sind. Ich finde, dass Adobe viel mehr Freiheiten bei der Einrichtung Ihrer Regeln bietet, während Google vieles für Sie übernimmt, sodass dies eine gewisse Umstellung in der Denkweise erfordert. Es sollte auch beachtet werden, dass die Attribution von Kampagnen-Codes bei Google standardmäßig 6 Monate beträgt, während sie bei Adobe standardmäßig auf 1 Woche eingestellt ist. Sie können dies zwar in Ihren Admin-Einstellungen ändern, aber in Workspace können Sie tatsächlich eine benutzerdefinierte Attribution auf jede Dimension anwenden, was Ihnen viel mehr spontanen Spielraum bietet.
 
 Die Berichte zur Besucherbindung und zum Besucherprofil ähneln den Zielgruppenberichten in Google Analytics. Die Besucherbindung konzentriert sich eher auf die Häufigkeit der Wiederkehr, während das Besucherprofil eher auf die Geografie und Technologie der Nutzer ausgerichtet ist.
 
-„Benutzerspezifische Konversion“ und „Benutzerspezifischer Traffic“ sind jeweils Berichte mit benutzerdefinierten Dimensionen. Konversionen sind Ihre eVars (bei denen Sie einen benutzerdefinierten Ablauf für den Wert festlegen können – z. B. Treffer, Besuch, Monat, Jahr usw. – und dieser Wert bleibt für diesen Benutzer für den angegebenen Zeitraum erhalten, sofern er nicht überschrieben wird). Traffic-Variablen sind Ihre Props, aber Sie können diese auch für Berichte zu Pfaden oder als Listenelemente einrichten (wobei Mehrfachwerte auf der Grundlage eines von Ihnen gewählten Trennzeichens aufgespaltet werden).
+„Benutzerspezifische Konversion“ und „Benutzerspezifischer Traffic“ sind jeweils Berichte mit benutzerdefinierten Dimensionen. Konversionen sind Ihre eVars (bei denen Sie einen benutzerdefinierten Ablauf für den Wert festlegen können – z. B. Treffer, Besuch, Monat, Jahr usw. – und dieser Wert bleibt für diesen Benutzer für den angegebenen Zeitraum erhalten, sofern er nicht überschrieben wird). Traffic-Variablen sind Ihre Props, aber Sie können diese auch für Pfadsetzungsberichte oder als Listenelemente einrichten (wobei Mehrfachwerte auf der Grundlage eines von Ihnen gewählten Trennzeichens aufgespaltet werden).
 
 „Medien“ ist z. B. für Videos oder Audiodateien, für die Sie ein spezielles Medien-Tracking eingerichtet haben.
 
@@ -268,10 +268,10 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics al
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
-* [Adobe-Benutzergruppen](https://analytics-augs.adobe.com/) - Eine zentrale Anlaufstelle für von der Community geleitete Ereignisse, die Benutzern dabei helfen, miteinander in Kontakt zu treten und ihre Implementierungen zu verbessern - da diese in einer bestimmten Zeitzone basieren, ist es am besten zu überprüfen, welche anderen Regionen ebenfalls ausgeführt werden.
-* [Adobe Analytics-Benutzergruppen YouTube-Kanal](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Konnte keine Adobe Analytics-Benutzergruppensitzung durchführen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
-* [Kanal &quot;Chat-Slack messen&quot;](https://www.measure.chat/) - Stellen Sie eine Verbindung zu Adobe Analytics-Anwendern in der ganzen Welt her und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich messorientierten Interessengruppen an.
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
+* [Adobe-Benutzergruppen](https://analytics-augs.adobe.com/) - ein Treffpunkt für von der Community organisierte Events, die den Benutzern helfen, miteinander in Kontakt zu treten und ihre Implementierungen zu verbessern. Da diese jeweils in einer bestimmten Zeitzone stattfinden, sollten Sie auch nachsehen, was in anderen Regionen läuft.
+* [YouTube-Kanal zu Adobe Analytics-Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Konnten Sie keine Adobe Analytics-Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
+* [Measure Chat Slack-Kanal](https://www.measure.chat/) - Treten Sie mit Adobe Analytics-Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.
 * und vieles mehr!
 
 ## Autor

@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Etwas mitzureden haben
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Warum es wichtig ist, mitzureden
 
-Lassen Sie uns zunächst eines klarstellen. Die Rolle des Analytics-Administrators hat sich weiterentwickelt. Administratoren können nicht mehr nur hinter ihren Computerbildschirmen sitzen und sich mit eVars, Ereignisse und sProps befassen. Als Administrator sind Sie dafür verantwortlich, dass Ihr Unternehmen die richtigen datengestützten Entscheidungen trifft. Aber damit das möglich ist, müssen Sie dort sein, wo diese Entscheidungen getroffen werden, und nicht bloß an Ihrem Schreibtisch.
+Lassen Sie uns zunächst eines klarstellen. Die Rolle der Datenanalysten hat sich weiterentwickelt. Analysten können nicht mehr hinter ihren Computerbildschirmen sitzen, die sich nur auf eVars, Ereignisse und sProps konzentrieren. Als Administrator sind Sie dafür verantwortlich, dass Ihr Unternehmen die richtigen datengestützten Entscheidungen trifft. Aber damit das möglich ist, müssen Sie dort sein, wo diese Entscheidungen getroffen werden, und nicht bloß an Ihrem Schreibtisch.
 
 Es gibt drei Gründe, warum Sie bei wichtigen Entscheidungen einbezogen werden sollten.
 

@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
+source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
-source-wordcount: '2364'
+source-wordcount: '2365'
 ht-degree: 98%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 98%
 
 # Analytics-Tutorials {#tutorials}
 
-+ [Überblick](overview.md)
++ [Analytics-Tutorials](overview.md)
 + Einführung in Analytics {#intro-to-analytics}
    + Was kann Adobe Analytics für mich leisten? {#what-can-aa-do-for-me}
       + [Wie Adobe Analysis Workspace Ihr Unternehmen verändern kann](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)

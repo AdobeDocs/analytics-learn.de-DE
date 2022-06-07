@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Anmerkungen in Analysis Workspace
 
-Anmerkungen in Workspace ermöglichen es Ihnen, kontextbezogene Daten und Einblicke effektiv den Benutzern in Ihrem Unternehmen zu kommunizieren. Sie können etwa zu einem Datum oder Datumsbereich Anmerkungen zu bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. machen, damit die Benutzer besser verstehen, warum bestimmte Dinge in Liniendiagrammen, Tabellen und mehr dargestellt werden.
+Anmerkungen in Workspace ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Daten und Einblicke effektiv zu kommunizieren. Sie können etwa zu einem Datum oder Datumsbereich Anmerkungen zu bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. machen, damit die Benutzer besser verstehen, warum bestimmte Dinge in Liniendiagrammen, Tabellen und mehr dargestellt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 

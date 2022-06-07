@@ -1,21 +1,21 @@
 ---
-title: '"Nächste/Vorherige"und "Seitenzusammenfassungs-Arbeitsbereich"Bedienfelder und Berichte'
-description: Analysis Workspace wurden zwei neue Bedienfeldtypen hinzugefügt - "Weiter/Zurück"und "Seitenzusammenfassung"- sowie sie als Teil der vordefinierten Berichte aufgelistet. Diese bringen... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+title: Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte
+description: Wir haben zwei neue Bedienfeldtypen zu Analysis Workspace hinzugefügt – „Nächste/Vorherige“ und „Seitenzusammenfassung“ – und sie als Teil der vordefinierten Berichte aufgelistet. Diese bringen ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 feature: Panels
 role: User
 level: Beginner
 kt: 10293
 thumbnail: 342477.jpg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: 1dfd39f3-7a96-42e0-b510-4c2443f074c3
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte
 
-# &quot;Nächste/Vorherige&quot;und &quot;Seitenzusammenfassungs-Arbeitsbereich&quot;Bedienfelder und Berichte
-
-Analysis Workspace wurden zwei neue Bedienfeldtypen hinzugefügt - &quot;Nächste/Vorherige&quot;und &quot;Seitenzusammenfassung&quot;- sowie diese als Teil der vordefinierten Berichte. Dadurch wird Workspace mit einigen der beliebtesten Reports &amp; Analytics-Berichte gleichwertig.
+Wir haben zwei neue Bedienfeldtypen zu Analysis Workspace hinzugefügt – „Nächste/Vorherige“ und „Seitenzusammenfassung“ – und sie als Teil der vordefinierten Berichte aufgelistet. Damit bietet der Arbeitsbereich dieselben Funktionen wie einige der beliebtesten Reports &amp; Analytics-Berichte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)

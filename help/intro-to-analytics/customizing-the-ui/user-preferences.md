@@ -1,6 +1,6 @@
 ---
 title: Benutzervoreinstellungen in Adobe Analytics
-description: Auf der Seite „Komponenten – Benutzervoreinstellungen“ können Sie Einstellungen für Analysis Workspace und zugehörige Komponenten auf Benutzerebene verwalten. Sie können beispielsweise eine standardmäßige Report Suite und Farbpalette auswählen. Die Benutzervoreinstellungen gelten für alle neuen Projekte und Bedienfelder.
+description: Auf der Seite „Komponenten“ > „Benutzereinstellungen“ können Sie Einstellungen für Analysis Workspace und die zugehörigen Komponenten auf Benutzerebene verwalten. Sie können beispielsweise eine standardmäßige Report Suite und Farbpalette auswählen. Die Benutzervoreinstellungen gelten für alle neuen Projekte und Bedienfelder.
 feature: Workspace Basics
 topic: Personalization
 role: User, Admin

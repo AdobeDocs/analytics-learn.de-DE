@@ -26,4 +26,4 @@ Dieses Video führt Sie durch die Schritte zur Implementierung Ihrer Tracking-Vo
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Konfigurieren von [!DNL Advertising Analytics] in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=de)
+* [Konfigurieren von  [!DNL Advertising Analytics]  in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=de)

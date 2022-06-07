@@ -1,21 +1,21 @@
 ---
 title: Navigieren auf der neuen Landingpage
-description: Erfahren Sie, wie Sie das Meiste aus der neuen Analytics-Landingpage und ihren Funktionen machen.
+description: Erfahren Sie, wie Sie die neue Analytics-Landingpage und ihre Funktionen optimal nutzen können.
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10295
 thumbnail: 334278.jpeg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: bb141630-a441-4049-afe0-5f9de2a33089
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-
 # Navigieren auf der neuen Landingpage
 
-Erfahren Sie, wie Sie das Meiste aus der neuen Analytics-Landingpage und ihren Funktionen machen.
+Erfahren Sie, wie Sie die neue Analytics-Landingpage und ihre Funktionen optimal nutzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)

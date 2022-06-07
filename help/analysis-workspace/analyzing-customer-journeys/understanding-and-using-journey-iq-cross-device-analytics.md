@@ -96,7 +96,7 @@ Es ist möglich, dass sich Isabelle erst unmittelbar vor dem Kauf angemeldet hat
 
 ## Voraussetzungen für [!UICONTROL geräteübergreifende Analyse]
 
-CDA ist enthalten in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/de/legal/product-descriptions/adobe-analytics.html?lang=de). Ab September 2019 können [!DNL Analytics Ultimate]-Kunden, die die unten aufgeführten Voraussetzungen erfüllen, die geräteübergreifende Analyse nutzen. Die Voraussetzungen für die geräteübergreifende Analyse lauten wie folgt:
+CDA ist enthalten in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/de/legal/product-descriptions/adobe-analytics.html). Ab September 2019 können [!DNL Analytics Ultimate]-Kunden, die die unten aufgeführten Voraussetzungen erfüllen, die geräteübergreifende Analyse nutzen. Die Voraussetzungen für die geräteübergreifende Analyse lauten wie folgt:
 
 * Ihr Unternehmen muss Mitglied des [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=de) sein oder Sie einen [!DNL Adobe Experience Platform Identity Service Private Graph] verwenden.
 * Sie müssen alles implementieren, was für [!DNL Co-op Graph] oder [!DNL Private Graph] erforderlich ist, einschließlich [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de) und ID-Synchronisierung mit dem Graphen. Beachten Sie, dass zusätzlich zu den technischen Anforderungen der [!DNL Co-op Graph] andere rechtliche und vertragliche Anforderungen stellt.

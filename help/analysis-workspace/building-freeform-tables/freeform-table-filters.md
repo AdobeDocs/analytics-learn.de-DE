@@ -24,7 +24,7 @@ Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einer [!DNL freefor
 
 >[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
 
-Analysis Workspace bietet nun mit 11 Filterkriterien und UND/ODER-Operatoren mehr Filtermöglichkeiten.
+Analysis Workspace bietet nun mit 11 Filterkriterien und AND/OR-Operatoren mehr Filtermöglichkeiten.
 
 Weitere Informationen zu den verfügbaren Filtern finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=de#cja-workspace).
 

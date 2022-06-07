@@ -1,6 +1,6 @@
 ---
 title: Verwenden des Operators „ist gleich eines von“ bei der Segmentierung
-description: Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich“ wurden zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren anstelle von mehreren ODER-Ausdrücken oder „enthält beliebige von“, um nach einer Liste spezifischer Elemente zu filtern. Durch die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ wird auch die Geschwindigkeit der Abfrage verbessert.
+description: Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich“ wurden zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren anstelle von mehreren OR-Ausdrücken oder „enthält beliebige von“, um nach einer Liste spezifischer Elemente zu filtern. Durch die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ wird auch die Geschwindigkeit der Abfrage verbessert.
 feature: Segmentation
 thumbnail: 32960.jpg
 team: Technical Marketing
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Verwenden des Operators „ist gleich eines von“ bei der Segmentierung
 
-Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich“ wurden zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren anstelle von mehreren ODER-Ausdrücken oder „enthält beliebige von“, um nach einer Liste spezifischer Elemente zu filtern. Durch die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ wird auch die Geschwindigkeit der Abfrage verbessert.
+Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich“ wurden zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren anstelle von mehreren OR-Ausdrücken oder „enthält beliebige von“, um nach einer Liste spezifischer Elemente zu filtern. Durch die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ wird auch die Geschwindigkeit der Abfrage verbessert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 

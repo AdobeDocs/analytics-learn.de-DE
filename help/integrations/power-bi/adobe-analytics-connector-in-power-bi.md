@@ -25,4 +25,4 @@ In diesem Video stellen wir Ihnen Adobe Analytics Connector vor, indem wir eine 
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Funktionsdokumentation](https://docs.microsoft.com/de-de/power-bi/desktop-connect-adobe-analytics)
+* [Funktionsdokumentation](https://docs.microsoft.com/de-DE/power-bi/desktop-connect-adobe-analytics)

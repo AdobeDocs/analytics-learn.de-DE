@@ -38,7 +38,7 @@ Projektansichten sind der beste Hinweis darauf, ob Ihre Benutzer [!DNL Workspace
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Weitere Informationen zu Protokollen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=de)
+* [Weitere Informationen zu Protokollen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=de)
 * [Demo-Dashboard herunterladen](https://adobe.ly/2ygP5ws)
 
 WAS KOMMT ALS NÄCHSTES: Wir arbeiten daran, diese Informationen in Kürze in einer benutzerfreundlichen UI (und mit mehr Details) innerhalb von [!DNL Analytics] zu präsentieren.

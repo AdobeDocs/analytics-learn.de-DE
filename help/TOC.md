@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
 source-wordcount: '2365'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 98%
       + [Einführung in Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigieren auf der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace-Landingpage-Aktualisierungen](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [Aktualisierungen der Landingpage von Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Erstellen neuer Analysis Workspace-Projekte](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Workspace-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -97,7 +97,7 @@ ht-degree: 98%
       + [Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbesserungen bei Segmentablagebereichen](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [&quot;Nächste/Vorherige&quot;und &quot;Seitenzusammenfassungs-Arbeitsbereich&quot;Bedienfelder und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Erstellen von Freiformtabellen {#building-freeform-tables}
       + [Grundlegendes zu Ihren Daten – Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -364,8 +364,8 @@ ht-degree: 98%
       + [Bearbeiten von Metriken mit Mehrfachanforderungen](exporting/report-builder/edit-metrics-across-requests.md)
       + [Verwenden von Report Builder, um mehr über die Adobe Analytics-API zu erfahren](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
       + [Erste Schritte mit Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [Planen einer Report Builder-Anforderung](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Erweiterte Report Builder-Bereitstellungsoptionen für Power BI verwenden](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Planen einer Report Builder-Anfrage](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Verwenden der erweiterten Report Builder-Bereitstellungsoptionen für Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrationen {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Verbesserungen bei der Veröffentlichung von Experience Cloud-Zielgruppen](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)

@@ -1,5 +1,5 @@
 ---
-title: Benutzerdefinierte Vorlagen in Analysis Workspace erstellen und verwalten
+title: Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace
 description: In diesem Video erfahren Sie, wie Sie benutzerdefinierte Vorlagen in Analysis Workspace erstellen, damit Sie und Ihr Team mit einem bestimmten Satz an Berichten starten können.
 feature: Projects
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Benutzerdefinierte Vorlagen in Analysis Workspace erstellen und verwalten {#create-and-manage-custom-templates-in-analysis-workspace}
+# Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
 In diesem Video erfahren Sie, wie Sie benutzerdefinierte Vorlagen in Analysis Workspace erstellen, damit Sie und Ihr Team mit einem bestimmten Satz an Berichten starten können.
 

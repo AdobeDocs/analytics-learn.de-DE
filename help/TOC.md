@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [Übersetzen der technischen Sprache von Adobe Analytics](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Funktionsübergreifendes Arbeiten](administration/key-admin-skills/working-cross-functionally.md)
       + [Stellen Sie die richtigen Fragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Tipps und Best Practices für Administratoren {#admin-tips}
+      + [Implementierungs-Playbook herunterladen](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Erstellen standardisierter Benennungskonventionen](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Erstellen standardisierter Codevorlagen](administration/admin-tips/create-standardized-code-templates.md)
+      + [Grundlegende Videos und Schulungen erstellen](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Interne Adobe Analytics-Site erstellen](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Globale Report Suite verwenden](administration/admin-tips/use-a-global-report-suite.md)
+      + [Projekt für Neuigkeiten und Mitteilungen erstellen](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)

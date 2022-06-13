@@ -1,28 +1,26 @@
 ---
 title: Erstellen eines Geschäftsanforderungsdokuments
-description: 'In diesem Video wird der überaus wichtige Schritt erläutert, wie Sie definieren, was mit Adobe Analytics verfolgt werden soll. Was möchten Sie über Ihre Site wissen? Schreiben Sie diese Punkte auf und beginnen Sie zu entscheiden, wie Sie sie verfolgen werden. '
+description: 'Erfahren Sie mehr über den wichtigsten Schritt bei der Definition der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen darüber verstehen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden. '
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3580
+thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 6%
 
 ---
 
 # Erstellen eines Geschäftsanforderungsdokuments
 
-In diesem Video wird der überaus wichtige Schritt erläutert, wie Sie definieren, was mit Adobe Analytics verfolgt werden soll. Was möchten Sie über Ihre Site wissen? Schreiben Sie diese Punkte auf und beginnen Sie zu entscheiden, wie Sie sie verfolgen werden.
+Erfahren Sie mehr über den wichtigsten Schritt bei der Definition der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen darüber verstehen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Downloaden](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Sie ein Beispiel-Geschäftsanforderungsdokument bzw. ein Beispiel-Referenzdokument für das Lösungs-Design, mit dem Sie Ihre Site definieren können.
+[Download](assets/aa-implementation-playbook.xlsx) eine Excel-Beispielvorlage für Dokumentanforderungen und Datenerfassungs-Design für Ihre digitalen Eigenschaften.
 
-[Downloaden](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Sie das Geschäftsanforderungsdokument/Referenzdokument für das Lösungs-Design aus diesem Video (und dem [Video zum Referenzdokument für das Lösungs-Design](creating-and-maintaining-an-sdr.md)).
+[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) das in diesem Video vorgestellte Excel-Dokument und/oder sehen Sie sich das zugehörige [Lösungsdesignreferenz](creating-and-maintaining-an-sdr.md).

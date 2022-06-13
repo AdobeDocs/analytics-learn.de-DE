@@ -1,28 +1,26 @@
 ---
 title: Erstellen und Pflegen einer Referenz für das Lösungs-Design
-description: Das Referenzdokument für das Lösungs-Design ist im Wesentlichen das Blueprint für Ihre Site. In diesem Video wird gezeigt, wie Sie in Verbindung mit dem Geschäftsanforderungsdokument ein Referenzdokument für das Lösungs-Design erstellen, sodass Sie immer eine Datenbasis haben, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren, und auf die Sie in Zukunft zurückverweisen.
+description: Das Dokument Solution Design Reference (SDR) ist der Entwurf für Geschäftsanforderungen und Datenerfassungsdesign für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als "Source of Truth" für Ihre Analyselösung erstellen und verwalten.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3581
+thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 11%
 
 ---
 
 # Erstellen und Warten eines Referenzdokuments für das Lösungs-Design
 
-Das Referenzdokument für das Lösungs-Design ist im Wesentlichen das Blueprint für Ihre Site. In diesem Video wird gezeigt, wie Sie in Verbindung mit dem Geschäftsanforderungsdokument ein Referenzdokument für das Lösungs-Design erstellen, sodass Sie immer eine Datenbasis haben, auf die Sie zurückgreifen können, wenn Sie Adobe Analytics implementieren, und auf die Sie in Zukunft zurückverweisen.
+Das Dokument Solution Design Reference (SDR) ist der Entwurf für Geschäftsanforderungen und Datenerfassungsdesign für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als &quot;Source of Truth&quot; für Ihre Analyselösung erstellen und verwalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-[Downloaden](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Sie ein Beispiel-Geschäftsanforderungsdokument bzw. ein Beispiel-Referenzdokument für das Lösungs-Design, mit dem Sie Ihre Site definieren können.
+[Download](assets/aa-implementation-playbook.xlsx) eine Excel-Beispielvorlage für Dokumentanforderungen und Datenerfassungs-Design für Ihre digitalen Eigenschaften.
 
-[Downloaden](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Sie das Geschäftsanforderungsdokument/Referenzdokument für das Lösungs-Design aus diesem Video (und dem [Geschäftsanforderungsdokument-Video](creating-a-business-requirements-document.md)).
+[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) das in diesem Video vorgestellte Excel-Dokument und/oder sehen Sie sich das zugehörige [Dokument zu Geschäftsanforderungen](creating-a-business-requirements-document.md)).

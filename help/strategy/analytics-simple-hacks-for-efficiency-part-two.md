@@ -1,10 +1,11 @@
 ---
 title: Einfache Hacks für mehr Effizienz und Selbstbedienung - Teil zwei
-description: 'Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von In-Tool-Strategien bewältigen können. '
+description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von In-Tool-Strategien bewältigen können.
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '802'
 ht-degree: 6%
 
 ---
@@ -94,3 +95,5 @@ Verwenden Sie Anmerkungen, um Dokumentationsreferenzen zur In-Produkt-Lösung zu
 Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Arbeitsbereich] zu terminierten Berichten und Dashboards. Nutzen Sie außerdem [!UICONTROL Analysis Workspace] um API-Anfragen zu erstellen.
 
 Wir hoffen, dass Sie diesen Artikel zu In-Tool-Strategien wertvoll gefunden haben. Weitere Informationen zu effizienten Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform erhalten Sie unter [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.

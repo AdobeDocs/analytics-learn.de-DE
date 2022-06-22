@@ -1,10 +1,11 @@
 ---
 title: Kundenintelligenz mit Virtual Analyst und Segment IQ meistern
-description: 'Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kunden, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren. '
+description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kunden, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1104'
 ht-degree: 4%
 
 ---
@@ -121,3 +122,5 @@ Halten Sie sich jederzeit über Anomalien in Ihren Daten auf dem Laufenden - ega
 **Produktvorräte:** &quot;Kunden, die Fitbits kauften, erhielten mit 6facher höherer Wahrscheinlichkeit ein &quot;Nicht vorrätig&quot; als alle anderen, sodass wir schnell mehr Fitbits bestellt haben.&quot; → Lagerausfälle verhindert und mehr Urlaubsaufträge abgeschlossen
 
 Weitere Informationen finden Sie in unserer [Webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.

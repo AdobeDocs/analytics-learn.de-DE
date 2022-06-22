@@ -1,10 +1,11 @@
 ---
 title: Einfache Hacks für mehr Effizienz und Selbstbedienung - Teil 1
-description: 'Lernen Sie die wichtigsten Herausforderungen kennen, mit denen Analyseteams heute konfrontiert sind, und lernen Sie unsere Empfehlungen kennen, um sie mithilfe von Strategien außerhalb der Adobe Analytics-Benutzeroberfläche zu überwinden. '
+description: Lernen Sie die wichtigsten Herausforderungen kennen, mit denen Analyseteams heute konfrontiert sind, und lernen Sie unsere Empfehlungen kennen, um sie mithilfe von Strategien außerhalb der Adobe Analytics-Benutzeroberfläche zu überwinden.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Andere wichtige Herausforderungen für Analysten:
    * Gründung von KMU in den verschiedenen Teams der Organisation
    * Erstellen Sie ihre Präsenz, indem Sie Veröffentlichungen und Gewinne sozialisieren
    * Verwenden Sie reguläre Bürozeiten, um die Trainer zu schulen und Ad-hoc-Aufgaben zu reduzieren.
+
+Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.

@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2432'
 ht-degree: 97%
 
 ---
@@ -150,6 +150,17 @@ ht-degree: 97%
       + [100 % gestapelte Visualisierungen](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Erstellen einer Heatmap für die Zeitaufteilung](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + Analysieren von Customer Journeys {#analyzing-customer-journeys}
+      + [Grundlegendes zu Ihren Daten – Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Journey IQ – Übersicht über die geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Verbesserungen der Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [Multidimensionales Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [Vergleichen von Segmenten in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Erweiterung bei Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Verbesserungen am Fluss 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Textumbruch und multidimensionaler Fluss](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Anwenden von Segmenten {#applying-segments}
       + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Verwendung von Segmenten in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 97%
       + [Erstellen von benutzerdefinierten Datumsbereichen](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumsvergleiche in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analysieren von Customer Journeys {#analyzing-customer-journeys}
-      + [Grundlegendes zu Ihren Daten – Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ – Übersicht über die geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Verbesserungen der Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Multidimensionales Fallout](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Vergleichen von Segmenten in Fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Erweiterung bei Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Textumbruch und multidimensionaler Fluss](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Kuratieren und Freigeben von Projekten {#curate-and-share-projects}
       + [Speichern und Freigeben von sowie Zusammenarbeiten an Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Kuratieren und Freigeben in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)

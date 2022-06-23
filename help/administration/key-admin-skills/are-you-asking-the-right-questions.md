@@ -1,79 +1,78 @@
 ---
 title: Stellen Sie die richtigen Fragen?
-description: 'Alles davon. Dies ist eine der häufigsten Antworten von Interessengruppen auf die Frage: Welche Daten möchten Sie nachverfolgen? Es kann nützlicher sein, die umsetzbaren Datenpunkte zu identifizieren und zu sammeln, als jedes mögliche Element aufzuzeichnen. Die effiziente Identifizierung dieser Datenpunkte erfordert einen grundlegenden Plan und kreative Diskussionen mit den Stakeholdern.'
+description: 'Alle. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: Welche Daten möchten Sie nachverfolgen? Dabei könnte es vorteilhafter sein, nur die verwertbaren Datenpunkte zu identifizieren und zu erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.'
 feature: Admin Tools
 topic: Administration
 role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
-workflow-type: tm+mt
+exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
+source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+workflow-type: ht
 source-wordcount: '1082'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Stellen Sie die richtigen Fragen?
 
 >[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
-_All das_. Dies ist eine der häufigsten Antworten von Interessengruppen auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Es kann nützlicher sein, die _verwertbare Datenpunkte_ als jedes mögliche Element aufzuzeichnen. Die effiziente Identifizierung dieser Datenpunkte erfordert einen grundlegenden Plan und kreative Diskussionen mit den Stakeholdern.
+_Alle_. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Dabei könnte es vorteilhafter sein, nur _die verwertbaren Datenpunkte_ zu identifizieren und zu erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.
 
-## Wichtige Daten erfassen
+## Daten erfassen, die wirklich wichtig sind
 
-Wenn ein Datenpunkt eine _clear_ oder _plausibel_ Eingaben in eine Analyse oder Optimierung vornehmen, ist es sinnvoll, sie in Adobe Analytics zu erfassen. Ist dies nicht der Fall, sollte es vorerst nicht in den Anwendungsbereich fallen. Es erfordert einen inkrementellen Aufwand, um alle möglichen Datenpunkte zu sammeln und diese Erfassungsprozesse zu pflegen. Wenn Sie die nützlichen Datenpunkte mit Hunderten von irrelevanten Elementen umgeben, behindern Sie die Verwendung Ihrer Daten für die Verbraucher!
+Wenn ein Datenpunkt einen _eindeutigen_ oder _plausiblen_ Wert für eine Analyse oder Optimierung bietet, ist es sinnvoll, ihn in Adobe Analytics zu erfassen. Ist dies nicht der Fall, sollte er vorerst nicht erfasst werden. Die Erfassung und Pflege aller möglichen Datenpunkte ist mit erheblichem Aufwand verbunden. Wenn Sie die nützlichen Datenpunkte gemeinsam mit Hunderten irrelevanten Elementen erfassen, erschweren Sie die Anpassung der Analyseprozesse an die Anforderungen Ihrer Datennutzer.
 
-Ein [!DNL Analytics] -Administrator kann häufig wichtige Daten identifizieren, jedoch nicht immer. Wo Standards und Best Practices wie bei typischen Webseiteninteraktionen zum Einsatz kommen, sind die wichtigen Daten leichter zu identifizieren. Da jedoch neue digitale Innovationen, angepasste Analysen oder spezifische Geschäftsziele involviert sind, können die wichtigen Daten nur mithilfe kollaborativer Interviews mit Interessengruppen vertraulich identifiziert werden.
+Ein [!DNL Analytics]-Administrator ist meist in der Lage, wichtige Daten zu identifizieren, jedoch nicht immer. Wenn normalerweise bestimmte Standards und Best Practices wie etwa bei typischen Interaktionen mit Web-Seiten verwendet werden, sind die wichtigen Daten leichter zu identifizieren. Wenn jedoch auch digitale Innovationen, spezielle Analysen oder spezifische Geschäftsziele beachtet werden müssen, können die relevanten Daten nur in Gesprächen mit Stakeholdern mit Sicherheit identifiziert werden.
 
-## Fremddetektiv sein
+## Ein detektivischer Blick von außen hilft
 
-Es gibt eine Kunst, mit anderen effizient über ihre Bedürfnisse - oder was sie brauchen - zu kommunizieren _wahrnehmen_ erforderlich sein. Wenn man wie ein Detektiv kommuniziert, vor allem, der mit der lokalen Kultur nicht vertraut ist, hilft man beiden Seiten, die Ziele, Wünsche und Bedürfnisse klarer zu identifizieren. Nehmen Sie nichts an und bitten Sie um Klarstellung über alles!
+Die effiziente Kommunikation mit Kollegen über ihre Anforderungen – oder was sie _glauben_ zu benötigen – ist eine Kunst. Wenn Sie wie ein Detektiv vorgehen, vor allem wie einer, der mit der lokalen Unternehmenskultur nicht vertraut ist, helfen Sie beiden Seiten, die Ziele, Wünsche und Anforderungen klarer zu erkennen. Treffen Sie keine Annahmen und fragen Sie immer nach!
 
-* Was sind deine Ziele?
-* Was bedeutet es in Ihrem Team oder in Ihrer Organisation, wenn Sie _______ sagen?
-   * “channel”?
-   * “dashboard”?
-   * &quot;das Akronym, das du erwähnt hast&quot;?
-* Was würdest du anders machen, wenn du diese Daten hättest?
+* Was sind Ihre Ziele?
+* Was bedeutet es in Ihrem Team oder in Ihrem Unternehmen, wenn Sie _______ sagen?
+   * „Kanal“?
+   * „Dashboard“?
+   * „das Akronym, das Sie genannt haben“?
+* Was würden Sie anders machen, wenn Sie diese Daten hätten?
 
-Unternehmen, Geschäftseinheiten und Teams verfügen über eine einzigartige Kultur und verwandte Sprache. Insbesondere wenn es um Schlagwörter und Akronymen geht, stellen Sie Fragen, um sicherzustellen, dass Sie und Ihre Stakeholder einander richtig verstehen.
+Unternehmen, Geschäftseinheiten und Teams verfügen über eine einzigartige Kultur und Sprache. Insbesondere wenn es um Bezeichnungen und Akronyme geht, sollten Sie nachfragen, um sicherzugehen, dass Sie und Ihre Stakeholder einander richtig verstehen.
 
-## Steuererwartungen mit Proben
+## Steuern Sie die Erwartungen mithilfe von Vorlagen
 
-Legen Sie einige Grundsätze vor der Diskussion fest. Als Analytics-Administrator müssen Sie die richtigen Eingaben erwerben, um die ideale Lösung für Ihre Verantwortlichen zu entwickeln und bereitzustellen.
+Vor dem Gespräch müssen gewisse Voraussetzungen gegeben sein. Als Analytics-Administrator benötigen Sie zunächst den richtigen Input, um die ideale Lösung für Ihre Stakeholder entwickeln und bereitstellen zu können.
 
-### 1. Fragebogen übermitteln
+### 1. Bereiten Sie einen Fragebogen vor
 
-Senden Sie eine Liste von Fragen, die Sie vor dem Entdeckungstreffen prüfen können. Sie können im Vorfeld Antworten geben oder sich einfach mit den Diskussionsthemen vertraut machen. Sie können Beispielantworten zusammen mit dem Fragebogen geben, wenn dies die Erwartungen weiter verdeutlicht.
+Lassen Sie Ihrem Stakeholder vor dem Discovery-Meeting eine Liste mit Fragen zukommen. Damit kann Ihr Gesprächspartner schon im Vorfeld Antworten übermitteln oder sich einfach mit den Diskussionsthemen vertraut machen. Gemeinsam mit dem Fragebogen können Sie auch Beispielantworten zur Verfügung stellen, wenn dies dazu beiträgt, die Erwartungen weiter zu präzisieren
 
-Die Fragen variieren je nach technischem oder analytischem Können, Unternehmensstruktur oder Komplexität des Themas der Datenerfassung. Oft ist es hilfreich, mit Fragen über die gesamte Organisation zu beginnen, dann die Rolle Ihres Stakeholders bei der Unterstützung dieser organisatorischen Ziele und so weiter zu diskutieren und mehr Details zu erhalten. Anschließend können Sie sicherstellen, dass die diskutierten detaillierten Datenpunkte die übergeordneten Ziele der Organisation effektiv unterstützen. Außerdem können Sie kreativ denken und neue Ideen für Daten vorschlagen, die ihre Ziele unterstützen.
+Die Fragen werden je nach technischem oder analytischem Verständnis, Unternehmensstruktur oder Komplexität des Datenerfassungsprozesses anders lauten. Oft ist es hilfreich, mit allgemeinen, das gesamte Unternehmen betreffenden Fragen zu beginnen, dann die Rolle Ihres Stakeholders im Zusammenhang mit den betrieblichen Zielen zu besprechen und so Schritt für Schritt immer weiter ins Detail zu gehen. Anschließend können Sie prüfen, ob die besprochenen detaillierten Datenpunkte tatsächlich die übergeordneten Unternehmensziele vorantreiben. Dieser Ansatz ermöglicht auch kreative Überlegungen und bringt neue Ideen für die Datenerfassung hervor, die für die Unternehmensziele förderlich sind.
 
-[Diese Vorlage durchsuchen](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} mit mehreren Beispielfragen für Interviews mit Interessengruppen. Verwenden Sie sie erneut oder passen Sie sie an, um relevante Fragen für Ihre Diskussionen vorzubereiten.
+[Hier finden Sie eine Vorlage](assets/stakeholder-questionnaire.pdf) {target=&quot;_blank&quot;} mit einigen Beispielfragen für Gespräche mit Stakeholdern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
 
-### 2. Beispielberichte anfordern
+### 2. Verlangen Sie Musterberichte
 
-Ihr Verantwortlicher sollte Ihnen aktuelle oder nachgeahmte Beispiele für Datenpunkte zur Verfügung stellen, die von Interesse sind und wie sie verwendet oder gemeldet werden können. Diese Berichte bieten einen weiteren Einblick in die Ziele, den Ansatz und die Kultur Ihres Stakeholders und seinen aktuellen oder idealen Zustand.
+Ihr Stakeholder sollte Ihnen tatsächliche oder fiktive Beispiele für interessante Datenpunkte zur Verfügung stellen und angeben, wie sie verwendet oder in Berichten implementiert werden. Diese Berichte gewähren einen weiteren Einblick in die Ziele, den Ansatz und die Unternehmenskultur Ihres Stakeholders und die aktuelle oder ideale Beschaffenheit von Berichten.
 
-### 3. Keine Entdeckungsversprechen
+### 3. Keine Versprechen beim Discovery-Meeting
 
-Anfragen und während der Entdeckung diskutierte Datenvorschläge sind keine Verpflichtungen an Ihre Stakeholder. Bei der Ausführung der Datenerfassung gibt es Schichten von Komplexität, die Sie erst nach dem Vorstellungsgespräch vollständig auswerten können. Sie können Ideen im kreativen Brainstorming diskutieren, die aufgrund ihrer geringen Relevanz für ihre Ziele letztlich deprimiert werden. Aus diesen und anderen Gründen ist die Entdeckungsphase nur eine Gelegenheit zur Ideenfindung, bei der nicht versprochen wird, erfasste Ideen in Berichten verfügbar zu machen.
+Anfragen und Datenvorschläge, die während des Discovery-Meetings besprochen werden, stellen keine Verpflichtung Ihrerseits gegenüber Ihren Stakeholdern dar. Die Datenerfassung ist ein komplexer Prozess, dessen Ausmaß Sie erst nach dem Gespräch umfassend beurteilen können. So könnte es etwa sein, dass Sie beim kreativen Brainstorming Ideen diskutieren, die jedoch aufgrund ihrer geringen Relevanz für die Unternehmensziele letztlich weiter nach hinten gereiht werden. Aus diesen und anderen Gründen ist die Discovery-Phase nur eine Gelegenheit zur Ideenfindung, bei der aber nicht versprochen werden kann, dass diese Ideen auch tatsächlich in Berichten aufgenommen werden.
 
-Nach der Entdeckung und anschließenden Überprüfung oder Nachbereitung durch den Analytics-Administrator sollte es ein Treffen geben, um den Aufwand, die Zeitpläne und das Engagement erneut einzuberufen und zu besprechen. Diese Methode unterstützt eine freie und kreative Diskussion in der Entdeckung, die zu einer robusteren Lösung insgesamt beiträgt.
+Nach dem Discovery-Meeting und der anschließenden Überprüfung oder Nachbereitung durch den Analytics-Administrator sollte es erneut ein Treffen geben, um den Aufwand, die Zeitpläne und den tatsächlichen Arbeitsauftrag zu besprechen. Diese Methode ermöglicht ein freies und kreatives Gespräch in der Discovery-Phase, die zu einer hochwertigeren Gesamtlösung führt.
 
-## Notieren Sie die Anforderungen entsprechend Ihren Anforderungen.
+## Halten Sie die Anforderungen fest
 
-Discovery-Interviews sollten Dokumente generieren, um sicherzustellen, dass nützliche Ideen nicht vergessen werden, und um die Wahrscheinlichkeit zu erhöhen, dass Interessenträger und Administratoren sich auf das, was besprochen wurde, einigen. Das Detailniveau, die Struktur und das Speichermedium sind jedoch alles flexibel. Es sollte ein Datensatz vorhanden sein, der einige Details zu Anforderungen enthalten sollte, unabhängig davon, ob sie implementiert wurden oder nicht. Dies hilft den Teammitgliedern später, den Zweck eines Datenpunkts zu verstehen oder Lücken zu überprüfen.
+Discovery-Gespräche sollten in Dokumenten festgehalten werden, damit gute Ideen nicht verlorengehen. Zusätzlich ist für Stakeholder und Administratoren jederzeit einsehbar, was besprochen wurde. Die Detailgenauigkeit, die Struktur und das Speichermedium können Sie frei wählen. Jedenfalls sollte eine Aufzeichnung vorhanden sein. Und sie sollte auch gewisse Details zu den Anforderungen enthalten, unabhängig davon, ob diese Ideen umgesetzt werden oder nicht. Dies hilft Team-Mitgliedern später, den Zweck eines Datenpunkts zu verstehen oder Lücken zu füllen.
 
-Es ist besser, einen Anforderungskontext aufzuzeichnen, als keinen zu haben. Es kann so minimal sein, dass nur die implementierten Datenpunkte aufgezeichnet werden, indem die integrierten Namen- und Beschreibungsfelder in Adobe Analytics verwendet werden. Andererseits könnte dies so komplex sein wie die Auflistung des Anfragenden, der Daten, des detaillierten Aufwands usw., aber dies ist normalerweise die falsche Richtung für dieses Prinzip. Sobald die Aufzeichnung oder Überprüfung mühsam wird, wird der Prozess ignoriert und abgebrochen, sodass später Kollegen, die nach einem Datenpunkt fragen, mit den gemeinsamen Ausnahmen konfrontiert werden: Ich weiß nicht... Es wurde implementiert, bevor ich Mitglied bin.. Wir vertrauen ihm nicht. Dies gibt Ihren Daten kein Vertrauen und keine Übernahme.
+Es ist immer besser, zumindest einen Anforderungskontext zu haben, als gar keinen. Dieser könnte minimal sein und nur die implementierten Datenpunkte beinhalten, indem die nativen Namens- und Beschreibungsfelder in Adobe Analytics verwendet werden. Diese Aufzeichnungen könnten aber auch umfassender sein und den Anfragenden, das Datum, den Arbeitsaufwand usw. im Detail enthalten. Für unseren Ansatz ist dies jedoch normalerweise zu umfangreich. Wenn nämlich das Aufzeichnen und Überprüfen mühsam werden, wird der Prozess übergangen und beiseite gelassen, sodass Kollegen, die später nach einem Datenpunkt fragen, die Antwort erhalten: Ich weiß nicht... Er wurde implementiert, bevor ich hier begonnen habe. Wir vertrauen ihm nicht. Dies schmälert das Vertrauen in Ihre Daten, weshalb sie auch nicht gern genutzt werden.
 
-Adobe bietet einige Tools und Vorlagen, die Ihnen bei diesem Schritt helfen. Verwenden Sie diese und passen Sie sie an Ihre Anforderungen an.
+Adobe bietet einige Tools und Vorlagen, die Ihnen bei diesem Schritt helfen können. Verwenden Sie diese und passen Sie sie an Ihre Anforderungen an.
 
-* **Das Dokument zu Geschäftsanforderungen (BRD)** bietet eine mäßig detaillierte Vorlage für Anforderungs- und Implementierungs-Tracking.
-* **Das Adobe Analytics Health Dashboard** wird verwendet, um eine Momentaufnahme der aktuellen Variablenstatus aus Adobe Analytics zu extrahieren.
+* **Das Business Requirements Document (BRD)** bietet eine mäßig detaillierte Vorlage für die Erfassung von Anforderungen und das Nachverfolgen der Implementierung.
+* **Das Adobe Analytics Health Dashboard** wird verwendet, um einen Schnappschuss der aktuellen Variablenstatus aus Adobe Analytics zu extrahieren.
 
 ## Stellen Sie die richtigen Fragen!
 
-Analytics-Administratoren haben oft einen großen Überblick darüber, welche Daten nützlich sind und was nicht. Wenn Sie Ihre Diskussionen mit Interessengruppen wie hier empfohlen betrachten, helfen Sie dabei, die Lücke zwischen den Zielen eines Kollegen und den Daten zu schließen, die zur Messung und zum Nachweis des damit verbundenen Erfolgs benötigt werden. Ein Administrator, der auch ein erfahrener Detektor ist, bestätigt die angeforderten Datenpunkte, die wichtig sind, und erkennt verborgene Möglichkeiten oder Anforderungen, wodurch sie für die umfassendere Organisation zu einem leistungsstarken Vorteil werden.
-
+Analytics-Administratoren haben oft ein gutes Gespür dafür, welche Daten nützlich sind und welche nicht. Wenn Sie Ihre Gespräche mit Stakeholdern wie hier empfohlen führen, helfen Sie dabei, die Lücke zwischen den Zielen eines Team-Mitglieds und den Daten zu schließen, die zur Messung und zum Nachweis des damit verbundenen Erfolgs benötigt werden. Ein Administrator, der detektivischen Spürsinn besitzt, weiß, welche der angeforderten Datenpunkte wichtig sind, und erkennt verborgene Chancen oder Anforderungen, sodass sie für das gesamte Unternehmen als wirkungsvolles Instrument eingesetzt werden können.

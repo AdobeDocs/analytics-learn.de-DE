@@ -9,9 +9,9 @@ thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1283'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-„Etwas mitzureden haben“. Diese bekannte Phrase ist schon seit jeher ein wichtiges Thema in der Geschäftswelt. Aber was bedeutet sie wirklich? Wenn Sie etwas mitzureden haben, werden Sie in hochrangige Entscheidungsprozesse einbezogen. Sie werden nicht nur eingeladen, an Sitzungen teilzunehmen, sondern Ihr Beitrag wird geschätzt und ernst genommen. Ich werde Ihnen zeigen, wie Ihr Unternehmen und Ihre berufliche Laufbahn als Adobe Analytics-Power-User durch einen Sitzplatz am Tisch unterstützt werden, unabhängig davon, ob es sich bei Ihrer offiziellen Rolle um die eines Administrators, eines Datenanalytikers oder eine beliebige andere von Ihrer Visitenkarte handelt.
+„Etwas mitzureden haben“. Diese bekannte Phrase ist schon seit jeher ein wichtiges Thema in der Geschäftswelt. Aber was bedeutet sie wirklich? Wenn Sie etwas mitzureden haben, werden Sie in hochrangige Entscheidungsprozesse einbezogen. Sie werden nicht nur eingeladen, an Sitzungen teilzunehmen, sondern Ihr Beitrag wird geschätzt und ernst genommen. Ich möchte Ihnen zeigen, wie Ihr Unternehmen und Ihre berufliche Karriere als Adobe Analytics-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
 
 ## Warum es wichtig ist, mitzureden
 
-Lassen Sie uns zunächst eines klarstellen. Die Rolle von Datenexperten hat sich weiterentwickelt. Sie können nicht mehr hinter ihren Computerbildschirmen sitzen, die sich nur auf eVars, Ereignisse und sProps konzentrieren. Als Administrator sind Sie dafür verantwortlich, dass Ihr Unternehmen die richtigen datengestützten Entscheidungen trifft. Aber damit das möglich ist, müssen Sie dort sein, wo diese Entscheidungen getroffen werden, und nicht bloß an Ihrem Schreibtisch.
+Lassen Sie uns zunächst eines klarstellen. Die Rolle von Datenexperten hat sich weiterentwickelt. Sie können nicht mehr nur hinter ihren Computer-Bildschirmen sitzen und sich mit eVars, Ereignisse und sProps befassen. Als Administrator sind Sie dafür verantwortlich, dass Ihr Unternehmen die richtigen datengestützten Entscheidungen trifft. Aber damit das möglich ist, müssen Sie dort sein, wo diese Entscheidungen getroffen werden, und nicht bloß an Ihrem Schreibtisch.
 
 Es gibt drei Gründe, warum Sie bei wichtigen Entscheidungen einbezogen werden sollten.
 

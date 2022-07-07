@@ -1,6 +1,6 @@
 ---
-title: Erstellen grundlegender aufgezeichneter Schulungssitzungen und kurzer Videos
-description: Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe grundlegender und erweiterter Themen abdecken. Wenn sich neue Benutzer mit dem Tool beschäftigen, liefern Sie nicht jedes Mal dieselben Inhalte über ein Meeting.
+title: Erstellen einfacher aufgezeichneter Schulungssitzungen und kurzer Videos
+description: Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe von grundlegenden und fortgeschrittenen Themen abdecken, sodass Sie neuen Nutzern bei der Einführung in das Tool nicht jedes Mal den gleichen Inhalt in einer Besprechung vermitteln müssen.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,40 +8,41 @@ level: Beginner
 doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
-workflow-type: tm+mt
+exl-id: 60307702-9348-48b5-8364-49e90946d793
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Erstellen einfacher aufgezeichneter Schulungssitzungen und kurzer Videos
 
-# Erstellen grundlegender aufgezeichneter Schulungssitzungen und kurzer Videos
+**WAS:** Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe von grundlegenden und fortgeschrittenen Themen abdecken, sodass Sie neuen Nutzern bei der Einführung in das Tool nicht jedes Mal den gleichen Inhalt in einer Besprechung vermitteln müssen.
 
-**WAS:** Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe grundlegender und erweiterter Themen abdecken. Wenn sich neue Benutzer mit dem Tool beschäftigen, liefern Sie nicht jedes Mal dieselben Inhalte über ein Meeting.
+**WARUM:** Dies spart dem AA-Administrator Zeit und man ist nicht mehr darauf angewiesen, dass eine Person für die Schulung der anderen verantwortlich ist. Außerdem können sich neue Benutzer in ihrem eigenen Tempo selbst schulen.
 
-**WARUM:** Dadurch sparen Sie Zeit für den Administrator und entziehen sich der Abhängigkeit von einer Person, die für die Schulung anderer Benutzer verantwortlich ist. Außerdem können neue Benutzer in ihrem eigenen Tempo selbst aktivieren.
+**WIE:** Wählen Sie die für Ihre Organisation und die Benutzer Ihres Unternehmens wichtigsten Themen aus und nehmen Sie sich etwas Zeit, um Ihre kurzen Schulungsvideos aufzunehmen. Im Folgenden finden Sie einige Vorschläge von einfachen bis hin zu fortgeschrittenen Themen:
 
-**WIE:** Wählen Sie die relevantesten Themen für Ihre Organisations- und Geschäftsbenutzer aus und nehmen Sie sich einige Zeit, um Ihre bite-dimensionalen Schulungsvideos aufzuzeichnen. Im Folgenden finden Sie einige Vorschläge von einfachen bis hin zu erweiterten Themen:
-
-* Kampagnen verfolgen
-* So verstehen Sie die Seitenleistung
+* Wie lassen sich Kampagnen verfolgen?
+* So verstehen Sie die Seitenleistung besser
 * Erstellen von Visualisierungen in Workspace
 * Alles über Segmente und berechnete Metriken
 * Die fünf wichtigsten Tipps in Adobe Analytics (z. B.: Erstellen von Dropdown-Listen)
-* Verwendung von Attribution IQ
+* Verwenden von Attribution IQ
 
-Sie können dann einfach Benutzer darauf verweisen, anstatt langwierige E-Mails zu schreiben oder ein weiteres Meeting zu haben. Weitere Tipps und Tricks zu Schulungsbenutzern finden Sie unter [Artikel von Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de)Bei {target=&quot;_blank&quot;} geht es um die Vereinfachung und weniger Zeit für das Training von Benutzern.
+Sie können die Benutzer dann einfach auf diese verweisen, anstatt lange E-Mails zu schreiben oder eine weitere Besprechung abzuhalten. Weitere Tipps und Tricks zur Schulung von Benutzern finden Sie im [Artikel von Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target=&quot;_blank&quot;}. Darin geht es um die Vereinfachung und den verringerten Zeitaufwand bei der Benutzerschulung.
 
-Darüber hinaus gibt es eine Plethora (ja, eine Plethora) [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target=&quot;_blank&quot;} in Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
+Darüber hinaus gibt es eine Fülle von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target=&quot;_blank&quot;} in Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning){target=&quot;_blank&quot;}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
 
 ## Autoren
 
-Dieses Dokument wurde von folgenden Personen mitgeschrieben:
+An diesem Dokument haben mitgewirkt:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital Analytics Platform Manager bei NortonLifeLock Adobe Analytics Champion
+Christel Guidon, Digital Analytics Platform Manager bei NortonLifeLock
+Adobe Analytics Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

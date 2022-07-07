@@ -1,126 +1,126 @@
 ---
-title: Kundenintelligenz mit Virtual Analyst und Segment IQ meistern
-description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kunden, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
+title: Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ
+description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kund*innen, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Kundenintelligenz mit Virtual Analyst und Segment IQ in Adobe Analytics meistern
+# Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ in Adobe Analytics
 
-In diesem Artikel erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Überprüfen Sie als Nächstes die Vorteile und realen Erfolgsgeschichten globaler Kunden, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
+In diesem Artikel erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie als Nächstes mehr über die Vorteile und realen Erfolgsgeschichten globaler Kund*innen, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
 
 ## Der Wert künstlicher Intelligenz
 
-Vielleicht erinnern Sie sich an die Zeit, als der Schachmeister Garry Kasparov von IBM® besiegt wurde [!DNL Deep Blue]. Experten waren überzeugt, dass eine Maschine die Entscheidungsfindung und das Urteilsvermögen eines derart komplexen Spiels wie Schach unmöglich überwinden konnte. Aber es ist gelungen, und dies war der Schlüssel zu einem grundlegenden Wandel der Geschäftsstrategie und technologischen Innovation, da die Macht der künstlichen Intelligenz entfacht wurde.
+Vielleicht erinnern Sie sich noch an die Zeit, als der Schachgroßmeister Garry Kasparov durch [!DNL Deep Blue] von IBM® besiegt wurde. Expert*innen waren bis dahin überzeugt, dass eine Maschine in einem so komplexen Spiel wie Schach die menschliche Entscheidungsfindung und das menschliche Urteilsvermögen nicht schlagen kann. Doch es wurde erreicht, und dies war der Schlüssel zu einem grundlegenden Wandel der Geschäftsstrategie und technologischen Innovation, indem die Macht der künstlichen Intelligenz entfacht wurde.
 
-Adobe Analytics ist das Kernsystem der Intelligenz für das Erlebnisgeschäft und ermöglicht es jedem im Unternehmen, die Interaktionen von Kunden mit ihrer Marke über alle Touchpoints hinweg in Echtzeit und in großem Maßstab zu verstehen und zu optimieren.
+Adobe Analytics ist das Kernsystem der Intelligenz für das Erlebnisgeschäft und ermöglicht es allen im Unternehmen, die Interaktionen von Kund*innen mit ihrer Marke über alle Kontaktpunkte hinweg in Echtzeit und in großem Maßstab zu verstehen und zu optimieren.
 
 Die KI-Tools von Adobe sind nicht dazu da, Sie zu ersetzen, sondern Ihnen zu ermöglichen, bei Ihren Bemühungen einen maximalen ROI zu erzielen.
 
-## Analyse transformieren
+## Transformieren Sie Ihre Analysen
 
-Um Ihre Analyse weiterzuentwickeln, müssen wir uns auf drei wichtige Aspekte konzentrieren:
+Um Ihre Analysen weiterzuentwickeln, müssen wir uns auf drei wichtige Aspekte konzentrieren:
 
-1. Organisation - Wie man ganzheitliche Ansichten von Kunden schafft, insight-gesteuerte Entscheidungen priorisiert und Daten demokratisiert.
+1. Organisation – wie Sie ganzheitliche Ansichten von Kunden schaffen, erkenntnisgesteuerte Entscheidungen priorisieren und Daten demokratisieren.
 
-1. Technologie - wie Sie sicherstellen, dass Daten und Technologien maßstabsgetreu personalisiert sind.
+1. Technologie – wie Sie sicherstellen, dass Daten und Technologien maßstabsgetreu personalisiert sind.
 
-1. Kunde - Wie Sie Vertrauen aufbauen und sich an Veränderungen anpassen.
+1. Kund*innen – wie Sie Vertrauen aufbauen und sich an Veränderungen anpassen.
 
-Analytics ist anspruchsvoll und zeitaufwendig. Dennoch besteht die ständige Notwendigkeit, die Zeit bis zur Veröffentlichung zu beschleunigen. Wichtigste Probleme für Unternehmen:
+Analysen sind anspruchsvoll und zeitaufwändig. Dennoch besteht die ständige Notwendigkeit, die Zeit bis zur Erkenntnis zu verkürzen. Wichtigste Probleme für Organisationen:
 
-* Eingeschränkte Organisationsressourcen - Verschiedene Geschäftsziele können die Ressourcenverfügbarkeit einschränken
-* Eingeschränktes technisches Know-how - Wissen kann ausgetauscht und Daten demokratisiert werden
-* Kundenerwartungen - Kann Ihr Team dynamisch auf Verhaltensänderungen von Kunden reagieren?
+* Eingeschränkte Organisationsressourcen – verschiedene Geschäftsziele können die Ressourcenverfügbarkeit einschränken
+* Eingeschränktes technisches Know-how – die Frage, ob Wissen ausgetauscht und Daten demokratisiert werden können
+* Kundenerwartungen– die Frage, ob Ihr Team dynamisch auf Verhaltensänderungen von Kund*innen reagieren kann
 
-## Übergeordnete Customer Intelligence mit Virtual Assistant, basierend auf Adobe Sensei
+## Meistern Sie die Kundenanalyse mit Virtual Assistant, basierend auf Adobe Sensei
 
 ![Customer Intelligence](assets/customer-intelligence.png)
 
-### 3 Stufen der Customer Intelligence
+### 3 Stufen der Kundenanalyse
 
-Wenn es um eine erfolgreiche Customer Intelligence-Strategie geht, müssen wir drei Ebenen durchlaufen (siehe Abbildung 1 oben): (a) Datenerfassung, Datenverarbeitung, c) Analyse und maschinelles Lernen, bevor wir endlich handeln und unsere Inhalte und Anzeigen optimieren können.
+Wenn es um eine erfolgreiche Kundenanalysestrategie geht, müssen wir drei Ebenen durchlaufen (siehe Abbildung 1 oben): (a) Datenerfassung, (b) Datenverarbeitung, (c) Analyse und maschinelles Lernen. Erst dann können wir handeln und unsere Inhalte und Anzeigen optimieren.
 
-1. Die Datenerfassung hängt von Ihrer Organisation ab und kann verschiedene Kanäle und Medien umfassen. Dazu gehören OTT-Geräte, Video, Unternehmen, Callcenter, In-Store, Social E-Mail, Web, Anzeigen, mobile Apps, Wearables, IoT, Sprachassistenten, vernetzte Karten und Geo/Geo.
+1. Die Datenerfassung hängt von Ihrer Organisation ab und kann verschiedene Kanäle und Medien umfassen. Dazu gehören OTT-Geräte, Video, Unternehmen, Callcenter, Ladengeschäfte, soziale Netzwerke, E-Mail, Web, Anzeigen, mobile Apps, Wearables, das Internet der Dinge (IoT), Sprachassistenten, vernetzte Karten und geografische/räumliche Daten.
 
 1. Die Datenverarbeitung umfasst die Echtzeit-Datenerfassung, Verarbeitungsregeln, die Zielgruppensyndikation, die kontextbezogene Sitzungserstellung, Echtzeit-Trigger und -Ansichten und die Plattform.
 
-1. Das maschinelle Lernen umfasst Segment IQ, Virtual Analyst, Segmentierung, Analysis Workspace
+1. Analyse und maschinelles Lernen umfassen Segment IQ, Virtual Analyst, Segmentierung und Analysis Workspace
 
-![Virtual Analysis](assets/virtual-analysis.png)
+![Virtual Analyst](assets/virtual-analysis.png)
 
-### Nutzung Ihres Virtual Analyst
+### Nutzung von Virtual Analyst
 
-Denken Sie an die [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) als Rockstar-Analyst, der:
+Stellen Sie sich [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=de) als den Rockstar unter den Analyst*innen vor, der Folgendes kann:
 
-* Verlässt nie das Büro und braucht nicht
-* Teilt Ihnen mit, wer, was, wann, Wo, Warum und Was Ihr Geschäft macht
-* Wirkt sofort auf intelligente Warnhinweise aus der 24/7-Anomalieüberwachung über alle Daten hinweg
-* Kann Komponenten für [!UICONTROL Analysis Workspace]
+* Verlässt nie das Büro und muss es auch nicht
+* Er sagt Ihnen das Wer, Was, Wann, Wo, Warum und Wozu in Ihrem Geschäft
+* Er reagiert sofort auf intelligente Warnungen im Rahmen der Überwachung von Anomalien über alle Daten hinweg, und das rund um die Uhr
+* Er ist in der Lage, Komponenten für [!UICONTROL Analysis Workspace] neu zu strukturieren.
 
-### Verborgene Möglichkeiten
+### Entdecken Sie verborgene Möglichkeiten
 
-* Erhalten Sie aktuelle Einblicke in den Status von Marketing-KPIs
-* Zuverlässiges und berechenbares Investieren in gutes Marketing
-* Kundenerwartungen erfüllen und erfüllen/übertreffen
+* Erhalten Sie einen minutengenauen Einblick in den Status von Marketing-KPIs
+* Treffen Sie zuverlässig und vorhersehbar gute Marketing-Investitionen
+* Halten Sie mit den Kundenerwartungen Schritt und erfüllen/übertreffen Sie diese
 
-### Erfolg der realen Welt
+### Erfolgsbeispiele aus der realen Welt
 
-Der virtuelle Analytiker entdeckte die folgenden Szenarien für Kunden mit echten Adoben:
+Der virtuelle Analyst hat die folgenden Szenarien für echte Adobe-Kund*innen aufgedeckt:
 
-* Kampagnenbeendigung - 1,7 Mio. USD täglicher Umsatzzuwachs, der hauptsächlich auf eine Kampagne zurückzuführen ist, die vorzeitig beendet wurde.
-* Fehler des Anbieters - 73 % Anstieg der Entnahme aus Warenkorb aufgrund eines Fehlers des Tag-Managers, durch den bestimmte Produkte automatisch aus dem Warenkorb entfernt wurden.
-* Browser-Problem - Anstieg des Warenkorbabbruchs in Verbindung mit Chrome-Browsern um 8 %. Diese Korrektur führte zu einer inkrementellen Steigerung des Umsatzes um 1,2 Mio. USD pro Tag.
-* Coupon-Betrug - Es wurde ein Anstieg von 81 % bei Bestellungen aufgrund von Verkehrsaufkommen festgestellt, der durch zwei tägliche tägliche Geschäfte/Coupons verursacht wurde, die betrügerische Toilettengutscheine fördern. Diese Bestellungen konnten storniert werden.
-* Corporate Spionage - Anstieg der Besuche um 200 %, die von Bot/Crawler verursacht wurden, der von seinem Hauptkonkurrenten erstellt wurde, um Inhalte zur Wiederverwendung von der Site zu entfernen. Diese IPs konnten blockiert werden.
+* Beendigung einer Kampagne – eine tägliche Umsatzsteigerung von 1,7 Mio. US-Dollar, die hauptsächlich auf eine Kampagne zurückzuführen war, die jedoch zu früh beendet worden war.
+* Fehler des Anbieters – Anstieg der Entnahmen aus dem Warenkorb um 73 % aufgrund eines Fehlers des Tag-Managers, durch den bestimmte Produkte automatisch aus dem Warenkorb entfernt wurden.
+* Browser-Problem – Anstieg der Warenkorbabbrüche um 8 % in Verbindung mit Chrome-Browsern. Die Korrektur dieses Problems führte zu einer inkrementellen Steigerung des Umsatzes um 1,2 Mio. USD pro Tag.
+* Betrug mit Gutscheinen – Es wurde ein Anstieg der Bestellungen um 81 % festgestellt, der durch den Traffic von zwei großen Websites für tägliche Angebote/Gutscheine verursacht wurde, die mit betrügerischen Gutscheinen für Toilettenartikel warben. Diese Bestellungen konnten storniert werden.
+* Wirtschaftsspionage – Anstieg der Besucherzahlen um 200 %, verursacht durch einen Bot/Crawler, der vom Hauptkonkurrenten des Unternehmens erstellt wurde, um Inhalte von dessen Website zur Wiederverwendung abzuschöpfen. Diese IPs konnten blockiert werden.
 
 ## Adobe Analytics-Funktionen
 
-[Anomalieerkennung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
+[Anomalieerkennung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=de):
 
-* Verwenden Sie integrierte Vorhersagealgorithmen, um Spitzen und Tiefpunkte in Ihren Daten zu identifizieren, von denen Sie nicht wussten, dass sie vorhanden sind.
-* Verwenden Sie 28 eindeutige Algorithmen, um Anomalien zu identifizieren, einschließlich Saisonabhängigkeit, Wachstum und zyklischen Modellen sowie Ausrichtung der Feiertage.
-* Verringerung der Abhängigkeit von Datenwissenschaftlern und Erschließung der Möglichkeiten von Datenwissenschaftlern für Bürger.
+* Verwenden Sie integrierte Vorhersagealgorithmen, um Spitzen und Tiefpunkte in Ihren Daten zu identifizieren, von denen Sie nicht einmal wussten, dass sie vorhanden sind.
+* Verwenden Sie 28 einzigartige Algorithmen, um Anomalien zu identifizieren, einschließlich Saisonabhängigkeit, Wachstum und zyklischen Modellen sowie Ausrichtung an Feiertagen.
+* Verringern Sie die Abhängigkeit von Datenwissenschaftler*innen und setzen Sie die Fähigkeiten von Bürgerdatenwissenschaftlern frei.
 
-[Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en):
+[Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=de):
 
-* Ermitteln Sie rasch beitragende Faktoren, die zu signifikanten Änderungen in Ihren Daten geführt haben.
+* Ermitteln Sie rasch die Faktoren, die zu signifikanten Änderungen in Ihren Daten beigetragen haben.
 * Sparen Sie unzählige Stunden bei der Suche nach Erklärungen für Änderungen an Metriken.
-* Nutzen Sie leistungsstarkes maschinelles Lernen, das dazu dient, Analytiker und Marketingexperten in Datenwissenschaftler umzuwandeln.
+* Nutzen Sie leistungsstarkes maschinelles Lernen, das dazu dient, Analytiker*innen und Marketing-Expert*innen in Datenwissenschaftler*innen umzuwandeln.
 
-[Intelligente Warnhinweise](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en):
+[Intelligente Warnhinweise](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=de):
 
-Halten Sie sich jederzeit über Anomalien in Ihren Daten auf dem Laufenden - egal ob Sie im Büro oder unterwegs sind
+Halten Sie sich jederzeit über Anomalien in Ihren Daten auf dem Laufenden – egal ob Sie im Büro oder unterwegs sind
 
-* Warnhinweise direkt aus Analysis Workspace erstellen
-* Basisregeln für Anomalien (90 %, 95 %, 99 %), Änderungen in % und darüber/darunter
-* Verwendung [!UICONTROL Warnhinweisvorschau] , um zu sehen, wie oft ein Warnhinweis ausgelöst würde
-* Nutzen der SMS- und E-Mail-Unterstützung mit Links zu automatisch generierten [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en) Projekte
+* Erstellen Sie Warnhinweise direkt aus Analysis Workspace
+* Legen Sie Regeln für Anomalien (90 %, 95 %, 99 %), prozentuale Veränderungen und Über-/Unterschreitungen fest
+* Verwenden Sie die [!UICONTROL Warnhinweisvorschau], um zu sehen, wie oft ein Warnhinweis ausgelöst worden wäre
+* Nutzen Sie die SMS- und E-Mail-Unterstützung mit Links zu automatisch generierten [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de)-Projekten
 
-[Segment IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en):
+[Segment IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=de):
 
-* Entdecken Sie die Unterschiede und Überschneidungen zwischen Ihren Segmenten, um Ihre Segmentierungsstrategie zu nutzen.
+* Entdecken Sie die Unterschiede und Überschneidungen zwischen Ihren Segmenten, um Ihre Segmentierungsstrategie zu optimieren
 * Entdecken Sie die wichtigsten Merkmale der Zielgruppensegmente, auf denen Ihre KPIs basieren
-* Rufen Sie Berichte und Visualisierungen innerhalb von Sekunden bis Minuten ab, die Gemeinsamkeiten über Dimensionen, Metriken und andere Segmente hinweg anzeigen.
-* Verbessern der Interaktion mit hochwertigen Kunden
+* Rufen Sie Berichte und Visualisierungen innerhalb von Sekunden bis Minuten ab, die Gemeinsamkeiten über Dimensionen, Metriken und andere Segmente hinweg anzeigen
+* Verbessern Sie die Interaktion mit hochwertigen Kund*innen
 
-## Echtzeit-Erfolg mit Segment IQ
+## Erfolgsbeispiele aus der realen Welt mit Segment IQ
 
-**Mobile und Desktop:** &quot;Wir haben Treffer von einer unserer Sites mit einer anderen Site verglichen und schnell einige Abweichungen beim Tagging festgestellt.&quot; → Datenprobleme vor einer Produktversion vermeiden
+**Mobile vs. Desktop:** „Wir haben die Zugriffe von einer unserer Websites mit denen einer anderen Website verglichen und schnell eine Reihe von Unstimmigkeiten beim Tagging festgestellt.“ → Vermeiden von Datenproblemen vor einer Produktveröffentlichung
 
-**Funktionsnutzung:** &quot;Kunden, die unsere Produktvergleichsfunktion verwendet haben, konvertierten mit 10 % höherer Wahrscheinlichkeit. Durch Verschieben nach oben auf der Seite wurden die Bestellungen größer.&quot; → 4%ige Konversionssteigerung
+**Nutzung von Funktionen:** „Kunden, die unsere Funktion zum Produktvergleich nutzten, konvertierten mit 10 % höherer Wahrscheinlichkeit. Durch deren Verschieben nach oben auf der Seite nahmen die Bestellungen zu.“ → Steigerung der Konversionsrate um 4 %
 
-**Inhaltsinteraktion:** &quot;Wir haben festgestellt, dass Besucher unseres News-Bereichs mit doppelt so hoher Wahrscheinlichkeit Videoanzeigen ansehen. Daher haben wir diesem Abschnitt weitere Videooptionen hinzugefügt.&quot; → Steigerung der angezeigten Videoanzeigen um 7 %
+**Interaktion mit Inhalten:** „Wir haben festgestellt, dass sich Besucher unseres News-Abschnitts mit doppelt so hoher Wahrscheinlichkeit Videoanzeigen ansehen. Deshalb haben wir in diesem Abschnitt mehr Videooptionen hinzugefügt.“ → Steigerung der angesehenen Videoanzeigen um 7 %
 
-**Gebührenpflichtige Suche:** &quot;Besucher aus Suchmaschinen konnten mit 3facher höherer Wahrscheinlichkeit Upsell erzielen. Daher haben wir unsere Ausgaben für bestimmte Keywords erhöht.&quot; → Upsell-Steigerung von 56 %
+**Paid Search:** „Bei Besuchern, die über Suchmaschinen kamen, war die Wahrscheinlichkeit eines Upsell dreimal höher. Daher haben wir unsere Ausgaben für bestimmte Keywords erhöht.“ → Upsell-Steigerung um 56 %
 
-**Produktvorräte:** &quot;Kunden, die Fitbits kauften, erhielten mit 6facher höherer Wahrscheinlichkeit ein &quot;Nicht vorrätig&quot; als alle anderen, sodass wir schnell mehr Fitbits bestellt haben.&quot; → Lagerausfälle verhindert und mehr Urlaubsaufträge abgeschlossen
+**Produktvorräte:** „Kunden, die Fitbits kauften, erhielten mit 6-fach höherer Wahrscheinlichkeit ein „Nicht vorrätig“ als alle anderen, sodass wir schnell mehr Fitbits bestellt haben.“ → Lieferengpässe wurden verhindert und mehr Urlaubsbestellungen abgeschlossen
 
-Weitere Informationen finden Sie in unserer [Webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+Weitere Informationen finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Geschäftsanforderungsdokuments
-description: 'Erfahren Sie mehr über den wichtigsten Schritt bei der Definition der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen darüber verstehen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden. '
+description: 'Erfahren Sie mehr über den wichtigsten Schritt, nämlich das Festlegen der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen über die Art und Weise wissen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden können. '
 feature: Implementation Basics
 team: Technical Marketing
 kt: 3580
@@ -9,18 +9,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 # Erstellen eines Geschäftsanforderungsdokuments
 
-Erfahren Sie mehr über den wichtigsten Schritt bei der Definition der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen darüber verstehen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden.
+Erfahren Sie mehr über den wichtigsten Schritt, nämlich das Festlegen der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen über die Art und Weise wissen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Download](assets/aa-implementation-playbook.xlsx) eine Excel-Beispielvorlage für Dokumentanforderungen und Datenerfassungs-Design für Ihre digitalen Eigenschaften.
+[Laden Sie eine Excel-Beispielvorlage herunter](assets/aa-implementation-playbook.xlsx), um die Anforderungen und das Design der Datenerfassung für Ihre digitalen Objekte zu dokumentieren.
 
-[Download](assets/geometrixx-clothiers-brd-sdr.xlsx) das in diesem Video vorgestellte Excel-Dokument und/oder sehen Sie sich das zugehörige [Lösungsdesignreferenz](creating-and-maintaining-an-sdr.md).
+[Laden Sie das in diesem Video vorgestellte Excel-Dokument herunter](assets/geometrixx-clothiers-brd-sdr.xlsx) und/oder sehen Sie sich das zugehörige [Video zur Lösungs-Design-Referenz](creating-and-maintaining-an-sdr.md) an.

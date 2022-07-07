@@ -1,42 +1,42 @@
 ---
-title: Einfache Hacks für mehr Effizienz und Selbstbedienung - Teil zwei
-description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von In-Tool-Strategien bewältigen können.
+title: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung – Teil zwei
+description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von integrierten Strategien bewältigen können.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics: Einfache Hacks für mehr Effizienz und Selbstbedienung
+# Adobe Analytics: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung
 
-**Teil 2: In-Tool-Strategien**
+**Teil 2: Integrierte Strategien**
 
-In diesem Artikel werden die wichtigsten Herausforderungen beschrieben, vor denen Analyseteams heute stehen, sowie unsere Empfehlungen zur Überwindung dieser Herausforderungen mithilfe von In-Tool-Strategien. Los [here](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) für Teil 1.
+In diesem Artikel werden die wichtigsten Herausforderungen beschrieben, vor denen Analyse-Teams heute stehen, sowie unsere Empfehlungen zur Überwindung dieser Herausforderungen mithilfe von integrierten Strategien. Navigieren Sie [hierhin](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) für Teil 1.
 
-Weitere Informationen zu wirksamen Lösungen außerhalb der Adobe Analytics-Plattform erhalten Sie unter [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+Weitere Informationen zu wirksamen Lösungen außerhalb der Adobe Analytics-Plattform erhalten Sie unter [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
-## Schlüssel zur Effizienz: In-Tool-Strategien
+## Schlüssel zur Effizienz: Integrierte Strategien
 
-Eine effektive Selbstbedienung ist häufig eine Übung bei der Beseitigung der wahrgenommenen Barrieren und der Stärkung des Vertrauens. Im Folgenden finden Sie einige Empfehlungen:
+Effektive Selbstbedienung ist oft eine Übung zur Beseitigung vermeintlicher Barrieren und zur Stärkung des Vertrauens. Im Folgenden finden Sie einige Empfehlungen:
 
 ## Nutzen Sie alle Funktionen
 
 1. Standardvorlagen:
 
-   * Sie sind vorkonfiguriert und decken gängige Anwendungsfälle ab, sodass der Benutzer bei der Suche nach schnellem Zugriff auf häufig verwendete KPIs Zeit sparen kann.
+   * Sie sind vorkonfiguriert und decken gängige Anwendungsfälle ab, sodass die Benutzenden bei der Suche nach schnellem Zugriff auf häufig verwendete KPIs Zeit sparen können.
    * Sie werden nach der Vertikale gruppiert, zu der sie gehören, und mit verschiedenen Dimensionen, Segmenten, Metriken und Visualisierungen aufgefüllt.
 
 1. Benutzerdefinierte Vorlagen:
 
-   * Jedes Projekt kann als benutzerdefinierte Vorlage gespeichert werden (es muss ein Administrator sein oder über die entsprechenden Verwendungsberechtigungen verfügen).
-   * Dies ist eine großartige Option, wenn Sie feststellen, dass Sie immer wieder denselben Berichtstyp mit geringfügigen Änderungen erstellen.
+   * Jedes Projekt kann als benutzerdefinierte Vorlage gespeichert werden (dies können jedoch nur Administrierende oder Personen, die über die entsprechenden Verwendungsberechtigungen verfügen).
+   * Dies ist eine sehr gute Option, wenn Sie immer wieder denselben Berichtstyp mit geringfügigen Änderungen erstellen möchten.
 
-1. Übergeordnete den Rechtsklick.
+1. Meistern Sie den Rechtsklick.
 
-   * Es gibt mehrere Rechtsklickoptionen in [!UICONTROL Arbeitsbereich] um Zeit zu sparen.
+   * In [!UICONTROL Workspace] gibt es mehrere Rechtsklick-Optionen, mit denen Sie Zeit sparen können.
 
 1. Dropdown-Filter.
 
@@ -44,56 +44,56 @@ Eine effektive Selbstbedienung ist häufig eine Übung bei der Beseitigung der w
 
 ## Workspace-Leistung optimieren
 
-Die [!UICONTROL Analysis Workspace] Leistungshilfe-Seite zeigt Netzwerk-, Browser- und Projektfaktoren an, die sich auf die Projektleistung auswirken. Verkürzen Sie die Akzeptanz durch schnellere Dashboards. Es enthält auch Links zu Optimierungstipps, auf die Sie im [!UICONTROL Arbeitsbereich] Menü unter **[!UICONTROL Hilfe]** > **[!UICONTROL Leistung]**.
+Auf der Hilfeseite zur Leistung von [!UICONTROL Analysis Workspace] werden Netzwerk-, Browser- und Projektfaktoren angezeigt, die die Projektleistung beeinflussen. Fördern Sie die Akzeptanz durch die Erstellung schnellerer Dashboards. Die Seite, auf der auch Links zu Optimierungstipps zu finden sind, kann im Menü [!UICONTROL Arbeitsbereich] unter **[!UICONTROL Hilfe]** > **[!UICONTROL Leistung]** aufgerufen werden.
 
-## Bereichsverknüpfung innerhalb/zwischen Arbeitsbereichen
+## Verknüpfung von Bedienfeldern innerhalb/zwischen Workspace
 
-Verwenden Sie die Bedienfeldverknüpfung zur Verbesserung [!UICONTROL Arbeitsbereich] Leistung. Verwenden Sie ausgeblendete Bedienfelder, um große Berichte aufzuteilen, ohne dass die Benutzer das Verständnis und den Austausch zwischen mehreren Workspace-Projekten erschweren müssen.
+Verwenden Sie die Verknüpfung von Bedienfeldern zur Verbesserung der Leistung von [!UICONTROL Workspace]. Verwenden Sie ausgeblendete Bedienfelder, um große Berichte aufzuteilen, ohne dass den Benutzer*innen das Verständnis und der Austausch zwischen mehreren Workspace-Projekten erschwert wird.
 
-## Wissensrepository erstellen
+## Erstellen eines Wissens-Repositorys
 
-* Setzen Sie den standardmäßigen Arbeitsbereich aller auf eine zeitlose Bibliothek mit Ressourcen zur Selbsthilfe.
+* Setzen Sie den standardmäßigen Arbeitsbereich für alle auf eine zeitlose Bibliothek mit Ressourcen zur Selbsthilfe.
 * Kuratieren Sie großartige Links aus Adobe Experience League.
-* Geben Sie Veröffentlichungsvideos aus dem Adobe Analytics YouTube-Kanal frei.
-* Geben Sie einen Zeitplan für die Geschäftszeiten frei.
-* Link zu Informationen [!DNL Analytics] Release und Fehlerbehebungen.
+* Teilen Sie Veröffentlichungsvideos aus dem YouTube-Kanal von Adobe Analytics.
+* Teilen Sie einen Zeitplan für die Geschäftszeiten.
+* Verweisen Sie auf Informationen über Versionen von [!DNL Analytics] und Fehlerbehebungen.
 
-## Trainings-Tutorial-Arbeitsbereich
+## Schulungs-Tutorial für Workspace
 
-Die [!UICONTROL Analysis Workspace] Schulungsanleitung führt Benutzer durch die gängige Terminologie und die Schritte zum Erstellen ihres ersten Analyseprojekts in [!UICONTROL Arbeitsbereich]. Diese Vorlage ist als Standardvorlage im [!UICONTROL Neues Projekt] -Modal verwenden und Ihnen das Erstellen eigener Tutorials ermöglichen, die auf die einzigartigen Anwendungsfälle und die Datenstruktur Ihres Unternehmens (eVars, benutzerdefinierte Ereignisse usw.) zugeschnitten sind. Dies ist eine Form der skalierbaren, automatisierten Aktivierung.
+Das Schulungstutorial für [!UICONTROL Analysis Workspace] führt die Benutzer*innen durch die allgemeine Terminologie und die Schritte zur Erstellung ihres ersten Analyseprojekts in [!UICONTROL Workspace]. Diese Vorlage ist als Standardvorlage im Modal [!UICONTROL Neues Projekt] verfügbar und ermöglicht es Ihnen, Ihre eigenen Tutorials zu erstellen und sie an die speziellen Anwendungsfälle und die Datenstruktur Ihrer Organisation anzupassen (eVars, benutzerdefinierte Ereignisse usw.). Dies ist eine Form der skalierbaren, automatisierten Aktivierung.
 
-## [!UICONTROL Schnelle Einblicke] panel
+## Bedienfeld [!UICONTROL Quick Insights]
 
-[[!UICONTROL Schnelle Einblicke]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) bietet Nicht-Analytikern und neuen Anwendern von Analysis Workspace die Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. Es ist auch ein großartiges Tool für fortgeschrittene Benutzer, die eine einfache Frage schnell und einfach beantworten möchten, ohne selbst eine Tabelle erstellen zu müssen.
+[[!UICONTROL Quick Insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=de) bietet Nicht-Analytiker*innen und neuen Benutzer*innen von Analysis Workspace eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. Es ist auch ein großartiges Tool für fortgeschrittene Benutzer*innen, die eine einfache Frage schnell beantworten möchten, ohne selbst eine Tabelle erstellen zu müssen.
 
-## Nutzung [!UICONTROL Beschreibungen] in Ihren Variablen
+## Nutzung von [!UICONTROL Beschreibungen] in Ihren Variablen
 
-Verwenden Sie die [!UICONTROL Beschreibung] -Feld in Variablen verwenden, um mit Benutzern zu kommunizieren und ihnen beim Abrufen von Daten zu helfen, wie sie abgerufen werden sollten. Der Kontext ist in Analysis Workspace verfügbar, ohne dass Sie zwischen Dokumenten wechseln oder das Kernteam pingen müssen, um Hilfe zu erhalten.
+Verwenden Sie das Feld [!UICONTROL Beschreibung] in Variablen, um mit Benutzer*innen zu kommunizieren und ihnen dabei zu helfen, Daten so abzurufen, wie es beabsichtigt war. Der Kontext ist in Analysis Workspace verfügbar, ohne dass Sie zwischen Dokumenten wechseln oder das Kern-Team um Hilfe bitten müssen.
 
 ## Verbessern von Vorlagen mit Anmerkungen
 
-Förderung der Übernahme von Vorlagen und Verbesserung der Selbstversorgung mit Vorlagen mithilfe von [!UICONTROL Anmerkungen]. Verbessern Sie die Verwendung von Anmerkungen, um den Aspekt der Erzählung bei der Analyse der gemeinsamen Nutzung zu verbessern.
+Fördern Sie die Akzeptanz von Vorlagen und verbessern Sie die Selbstständigkeit mit Vorlagen, in denen [!UICONTROL Anmerkungen] verwendet werden. Fördern Sie die Verwendung von Anmerkungen, um den erzählerischen Aspekt bei der gemeinsamen Nutzung von Analysen zu verbessern.
 
-## Kuratierung nutzen
+## Nutzung der Kuratierung
 
 Mit der Kuratierung können Sie die Komponenten (Dimensionen, Metriken, Segmente, Datumsbereiche) vor der Freigabe eines Projekts einschränken. Wenn ein Empfänger das Projekt öffnet, wird ihm eine begrenzte Anzahl von Komponenten angezeigt, die Sie für ihn kuratiert haben. Die Kuratierung ist ein optionaler, aber empfehlenswerter Schritt, bevor Sie ein Projekt freigeben.
 
-Beim Kuratieren [!UICONTROL Virtual Report Suites]können Sie benutzerfreundliche Dimensionen, Metriken und Segmentbeschriftungen erstellen. Erstellen Sie benutzerdefinierte, benutzerfreundlichere Beschriftungen für Untergruppen von Benutzern. Beachten Sie, dass Beschriftungen den Übergeordneten Datensatz (den Namen) nicht ändern.
+Beim Kuratieren von [!UICONTROL Virtual Report Suites] können Sie benutzerfreundliche Dimensionen, Metriken und Segmentbeschriftungen erstellen. Erstellen Sie benutzerdefinierte, benutzerfreundlichere Beschriftungen für Untergruppen von Benutzer*innen. Beachten Sie, dass Beschriftungen den übergeordneten Datensatz (den Namen) nicht ändern.
 
-## Lösungsreferenz-Arbeitsbereiche erstellen
+## Erstellen von Referenzarbeitsplätzen für Lösungen
 
-Verwenden Sie Anmerkungen, um Dokumentationsreferenzen zur In-Produkt-Lösung zu erstellen. Produktinterne Arbeitsbereiche neben Vorlagen können dabei helfen, Wissen zu zentralisieren und einen wertvollen Kontext zu schaffen. Verwenden Sie die Verknüpfung zwischen Arbeitsbereichen und Arbeitsbereichen, um eine einfache Skalierung und einfache Navigation in Ressourcen zu ermöglichen.
+Verwenden Sie Anmerkungen, um Dokumentationsreferenzen zur produktinternen Lösung zu erstellen. Produktinterne Arbeitsbereiche zusätzlich zu Vorlagen können dabei helfen, Wissen zu zentralisieren und einen wertvolleren Kontext zu schaffen. Verwenden Sie die Verknüpfung innerhalb/zwischen Arbeitsbereichen, um eine einfache Skalierung und einfache Navigation durch Ressourcen zu ermöglichen.
 
 ## Die Vorteile von Adobe Analytics-Dashboards
 
-| Demokratisierung der Daten | Schnellere Aktionsdauer | Kurze Einblicke | Benutzerfreundlichkeit |
+| Demokratisierung der Daten | Schnellere Umsetzungszeit | Präzise Einblicke | Benutzerfreundlichkeit |
 | --- | --- | --- | --- |
-| Geschäftsbenutzer ohne Analyseerfahrung können problemlos Daten selbst bereitstellen | Treffen Sie dateninformierte Entscheidungen in wichtigen Momenten. | Greifen Sie auf relevante Einblicke zu und führen Sie sie bei Bedarf unterwegs aus. | Benutzerfreundliches Erlebnis über die intuitive Benutzeroberfläche für Mobilgeräte |
+| Geschäftsbenutzer*innen ohne Analyseerfahrung können problemlos Daten selbst bereitstellen | Treffen von dateninformierten Entscheidungen in wichtigen Momenten | Zugriff auf relevante Erkenntnisse und Aufschlüsselung nach Bedarf von unterwegs aus | Reibungslose Nutzung über eine intuitive Schnittstelle für Mobilgeräte |
 
 ## Berichterstellungs-API für Adobe 2.0
 
-Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Arbeitsbereich] zu terminierten Berichten und Dashboards. Nutzen Sie außerdem [!UICONTROL Analysis Workspace] um API-Anfragen zu erstellen.
+Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Workspace] in terminierte Berichte und Dashboards zu übertragen. Nutzen Sie außerdem [!UICONTROL Analysis Workspace] um API-Anfragen zu erstellen.
 
-Wir hoffen, dass Sie diesen Artikel zu In-Tool-Strategien wertvoll gefunden haben. Weitere Informationen zu effizienten Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform erhalten Sie unter [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+Wir hoffen, dass Sie diesen Artikel zu Strategien innerhalb des Tools wertvoll gefunden haben. Weitere Informationen zu effektiven Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform finden Sie [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Touristik-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Strategie- und Gedankenführerschaft{#strategy}
+   + Strategie- und Gedankenführerschaft {#strategy}
       + [Teil 1: Einfache Hacks für mehr Effizienz](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Teil 2: Einfache Hacks für mehr Effizienz](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Kundenintelligenz mit Virtual Analyst und Segment IQ in Adobe Analytics meistern](strategy/customer-intelligence-with-virtual-analyst.md)
+      + [Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
       + [Wechsel von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
@@ -235,14 +235,14 @@ ht-degree: 97%
       + [Übersetzen der technischen Sprache von Adobe Analytics](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Funktionsübergreifendes Arbeiten](administration/key-admin-skills/working-cross-functionally.md)
       + [Stellen Sie die richtigen Fragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + Tipps und Best Practices für Administratoren {#admin-tips}
-      + [Implementierungs-Playbook herunterladen](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+   + Tipps und Best Practices für Admins {#admin-tips}
+      + [Herunterladen des Playbooks für Implementierungen](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [Erstellen standardisierter Benennungskonventionen](administration/admin-tips/create-standardized-naming-conventions.md)
-      + [Erstellen standardisierter Codevorlagen](administration/admin-tips/create-standardized-code-templates.md)
-      + [Grundlegende Videos und Schulungen erstellen](administration/admin-tips/create-basic-videos-and-training.md)
-      + [Interne Adobe Analytics-Site erstellen](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-      + [Globale Report Suite verwenden](administration/admin-tips/use-a-global-report-suite.md)
-      + [Projekt für Neuigkeiten und Mitteilungen erstellen](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Erstellen standardisierter Code-Vorlagen](administration/admin-tips/create-standardized-code-templates.md)
+      + [Erstellen grundlegender Videos und Schulungen](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Erstellen einer internen Adobe Analytics-Site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Verwenden einer globalen Report Suite](administration/admin-tips/use-a-global-report-suite.md)
+      + [Erstellen eines Projekts für Nachrichten und Ankündigungen](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)

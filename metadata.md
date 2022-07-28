@@ -3,20 +3,19 @@ cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
 solution-title: Analytics
-solution-hub-url: https://helpx.adobe.com/de/support/analytics.html
-getting-started-title: Erste Schritte
-getting-started-url: https://helpx.adobe.com/de/analytics/get-started.html
+solution-hub-url: https://helpx.adobe.com/support/analytics.html
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/analytics/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/analytics-learn.de-DE
+git-repo: https://github.com/AdobeDocs/analytics-learn.de-DE
 index: true
 type: Tutorial
-translation-type: tm+mt
 source-git-commit: e2816cdec9a045b6f181340b4d6b098d44b7dc14
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 93%
+source-wordcount: '130'
+ht-degree: 96%
 
 ---
 
@@ -37,7 +36,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 
 In der Datei TOC.md
 
-| metadata | was es macht |
+| Metadaten | was es macht |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
 | user-guide-url | Öffnet die helpx-Hub-Seite |

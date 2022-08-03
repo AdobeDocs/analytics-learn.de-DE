@@ -1,27 +1,24 @@
 ---
-title: Fallout-Visualisierung in Analysis Workspace
-description: Dieses Video führt Sie durch die in Analysis Workspace in Adobe Analytics verfügbare Fallout-Visualisierung. Verwenden Sie Fallout, um Trichter zu erstellen oder Benutzer-Durchlauf in wichtigen Mobile-App-/Site-Workflows anzuzeigen.
+title: Fallout-Visualisierungsbericht erstellen
+description: Erfahren Sie mehr über die Anwendungsfälle von Fallout-Berichten und die Konfiguration dieses Berichts in Analysis Workspace. Erfahren Sie, wie Sie mehrere Arten von Touchpoints hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# [!DNL Fallout Visualization] in Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Fallout-Visualisierungsbericht erstellen
 
-Dieses Video führt Sie durch die in Analysis Workspace in Adobe Analytics verfügbare [!DNL Fallout visualization]. Verwenden Sie [!DNL Fallout], um Trichter zu erstellen oder Benutzer-Durchlauf in wichtigen Mobile-App-/Site-Workflows anzuzeigen.
+Erfahren Sie mehr über die Anwendungsfälle von Fallout-Berichten und wie Sie diesen Bericht konfigurieren in [!DNL Analysis Workspace]. Erfahren Sie, wie Sie mehrere Arten von Touchpoints hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de).

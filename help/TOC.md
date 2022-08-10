@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 99%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 99%
       + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Erstellen einer Heatmap für die Zeitaufteilung](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysieren von Customer Journeys {#analyzing-customer-journeys}
-      + [Grundlegendes zu Ihren Daten - Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Fallout-Visualisierung erstellen](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Flussvisualisierung erstellen](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Fallout und Fluss gemeinsam verwenden](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ - Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Fallout-Visualisierung](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Erweitern der Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Verbesserungen des Durchsatzes 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Textumbruch und mehrdimensionaler Fluss](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Anwenden von Segmenten {#applying-segments}
       + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Verwendung von Segmenten in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

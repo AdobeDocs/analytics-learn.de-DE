@@ -3,10 +3,10 @@ title: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung – Teil
 description: Lernen Sie die wichtigsten Herausforderungen kennen, mit denen Analytics-Teams heute konfrontiert sind, und lernen Sie unsere Empfehlungen kennen, um sie mithilfe von Strategien außerhalb der Adobe Analytics-Benutzeroberfläche zu überwinden.
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: ht
+source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -86,4 +86,4 @@ Andere wichtige Herausforderungen für Analyst*innen:
    * Bauen Sie ihre Präsenz auf, indem Sie ihnen dabei helfen, Veröffentlichungen und Erfolge bekannt zu machen.
    * Nutzen Sie die regulären Bürozeiten, um bei der Schulung der Trainer*innen zu helfen und die Zahl der Ad-hoc-Anfragen zu verringern.
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.

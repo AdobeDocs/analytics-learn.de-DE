@@ -3,10 +3,10 @@ title: Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ
 description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kund*innen, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1104'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Halten Sie sich jederzeit über Anomalien in Ihren Daten auf dem Laufenden – e
 
 Weitere Informationen finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.

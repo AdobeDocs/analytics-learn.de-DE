@@ -3,10 +3,10 @@ title: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung – Teil
 description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von integrierten Strategien bewältigen können.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -96,4 +96,4 @@ Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Workspace] in 
 
 Wir hoffen, dass Sie diesen Artikel zu Strategien innerhalb des Tools wertvoll gefunden haben. Weitere Informationen zu effektiven Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform finden Sie [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.

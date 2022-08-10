@@ -1,23 +1,24 @@
 ---
-title: Flussvisualisierung in Analysis Workspace
-description: Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Der Fluss kann auf Seiten, Marketing-Kanäle und jede andere Dimension oder jeden Mix von Dimensionen angewendet werden, den bzw. die Sie erfassen.
+title: Flussvisualisierung erstellen
+description: Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Fluss kann auf Seiten, Marketingkanäle und jede andere Dimension oder Mischung von Dimensionen angewendet werden, die Sie erfassen.
 feature: Visualizations
-thumbnail: 24045.jpg
-kt: 2279
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 346063.jpg
+kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: 5c1acb8df5e4937f53dae2cdea7d0714c41b1c98
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 100%
+ht-degree: 51%
 
 ---
 
-# [!DNL Flow Visualization] in Analysis Workspace {#flow-visualization-in-analysis-workspace}
+# Flussvisualisierung erstellen
 
-Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Der Fluss kann auf Seiten, Marketing-Kanäle und jede andere Dimension oder jeden Mix von Dimensionen angewendet werden, den bzw. die Sie erfassen.
+Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Fluss kann auf Seiten, Marketingkanäle und jede andere Dimension oder Mischung von Dimensionen angewendet werden, die Sie erfassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=de).

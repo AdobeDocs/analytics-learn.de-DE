@@ -154,7 +154,7 @@ ht-degree: 99%
       + [Fallout-Visualisierung erstellen](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Flussvisualisierung erstellen](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Fallout und Fluss gemeinsam verwenden](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ - Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Journey IQ – Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Anwenden von Segmenten {#applying-segments}
       + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Verwendung von Segmenten in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

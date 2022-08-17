@@ -1,6 +1,6 @@
 ---
-title: Fallout-Visualisierung erstellen
-description: Fallout-Visualisierungen in Analysis Workspace werden verwendet, um zu untersuchen, wo Kunden wichtige Flüsse in Ihren digitalen Eigenschaften durchlaufen oder aus ihnen herausfallen. Erfahren Sie, wie Sie mehrere Arten von Touchpoints hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden.
+title: Erstellen eines Fallout-Visualisierungsberichts
+description: Fallout-Visualisierungen in Analysis Workspace werden verwendet, um zu untersuchen, wo Kunden wichtige Flüsse in Ihren digitalen Eigenschaften durchlaufen oder aus ihnen herausfallen. Erfahren Sie, wie Sie verschiedene Arten von Berührungspunkten hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden können.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# Fallout-Visualisierung erstellen
+# Erstellen eines Fallout-Visualisierungsberichts
 
-Fallout-Visualisierungen in [!DNL Analysis Workspace] werden verwendet, um zu untersuchen, wo Kunden wichtige Flüsse in Ihren digitalen Eigenschaften durchlaufen oder daraus aussteigen. Erfahren Sie, wie Sie mehrere Arten von Touchpoints hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden.
+Fallout-Visualisierungen in [!DNL Analysis Workspace] werden verwendet, um zu untersuchen, wo Kunden wichtige Flüsse in Ihren digitalen Eigenschaften durchlaufen oder aus ihnen herausfallen. Erfahren Sie, wie Sie verschiedene Arten von Berührungspunkten hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 

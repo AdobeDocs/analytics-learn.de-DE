@@ -4,9 +4,9 @@ description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intellige
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Halten Sie sich jederzeit über Anomalien in Ihren Daten auf dem Laufenden – e
 
 Weitere Informationen finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2416'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -151,9 +151,9 @@ ht-degree: 99%
       + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Erstellen einer Heatmap für die Zeitaufteilung](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysieren von Customer Journeys {#analyzing-customer-journeys}
-      + [Fallout-Visualisierung erstellen](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Flussvisualisierung erstellen](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Fallout und Fluss gemeinsam verwenden](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Erstellen eines Fallout-Visualisierungsberichts](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Erstellen einer Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Gemeinsames Verwenden von Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ – Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Anwenden von Segmenten {#applying-segments}
       + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)

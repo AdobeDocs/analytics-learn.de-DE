@@ -1,6 +1,6 @@
 ---
-title: Flussvisualisierung erstellen
-description: Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Fluss kann auf Seiten, Marketingkanäle und jede andere Dimension oder Mischung von Dimensionen angewendet werden, die Sie erfassen.
+title: Erstellen einer Flussvisualisierung
+description: Flussvisualisierungen werden verwendet, um die exakten Journeys der Kundinnen und Kunden mit Ihrer Marke zu untersuchen. Der Fluss kann auf Seiten, Marketing-Kanäle und jede andere Dimension oder jede Mischung von Dimensionen angewendet werden, die Sie erfassen.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
-# Flussvisualisierung erstellen
+# Erstellen einer Flussvisualisierung
 
-Flussvisualisierungen werden verwendet, um die exakten Journeys der Kunden mit Ihrer Marke zu untersuchen. Fluss kann auf Seiten, Marketingkanäle und jede andere Dimension oder Mischung von Dimensionen angewendet werden, die Sie erfassen.
+Flussvisualisierungen werden verwendet, um die exakten Journeys der Kundinnen und Kunden mit Ihrer Marke zu untersuchen. Der Fluss kann auf Seiten, Marketing-Kanäle und jede andere Dimension oder jede Mischung von Dimensionen angewendet werden, die Sie erfassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 

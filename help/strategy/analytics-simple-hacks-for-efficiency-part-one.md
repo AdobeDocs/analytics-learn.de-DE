@@ -4,9 +4,9 @@ description: Lernen Sie die wichtigsten Herausforderungen kennen, mit denen Anal
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ Andere wichtige Herausforderungen für Analyst*innen:
    * Bauen Sie ihre Präsenz auf, indem Sie ihnen dabei helfen, Veröffentlichungen und Erfolge bekannt zu machen.
    * Nutzen Sie die regulären Bürozeiten, um bei der Schulung der Trainer*innen zu helfen und die Zahl der Ad-hoc-Anfragen zu verringern.
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

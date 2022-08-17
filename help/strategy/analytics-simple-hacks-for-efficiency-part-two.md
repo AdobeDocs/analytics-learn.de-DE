@@ -4,9 +4,9 @@ description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Anal
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -80,7 +80,7 @@ Mit der Kuratierung können Sie die Komponenten (Dimensionen, Metriken, Segmente
 
 Beim Kuratieren von [!UICONTROL Virtual Report Suites] können Sie benutzerfreundliche Dimensionen, Metriken und Segmentbeschriftungen erstellen. Erstellen Sie benutzerdefinierte, benutzerfreundlichere Beschriftungen für Untergruppen von Benutzer*innen. Beachten Sie, dass Beschriftungen den übergeordneten Datensatz (den Namen) nicht ändern.
 
-## Erstellen von Referenzarbeitsplätzen für Lösungen
+## Erstellen von Referenz-Workplaces für Lösungen
 
 Verwenden Sie Anmerkungen, um Dokumentationsreferenzen zur produktinternen Lösung zu erstellen. Produktinterne Arbeitsbereiche zusätzlich zu Vorlagen können dabei helfen, Wissen zu zentralisieren und einen wertvolleren Kontext zu schaffen. Verwenden Sie die Verknüpfung innerhalb/zwischen Arbeitsbereichen, um eine einfache Skalierung und einfache Navigation durch Ressourcen zu ermöglichen.
 
@@ -96,4 +96,4 @@ Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Workspace] in 
 
 Wir hoffen, dass Sie diesen Artikel zu Strategien innerhalb des Tools wertvoll gefunden haben. Weitere Informationen zu effektiven Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform finden Sie [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)-Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

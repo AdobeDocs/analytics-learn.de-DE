@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: ht
-source-wordcount: '2416'
-ht-degree: 100%
+source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+workflow-type: tm+mt
+source-wordcount: '2418'
+ht-degree: 99%
 
 ---
 
@@ -131,6 +131,7 @@ ht-degree: 100%
       + [Donut-Visualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Linienvisualisierung](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Combo Charts](analysis-workspace/visualizations/combo-charts.md)
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
       + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)

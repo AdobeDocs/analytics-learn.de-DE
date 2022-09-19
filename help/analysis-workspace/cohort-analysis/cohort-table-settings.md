@@ -1,6 +1,6 @@
 ---
 title: Einstellungen der Kohortentabellen
-description: 'Es gibt verschiedene Einstellungen der Kohortentabellen, mit denen Sie Ihre Ansicht der Kundenbindung oder Abwanderung anpassen können. In diesem Video werden sie vorgestellt. '
+description: Es gibt verschiedene Einstellungen der Kohortentabellen, mit denen Sie Ihre Ansicht der Kundenbindung oder Abwanderung anpassen können. In diesem Video werden sie vorgestellt.
 feature: Visualizations
 topics: null
 activity: use
@@ -12,7 +12,7 @@ role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

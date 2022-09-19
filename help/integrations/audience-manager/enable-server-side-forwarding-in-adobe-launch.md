@@ -1,6 +1,6 @@
 ---
 title: Aktivieren der Server-seitigen Weiterleitung in Experience Platform Launch
-description: 'Erfahren Sie, wie Sie mit Experience Platform Launch Ihre Adobe Analytics-Treffer automatisch über die Server-seitige Weiterleitung an Adobe Audience Manager senden können. '
+description: Erfahren Sie, wie Sie mit Experience Platform Launch Ihre Adobe Analytics-Treffer automatisch über die Server-seitige Weiterleitung an Adobe Audience Manager senden können.
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -13,7 +13,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 

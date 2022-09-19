@@ -1,5 +1,5 @@
 ---
-title: 'Schnelleinführung in Analysis Workspace '
+title: Schnelleinführung in Analysis Workspace
 seo-title: Quick Introduction To Analysis Workspace
 description: Übersicht über Analysis Workspace, in der Sie erfahren, wie das Produkt Datenneulinge sowie auch Experten unterstützt.
 feature: Workspace Basics
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: 'Verwenden von Best Practices beim Tracking von Single Page Applications (SPA) in Adobe Analytics '
+title: Verwenden von Best Practices beim Tracking von Single Page Applications (SPA) in Adobe Analytics
 description: In diesem Dokument beschreiben wir verschiedene Best Practices, die Sie befolgen und kennen sollten, wenn Sie Adobe Analytics zum Tracking von Single Page Applications (SPA) verwenden. Dieses Dokument konzentriert sich auf die Verwendung von Experience Platform Launch, was die empfohlene Implementierungsmethode ist.
 feature: Implementation Basics
 topics: spa
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1669'
 ht-degree: 100%
 
@@ -141,4 +141,4 @@ Um die Treffer anzuzeigen, verwenden Sie ein Debugger- oder Paket-Sniffer-Progra
 ## Zusätzliche Ressourcen {#additional-resources}
 
 * [SPA in den Adobe-Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=de)
-* [Referenz-Sites zur Architektur, die zeigen, wie SPA in Experience Platform Launch implementiert wird](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=de)
+* [Referenz-Sites zur Architektur, die zeigen, wie SPA in Experience Platform Launch implementiert wird](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)

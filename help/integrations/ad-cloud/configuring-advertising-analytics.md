@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren von Advertising Analytics in Adobe Analytics
-description: 'In diesem Video erhalten Sie einen Überblick darüber, wie Sie Ihre Report Suite(s) so konfigurieren, dass Advertising Analytics genutzt wird, und wie Sie einen Account für die gebührenpflichtige Sucherkennung einrichten. Außerdem erfahren Sie Details zum Reporting in Advertising Analytics. '
+description: In diesem Video erhalten Sie einen Überblick darüber, wie Sie Ihre Report Suite(s) so konfigurieren, dass Advertising Analytics genutzt wird, und wie Sie einen Account für die gebührenpflichtige Sucherkennung einrichten. Außerdem erfahren Sie Details zum Reporting in Advertising Analytics.
 feature: Advertising Cloud Integration
 topics: null
 activity: setup
@@ -12,7 +12,7 @@ role: Admin
 level: Intermediate
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 

@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Geschäftsanforderungsdokuments
-description: 'Erfahren Sie mehr über den wichtigsten Schritt, nämlich das Festlegen der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen über die Art und Weise wissen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden können. '
+description: Erfahren Sie mehr über den wichtigsten Schritt, nämlich das Festlegen der Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen über die Art und Weise wissen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zuerst auf und entscheiden Sie dann, wie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfasst werden können.
 feature: Implementation Basics
 team: Technical Marketing
 kt: 3580
@@ -9,7 +9,7 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 

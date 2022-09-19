@@ -1,6 +1,6 @@
 ---
 title: Videos und Tutorials zu Analytics
-description: 'Holen Sie das Meiste aus Adobe Analytics.  Verwenden Sie diese Tutorials, um die Funktionen von Analytics zu verstehen und die Vorteile für Ihr Unternehmen optimal zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet. '
+description: Holen Sie das Meiste aus Adobe Analytics.  Verwenden Sie diese Tutorials, um die Funktionen von Analytics zu verstehen und die Vorteile für Ihr Unternehmen optimal zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,7 +9,7 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 

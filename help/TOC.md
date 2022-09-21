@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
 workflow-type: tm+mt
 source-wordcount: '2418'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -131,7 +131,7 @@ ht-degree: 99%
       + [Donut-Visualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Linienvisualisierung](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Combo Charts](analysis-workspace/visualizations/combo-charts.md)
+      + [Kombinationsdiagramme](analysis-workspace/visualizations/combo-charts.md)
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
       + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)

@@ -12,10 +12,10 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 73%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 Erfahren Sie, wie Sie mit Adobe [!DNL Experience Platform Launch] Ihre Adobe Analytics-Treffer automatisch über die Server-seitige Weiterleitung an Adobe Audience Manager senden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!

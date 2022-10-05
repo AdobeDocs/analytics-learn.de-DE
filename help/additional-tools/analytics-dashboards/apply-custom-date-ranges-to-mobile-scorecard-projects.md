@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -23,3 +23,7 @@ In diesem Video wird gezeigt, wie Sie Ihre verschiedenen Optionen für Datumsber
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kostenlos auf Experience League!

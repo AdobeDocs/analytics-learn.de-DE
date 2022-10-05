@@ -12,10 +12,10 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 72%
 
 ---
 
@@ -26,3 +26,7 @@ Erfahren Sie, wie Sie in der Adobe Admin Console einen Benutzer als Administrato
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!

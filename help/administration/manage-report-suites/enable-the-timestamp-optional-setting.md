@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
 exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 82%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 Mit „Zeitstempel optional“ können wir zeitgestempelte und nicht zeitgestempelte Daten in derselben globalen Report Suite mischen, zeitgestempelte Daten von einer Mobile App an eine globale Report Suite senden und Programme auf Offline-Tracking umstellen, ohne eine neue Report Suite erstellen zu müssen.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!

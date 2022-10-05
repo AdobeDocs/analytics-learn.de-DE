@@ -2,7 +2,6 @@
 title: Einstellungen der Kohortentabellen
 description: Es gibt verschiedene Einstellungen der Kohortentabellen, mit denen Sie Ihre Ansicht der Kundenbindung oder Abwanderung anpassen können. In diesem Video werden sie vorgestellt.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '145'
+ht-degree: 84%
 
 ---
 
@@ -33,3 +32,7 @@ Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichk
 Die Durchschnittszeile ist besonders hilfreich bei der Betrachtung von [!UICONTROL Kundenbindung] oder [!UICONTROL Abwanderung] insgesamt und nicht nach einzelnen [!UICONTROL Kohorten]-Zeilen.
 
 Weitere Informationen zur [!UICONTROL Kohorten]-Analyse finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!

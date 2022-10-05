@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 Das Tool für [!UICONTROL Data Warehouse]-Anfragen in Adobe Analytics bietet Ihnen Zugriff auf die Abfrage der Rohdaten. [!UICONTROL Data Warehouse] kann eine unbegrenzte Anzahl an Zeilen in einer einzigen Anfrage für einzelne terminierte und heruntergeladene Berichte verarbeiten. Dieses Video bietet eine Einführung in das Tool und beinhaltet auch eine exemplarische Vorgehensweise bei der Erstellung eines [!UICONTROL Data Warehouse]-Berichts.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kostenlos auf Experience League!

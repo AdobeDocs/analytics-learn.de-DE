@@ -10,10 +10,10 @@ kt: 3588
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Es gibt auf jeder Seite einige Datenpunkte, die Sie an Adobe Analytics senden möchten. In diesem Video erfahren Sie, wie Sie eine globale Seitenladeregel einrichten, in der diese Datenpunkte gesendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!

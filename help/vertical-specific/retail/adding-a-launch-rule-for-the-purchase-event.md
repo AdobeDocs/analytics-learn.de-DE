@@ -10,10 +10,10 @@ kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 In diesem Video wird gezeigt, wie Sie mithilfe der [!UICONTROL Produktzeichenfolgenerweiterung] in [!DNL Experience Platform Launch] Käufe auf Ihrer Site verfolgen können, was in Ihrer Analyse zu [!UICONTROL Metriken] [!UICONTROL Umsatz], [!UICONTROL Bestellungen] und [!UICONTROL Einheiten] führt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!

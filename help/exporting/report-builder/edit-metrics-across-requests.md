@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 81%
 
 ---
 
@@ -24,3 +24,7 @@ Sie können [!UICONTROL Metriken] jetzt über mehrere Datenanforderungen von [!U
 Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über [!UICONTROL Mehrere bearbeiten] im Fenster „Verwalten“ erfolgen.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kostenlos auf Experience League!

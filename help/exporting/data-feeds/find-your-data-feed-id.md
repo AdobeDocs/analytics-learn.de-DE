@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 In manchen Fällen müssen Sie sich an Adobe wenden, wenn ein fehlgeschlagener Daten-Feed-Versand vorliegt oder wenn Sie den erneuten Versand einer Daten-Feed-Datei anfordern möchten. Für das Support-Team wird die Verarbeitung von Anfragen erleichtert, wenn die Daten-Feed-ID vom Kunden angegeben wird.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kostenlos auf Experience League!

@@ -8,10 +8,10 @@ level: Beginner
 thumbnail: 335742.jpg
 kt: 8463
 exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
-source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 81%
 
 ---
 
@@ -19,5 +19,8 @@ ht-degree: 100%
 
 Mit der Einstellung „Funktionszugriffsebenen anzeigen“ im Admin-Bereich von Analytics können Sie die Zugriffsebene auf Adobe Analytics-Pakete und -Funktionen anzeigen, zu der Ihr Unternehmen berechtigt ist. Dazu gehören: Activity Map, Advertising Analytics, Anomalieerkennung in Warnhinweisen usw.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!

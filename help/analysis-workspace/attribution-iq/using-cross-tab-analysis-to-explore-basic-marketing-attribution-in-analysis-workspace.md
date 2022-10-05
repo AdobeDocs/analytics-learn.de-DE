@@ -2,7 +2,6 @@
 title: Verwenden der Kreuztabellenanalyse zur Erforschung der grundlegenden Marketing-Attribution in Analysis Workspace
 description: Es gibt viele Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weiter zu verfeinern. In diesem Video zeigen wir, wie Sie mithilfe von Kreuztabellenanalysen in Workspace tiefere Einblicke anhand des Berichts über Marketing-Kanäle gewinnen können.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 100%
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ Es gibt viele Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weite
 * 3:20 – Kreuztabellen-Dimensionen werden beim Ablegen automatisch dynamisch, d. h. ihre Werte können sich im Laufe der Zeit ändern. Für diese Analyse ist es am besten, stattdessen statische Spalten zu übernehmen. Weitere Informationen zu dynamischen Spalten finden Sie bei 6:33 im Video: [Zeilen- und Spalteneinstellungen in Freiformtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 – Spalteneinstellungen können jetzt stapelweise statt einzeln aktualisiert werden. Weitere Informationen finden Sie bei 8:45 im Video: [Zeilen- und Spalteneinstellungen in Freiformtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-
 Weitere Informationen zu diesem Thema finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!

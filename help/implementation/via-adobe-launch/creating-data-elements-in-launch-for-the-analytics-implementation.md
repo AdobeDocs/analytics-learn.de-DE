@@ -10,10 +10,10 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 In diesem Video erfahren Sie, wie Sie in [!DNL Experience Platform Launch] [!UICONTROL Datenelemente] für Ihre Implementierung in [!DNL Analytics] erstellen, basierend auf den Variablen und Ereignissen, die in einem [!DNL Solution Design Reference]-Dokument (SDR) festgelegt und dokumentiert wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!

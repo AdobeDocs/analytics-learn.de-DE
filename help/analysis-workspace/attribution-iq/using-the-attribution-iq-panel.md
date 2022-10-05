@@ -2,7 +2,6 @@
 title: Verwenden des Bedienfelds „Attribution IQ“ in Analysis Workspace
 description: In diesem Video sehen Sie das Bedienfeld „Attribution IQ“, das einen idealen Ausgangspunkt für die Erstellung Ihres Attributionsprojekts in Analysis Workspace darstellt.
 feature: Attribution
-topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
@@ -12,10 +11,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 82%
 
 ---
 
@@ -26,3 +25,7 @@ In diesem Video sehen Sie das [!DNL Attribution IQ] [!UICONTROL Bedienfeld], das
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 Das [!DNL Attribution IQ] [!UICONTROL Bedienfeld] in Analysis Workspace bietet eine Möglichkeit, jedes der zehn regelbasierten [!DNL attribution models] schnell visuell zu vergleichen. Sehen Sie, wie sich die einzelnen Modelle auf eine Dimension auswirken, indem Sie [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] und sogar ein [!DNL Flow Diagram] verwenden. Das [!DNL Attribution] [!UICONTROL Bedienfeld] ist ein guter Ausgangspunkt für eine komplexere Attributionsanalyse.
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!

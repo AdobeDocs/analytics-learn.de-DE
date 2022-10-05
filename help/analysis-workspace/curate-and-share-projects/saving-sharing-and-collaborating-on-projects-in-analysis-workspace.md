@@ -7,10 +7,10 @@ kt: 4108
 role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 82%
+source-wordcount: '117'
+ht-degree: 74%
 
 ---
 
@@ -24,4 +24,5 @@ Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil mehrerer Kurse [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de) und [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) kostenlos bei Experience League!
+

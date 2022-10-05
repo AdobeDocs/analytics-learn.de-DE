@@ -10,10 +10,10 @@ kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 85%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Nachdem Sie Ihre Implementierung auf dem Entwicklungs-Server abgeschlossen haben, sollten Sie sie in eine Staging-Umgebung verschieben, dort testen und dann in Ihre Produktionsumgebung verschieben. In diesem Video wird dieser Prozess Schritt für Schritt gezeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!

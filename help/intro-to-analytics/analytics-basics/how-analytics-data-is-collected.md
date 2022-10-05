@@ -10,10 +10,10 @@ kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 75%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Wie gelangen Daten von Ihrer Seite in Adobe Analytics-Berichte? Dieses Video zeigt es Ihnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
+
+>[!INFO]
+>
+> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!

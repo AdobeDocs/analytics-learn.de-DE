@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League erhältlich!

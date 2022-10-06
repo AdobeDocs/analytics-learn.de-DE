@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Sie können statische Zeilen im Freiformtabellen-Builder manuell neu anordnen. A
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League erhältlich!

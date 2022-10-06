@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -30,6 +30,8 @@ Informieren Sie sich zunächst
 
 Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebenfalls im Abschnitt „Kurse“ zur Verfügung. Melden Sie sich einfach mit Ihrer Adobe ID an und navigieren Sie über die obere Navigationsleiste zu **Lernen > Empfohlene Kurse**.
 
+<div id="whats-new-section">
+
 ## Neuigkeiten
 
 * **[Adobe Analytics Mobile Scorecard-App](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
 
 * **[Anmerkungen in Analysis Workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie einen Datumsbereich oder Datumsbereich mit bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. Dies informiert Benutzer darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Auswahl der Mitarbeiter
 
@@ -83,6 +89,8 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Zusätzliche Ressourcen
 

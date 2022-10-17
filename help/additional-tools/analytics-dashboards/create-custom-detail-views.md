@@ -1,22 +1,23 @@
 ---
 title: Erstellen benutzerdefinierter Detailansichten für Dashboards
-description: In diesem Video erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen. Auf diese Weise können Sie die angezeigten Daten und die Geschichte, die Sie Ihren Interessengruppen über mobile Scorecard-Projekte erzählen möchten, weiter verfeinern. (Sollte zwischen 60 und 160 Zeichen lang sein, beträgt aber 242 Zeichen)
+description: Erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen können, um die Geschichte einzugrenzen, die Sie Ihren Stakeholdern durch mobile Scorecard-Projekte erzählen möchten.
 feature: Analytics Dashboards
 topic: Mobile
 role: User
 level: Beginner
 kt: 11271
 thumbnail: 3410002.jpg
-source-git-commit: ef4186a07d4e835a97300e62890ccc1106a82d93
+last-substantial-update: 2022-10-11T00:00:00Z
+source-git-commit: d142d2dc12a29cd6dfcb59675ce160bac30d5004
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 0%
 
 ---
 
 
 # Erstellen benutzerdefinierter Detailansichten für Dashboards
 
-In diesem Video erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen. Auf diese Weise können Sie die angezeigten Daten und die Geschichte, die Sie Ihren Interessengruppen über mobile Scorecard-Projekte erzählen möchten, weiter verfeinern.
+Erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen können, um die Geschichte einzugrenzen, die Sie Ihren Stakeholdern durch mobile Scorecard-Projekte erzählen möchten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)

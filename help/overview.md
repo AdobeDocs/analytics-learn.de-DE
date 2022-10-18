@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -41,7 +41,12 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
    *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie einen Datumsbereich oder Datumsbereich mit bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. Dies informiert Benutzer darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## Auswahl der Mitarbeiter

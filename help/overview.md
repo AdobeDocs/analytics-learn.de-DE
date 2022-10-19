@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 3cf17558385944871209a801463e013663d58b3a
+source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -32,7 +32,7 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
 
 <div id="whats-new-section">
 
-## Neuigkeiten
+## Neue Funktionen
 
 * **[Adobe Analytics Mobile Scorecard-App](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *Erfahren Sie, wie Sie die Mobile Scorecard-App herunterladen und die in [!DNL Analysis Workspace] erstellten mobilen Scorecards anzeigen können.*
@@ -41,15 +41,17 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
    *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie einen Datumsbereich oder Datumsbereich mit bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. Dies informiert Benutzer darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
 
 </div>
+
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
 <div id="staff-picks-section">
 
-## Auswahl der Mitarbeiter
+## Mitarbeiterauswahl
 
 <table>
 <tr>

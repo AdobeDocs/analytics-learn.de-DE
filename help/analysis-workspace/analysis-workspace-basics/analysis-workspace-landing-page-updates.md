@@ -1,21 +1,21 @@
 ---
 title: Aktualisierungen der Landingpage von Analysis Workspace
-description: Erfahren Sie mehr über einige der großartigen Verbesserungen und Ergänzungen der neuen Landingpage. Wir haben Ihr Kunden-Feedback berücksichtigt und versucht, das Markanteste zu integrieren ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+description: Erfahren Sie mehr über einige der großartigen Verbesserungen und Ergänzungen der neuen Landingpage. Wir haben anhand Ihres Kunden-Feedbacks versucht, die wichtigsten Funktionen zu ermitteln, und integriert, darunter die Spaltenanpassung, neue Spaltentypen sowie Links zu Echtzeit- und Bot-Berichten.
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10294
 thumbnail: 342476.jpg
 exl-id: c7ff29b1-4a78-4b25-946a-0e065ffdd804
-source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+source-git-commit: 7e543468111051b51e9dffcf0d4438c2d058b51d
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # Aktualisierungen der Landingpage von Analysis Workspace
 
-Erfahren Sie mehr über einige der großartigen Verbesserungen und Ergänzungen der neuen Landingpage. Wir haben Ihr Kunden-Feedback berücksichtigt und versucht, die markantesten Funktionen wie Spaltenanpassung, neue Spaltentypen, Links zu Echtzeit- und Bot-Berichten und viele andere einzubinden.
+Erfahren Sie mehr über einige der großartigen Verbesserungen und Ergänzungen der neuen Landingpage. Wir haben anhand Ihres Kunden-Feedbacks versucht, die wichtigsten Funktionen zu ermitteln, und integriert, darunter die Spaltenanpassung, neue Spaltentypen sowie Links zu Echtzeit- und Bot-Berichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)

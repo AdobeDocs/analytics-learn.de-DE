@@ -2,18 +2,14 @@
 title: Segmentvergleich in Analysis Workspace
 description: Die wahren Unterschiede zwischen Marketing-Segmenten zu verstehen, war immer ein schwieriger und zeitaufwendiger Prozess. Segment IQ, Teil von Analysis Workspace in Adobe Analytics, vereinfacht diese Analyse, indem es zwei beliebige Analytics-Segmente für alle Dimensionen und Metriken untersucht, um automatisch die statistisch bedeutendsten Unterschiede zu ermitteln.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23976.jpg
 kt: 2103
 role: User
 level: Beginner
 exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '123'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -25,3 +21,7 @@ Die wahren Unterschiede zwischen Marketing-Segmenten zu verstehen, war immer ein
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil des Kurses [Filterung Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

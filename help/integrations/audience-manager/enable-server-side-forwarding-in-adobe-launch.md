@@ -13,9 +13,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie mit Adobe [!DNL Experience Platform Launch] Ihre Adobe Ana
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Konfiguration und Administration von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

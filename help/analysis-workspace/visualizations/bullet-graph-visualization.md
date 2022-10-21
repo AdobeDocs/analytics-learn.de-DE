@@ -8,9 +8,9 @@ level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Weiterführende Informationen finden Sie in der [Dokumentation](https://experien
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Verwenden von Visualisierungen zur Darstellung Ihrer Datenverläufe](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Mit Visualisierungen Ihre Datengeschichten erzählen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

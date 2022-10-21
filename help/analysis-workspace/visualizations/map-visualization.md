@@ -34,4 +34,4 @@ Weitere Informationen zu dieser [!UICONTROL Visualisierung] finden Sie in der [D
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Mit Visualisierungen Ihre Datengeschichten erzählen]( https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), der kostenlos auf Experience League verfügbar ist!
+> Dieses Video ist Teil des Kurses [Mit Visualisierungen Ihre Datengeschichten erzählen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

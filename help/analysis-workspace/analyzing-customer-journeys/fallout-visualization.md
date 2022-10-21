@@ -9,9 +9,9 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Berührungspunkten in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

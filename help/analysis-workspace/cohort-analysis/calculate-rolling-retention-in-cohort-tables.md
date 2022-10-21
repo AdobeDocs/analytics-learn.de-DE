@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Berührungspunkten in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Wenn Sie eine Einzelhandels-Website haben, gibt es einige Variablen und Ereignis
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

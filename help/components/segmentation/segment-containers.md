@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '90'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ Beim Erstellen von Segmenten steuern die Treffer-, Besuchs- und Besucher-Contain
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil des Kurses [Filterung Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

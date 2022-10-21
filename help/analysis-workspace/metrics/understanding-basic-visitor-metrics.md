@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 75%
 
 >[!INFO]
 >
-> Dieses Video ist Teil mehrerer Kurse: [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de) und [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil mehrerer Kurse, [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de) und [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), die kostenlos auf Experience League verfügbar sind!

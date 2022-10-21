@@ -1,6 +1,6 @@
 ---
 title: Videos und Tutorials zu Analytics
-description: Holen Sie das Meiste aus Adobe Analytics. Nutzen Sie diese Tutorials, um die Funktionen von Analytics kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
+description: Holen Sie das Meiste aus Adobe Analytics heraus. Verwenden Sie diese Tutorials, um die Funktionen von Analytics kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -10,8 +10,8 @@ kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Analytics-Tutorials
 
-Holen Sie das Meiste aus [!DNL Adobe Analytics]. Nutzen Sie diese Tutorials, um die Funktionen von Analytics kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
+Holen Sie das Meiste aus [!DNL Adobe Analytics] heraus. Verwenden Sie diese Tutorials, um die Funktionen von Analytics kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
 
 Informieren Sie sich zunächst
 
@@ -38,7 +38,7 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
    *Erfahren Sie, wie Sie die Mobile Scorecard-App herunterladen und die in [!DNL Analysis Workspace] erstellten mobilen Scorecards anzeigen können.*
 
 * **[Anmerkungen in Analysis Workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie einen Datumsbereich oder Datumsbereich mit bekannten Datenproblemen, öffentlichen Feiertagen, Kampagnenstarts usw. Dies informiert Benutzer darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
+   *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie ein Datum oder einen Datumsbereich mit bekannten Datenproblemen, Feiertagen, Kampagnenstarts und so weiter. Dies informiert Benutzende darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
 
 </div>
 

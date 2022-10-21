@@ -10,9 +10,9 @@ thumbnail: 335738.jpg
 kt: KT-8458
 exl-id: a26119fd-e296-402b-8b0c-f588295bd8b2
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Mit Bot-Regeln können Sie aus Ihrer Report Suite Traffic entfernen, der von bek
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Konfiguration und Administration von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

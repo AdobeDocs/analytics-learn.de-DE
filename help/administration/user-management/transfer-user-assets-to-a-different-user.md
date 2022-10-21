@@ -9,9 +9,9 @@ thumbnail: 335745.jpg
 kt: 8459
 exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ In der Verwaltung für Berichtbenutzer und Berichtgruppen auf der Seite „Benut
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Konfiguration und Administration von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

@@ -1,5 +1,5 @@
 ---
-title: Erstellen und Verwalten eines SDR-Dokuments (Solution Design Reference)
+title: Erstellung und Wartung eines Solution Design Reference (SDR)-Dokuments
 description: Das Lösungs-Design-Referenzdokument (Solution Design Reference, SDR) ist der Blueprint für Geschäftsanforderungen und Datenerfassungs-Design für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als die wahre Quelle für Ihre Analysis-Lösung erstellen und pflegen.
 feature: Implementation Basics
 role: Developer, Data Engineer
@@ -8,13 +8,13 @@ kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
-# Erstellen und Verwalten eines SDR-Dokuments (Solution Design Reference){#create-and-maintain-a-solution-design-reference-document}
+# Erstellung und Wartung eines Solution Design Reference (SDR)-Dokuments{#create-and-maintain-a-solution-design-reference-document}
 
 Das Lösungs-Design-Referenzdokument (Solution Design Reference, SDR) ist der Blueprint für Geschäftsanforderungen und Datenerfassungs-Design für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als die wahre Quelle für Ihre Analysis-Lösung erstellen und pflegen.
 
@@ -26,4 +26,4 @@ Das Lösungs-Design-Referenzdokument (Solution Design Reference, SDR) ist der Bl
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

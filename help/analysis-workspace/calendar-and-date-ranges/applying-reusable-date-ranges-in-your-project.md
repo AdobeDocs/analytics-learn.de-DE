@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
 exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
-source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
-workflow-type: tm+mt
-source-wordcount: '114'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -22,3 +22,7 @@ Die Verwendung benutzerdefinierter Datumswerte und Datumsbereiche in Ihrem Produ
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil des Kurses [Filterung Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

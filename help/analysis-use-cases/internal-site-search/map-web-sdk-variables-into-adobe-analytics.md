@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Eine Liste der automatisch vom Web SDK zu Adobe Analytics zugeordneten Variablen
 
 >[!INFO]
 >
-> Dieses Video ist Teil mehrerer Kurse, [Konfiguration und Verwaltung von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de) und [Implementieren und Messen der internen Site-Suche](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), kostenlos auf Experience League!
+> Dieses Video ist Teil mehrerer Kurse, [Konfiguration und Administration von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de) und [Implementieren und Messen der internen Site-Suche](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search&amp;lang=de), die kostenlos auf Experience League verfügbar sind!

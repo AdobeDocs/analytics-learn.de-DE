@@ -8,9 +8,9 @@ kt: 4109
 thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Weitere Informationen zu Adobe Experience Platform Debugger finden Sie in der [D
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), der kostenlos in Experience League verfügbar ist.

@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ In diesem Video erhalten Sie eine Einführung in Konversions-„Ereignisse“, b
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

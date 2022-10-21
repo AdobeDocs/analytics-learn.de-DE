@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Je länger der Zeitraum ist, über den eine [!UICONTROL Metrik] beobachtet wird,
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Verwenden von Visualisierungen zur Darstellung Ihrer Datenverläufe](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Verwenden von Visualisierungen, um Daten-Stories zu erzählen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), der kostenlos in Experience League verfügbar ist.

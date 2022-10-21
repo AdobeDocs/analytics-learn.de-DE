@@ -8,9 +8,9 @@ role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ Jedes [!UICONTROL Attributionsmodell] unterstützt vollständig Segmentierung un
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League erhältlich!
+> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), kostenlos auf Experience League erhältlich!
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Touchpoints auf der Journey des Kunden](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Berührungspunkten in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

@@ -2,15 +2,14 @@
 title: Segmentierung nach einzelnen Dimensionswerten
 description: Mit den neuen Operatoren im Segment Builder für eine bestimmte Anzahl können Sie basierend auf der Anzahl der eindeutigen Elemente innerhalb einer Dimension segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden, oder Treffern, bei denen mehr als 5 Produkte im Rahmen einer Bestellung gekauft wurden.
 feature: Segmentation
-team: Technical Marketing
 thumbnail: 27257.jpg
 kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '122'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
@@ -24,3 +23,7 @@ Mit den neuen Operatoren im [!UICONTROL Segment Builder] für eine [!UICONTROL b
 Diese Funktion ist doch einfach klasse, oder? :)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=de).
+
+>[!INFO]
+>
+> Dieses Video ist Teil des Kurses [Filterung Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Wenn Sie Adobe Analytics auf Ihrer Site implementieren, empfiehlt Adobe, dass Si
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

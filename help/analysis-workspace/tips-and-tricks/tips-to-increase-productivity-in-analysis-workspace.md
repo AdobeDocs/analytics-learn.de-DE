@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ In diesem Video werden wir vier Tipps präsentieren, mit denen Sie in Analysis W
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil eines Kurses [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

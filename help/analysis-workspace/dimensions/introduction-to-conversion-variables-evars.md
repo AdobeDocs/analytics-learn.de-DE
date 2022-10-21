@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ In diesem Video erhalten Sie eine Einführung in Konversionsvariablen – auch b
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Geführte Analytics-Implementierung](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

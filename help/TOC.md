@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Analytics-Tutorials](overview.md)
 + Einführung in Analytics {#intro-to-analytics}
-   + [Was ist Analytics?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Was ist Analytik](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Was kann Adobe Analytics für mich leisten? {#what-can-aa-do-for-me}
       + [Wie Adobe Analysis Workspace Ihr Unternehmen verändern kann](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Es sind mehr als nur Daten. Es ist Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -102,7 +102,7 @@ ht-degree: 99%
       + [Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Verbesserungen bei Segmentablagebereichen](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Workspace-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Erstellen von Freiformtabellen {#building-freeform-tables}
       + [Grundlegendes zu Ihren Daten – Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -136,7 +136,7 @@ ht-degree: 99%
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
       + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [Visualisierung der Schlüsselmetrik-Zusammenfassung](analysis-workspace/visualizations/key-metric-summary.md)
+      + [Visualisierung der Zusammenfassung der Schlüsselmetriken](analysis-workspace/visualizations/key-metric-summary.md)
       + [Textvisualisierung](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Streudiagramm-Visualisierung](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-Visualisierung](analysis-workspace/visualizations/treemap-visualization.md)
@@ -356,7 +356,7 @@ ht-degree: 99%
       + [Visualisierungen für mobile Scorecards](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Anwenden von benutzerdefinierten Datumsbereichen](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [In-App-Erlebnis für Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-      + [Benutzerdefinierte Detailansichten erstellen](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Erstellen von benutzerdefinierten Detailansichten](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Exportieren {#exporting}
    + Über die Benutzeroberfläche {#from-the-ui}
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)

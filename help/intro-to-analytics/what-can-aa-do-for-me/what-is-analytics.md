@@ -1,6 +1,6 @@
 ---
-title: Was ist Analytics?
-description: Grundlegendes zur Analyse vor dem Adobe Analytics
+title: Was ist Analytik
+description: Verstehen Sie die Grundlagen der Analytik, bevor Sie Adobe Analytics erlernen
 feature: Implementation Basics
 role: Developer, Architect, Data Architect, Data Engineer, Developer, Leader, User
 level: Beginner
@@ -8,56 +8,56 @@ kt: 10454
 thumbnail: null
 last-substantial-update: 2022-10-14T00:00:00Z
 source-git-commit: 08d9f0a196306c44f3397fb5e1d396483222f8c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Was ist Analytics?{#what-is-analytics}
+# Was ist Analytik? {#what-is-analytics}
 
-Bevor Sie sich in den Inhalt eintauchen, um Adobe Analytics zu lernen, ist es hilfreich, die Antwort auf diese grundlegende Frage zu verstehen: &quot;Was ist Analytics?&quot; Analytics ist ein umfassender Begriff, der verschiedene Disziplinen für die Förderung der Geschäftsentwicklung und Transformation umfasst, nämlich Geschäftsanalyse und Datenanalyse. Es gibt einen Unterschied zwischen den beiden. Sehen wir uns das näher an.
+Bevor Sie sich in die Inhalte von Adobe Analytics vertiefen, ist es hilfreich, die Antwort auf die grundlegende Frage zu verstehen: „Was ist Analytik?“ Analytik ist ein weit gefasster Begriff, der mehrere Disziplinen zur Förderung der Geschäftsentwicklung und -transformation umfasst, nämlich Geschäfts- und Datenanalytik. Es gibt einen Unterschied zwischen diesen beiden. Sehen wir uns das näher an.
 
-## Die Rolle von Geschäftsanalysen
+## Die Rolle der Geschäftsanalytik
 
-In den letzten Jahren ist die Geburt und Reife der kommerziellen Nutzung des Internets explodiert, ebenso wie die Menge an Daten, die von Organisationen über die Interaktion der Verbraucher mit ihrer Marke und deren Interaktion mit ihnen erhoben werden. Wenn Sie schon einmal den Begriff Big Data gehört haben, fällt dies in den Bereich der Geschäftsanalyse.
+In den letzten Jahren hat sich die Nutzung des Internets für kommerzielle Zwecke explosionsartig entwickelt und damit auch die Menge an Daten, die Unternehmen darüber sammeln, wie Verbraucherinnen und Verbraucher mit ihrer Marke interagieren und sich mit ihr beschäftigen. Wenn Sie den Begriff „Big Data“ schon einmal gehört haben, fällt dieser in den Bereich der Geschäftsanalytik.
 
-Geschäftsanalyse ist ein Bestandteil der Business Intelligence und konzentriert sich auf strategische Risiken und Chancen im großen Rahmen. Es ist eine notwendige Fähigkeit, die Unternehmen besitzen müssen, um in ihrer Industrie wettbewerbsfähig zu bleiben.
+Die Geschäftsanalytik ist eine Komponente der Business Intelligence und konzentriert sich auf strategische Risiken und Chancen im großen Maßstab. Es handelt sich dabei um eine notwendige Fähigkeit, die Unternehmen besitzen müssen, um in ihrer Branche wettbewerbsfähig zu bleiben.
 
-Es gibt vier Arten von Geschäftsanalysen:
+Es gibt vier Arten von Geschäftsanalytik:
 
-* **Deskriptiv**: Dazu gehört die Verwendung von historischen Daten zur Identifizierung von Trends im Unternehmen einer Organisation. So muss beispielsweise ein Einzelhändler die Produktnachfrage vor der Hauptsaison oder Feiertagssaison vorhersagen und eine optimale Bestandsaufnahme durchführen, um seine Geschäftsziele zu erreichen.
-* **Diagnose**: Was sind die Gründe für ein unerwartetes Ergebnis? Warum gab es in der Nebensaison eine dramatische Nachfrage nach einem Produkt oder einer Dienstleistung? Diagnostische Analyse ist eine tiefere Form der deskriptiven Analyse und dient dazu, Korrelationen aus den Daten zu ziehen.
-* **Prädiktiv**: Hierbei werden historische Daten verwendet, um wahrscheinliche Ergebnisse oder Ereignisse zu ermitteln. Für genauere Prognosen werden häufig maschinelles Lernen (ML) und künstliche Intelligenz (AI) verwendet. Die Kundenabwanderung ist ein Beispiel für eine reale Anwendung prädiktiver Analysen. Diese Analyse ermittelt Korrelationen, um die Attribute von Kunden zu identifizieren, die wahrscheinlich abwandern, sodass Sie etwas tun können, um dies zu verhindern.
-* **Präskriptiv**: Dies ist eine erweiterte Form der prädiktiven Analyse, die darauf abzielt, den bestmöglichen Weg zu einem gewünschten Ergebnis zu finden. Diese Art von Analyse verwendet auch ML- und AI-Technologien. Einzelhändler verwenden eine verschreibungspflichtige Analyse, um die Margen zu verbessern, indem sie ihre Geschäftstätigkeit ändern.
+* **Deskriptiv**: Dazu gehört die Verwendung historischer Daten zur Ermittlung von Trends in der Geschäftstätigkeit eines Unternehmens. Zum Beispiel muss ein Einzelhändler bereits vor der Hauptsaison oder der Urlaubssaison eine Vorhersage der Produktnachfrage treffen und benötigt einen optimalen Warenbestand, um seine Geschäftsziele zu erreichen.
+* **Diagnose**: Was sind die Gründe für ein unerwartetes Ergebnis? Warum gab es in der Nebensaison eine derart große Nachfrage nach einem Produkt oder einer Dienstleistung? Die diagnostische Analyse ist eine tiefgründigere Form der deskriptiven Analyse und zielt darauf ab, aus den Daten Korrelationen abzuleiten.
+* **Prädiktiv**: Hierbei werden historische Daten verwendet, um wahrscheinliche Ergebnisse oder Ereignisse zu ermitteln. Für genauere Prognosen werden häufig maschinelles Lernen (ML) und künstliche Intelligenz (KI) eingesetzt. Ein Beispiel für eine praktische Anwendung prädiktiver Analysen ist die Kundenabwanderung. Bei dieser Analyse werden Korrelationen ermittelt, um die Attribute von Kunden zu identifizieren, die möglicherweise abwandern. So können Sie Maßnahmen ergreifen, um eine solche Abwanderung zu verhindern.
+* **Präskriptiv**: Hierbei handelt es sich um eine erweiterte Form der prädiktiven Analyse, die darauf abzielt, das gewünschte Ergebnis auf bestmögliche Art und Weise zu erreichen. Bei dieser Art von Analyse werden ebenfalls ML- und KI-Technologien.eingesetzt. Einzelhändler nutzen die präskriptive Analyse, um durch Änderungen in ihrer Geschäftstätigkeit die Margen zu verbessern.
 
 ![data-analytics-types](../what-can-aa-do-for-me/assets/data_analytics_types.png)
 
 ## Die Rolle der Datenanalyse
 
-Datenanalysen verwenden viele der gleichen Technologien, die in Geschäftsanalysen verwendet werden, sind jedoch umfassender und technischer Natur. Die Big Data-Analyse beispielsweise beruht auf der Qualität und Organisation der Daten. Wie effektiv werden die Daten sortiert, gespeichert und bereinigt? Datenwissenschaftler arbeiten im Bereich der Datenanalyse. Sie transformieren massive Datensätze, die Geschäftsanalysten dann verwenden, um Informationen an das Unternehmen zu übermitteln, um Prozesse und Metriken zu optimieren. Datenwissenschaftler untersuchen die Daten tiefer und bestimmen Trends und Verbindungen.
+Zur Datenanalyse werden viele der zur Geschäftsanalyse üblichen Technologien verwendet, sie ist jedoch umfassender angelegt und eher technischer Natur. Die Analyse von Big Data hängt beispielsweise von der Qualität und Organisation der Daten ab. Wie effektiv werden die Daten sortiert, gespeichert und bereinigt? Datenwissenschaftler arbeiten auf dem Gebiet der Datenanalyse. Sie transformieren riesige Datensätze, die dann von Wirtschaftsanalysten verwendet werden, um Informationen an das Unternehmen zu übermitteln und Prozesse und Metriken zu optimieren. Datenwissenschaftler untersuchen die Daten tiefgründiger und ermitteln Trends und Zusammenhänge.
 
 ![data-analytics](../what-can-aa-do-for-me/assets/data_analytics.png)
 
-## Wo passt Adobe Analytics?
+## Wie passt Adobe Analytics dazu?
 
-Adobe Analytics ist eine robuste Datenanalyseplattform, die Daten aus kanalübergreifenden digitalen Erlebnissen erfasst, die die Journey von Kunden unterstützen, und Tools zur Datenanalyse bereitstellt. Es handelt sich dabei um eine Plattform, die häufig von Marketing-Experten und Geschäftsanalysten für Geschäftsanalysezwecke verwendet wird.
+Adobe Analytics ist eine robuste Datenanalyseplattform, die kanalübergreifend Daten aus digitalen Erlebnissen erfasst, die die Customer Journey unterstützen, und Werkzeuge zur Datenanalyse bereitstellt. Es handelt sich dabei um eine Plattform, die häufig von Marketing-Fachleuten und Wirtschaftsanalysten für Geschäftsanalysen verwendet wird.
 
-Geschäftsanforderungen, Datendesign und Datenerfassung sind Schlüsselfaktoren für eine effektive Analysetätigkeit. Zunächst erfassen Kunden Daten zu wichtigen Journey und gewünschten Geschäftsergebnissen für herkömmliche digitale Erlebnisse wie Web und Mobilgeräte. Die Daten sollten Fragen beantworten wie:
+Geschäftsanforderungen, Daten-Design und Datenerfassung sind Schlüsselfaktoren für eine effektive Analysetätigkeit. Zunächst werden Daten zu wichtigen Customer Journeys und gewünschten Geschäftsergebnissen für herkömmliche digitale Erlebnisse wie Web und Mobilgeräte gesammelt. Die Daten sollten Antworten auf solche Fragen geben wie:
 
-* &quot;Welche Inhalte und Inhaltstypen sind bei Besuchern beliebt?&quot;
-* &quot;Welche Pfade führen zu hochwertigen Konversionen wie Umsatz, Buchungen, Leads oder Abonnements?&quot;
-* &quot;Welche Produkte, Services oder Inhalte sollte ich bekannten und unbekannten Besuchern zeigen?&quot;
-* &quot;Wie funktionieren digitale Marketingkanäle?&quot;
+* „Welche Inhalte und Content-Typen sind bei Besuchern beliebt?“
+* „Welche Pfade führen zu hochwertigen Konversionen wie Umsatz, Buchungen, Leads oder Abonnements?“
+* „Welche Produkte, Services oder Inhalte sollte ich bekannten und unbekannten Besuchern zeigen?“
+* „Wie gut funktionieren digitale Marketing-Kanäle?“
 
 ![analytics-business-requirements](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-Sobald die Data Foundation in Adobe Analytics erfasst wurde, verwenden Marketing-Experten und Geschäftsanalysten verschiedene Berichte und Datenvisualisierungs-Tools, die im Produkt verfügbar sind, um Analysen durchzuführen und aussagekräftige Meldungen über die Daten zu erzählen. Darüber hinaus bietet Adobe Analytics verschiedene Arten von Produkten. Es kann sich um ein Segment oder eine Zielgruppe handeln, das bzw. die an ein Optimierungs-Tool wie Adobe Target gesendet wird, um A/B-Tests durchzuführen. Es kann sich um ein prädiktives Ergebnis handeln, das die Wahrscheinlichkeit einer Aktion einer Person angibt, die von einem anderen System für die Modellierung verwendet wird.
+Sobald die Datengrundlage in Adobe Analytics erfasst wurde, verwenden Marketing-Fachleute und Wirtschaftsanalysten verschiedene Berichte und Datenvisualisierungswerkzeuge, die im Produkt verfügbar sind, um Analysen durchzuführen und aussagekräftige Erklärungsmuster für die Daten zu vermitteln. Darüber hinaus bietet Adobe Analytics verschiedene Formen der Ausgabe. Es könnte sich dabei um ein Segment oder eine Audience handeln, das bzw. die an ein Optimierungswerkzeug wie Adobe Target gesendet wird, um A/B-Tests durchzuführen. Es könnte sich um ein prädiktives Ergebnis handeln, das die Wahrscheinlichkeit einer Aktion einer Person angibt und von einem anderen System zur Modellierung verwendet wird.
 
 ![analytics-workspace-project](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 
-Im Laufe der Zeit reichern Kunden herkömmliche Web- und Mobildaten mit anderen Kanalquellen an, darunter CRM, Callcenter, Baustein und Mörtel, Sprachassistenten und mehr. Adobe Analytics bietet mehrere Möglichkeiten, Daten aus praktisch jeder Kanalquelle zu erfassen, um eine solide Grundlage für Analysedaten zu schaffen.
+Im Laufe der Zeit kommen in der Regel zu herkömmlichen Web- und Mobildaten andere Kanalquellen hinzu, darunter CRM, Callcenter, traditionelle Ladengeschäfte, Sprachassistenten und vieles mehr. Adobe Analytics bietet mehrere Möglichkeiten zur Erfassung von Daten aus praktisch jeder Kanalquelle, um eine solide Grundlage für Analysedaten zu schaffen.
 
-Das Erfassen zusätzlicher Datensätze eröffnet die Möglichkeit, erweiterte Arten der vorschriftsmäßigen Datenanalyse durchzuführen, die maschinelles Lernen oder erweiterte Datenmodelle wie Marketing-Attribution und Anomalieerkennung nutzen.
+Das Erfassen zusätzlicher Datensätze eröffnet die Möglichkeit, weiterentwickelte Arten der präskriptiven Datenanalyse durchzuführen, die maschinelles Lernen oder verbesserte Datenmodelle verwenden, wie Marketing-Attribution und Anomalieerkennung.
 
-Wir empfehlen Ihnen, sich mit den Tutorials zur Experience League zu befassen, um Sie durch die wichtigsten Vorteile und Funktionen von Adobe Analytics zu führen.
+Wir empfehlen Ihnen, sich die Tutorials auf Experience League anzusehen, die Sie mit den wichtigsten Vorteilen und Funktionen von Adobe Analytics bekannt machen.

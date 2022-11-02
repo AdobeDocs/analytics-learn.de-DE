@@ -4,9 +4,9 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Analytics-Tutorials](overview.md)
 + Einführung in Analytics {#intro-to-analytics}
-   + [Was ist Analytik](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Was ist Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Was kann Adobe Analytics für mich leisten? {#what-can-aa-do-for-me}
       + [Wie Adobe Analysis Workspace Ihr Unternehmen verändern kann](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Es sind mehr als nur Daten. Es ist Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)

@@ -1,24 +1,22 @@
 ---
-title: Hinzufügen von Dimensions- und Metrikbeschreibungen in Adobe Analytics
-description: In diesem Video erfahren Sie, wie Sie Kontext zu Ihren Berichten, Metriken und Dimensionen in Adobe Analytics hinzufügen.
+title: Dimensions- und Metrikbeschreibungen in Adobe Analytics hinzufügen
+description: Erfahren Sie, wie Sie in Adobe Analytics Kontext zu Dimensionen und Metriken hinzufügen.
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2352
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25453.jpg
+kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 0%
 
 ---
 
-# Hinzufügen von [!UICONTROL Dimensions-] und [!UICONTROL Metrik]-Beschreibungen in Adobe Analytics  {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# Dimensionen- und Metrikbeschreibungen hinzufügen in [!DNL Adobe Analytics] {#add-dimension-and-metric-descriptions-in-adobe-analytics}
 
-In diesem Video erfahren Sie, wie Sie Kontext zu Ihren Berichten, [!UICONTROL Metriken] und [!UICONTROL Dimensionen] in Adobe Analytics hinzufügen.
+Erfahren Sie, wie Sie Dimensionen und Metriken Kontext hinzufügen in [!DNL Adobe Analytics]. Verwenden Sie das Beschreibungsfeld, wenn der Ihren Berichten und Metriken zugewiesene Name den Benutzern in Ihrer Organisation nicht genügend Klarheit bietet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [Einführung in Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=de)
       + [Einführung in Konversionsereignisse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=de)
    + Anpassen der Benutzeroberfläche {#customizing-the-ui}
-      + [Benutzervoreinstellungen in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Hinzufügen von Dimensions- und Metrikbeschreibungen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Verwenden von benutzerdefinierten Farbpaletten in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [Farbpipettenerweiterung zum Definieren benutzerdefinierter Paletten](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [Anpassen der Menüs in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Verbessern der Sicherheit in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Legen Sie Analysis Workspace als Landingpage fest](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
+      + [Benutzereinstellungen für Analysis Workspace anpassen](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Dimensionen- und Metrikbeschreibungen hinzufügen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Menüanpassung in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Verbesserung der Sicherheit in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Einrichten eines Analysis Workspace-Projekts als Landingpage](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Dunkelmoduserweiterung für Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Hilfsquellen {#getting-help}
       + [Interne Tipps in Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
       + [Produktinterne Übermittlung von Support-Tickets](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -63,15 +59,11 @@ ht-degree: 99%
       + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigieren auf der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Aktualisierungen der Landingpage von Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Erstellen neuer Analysis Workspace-Projekte](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Workspace-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Standardvorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [Verwenden von benutzerdefinierten Vorlagen als Unterstützung für neue Analysis Workspace-Benutzer](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Einblick in die Datenübertragung in Ihr Analysis Workspace-Projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Grundlegende Metriken in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Komponentenverwaltung in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Verwenden des Komponenten-Managers](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Auswählen einer Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Anzeigen von Analysis Workspace-Leistungsmetriken](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tipps und Tricks {#tips-and-tricks}

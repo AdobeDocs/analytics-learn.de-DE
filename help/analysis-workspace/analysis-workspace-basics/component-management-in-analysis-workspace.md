@@ -10,15 +10,15 @@ kt: 1988
 role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '53'
+ht-degree: 71%
 
 ---
 
 # Komponentenverwaltung in Analysis Workspace {#component-management-in-analysis-workspace}
 
-Sie können Ihre [!UICONTROL Dimensionen], [!UICONTROL Segmente], [!UICONTROL Metriken] und [!UICONTROL Datumsbereiche] direkt in Analysis Workspace verwalten. Sie müssen Ihr Projekt nicht verlassen, während Sie nach einem Segment für die Freigabe suchen.
+Erfahren Sie, wie Sie Komponenten (z. B. Dimensionen, Metriken, Segmente usw.) in Analysis Workspace freigeben und verwalten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)

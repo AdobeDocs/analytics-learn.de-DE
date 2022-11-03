@@ -8,22 +8,22 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
-In diesem Video erfahren Sie, wie Sie benutzerdefinierte Vorlagen in Analysis Workspace erstellen, damit Sie und Ihr Team mit einem bestimmten Satz an Berichten starten können.
+Erfahren Sie, wie Sie native Vorlagen verwenden und benutzerdefinierte Vorlagen in Analysis Workspace erstellen können, damit Sie und Ihr Team mit einem vordefinierten Berichtssatz beginnen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-Auch wenn es großartig ist, über [!UICONTROL Adobe-Standardvorlagen] zu verfügen, möchten Sie manchmal einfach eine eigene Vorlage haben. Jetzt können Sie jedes Projekt mit Ihrer eigenen benutzerdefinierten Vorlage erstellen. Damit ist es noch einfacher, neue Benutzer auf den neuesten Stand zu bringen, Ihre bevorzugten Dashboards/Projekte zu finden oder Ihr Dashboard für mehrere Teams freizugeben.
+Analysis Workspace verfügt über mehrere vordefinierte Vorlagen, die Ihnen helfen, Ihre Analyse zu starten. Trotzdem, manchmal wollen Sie auch nur Ihre eigene Vorlage. Erfahren Sie, wie Sie jedes Projekt in Ihre eigene benutzerdefinierte Vorlage erstellen. Sie können neuen Benutzern dabei helfen, sich auf den neuesten Stand zu bringen, Ihre bevorzugten Dashboards/Projekte zu finden oder Ihr Dashboard über Teams hinweg freizugeben.
 
-Weitere Informationen zu Standard- und benutzerdefinierten Vorlagen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=de).
+Weitere Informationen zu Standard- und benutzerdefinierten Vorlagen finden Sie im [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=de).
 
 >[!INFO]
 >

@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Analytics-Tutorials
-user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
+user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+workflow-type: tm+mt
+source-wordcount: '2437'
+ht-degree: 99%
 
 ---
 

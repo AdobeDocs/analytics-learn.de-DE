@@ -1,24 +1,23 @@
 ---
-title: Verbessern der Sicherheit in Adobe Analytics
-description: Adobe Analytics entspricht den neuesten Sicherheitsstandards. Wenn Ihr Unternehmen diese Sicherheit durch sichere Passwörter und IP-Anmeldebeschränkungen erweitern möchte, erfahren Sie in diesem Video, wie Sie dies tun können.
+title: Verbesserung der Sicherheit
+description: Erfahren Sie mehr über die Sicherheits-Manager-Einstellungen in den Unternehmenseinstellungen, um den Zugriff auf Adobe Analytics zu steuern.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Verbessern der Sicherheit in Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Verbesserung der Sicherheit {#enhance-security}
 
-Adobe Analytics entspricht den neuesten Sicherheitsstandards. Wenn Ihr Unternehmen diese Sicherheit durch sichere Passwörter und IP-Anmeldebeschränkungen erweitern möchte, erfahren Sie in diesem Video, wie Sie dies tun können.
+Erfahren Sie mehr über die Sicherheits-Manager-Einstellungen in den Unternehmenseinstellungen, um den Zugriff auf Adobe Analytics zu steuern. Dazu gehören sichere Passwörter, Passwortablauf- und Wiederherstellungsfunktionen sowie E-Mail-Domänenbeschränkungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)

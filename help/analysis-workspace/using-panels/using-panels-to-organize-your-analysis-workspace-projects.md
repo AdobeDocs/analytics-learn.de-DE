@@ -1,24 +1,20 @@
 ---
-title: Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten
-description: Bedienfelder sind eine Sammlung von Visualisierungen in Analysis Workspace. Leere Bedienfelder und Freiformbedienfelder sind Orte, an denen Sie Ihre Analyse beginnen können, während Attribution IQ und Segmentvergleich bei fortgeschritteneren Analysen einen Großteil der Aufgaben übernehmen. Wir haben bei den Bedienfeldern außerdem eine Schaltfläche „+“ hinzugefügt, damit Sie jederzeit leere Bedienfelder hinzufügen können.
+title: Organisieren von Analysis Workspace-Projekten mithilfe von Bedienfeldern
+description: Bedienfelder sind eine Sammlung von Visualisierungen in Analysis Workspace. Erfahren Sie, wie Sie mit Bedienfeldern Daten in Ihren Projekten organisieren und vergleichen können.
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1756
 role: User
 level: Beginner
 exl-id: 4dfe699c-f5f3-4d5c-8b64-f2072292901c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d672842a494d15605305ca16b092c34a045d800f
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 30%
 
 ---
 
-# Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten {#using-panels-to-organize-your-analysis-workspace-projects}
+# Organisieren von Analysis Workspace-Projekten mithilfe von Bedienfeldern {#using-panels-to-organize-your-analysis-workspace-projects}
 
-Bedienfelder sind eine Sammlung von Visualisierungen in Analysis Workspace. [!UICONTROL Leere Bedienfelder] und [!UICONTROL Freiformbedienfelder] sind Orte, an denen Sie Ihre Analyse starten können, während [!DNL Attribution IQ] und [!UICONTROL Segmentvergleich] bei fortgeschritteneren Analysen einen Großteil der Aufgaben übernehmen. Wir haben bei den Bedienfeldern außerdem eine Schaltfläche „+“ hinzugefügt, damit Sie jederzeit leere Bedienfelder hinzufügen können.
+Bedienfelder sind eine Sammlung von Visualisierungen in Analysis Workspace. Erfahren Sie, wie Sie mit Bedienfeldern Daten in Ihren Projekten organisieren und vergleichen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 96%
+source-wordcount: '2377'
+ht-degree: 95%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 96%
       + [Kunden-Tipps zur Unterstützung des Adobe Analytics-Lernprozesses](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigieren in Arbeitsbereich-Projekten {#navigating-workspace-projects}
       + [Erstellen von Projekten mithilfe von Vorlagen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Vorlage für Trainings-Tutorials in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Kopieren und Einfügen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
-      + [Erstellen eines Inhaltsverzeichnisses](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [Schulungsanleitung](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Kopieren und Einfügen von Bedienfeldern und Visualisierungen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [Inhaltsverzeichnis erstellen](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Rechtsklick für Workspace-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
-      + [Tastaturkürzel](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Anmerkungen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Tastaturbefehle](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Menüleiste](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [Projekt-Management](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Rückgängigmachen von Aktionen in Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [„Dichte anzeigen“ in Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Zero-State-Verbesserungen](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [Verwenden von Filtern (Tags) in der linken Leiste](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Projektmanagement](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
+      + [Rückgängigmachen von Aktionen](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [Dichte anzeigen](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [Nullstatusverbesserungen](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+      + [Filter verwenden](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)

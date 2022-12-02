@@ -1,26 +1,21 @@
 ---
-title: Kopieren und Einfügen in Analysis Workspace
-description: Mittels Kopieren und Einfügen können Sie Visualisierungen von einem Bedienfeld oder Projekt in ein anderes kopieren und vollständige Bedienfelder auch über Projekte hinweg kopieren.
+title: Kopieren und Einfügen von Bedienfeldern und Visualisierungen
+description: Erfahren Sie, wie Sie Bedienfelder und Visualisierungen in Analysis Workspace kopieren und einfügen
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1698
 role: User
 level: Beginner
+kt: 1698
+thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 980e3069b31ee572366e269143d2f45387f2b682
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Kopieren und Einfügen in Analysis Workspace {#copy-and-insert-in-analysis-workspace}
+# Kopieren und Einfügen von Bedienfeldern und Visualisierungen {#copy-and-insert-panels-and-visualizations}
 
-Mittels Kopieren und Einfügen können Sie Visualisierungen von einem Bedienfeld oder Projekt in ein anderes kopieren und vollständige Bedienfelder auch über Projekte hinweg kopieren.
+Erfahren Sie, wie Sie Bedienfelder und Visualisierungen in Analysis Workspace kopieren und einfügen können. Dies sind zeitsparende Verfahren zum Verfeinern eines aktuellen Projekts oder zum direkten Einstieg in ein neues Projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
-
-Verwenden Sie diese Funktion, um Ihre Analysen in logische Datengeschichten und Projekte zu organisieren oder einen Vorsprung zu erhalten, indem Sie aus Vorlagen kopieren!
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)

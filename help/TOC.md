@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 95%
+source-wordcount: '2372'
+ht-degree: 93%
 
 ---
 
@@ -151,10 +151,9 @@ ht-degree: 95%
       + [Gemeinsames Verwenden von Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ – Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Anwenden von Segmenten {#applying-segments}
-      + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Verwendung von Segmenten in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Ad-hoc-Segmente (temporär)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Verwenden unterschiedlicher Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
+      + [Segmente auf Ihr Analysis Workspace-Projekt anwenden](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Anwenden von Ad-hoc-Segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Verwenden verschiedener Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
       + [Segmente für ein Bedienfeld auswählen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)

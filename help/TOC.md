@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
-ht-degree: 93%
+source-wordcount: '2363'
+ht-degree: 94%
 
 ---
 
@@ -78,11 +78,7 @@ ht-degree: 93%
       + [Rechtsklick für Workspace-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Tastaturbefehle](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [Menüleiste](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [Projektmanagement](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Rückgängigmachen von Aktionen](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [Dichte anzeigen](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Nullstatusverbesserungen](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [Filter verwenden](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)

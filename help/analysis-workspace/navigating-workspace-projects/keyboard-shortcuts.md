@@ -1,26 +1,21 @@
 ---
-title: Tastaturbefehle in Analysis Workspace
-description: In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, sodass Sie lernen, schneller und effizienter in Analysis Workspace zu navigieren.
+title: Verwenden von Tastaturbefehlen
+description: Erfahren Sie, wie Sie Tastaturbefehle in Analysis Workspace verwenden
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2031
 role: User
 level: Beginner
+kt: 2031
+thumbnail: 23984.jpg
 exl-id: f344469b-b925-4978-918f-5204f6f10094
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 0%
 
 ---
 
-# Tastaturbefehle in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
+# Verwenden von Tastaturbefehlen {#use-keyboard-shortcuts}
 
-In diesem Video werden die Tastaturbefehle in Analysis Workspace vorgestellt, sodass Sie lernen, schneller und effizienter in Analysis Workspace zu navigieren.
+Erfahren Sie, wie Sie Tastaturbefehle in Analysis Workspace verwenden. Dies sind zeitsparende Verfahren, mit denen Sie verschiedene Aufgaben in einem Projekt ausführen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
-
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=de).
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)

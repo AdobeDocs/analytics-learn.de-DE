@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
    + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
       + [Wechsel von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
-      + [Schaltfläche „In Workspace ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Schaltfläche „In Arbeitsbereich ausprobieren“ in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [So werden Analytics-Daten erfasst](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Anmelden bei Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
@@ -44,9 +44,9 @@ ht-degree: 94%
       + [Einführung in Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=de)
       + [Einführung in Konversionsereignisse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=de)
    + Anpassen der Benutzeroberfläche {#customizing-the-ui}
-      + [Benutzereinstellungen für Analysis Workspace anpassen](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Dimensionen- und Metrikbeschreibungen hinzufügen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Menüanpassung in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Anpassen der Benutzereinstellungen für Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Hinzufügen von Dimensions- und Metrikbeschreibungen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Anpassen der Menüs in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Verbesserung der Sicherheit](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Einrichten eines Analysis Workspace-Projekts als Landingpage](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Hilfsquellen {#getting-help}
@@ -57,12 +57,12 @@ ht-degree: 94%
    + Grundlagen in Analysis Workspace {#analysis-workspace-basics}
       + [Schnelleinstieg in Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navigieren zur neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Navigieren auf der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Neuheiten auf der Analysis Workspace-Landingpage](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Workspace-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Arbeitsbereich-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Eingehen von Daten in ein Analysis Workspace-Projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Basismetriken in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Übertragen von Daten in Ihr Analysis Workspace-Projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Grundlegende Metriken in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Komponentenverwaltung in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Auswählen einer Report Suite in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Anzeigen von Analysis Workspace-Leistungsmetriken](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
@@ -74,12 +74,12 @@ ht-degree: 94%
       + [Erstellen von Projekten mithilfe von Vorlagen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Schulungsanleitung](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Kopieren und Einfügen von Bedienfeldern und Visualisierungen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
-      + [Inhaltsverzeichnis erstellen](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Rechtsklick für Workspace-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Erstellen eines Inhaltsverzeichnisses](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [Rechtsklick für Arbeitsbereich-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Tastaturbefehle](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [Dichte anzeigen](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Filter verwenden](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Verwenden der Dichte](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [Verwenden von Filtern](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -88,9 +88,9 @@ ht-degree: 94%
       + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=de)
       + [Verwenden von Dropdown-Filtern](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Verwenden von Bedienfeldern zum Organisieren von Analysis Workspace-Projekten](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Segmente für ein Bedienfeld auswählen](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+      + [Auswählen von Segmenten für ein Bedienfeld](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Workspace-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Erstellen von Freiformtabellen {#building-freeform-tables}
       + [Grundlegendes zu Ihren Daten – Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [Anwendungsfälle für Visualisierungen](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Auswählen der zu visualisierenden Daten](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Einbringen von Daten in Visualisierungen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Verwenden von Dropdown-Listen für Komponenten in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Verwenden von Dropdown-Listen für Komponenten in Arbeitsbereich](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisierungen von Bereichen und gestapelten Bereichen](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualisierungen mit Balken und gestapelten Balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Aufzählungsgrafik-Visualisierung](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -147,10 +147,10 @@ ht-degree: 94%
       + [Gemeinsames Verwenden von Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ – Geräteübergreifende Analyse](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Anwenden von Segmenten {#applying-segments}
-      + [Segmente auf Ihr Analysis Workspace-Projekt anwenden](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Anwenden von Ad-hoc-Segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Verwenden verschiedener Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
-      + [Segmente für ein Bedienfeld auswählen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
+      + [Verwenden unterschiedlicher Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
+      + [Auswählen von Segmenten für ein Bedienfeld](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=de)
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Schnellsegmente in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)

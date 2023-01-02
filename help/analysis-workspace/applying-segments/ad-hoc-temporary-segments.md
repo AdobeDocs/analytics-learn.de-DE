@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
 source-git-commit: aa420d23462e422eba96e875f725770ba2bb6e69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Wollten Sie schon einmal schnell ein einfaches Segment erstellen, um eine bestim
 
 Ad-hoc-Segmente funktionieren innerhalb des Projekts, in dem sie erstellt werden, werden jedoch nur dann dauerhaft gespeichert, wenn Sie sie bewusst speichern.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation zur Funktion](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/ad-hoc-segments.html?lang=en).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation zur Funktion](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/ad-hoc-segments.html?lang=de).

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: ht
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
+workflow-type: tm+mt
 source-wordcount: '2363'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -57,8 +57,7 @@ ht-degree: 100%
    + Grundlagen in Analysis Workspace {#analysis-workspace-basics}
       + [Schnelleinstieg in Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navigieren auf der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Neuheiten auf der Analysis Workspace-Landingpage](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [Navigieren in der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Arbeitsbereich-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Übertragen von Daten in Ihr Analysis Workspace-Projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -73,6 +72,7 @@ ht-degree: 100%
    + Navigieren in Arbeitsbereich-Projekten {#navigating-workspace-projects}
       + [Erstellen von Projekten mithilfe von Vorlagen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Schulungsanleitung](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Verwenden von Ordnern in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Kopieren und Einfügen von Bedienfeldern und Visualisierungen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Erstellen eines Inhaltsverzeichnisses](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Rechtsklick für Arbeitsbereich-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)

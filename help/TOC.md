@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 99%
    + Navigieren in Arbeitsbereich-Projekten {#navigating-workspace-projects}
       + [Erstellen von Projekten mithilfe von Vorlagen](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Schulungsanleitung](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Verwenden von Ordnern in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
+      + [Verwenden von Ordner in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Kopieren und Einfügen von Bedienfeldern und Visualisierungen](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Erstellen eines Inhaltsverzeichnisses](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Rechtsklick für Arbeitsbereich-Effizienz](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)

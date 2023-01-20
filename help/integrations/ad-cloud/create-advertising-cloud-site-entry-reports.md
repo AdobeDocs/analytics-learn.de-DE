@@ -1,7 +1,7 @@
 ---
-title: Erstellen von Site-Einstiegsberichten für Advertising Cloud
-description: Erstellen eines Site-Einstiegsberichts für Advertising Cloud zur Überwachung von Wochentag, Tageszeit, Browser und geografischem Einfluss.
-feature: Advertising Cloud Integration
+title: Erstellen von Site-Einstiegsberichten für Advertising
+description: Erstellen eines Site-Einstiegsberichts für Advertising zur Überwachung von Wochentag, Tageszeit, Browser und geografischem Einfluss.
+feature: Advertising Integration
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 3762dde6-b090-42e3-b6c5-002a022d13ee
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
 
-# Erstellen von Site-Einstiegsberichten für Advertising Cloud
+# Erstellen von Site-Einstiegsberichten für Advertising 
 
-Erstellen eines Site-Einstiegsberichts für Advertising Cloud zur Überwachung von Wochentag, Tageszeit, Browser und geografischem Einfluss.
+Erstellen eines Site-Einstiegsberichts für Advertising zur Überwachung von Wochentag, Tageszeit, Browser und geografischem Einfluss.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)

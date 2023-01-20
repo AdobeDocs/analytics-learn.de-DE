@@ -1,7 +1,7 @@
 ---
 title: Implementieren von Tracking-Vorlagen aus Advertising Analytics in Suchmaschinen
 description: In diesem Video erfahren Sie, wie Sie Ihre Tracking-Vorlagen aus Advertising Analytics in die unterstützten Suchmaschinen implementieren. Die Implementierung der Tracking-Vorlage ist der ausschlaggebende Schritt zur Erfassung und Weitergabe Ihrer Daten an Adobe Analytics.
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,7 +11,7 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%

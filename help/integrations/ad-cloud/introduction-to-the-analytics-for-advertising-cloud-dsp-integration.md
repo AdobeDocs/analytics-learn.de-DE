@@ -1,25 +1,22 @@
 ---
-title: Einführung in die Integration von Analytics für Advertising DSP
-description: Die Integration von Analytics für Advertising DSP ist eine native bidirektionale Integration zwischen Adobe Analytics und Adobe Advertising. Mit dieser Integration können Kunden Durchsichten aus Advertising-Anzeigenimpressionen in Analytics erfassen. Analytics kann dann die Viewthroughs mit allen nachgelagerten Site-Aktivitäten verbinden (genau wie bei einem Clickthrough). Analytics kann dann Metriken zurück an Advertising Cloud übergeben, um sie in erweiterten algorithmischen Angebotsmodellen zu verwenden. In diesem Video wird erläutert, was ein Viewthrough ist und welche Vorteile die Integration hat. Außerdem werden einige grundlegende Beispiele für die Verwendung der neuen Dimensionen/Metriken in Analysis Workspace behandelt.
+title: Einführung in die Integration von Analytics für Advertising Cloud DSP
+description: Die Integration von Analytics für Advertising Cloud DSP ist eine native bidirektionale Integration zwischen Adobe Analytics und Adobe Advertising Cloud.
 feature: Advertising Integration
-topics: null
-activity: understand
-doc-type: feature video
-team: Technical Marketing
-kt: 2913
 topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
+thumbnail: 27237.jpg
+kt: 2913
 exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 86%
+source-wordcount: '104'
+ht-degree: 46%
 
 ---
 
 # Einführung in die Integration von [!DNL Analytics for Advertising] DSP {#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
 
-Die Integration von [!DNL Analytics for Advertising] DSP ist eine native bidirektionale Integration zwischen Adobe Analytics und Adobe Advertising. Mit dieser Integration können Kunden `Viewthroughs` von Advertising-Anzeigenimpressionen in [!DNL Analytics]. [!DNL Analytics] kann dann die `Viewthroughs` mit allen nachgelagerten Site-Aktivitäten verbinden (genau wie bei einem `Clickthrough`). [!DNL Analytics] kann dann [!DNL metrics] zurück an [!DNL Advertising] übergeben, um sie in erweiterten algorithmischen Angebotsmodellen zu verwenden. In diesem Video wird erläutert, was ein `Viewthrough` ist und welche Vorteile die Integration hat. Außerdem werden einige grundlegende Beispiele für die Verwendung der neuen [!UICONTROL Dimensionen] und [!UICONTROL Metriken] in [!UICONTROL Analysis Workspace] behandelt.
+Die Integration von [!DNL Analytics for Advertising Cloud] DSP ist eine native bidirektionale Integration zwischen Adobe Analytics und Adobe Advertising Cloud. Mit dieser Integration erfassen Sie `Viewthroughs` von Advertising Cloud-Anzeigenimpressionen in [!DNL Analytics]. [!DNL Analytics] verbindet `Viewthroughs` zu allen nachgelagerten Site-Aktivitäten, z. B. `Clickthrough`. [!DNL Analytics] pass [!DNL metrics] zurück zu [!DNL Advertising Cloud] und wird in erweiterten algorithmischen Angebotsmodellen verwendet. In diesem Video wird beschrieben, was eine `Viewthrough` ist, die Vorteile der Integration und einige grundlegende Beispiele für die Verwendung der neuen [!UICONTROL Dimensionen] und [!UICONTROL Metriken] in [!UICONTROL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=12&learn=on)

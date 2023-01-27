@@ -1,26 +1,22 @@
 ---
-title: Erstellen von Analytics-Segmenten für Aktivierung und Reporting
-description: Verwenden von Dimensionen in Advertising zur Erstellung von Segmenten für saubereres Reporting und Analyse.
+title: Erstellen von Analysesegmenten für die Aktivierung und Berichterstellung
+description: Verwenden Sie Advertising Cloud-Dimensionen, um Segmente für Berichte und Analysen zu erstellen.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35117.jpg
-kt: 5474
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35117.jpg
+kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Erstellen von Analytics-Segmenten für Aktivierung und Reporting
+# Erstellen von Analysesegmenten für die Aktivierung und Berichterstellung
 
-Verwenden von Dimensionen in Advertising zur Erstellung von Segmenten für saubereres Reporting und Analyse.
+Verwenden Sie Advertising Cloud-Dimensionen, um Segmente für Berichte und Analysen zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

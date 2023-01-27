@@ -1,26 +1,22 @@
 ---
-title: Erstellen von Site-Journey-Profilen in Analytics
-description: So erstellen Sie mit Adobe Analytics robuste Site-Retargeting-Pools für das Advertising Cloud-Remarketing.
+title: Erstellen von Analytics-Site-Journey-Profilen
+description: Erfahren Sie, wie Sie mit Adobe Analytics robuste Site-Retargeting-Pools für Advertising Cloud-Remarketing erstellen.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35116.jpg
-kt: 5473
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35116.jpg
+kt: 5473
 exl-id: c0c7c77e-ba24-48b3-a793-a519fbd45e12
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 64%
+source-wordcount: '41'
+ht-degree: 0%
 
 ---
 
-# Erstellen von Site-Journey-Profilen in Analytics
+# Erstellen von Analytics-Site-Journey-Profilen
 
-So erstellen Sie mit Adobe Analytics robuste Site-Retargeting-Pools für das Remarketing von Anzeigen.
+Erfahren Sie, wie Sie mit Adobe Analytics robuste Site-Retargeting-Pools für das Anzeigen-Remarketing erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)

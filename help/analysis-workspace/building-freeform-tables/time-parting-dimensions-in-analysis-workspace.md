@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
 source-git-commit: fc7c66520340fc5f71bd65a800e1d60a03a3ce95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Bei der [!DNL Time-parting] wird der Zeitstempel erfasster Treffer in aussagekrÃ
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=de).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=de).
 
 >[!INFO]
 >

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 97%
+source-wordcount: '2344'
+ht-degree: 93%
 
 ---
 
@@ -107,38 +107,37 @@ ht-degree: 97%
       + [Freiformtabellen-Filter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensionen für die Zeitunterteilung](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisierungen {#visualizations}
-      + [Datenvisualisierung in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Arten von Visualisierungen](analysis-workspace/visualizations/visualization-types.md)
+      + [Datenvisualisierung in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
+      + [Visualisierungstypen](analysis-workspace/visualizations/visualization-types.md)
       + [Anwendungsfälle für Visualisierungen](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Auswählen der zu visualisierenden Daten](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Zu visualisierende Daten auswählen](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Einbringen von Daten in Visualisierungen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Verwenden von Dropdown-Listen für Komponenten in Arbeitsbereich](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualisierungen von Bereichen und gestapelten Bereichen](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualisierungen mit Balken und gestapelten Balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
-      + [Aufzählungsgrafik-Visualisierung](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Donut-Visualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Verwenden von Komponenten-Dropdown-Listen in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Visualisierungen von Bereich und Bereich gestapelt](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Balken und Balken - gestapelte Visualisierungen](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Lineardiagrammdarstellung](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Ringvisualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogrammvisualisierung](analysis-workspace/visualizations/histogram-visualization.md)
       + [Linienvisualisierung](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Kombinationsdiagramme](analysis-workspace/visualizations/combo-charts.md)
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Zuordnungsvisualisierung](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Visualisierungen der Zusammenfassungsnummer und Zusammenfassungsänderung](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualisierung der Zusammenfassung der Schlüsselmetriken](analysis-workspace/visualizations/key-metric-summary.md)
       + [Textvisualisierung](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Streudiagramm-Visualisierung](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-Visualisierung](analysis-workspace/visualizations/treemap-visualization.md)
       + [Venn-Diagrammvisualisierung](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Verwenden der Funktion „Kumulativer Durchschnitt“ zum Anwenden der Metrikausgleichung](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Verwenden der kumulativen durchschnittlichen Funktion zum Anwenden der Metrikausgleichung](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexible Layouts](analysis-workspace/visualizations/flexible-layouts.md)
       + [Ändern der Skalierung/Achse bei Visualisierungen](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Live-Verknüpfung von Diagrammdimensionen](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Umschalten der Granularität](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Live-Verknüpfung von Dimensionen und Diagrammen](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Umschalter für Granularität](analysis-workspace/visualizations/granularity-toggle.md)
       + [Interne Verknüpfungen in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Positives-negatives Zuordnungsthema](analysis-workspace/visualizations/positive-negative-map-theme.md)
-      + [Neuanordnung und Größenanpassung von Visualisierungen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [Neuanordnen und Ändern der Größe von Visualisierungen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassen von Visualisierungslegenden](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100 % gestapelte Visualisierungen](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Datenquelleneinstellungen für Tabelle und Visualisierung](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Erstellen einer Heatmap für die Zeitaufteilung](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysieren von Customer Journeys {#analyzing-customer-journeys}
       + [Erstellen eines Fallout-Visualisierungsberichts](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)

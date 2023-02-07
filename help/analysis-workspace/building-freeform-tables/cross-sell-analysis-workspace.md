@@ -1,25 +1,25 @@
 ---
-title: Crossselling-Analyse in Analysis Workspace
-description: Der Crossselling-Bericht in Reports & Analytics zeigt die Beziehung zwischen Produkten in derselben Produktkette an, sodass Sie analysieren können, welche Produkte zusammen gekauft wurden. In diesem Video zeigen wir Ihnen, wie Sie den Crossselling-Bericht in Analysis Workspace erstellen und ihn noch weiter auf jede beliebige mehrwertige Dimension oder Klassifizierung erweitern können.
+title: Cross-Sell-Analyse in Analysis Workspace
+description: In diesem Video erfahren Sie, wie Sie einen Querverkaufsbericht in Analysis Workspace erstellen und ihn auf eine Dimension oder Classification mit mehreren Werten erweitern.
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 27%
 
 ---
 
-# [!UICONTROL Crossselling]-Analyse in Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
+# Cross-Sell-Analyse in Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
 
-Die [!UICONTROL Crossselling]-Bericht in [!DNL Reports & Analytics] zeigt die Beziehung zwischen Produkten in derselben Produktkette an, sodass Sie analysieren können, welche Produkte zusammen gekauft wurden. In diesem Video zeigen wir Ihnen, wie Sie den [!UICONTROL Crossselling]-Bericht in Analysis Workspace erstellen und ihn noch weiter auf jede beliebige mehrwertige Dimension oder Klassifizierung erweitern können.
+In diesem Video erfahren Sie, wie Sie einen Querverkaufsbericht in Analysis Workspace erstellen und ihn auf eine Dimension oder Classification mit mehreren Werten erweitern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kostenlos auf Experience League erhältlich!
+> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

@@ -1,5 +1,5 @@
 ---
-title: Einfaches Ziehen und Ablegen in leere Projekte
+title: Einfaches Drag-and-Drop in leere Projekte
 description: Wenn Sie Komponenten direkt in ein leeres Projekt, ein Bedienfeld oder eine Freiformtabelle ziehen, wird automatisch eine Tabelle in einem empfohlenen Format erstellt.
 feature: Freeform Tables
 thumbnail: 40855.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
 source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# Einfaches Ziehen und Ablegen in leere Projekte
+# Einfaches Drag-and-Drop in leere Projekte
 
 Wenn Sie Komponenten direkt in ein leeres Projekt, ein Bedienfeld oder eine Freiformtabelle ziehen, wird automatisch eine Tabelle in einem empfohlenen Format erstellt.
 
@@ -22,4 +22,4 @@ Wenn Sie Komponenten direkt in ein leeres Projekt, ein Bedienfeld oder eine Frei
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

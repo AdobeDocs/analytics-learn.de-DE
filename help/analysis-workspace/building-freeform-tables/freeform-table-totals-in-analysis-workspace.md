@@ -1,5 +1,5 @@
 ---
-title: Gesamtwerte der Freiformtabelle in Analysis Workspace
+title: Freiformtabellen-Summen in Analysis Workspace
 description: Erfahren Sie, was sich auf die Summen in Freiformtabellen auswirkt und wie Sie sie aktivieren und deaktivieren.
 feature: Freeform Tables
 thumbnail: 29273.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 source-git-commit: 0f81e30dbee6bc52b3fcbf7f6c91a6c85cc33755
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Gesamtwerte der Freiformtabelle in Analysis Workspace
+# Freiformtabellen-Summen in Analysis Workspace
 
 Erfahren Sie, was sich auf die Summen in Freiformtabellen auswirkt und wie Sie sie aktivieren und deaktivieren.
 
@@ -22,4 +22,4 @@ Erfahren Sie, was sich auf die Summen in Freiformtabellen auswirkt und wie Sie s
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.
+> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

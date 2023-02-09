@@ -1,5 +1,5 @@
 ---
-title: Arbeiten mit Dimensionen in einer Freiformtabelle
+title: Verwenden von Dimensionen in einer Freiformtabelle
 description: Hier erfahren Sie alles über das Arbeiten mit Dimensionen in Freiformtabellen, einschließlich Hinzufügen, Sortieren, Filtern, Unterteilen anhand anderer Dimensionen usw.
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
 source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# Arbeiten mit Dimensionen in einer Freiformtabelle
+# Verwenden von Dimensionen in einer Freiformtabelle
 
 Hier erfahren Sie alles über das Arbeiten mit Dimensionen in Freiformtabellen, einschließlich Hinzufügen, Sortieren, Filtern, Unterteilen anhand anderer Dimensionen usw.
 
@@ -35,4 +35,4 @@ Im Video behandelte Themen, einschließlich Zeitstempeln:
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses: [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), kostenlos auf Experience League erhältlich!
+> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

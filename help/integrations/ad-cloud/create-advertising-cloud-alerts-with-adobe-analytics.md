@@ -1,6 +1,6 @@
 ---
-title: Advertising Cloud-Warnhinweise mit Adobe Analytics erstellen
-description: Erfahren Sie, wie Sie die Leistungsfähigkeit von Adobe Analytics-Warnhinweisen nutzen können, um Ihre gebührenpflichtigen Advertising Cloud-Medienkampagnen zu überwachen.
+title: Erstellen von Advertising Cloud-Warnhinweisen mit Adobe Analytics
+description: So machen Sie sich die Leistungsfähigkeit von Adobe Analytics-Warnhinweisen zunutze, um Ihre Paid-Media-Kampagnen in Advertising Cloud zu überwachen.
 feature: Advertising Integration
 topic: Integrations
 role: User
@@ -9,14 +9,14 @@ thumbnail: 35118.jpg
 kt: 5475
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
 source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Advertising Cloud-Warnhinweise mit Adobe Analytics erstellen
+# Erstellen von Advertising Cloud-Warnhinweisen mit Adobe Analytics
 
-Erfahren Sie, wie Sie die Leistungsfähigkeit von Adobe Analytics-Warnhinweisen nutzen können, um Ihre gebührenpflichtigen Advertising Cloud-Medienkampagnen zu überwachen.
+So machen Sie sich die Leistungsfähigkeit von Adobe Analytics-Warnhinweisen zunutze, um Ihre Paid-Media-Kampagnen in Advertising Cloud zu überwachen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)

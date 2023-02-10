@@ -1,26 +1,26 @@
 ---
 title: 100 % gestapelte Visualisierungen in Analysis Workspace
-description: In diesem Video erfahren Sie, wie Sie Ihre gestapelten Visualisierungen als Prozentsätze und nicht nur als Rohwerte festlegen.
+description: Erfahren Sie, wie Sie Ihre gestapelten Visualisierungen als Prozentsätze anstatt nur als Rohwerte festlegen.
 feature: Visualizations
 thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 30%
 
 ---
 
-# 100 % gestapelte [!UICONTROL Visualisierungen] in Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
+# 100 % gestapelte Visualisierungen in Analysis Workspace
 
-In diesem Video erfahren Sie, wie Sie Ihre gestapelten Visualisierungen als Prozentsätze und nicht nur als Rohwerte festlegen.
+Erfahren Sie, wie Sie Ihre gestapelten Visualisierungen als Prozentsätze anstatt nur als Rohwerte festlegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Gestapelte Diagramme sind hilfreich, um Teile eines Ganzen in einem Trend darzustellen. Die neue Einstellung „100 % gestapelt Visualisierungen“ hilft dabei, schnell zu erkennen, wie jeder Teil zum Ganzen beiträgt, und das in Form eines Prozentwerts anstelle eines Rohwerts. Diese neue Einstellung ist in den Einstellungen für die [!UICONTROL Visualisierung] oben rechts von den Visualisierungen [!UICONTROL Bereich gestapelt], [!UICONTROL Balken gestapelt] und [!UICONTROL Querbalken gestapelt] zu finden.
+Gestapelte Diagramme sind hilfreich, um Teile eines Ganzen in einem Trend darzustellen. Die Einstellung &quot;100 % gestapelte Visualisierung&quot;hilft weiter, schnell zu erkennen, wie jeder Teil zum Ganzen beiträgt, in Form eines Prozentwerts anstelle eines Rohwerts. Diese Einstellung ist über das Visualisierungseinstellungen-Zahnrad oben rechts in den Visualisierungen &quot;Bereich gestapelt&quot;, &quot;Balken gestapelt&quot;und &quot;Horizontalbalken gestapelt&quot;verfügbar.
 
 >[!INFO]
 >

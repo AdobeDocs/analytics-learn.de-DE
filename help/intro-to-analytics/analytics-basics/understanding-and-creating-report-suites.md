@@ -1,5 +1,5 @@
 ---
-title: Grundlagen und Erstellen von Report Suites
+title: Verstehen und Erstellen von Report Suites
 description: In diesem Video erfahren Sie, was Report Suites sind und wie Sie sie in der Oberfläche erstellen, sodass Sie nachvollziehen und optimieren können, wer Ihre Site besucht.
 feature: Analytics Basics
 kt: 3574
@@ -7,13 +7,13 @@ role: User
 level: Beginner
 exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Grundlagen und Erstellen von Report Suites
+# Verstehen und Erstellen von Report Suites
 
 In diesem Video erfahren Sie, was [!UICONTROL Report Suites] sind und wie Sie sie in der Oberfläche erstellen, damit Sie den Traffic auf Ihrer Site nachvollziehen und optimieren können.
 

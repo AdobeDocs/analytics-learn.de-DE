@@ -1,5 +1,5 @@
 ---
-title: Erfassungsart der Analysedaten
+title: So werden Analytics-Daten erfasst
 description: Wie gelangen Daten von Ihrer Seite in Adobe Analytics-Berichte? Dieses Video zeigt es Ihnen.
 feature: Analytics Basics
 kt: 3565
@@ -7,13 +7,13 @@ role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Erfassungsart der Analysedaten
+# So werden Analytics-Daten erfasst
 
 Wie gelangen Daten von Ihrer Seite in Adobe Analytics-Berichte? Dieses Video zeigt es Ihnen.
 

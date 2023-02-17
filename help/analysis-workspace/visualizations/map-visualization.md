@@ -1,6 +1,6 @@
 ---
-title: Zuordnungsvisualisierung in Analysis Workspace
-description: In diesem Video erfahren Sie, wie Sie die Zuordnungsvisualisierung in Analysis Workspace verwenden. Mit der Zuordnungsvisualisierung können Sie entweder mobile (lat/long) oder Web-Daten (IP-Adressen) mit einer dynamischen Zuordnung anzeigen, sodass Sie eine Vorstellung von der Kundennutzung im Kontext ihres Standorts erhalten.
+title: Kartenvisualisierung in Analysis Workspace
+description: In diesem Video erfahren Sie, wie Sie die Kartenvisualisierung in Analysis Workspace verwenden. Die Kartenvisualisierung ermöglicht es Ihnen, entweder Mobile- (Breitengrad/Längengrad) oder Web-Daten (IP-Adresse) auf einer dynamischen Karte zu sehen, sodass Sie sich ein Bild von der Kundennutzung im Kontext ihres Standorts machen können.
 feature: Visualizations
 thumbnail: 23559.jpg
 kt: 1771
@@ -8,19 +8,19 @@ role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
-# Zuordnungsvisualisierung in Analysis Workspace
+# Kartenvisualisierung in Analysis Workspace
 
-In diesem Video erfahren Sie, wie Sie die Zuordnungsvisualisierung in Analysis Workspace verwenden. Mit der Zuordnungsvisualisierung können Sie entweder [!UICONTROL mobile lat/long] oder Web-Daten (IP-Adressen) mit einer dynamischen Zuordnung, sodass Sie eine Vorstellung von der Kundennutzung im Kontext ihres Standorts erhalten.
+In diesem Video erfahren Sie, wie Sie die Kartenvisualisierung in Analysis Workspace verwenden. Die Kartenvisualisierung ermöglicht es Ihnen, entweder [!UICONTROL Mobile Breitengrad-/Längengrad-] oder Web-Daten (IP-Adresse) auf einer dynamischen Karte zu sehen, sodass Sie sich ein Bild von der Kundennutzung im Kontext ihres Standorts machen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
-Weitere Informationen zu dieser Visualisierung finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=de).
+Weitere Informationen zu dieser Visualisierung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=de).
 
 >[!INFO]
 >

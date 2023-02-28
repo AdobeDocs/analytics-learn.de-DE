@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
 source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie Ihre gestapelten Visualisierungen als Prozentsätze anstat
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Gestapelte Diagramme sind hilfreich, um Teile eines Ganzen in einem Trend darzustellen. Die Einstellung &quot;100 % gestapelte Visualisierung&quot;hilft weiter, schnell zu erkennen, wie jeder Teil zum Ganzen beiträgt, in Form eines Prozentwerts anstelle eines Rohwerts. Diese Einstellung ist über das Visualisierungseinstellungen-Zahnrad oben rechts in den Visualisierungen &quot;Bereich gestapelt&quot;, &quot;Balken gestapelt&quot;und &quot;Horizontalbalken gestapelt&quot;verfügbar.
+Gestapelte Diagramme sind hilfreich, um Teile eines Ganzen in einem Trend darzustellen. Die neue Einstellung „100 % gestapelte Visualisierung“ hilft dabei, schnell zu erkennen, wie jeder Teil zum Ganzen beiträgt, und das in Form eines Prozentwerts anstelle eines Rohwerts. Diese Einstellung ist über das Zahnrad-Symbol für die Visualisierungseinstellungen oben rechts in den Visualisierungen für gestapelte Bereiche, gestapelte Balken und horizontale Balken verfügbar.
 
 >[!INFO]
 >

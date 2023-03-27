@@ -10,8 +10,8 @@ kt: 2339
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie die Funktionen für maschinelles Lernen und KI von Adobe Sensei geschäftlichen Nutzern in Adobe Analytics dabei helfen können, im Hinblick auf ihre Daten auf dem Laufenden zu bleiben und diese praktisch zu nutzen, wenn und wo es wirklich wichtig ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)

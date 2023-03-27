@@ -11,8 +11,8 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Unter [!UICONTROL Admin] > [!UICONTROL Protokolle] > [!UICONTROL Nutzung und Zugriff] können Sie die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachvollziehen. Dieses Video konzentriert sich speziell auf die Messung der [!DNL Workspace]-Projektnutzung. Hinweis: Seit der Veröffentlichung dieses Videos wurde unter adobe.ly/aausage ein Produktipp zur Durchführung einer umfassenden Nutzungsanalyse in Analysis Workspace veröffentlicht.
 
->[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=de).

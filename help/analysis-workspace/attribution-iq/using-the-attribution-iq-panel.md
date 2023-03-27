@@ -11,7 +11,7 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 In diesem Video sehen Sie das [!DNL Attribution IQ] [!UICONTROL Bedienfeld], das einen idealen Ausgangspunkt für die Erstellung Ihres Attributionsprojekts in Analysis Workspace darstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 Das [!DNL Attribution IQ] [!UICONTROL Bedienfeld] in Analysis Workspace bietet eine Möglichkeit, jedes der zehn regelbasierten [!DNL attribution models] schnell visuell zu vergleichen. Sehen Sie, wie sich die einzelnen Modelle auf eine Dimension auswirken, indem Sie [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] und sogar ein [!DNL Flow Diagram] verwenden. Das [!DNL Attribution] [!UICONTROL Bedienfeld] ist ein guter Ausgangspunkt für eine komplexere Attributionsanalyse.
 

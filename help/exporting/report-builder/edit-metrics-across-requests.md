@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Sie können [!UICONTROL Metriken] jetzt über mehrere Datenanforderungen von [!UICONTROL Report Builder] hinweg gleichzeitig bearbeiten und Optionen zum Hinzufügen, Ersetzen und Entfernen auswählen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über [!UICONTROL Mehrere bearbeiten] im Fenster „Verwalten“ erfolgen.
 

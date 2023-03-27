@@ -10,8 +10,8 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer [!UICONTROL Virtual Report Suite] Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 Sie können den Kontext eines Besuchs in Adobe Analytics durch benutzerdefinierte Einstellungen für die maximale Wartezeit, das Ignorieren von Hintergrundtreffern oder das Auslösen eines neuen Besuchs beim Start des Programms neu definieren. Mit dieser Funktion erweitern wir diese Funktionen, um Ihnen zu ermöglichen, einen neuen Besuch bei einer beliebigen Ereigniskombination anstatt nur über einen Start des Programms auszulösen.

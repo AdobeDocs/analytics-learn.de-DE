@@ -7,7 +7,7 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Interne Verknüpfungen ermöglichten es Analysten, die Projekte in Analysis Workspace erstellen, die Leser des Projekts zu konkreten Bereichen und [!UICONTROL Visualisierungen] innerhalb des Projekts zu führen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 Interne Verknüpfungen können auch verwendet werden, um Inhaltsverzeichnisse zu erstellen und anhand der Daten insgesamt effektivere Berichte zu erhalten. Aufgrund der neuen Hyperlink-Funktionen ist nun auch eine projektübergreifende Verknüpfung möglich.
 

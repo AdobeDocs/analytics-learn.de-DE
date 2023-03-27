@@ -10,8 +10,8 @@ kt: 3054
 role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Identifizieren Sie mit [!UICONTROL Kohorten] engagierte Zielgruppen anhand ihres Verhaltens und machen Sie sich die zugrunde liegenden Ursachen bewusst, die die Attraktivität Ihrer Mobile Apps fördern. Verwenden Sie Data Science-Algorithmen in [!UICONTROL Segment-IQ], um die Unterschiede und Ähnlichkeiten zwischen Segmenten zu überblicken.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)

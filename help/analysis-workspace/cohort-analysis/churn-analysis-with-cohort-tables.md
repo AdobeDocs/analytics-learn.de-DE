@@ -10,7 +10,7 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Kohortentabellen] bieten zwei Analysetypen: [!UICONTROL Bindung] und [!UICONTROL Abwanderung]. Während die Option [!UICONTROL Bindung] angibt, wie viele Benutzer im Laufe der Zeit geehalten werden, zeigt die Option [!UICONTROL Abwanderung] an, wie viele Benutzer verloren gingen (1 - Bindung).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).
 

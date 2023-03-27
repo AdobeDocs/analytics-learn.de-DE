@@ -11,9 +11,9 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
-source-wordcount: '88'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=de).
 

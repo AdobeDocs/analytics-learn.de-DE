@@ -6,7 +6,7 @@ kt: 4104
 role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '123'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie mehr über [!UICONTROL Dimensionen] und [!UICONTROL Metriken], die Unterschiede zwischen ihnen und wie Sie sie zu Ihren Tabellen und Visualisierungen in Analysis Workspace hinzufügen. Hier erfahren Sie auch, wie Sie vordefinierte [!UICONTROL berechnete Metriken] hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de).
 

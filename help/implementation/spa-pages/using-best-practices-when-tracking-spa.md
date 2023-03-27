@@ -11,7 +11,7 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
@@ -88,7 +88,7 @@ Wenn neue Inhalte geladen werden oder eine Aktion auf der SPA erfolgt, müssen E
 
 Weitere Informationen dazu, wie und wann diese Ereignisse ausgelöst werden, finden Sie auf den oben genannten Seiten und in den entsprechenden Dokumenten. Sie müssen nicht dieselben Ereignisnamen in Ihrer Implementierung verwenden. Es ist wichtig, den funktionalen Anwendungsfall für die verwendete Methode zu verstehen, da dies die empfohlene Best Practice für jede Methode ist. Das folgende Video zeigt eine beispielhafte SPA-Seite und einen Beispiel-Code in [!DNL Experience Platform Tags], der auf die benutzerdefinierten Ereignisse wartet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Ausführen von s.t() oder s.tl() in [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Ein wichtiges Konzept für [!DNL Analytics] bei der Arbeit mit einer SPA ist der
 
 Das folgende Video zeigt, wo und wie Sie `s.t()` oder `s.tl()` in Tags auslösen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Löschen von Variablen {#clear-variables}
 
@@ -114,7 +114,7 @@ Das obige Diagramm zeigt Variablen, die geleert werden, *nachdem* Sie Daten hine
 
 Das folgende Video zeigt, wo und wie man Variablen in [!DNL Tags] löscht.
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Weitere Überlegungen {#additional-considerations}
 

@@ -10,8 +10,8 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '271'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Es gibt zwei Funktionen, die Daten an Adobe Analytics senden:
 >
 >In diesem Video zeigen wir Ihnen, wie Sie einen benutzerspezifischen Link-Treffer codieren, wenn Sie KEINEN Tag-Manager wie Adobe [!DNL Experience Platform Launch] verwenden. Wir empfehlen die Verwendung von [!DNL Experience Platform Launch], unserer Best-Practice-Empfehlung für die Implementierung. Wenn Sie jedoch Code mit `s.tl()` verwenden müssen, sehen Sie hier, wie das geht.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Beispiel-Code {#sample-code}
 

@@ -7,9 +7,9 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
-source-wordcount: '324'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Weitere Informationen zu Datenschichten finden Sie in der [Dokumentation zu Expe
 
 Das folgende Video führt Sie durch den Prozess.
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

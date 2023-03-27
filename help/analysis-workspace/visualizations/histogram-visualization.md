@@ -7,7 +7,7 @@ kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL Histogramme] ermöglichen es Ihnen, die Verteilung einer [!UICONTROL Metrik] über Ihre Besucher, Besuche und jetzt auch über Treffer hinweg zu visualisieren, um [!UICONTROL Segmente] mit hohem und niedrigem Wert zu finden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de).
 

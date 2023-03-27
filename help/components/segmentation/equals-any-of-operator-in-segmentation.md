@@ -7,7 +7,7 @@ kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich“ wurden zum Segment Builder hinzugefügt. Verwenden Sie diese Operatoren anstelle von mehreren OR-Ausdrücken oder „enthält beliebige von“, um nach einer Liste spezifischer Elemente zu filtern. Durch die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ wird auch die Geschwindigkeit der Abfrage verbessert.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=de).
 

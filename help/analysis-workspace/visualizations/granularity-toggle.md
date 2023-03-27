@@ -7,7 +7,7 @@ kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Die Einstellungen für die [!UICONTROL Trend-Visualisierung] wurden um eine [!UICONTROL Granularitätsauswahl] erweitert, mit der Sie die [!UICONTROL Granularität] Ihrer Daten ganz einfach von einer Minute bis hin zu einem Jahr anpassen können. Mit der Einstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Tabelle nicht mehr ausblenden und manipulieren müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 >[!INFO]
 >

@@ -10,8 +10,8 @@ kt: 2903
 role: User
 level: Intermediate
 exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Journey in der Voice-App für Kunden verstehen, indem Sie sich [!UICONTROL Flusspfad] und [!UICONTROL Fallouts] ansehen und herausfinden, was die häufigsten Aktionen und was die häufigsten Sequenzen dieser Aktionen sind und wann und wo es zum Fallout der Benutzer aus der Journey kommt.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)

@@ -7,7 +7,7 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Beim Erstellen von Segmenten steuern die Treffer-, Besuchs- und Besucher-Container, wie viele Daten Ihr Segment enthalten soll. In diesem Video erfahren Sie, wie Sie Container verwenden können. Außerdem sehen Sie Beispiele für jeden Container-Typ.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de).
 

@@ -7,7 +7,7 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einer [!DNL freeform table] freigegeben werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
 Analysis Workspace bietet nun mit 11 Filterkriterien und AND/OR-Operatoren mehr Filtermöglichkeiten.
 

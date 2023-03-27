@@ -10,8 +10,8 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '161'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Mit wenigen Klicks in der Adobe Analytics-[!UICONTROL Erweiterung] in Adobe [!DNL Experience Platform Launch] können Sie mit dem Tracking von Exitlinks auf Ihrer Site beginnen (Links, die von Ihrer Site zu einer anderen Site führen). In diesem Video erfahren Sie, wie Sie es einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
 Auf Ihrer Site gibt esmöglicherweise Links zu anderen Sites, für die auch Sie verantwortlich sind, oder zu anderen Partner-Sites. In solchen Fällen ist überlicherweise interessant zu wissen, wie viele Personen von Ihren Seiten aus auf diese Sites klicken. Mit dieser Option in Adobe [!DNL Experience Platform Launch] können Sie das Exitlink-Tracking sehr schnell und einfach einrichten und sogar an Ihre Anforderungen anpassen.

@@ -7,7 +7,7 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Mit dem [!DNL Freeform table builder] können Sie für komplexe Geschäftsszenarien Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag-and-Drop erstellen. Daten werden nicht laufend aktualisiert, sondern erst, wenn Sie auf „Erstellen“ klicken, wodurch Sie Zeit sparen, da die Tabelle nur einmal aktualisiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
 
 >[!INFO]
 >

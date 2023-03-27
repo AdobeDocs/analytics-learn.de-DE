@@ -10,8 +10,8 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Virtual Report Suites] können so kuratiert werden, dass [!UICONTROL Dimensionen], [!UICONTROL Metriken] und [!UICONTROL Segmente] in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 Wenn die Komponentenanpassung aktiviert ist, ist die [!UICONTROL Virtual Report Suite] nur in Analysis Workspace zugänglich.
 

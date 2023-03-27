@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Status stellen Bildschirme oder Ansichten in Ihrer Mobile App dar. Jedes Mal, wenn in Ihrer Anwendung ein neuer Status angezeigt wird, beispielsweise wenn ein Benutzer von der Homepage zum Newsfeed navigiert, kann `trackState` aufgerufen werden, um den Statusnamen (Seitenname in [!DNL Analytics]) sowie weitere Daten zu senden. Dieses Video zeigt Ihnen die Vorgehensweise.
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 Weitere Informationen zu „trackState“ finden Sie in der [Dokumentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).

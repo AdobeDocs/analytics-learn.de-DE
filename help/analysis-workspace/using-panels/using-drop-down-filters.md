@@ -7,7 +7,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie Dropdown-Filter in Analysis Workspace verwenden können, um den Inhalt eines Bedienfelds dynamisch zu ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 Der Bedienfeld-Ablagebereich verfügt jetzt über Dropdown-Filterfunktionen. Dropdown-Filter ermöglichen es Analysten und Endbenutzern, über kontrollierte Filter mit den Daten zu interagieren. Sie können aus einem beliebigen Komponententyp einen Dropdown-Filter erstellen und dann in der Dropdown-Liste zwischen Elementen wechseln, um die Bedienfeldinhalte zu filtern. Sie können auch mehrere Dropdown-Listen zu einem Bedienfeld hinzufügen, um die Kontrolle zu verbessern.
 

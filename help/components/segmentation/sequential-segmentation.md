@@ -7,7 +7,7 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '178'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Dieses Video zeigt Ihnen, wie Sie in Analysis Workspace ein Segment aus Sequenzen von Verhaltensweisen auf Ihrer Website oder in Ihrem Programm erstellen können. Mit anderen Worten: Sie möchten vielleicht ein Segment von Besuchern erstellen, die erst „A“ und dann „B“ ausgeführt haben, damit Sie sehen können, wie diese Ereignissequenz alle anderen Daten beeinflusst hat. Viel Spaß!
 
->[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 Weitere Informationen zu diesem Thema finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=de).
 

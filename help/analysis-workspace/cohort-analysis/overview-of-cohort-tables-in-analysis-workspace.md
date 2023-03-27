@@ -11,7 +11,7 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Die Einstellung [!UICONTROL Rollierende Berechnung] in [!UICONTROL Kohortentabellen] kann zur Analyse von [!UICONTROL Kohorten] über einen bestimmten Zeitraum hinweg verwendet werden, um zu verstehen, wie stark dieselben Nutzer im Laufe der Zeit gehalten werden (oder [!UICONTROL abwandern]).
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).
 

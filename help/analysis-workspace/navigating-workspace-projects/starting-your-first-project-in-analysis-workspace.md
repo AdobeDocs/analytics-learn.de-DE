@@ -9,7 +9,7 @@ thumbnail: 30368.jpg
 team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Analysis Workspace-Projekte mithilfe von Vorlagen erstellen. Diese Methode ist zeitsparender als die manuelle Erstellung von Projekten und kann neuen Benutzenden helfen, sich schnell einzuarbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
 
 >[!INFO]
 >

@@ -10,8 +10,8 @@ kt: 2298
 role: User
 level: Beginner
 exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Mit Analysis Workspace können Sie Projekte planen und als PDF und CSV herunterladen. In diesem Video erfahren Sie, wie Sie Projekte für die zukünftige Bereitstellung für sich selbst oder für Kollegen planen und wie Sie Projekte, an denen Sie arbeiten, im PDF-Format herunterladen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12&learn=on)

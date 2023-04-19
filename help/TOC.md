@@ -67,7 +67,7 @@ ht-degree: 99%
       + [Anzeigen von Analysis Workspace-Leistungsmetriken](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tipps und Tricks {#tips-and-tricks}
       + [7 Tipps und Tricks für Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
-      + [Rechtsklick-Tipps und Tricks für effizientere Workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+      + [Rechtsklick-Tipps und -Tricks für effizientere Workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tipps zur Produktivitätssteigerung in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Kunden-Tipps zur Unterstützung des Adobe Analytics-Lernprozesses](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigieren in Arbeitsbereich-Projekten {#navigating-workspace-projects}

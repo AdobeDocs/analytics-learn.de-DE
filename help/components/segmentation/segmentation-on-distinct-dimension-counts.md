@@ -7,8 +7,8 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: ht
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Mit den neuen Operatoren im [!UICONTROL Segment Builder] für eine [!UICONTROL bestimmte Anzahl] können Sie basierend auf der Anzahl der eindeutigen Elemente innerhalb einer [!UICONTROL Dimension] segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden, oder Treffern, bei denen mehr als 5 Produkte im Rahmen einer Bestellung gekauft wurden.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Diese Funktion ist doch einfach klasse, oder? :)
 

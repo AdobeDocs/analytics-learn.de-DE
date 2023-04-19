@@ -10,7 +10,7 @@ kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Wenn Sie gerade erst mit Adobe Experience Platform Launch und der [!UICONTROL -Erweiterung] für Adobe Analytics beginnen, kann Ihnen dieses Video helfen, die Fensteroptionen für benutzerdefinierten Code, den Ausführungszeitpunkt von Code usw. zu verstehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)

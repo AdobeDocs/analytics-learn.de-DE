@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
+source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
 workflow-type: tm+mt
-source-wordcount: '2369'
-ht-degree: 99%
+source-wordcount: '2391'
+ht-degree: 98%
 
 ---
 
@@ -86,6 +86,7 @@ ht-degree: 99%
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Verwenden des Bedienfelds „Attribution IQ“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=de)
+      + [Grundlegendes zu Adobe Analytics Attribution Panel &amp; Lookback Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=de)
       + [Verwenden von Dropdown-Filtern](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -154,12 +155,14 @@ ht-degree: 99%
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Schnellsegmente in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [Erstellen von Journey-Segmenten für Kunden](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + Metriken {#metrics}
       + [Verstehen von grundlegenden Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
       + [Einführung in Konversionsereignisse](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=de)
       + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Auf Wiedersehen Excel, Hallo berechnete Metriken](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensionen {#dimensions}
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Einführung in Traffic-Variablen (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -182,6 +185,7 @@ ht-degree: 99%
       + [Zeitplan und herunterladbare Projekte](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Freigeben von Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Schreibgeschützte Projekte in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Entsperren der Funktion der schreibgeschützten Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Verwenden von registerkartenübergreifenden Analysen zur Erforschung der grundlegenden Marketing-Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Hinzufügen von nebeneinander angezeigten Vergleichen von Attribution IQ-Modellen](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)

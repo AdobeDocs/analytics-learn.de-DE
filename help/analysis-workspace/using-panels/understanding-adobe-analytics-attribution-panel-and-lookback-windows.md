@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 2%
@@ -92,7 +92,7 @@ Wenn Sie alle &quot;Back to the Future&quot;-Filme gesehen haben, dann wissen Si
 
 1. Ein bisschen früher **1:30 Uhr** on **26. Oktober 1985**, Marty McFly kehrt in der Zeit zurück zu **5. November 1955**, wo er zum ersten Mal über einen Kiefernbaum in einer zeitreisenden DeLorean läuft.  In den nächsten anderthalb Wochen interagiert er mit mehreren Leuten, einschließlich seiner Eltern, die letztlich die Zukunft beeinflussen, indem er seinen Vater dazu bringt, einem Bullen namens Biff standzuhalten, sodass sein Vater sein eigenes Potenzial erkennen kann, ein erfolgreicher Autor von Science-Fiction zu werden.
 1. Später am selben Morgen am **26. Oktober 1985** Dr. Emmett Brown kommt auf Marty McFly&#39;s Einfahrt, um ihn und seine Freundin darüber zu informieren, dass etwas mit ihren Kindern schrecklich schiefgelaufen ist und sie müssen sich in die Zukunft begeben, um ihre Probleme zu lösen.  Während sie abreisen, wird ihre Abreise von Biff gesehen, der es seltsam findet, einen fliegenden DeLorean zu sehen.  Später, als Biff wieder Zeuge eines fliegenden DeLorean ist und später &quot;zwei Versionen&quot;von Marty erblickt, beginnt er, Dinge zusammenzufassen.   Als er Doc Brown und Marty mit dem Argument überhört, wie die &quot;Zeitmaschine&quot;nie für persönliche Gewinne und nur für die Forschung verwendet werden sollte (weil Marty sich über die Rückführung eines Sportalmanaks in die Vergangenheit gekümmert hatte, um einige persönliche Wetten zu tätigen), stiehlt Biff die Zeitmaschine, während die beiden abgelenkt werden, den Sportalmanac in der Vergangenheit an sein jüngeres Selbst zu liefern.
-1. Nach ihrer Reise in die Zukunft kehren Doc Brown und Marty zu einem **26. Oktober 1985** sie erkennen nicht, und sie glauben, dass die Zeitpläne von einem bösen Biff verändert wurden.  In dem Bewusstsein, dass sie das, was geschehen ist, beheben müssen, beschließen Doc und Marty, zu **12. November 1955**, die schicksalhafte Nacht, in der Marty bei seinem ersten Besuch alles geändert hat **1955**.  Doc und Marty retten letzten Endes den Tag, indem sie den Sportalmanac, den Old Biff von der Zukunft an Young Biff in geliefert hatte, zurückstehlen **1955**, aber nicht ohne eine weitere Wendung müssen Sie wirklich die vollständige Trilogie der Filme zu sehen, um wirklich genießen und verstehen.
+1. Nach ihrer Reise in die Zukunft kehren Doc Brown und Marty zu einem **26. Oktober 1985** sie erkennen sie nicht und sie glauben, dass die Zeitleiste von einem bösen Biff verändert wurde.  In dem Bewusstsein, dass sie das, was geschehen ist, beheben müssen, beschließen Doc und Marty, zu **12. November 1955**, die schicksalhafte Nacht, in der Marty bei seinem ersten Besuch alles geändert hat **1955**.  Doc und Marty retten letzten Endes den Tag, indem sie den Sportalmanac, den Old Biff von der Zukunft an Young Biff in geliefert hatte, zurückstehlen **1955**, aber nicht ohne eine weitere Wendung müssen Sie wirklich die vollständige Trilogie der Filme zu sehen, um wirklich genießen und verstehen.
 
 Je nach **Attributionsmodell** und **Lookback-Fenster** können wir am Ende einige interessante Szenarien sehen:
 
@@ -109,7 +109,7 @@ Was bedeutet das also für uns als Analysten?
 
 Die **Attributionsbereich** und **Lookback-Fenster** geben Sie uns die Macht, über die einfachen, oberflächlichen Daten hinaus zu schauen und tiefer in die Journey zu tauchen. Indem wir verstehen, welche Touchpoints den größten Einfluss auf Konversionen hatten, können wir fundierte Entscheidungen über unsere Marketing-Strategien treffen und Ressourcen effektiver zuweisen.
 
-Denken Sie daran, nachdem Sie Ihre **Attributionsmodelle** und **Lookback Windows** ausgewählt haben, können Sie Ihre Daten weiterhin weiter bearbeiten, indem Sie sie mit einem Segment oder einer anderen Komponente filtern, die Sie möchten.  Außerdem verfügen Sie nach dem Rendern des Bedienfelds über alle Funktionen eines herkömmlichen **Arbeitsbereich**, was bedeutet, dass Sie offiziell für 88 mph fahren dürfen!
+Denken Sie daran, nachdem Sie Ihre **Attributionsmodelle** und **Lookback Windows** ausgewählt haben, können Sie Ihre Daten weiterhin weiter bearbeiten, indem Sie sie mit einem Segment oder einer anderen Komponente filtern, die Sie möchten.  Außerdem verfügen Sie nach dem Rendern des Bedienfelds über alle Funktionen eines herkömmlichen **Arbeitsbereich**, was bedeutet, dass Sie offiziell für die Fahrt 88 mph lizenziert sind!
 
 ## Letztere in die Praxis umsetzen
 

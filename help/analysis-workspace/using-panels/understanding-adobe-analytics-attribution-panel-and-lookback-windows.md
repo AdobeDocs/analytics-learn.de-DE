@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ Einfach gesagt, wenn 10 Leute auf einen Knopf drücken, um durch eine Tür zu ge
 * **Letztkontakt**: Auch genau wie es klingt.   Mit diesem Modell werden der letzten Person, die die Tür betritt, 100 % zugeschrieben.  Dieses Modell wird häufig verwendet, um Dinge wie Such- und kurzfristige Marketingzykluskampagnen zu analysieren.
 * **Linear**: Das gibt jeder Person, die durch die Tür ging, die gleiche Anerkennung.  Das ist richtig - man bekommt einen DeLorean, und man bekommt einen DeLorean, und man bekommt einen DeLorean.  JEDER WIRD EIN DELOREAN!!!
 * **U-förmig**: Diese vergibt 40% des Kredits an die erste in der Tür, verteilt 20% des Kredits an alle dazwischen und gibt dann 40% an die letzte bis.  Denken Sie an eine Situation, in der Sie die Mehrheitskonversionen sowohl im Front- als auch im Backend erkennen möchten, aber auch einen kleinen Teil der Gewichtung zwischen einigen der beitragenden Interaktionen darauf ablegen möchten.
-* **Zeitverfall**: Ich würde es vermissen, wenn ich dieses nicht mit Ihnen teilen würde, bevor ich Sie an die offizielle Dokumentation schicke, um die verbleibenden Modelle zu überprüfen.  Wie das Plutonium von Doc Brown hat dieses Modell buchstäblich eine Halbwertszeit, die exponentiell abnimmt!  In diesem Fall beträgt der Standardparameter für die Halbwertszeit dieses Modells 7 Tage.  Die Funktionsweise besteht darin, die Gewichtung auf jeden Marketing-Kanal anzuwenden, basierend auf der Zeit, die nach dem ursprünglichen Touchpoint vergeht, und dem Zeitpunkt, zu dem der Kunde konvertiert.
+* **Zeitverfall**: Ich würde es nicht vermissen, wenn ich dieses nicht mit Ihnen teilen würde, bevor ich Sie an die offizielle Dokumentation schicke, um die verbleibenden Modelle zu überprüfen.  Wie das Plutonium von Doc Brown hat dieses Modell buchstäblich eine Halbwertszeit, die exponentiell abnimmt!  In diesem Fall beträgt der Standardparameter für die Halbwertszeit dieses Modells 7 Tage.  Die Funktionsweise besteht darin, die Gewichtung auf jeden Marketing-Kanal anzuwenden, basierend auf der Zeit, die nach dem ursprünglichen Touchpoint vergeht, und dem Zeitpunkt, zu dem der Kunde konvertiert.
 
 Weitere Informationen hierzu und den übrigen **Attributionsmodelle**, [Hier klicken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de).
 
@@ -82,7 +82,7 @@ Ja, hier gehen wir - nehmen Sie uns ZEIT zurück!  Denn hier beginnt der Spaß!
 
 Adobe definiert **Lookback Windows** als &quot;die Zeit, die eine Konversion zurückblicken sollte, um Touchpoints aufzunehmen. Attributionsmodelle, die der ersten Interaktion mehr Gewicht zuschreiben, sehen bei der Anzeige verschiedener Lookback-Fenster größere Unterschiede.&quot;
 
-* **Besuchs-Lookback-Fenster**: Blickt bis zum Beginn eines Besuchs zurück, wenn eine Konversion stattgefunden hat
+* **Besuchs-Lookback-Fenster**: Blickt bis zum Beginn eines Besuchs zurück, wenn eine Konversion stattgefunden hat.
 * **Besucher-Lookback-Fenster**: Betrachtet alle Besuche bis zum 1. des Monats des aktuellen Datumsbereichs.
 * **Benutzerdefiniertes Lookback-Fenster**: Ermöglicht Ihnen, das Attributionsfenster über den Datumsbereich des Berichts hinaus auf ein Maximum von **90 Tage**.
 

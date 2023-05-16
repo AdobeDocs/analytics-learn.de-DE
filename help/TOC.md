@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
-ht-degree: 98%
+source-wordcount: '2434'
+ht-degree: 97%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 98%
       + [Visualisierungen von Zusammenfassungsnummern und Zusammenfassungsänderungen](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualisierung der Zusammenfassung der Schlüsselmetriken](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualisierung von Texten](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Mehr als Wörter - Verwenden von Textvisualisierungen und -beschreibungen](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [Streudiagramm-Visualisierung](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-Visualisierung](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisierung als Venn-Diagramm](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 98%
       + [Dimensionsmodelle in der Segmentierung](components/segmentation/dimension-models-in-segmentation.md)
       + [Operator „ist gleich eines von“ bei der Segmentierung](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider-Webinar – Strategien zur Kunden-Segmentierung](components/segmentation/customer-segmentation-strategies.md)
+      + [Warten Sie jetzt einfach ein Segment... Verwenden Sie die Segmentierung, um neue Einblicke zu gewinnen.](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berechnete Metriken {#calculated-metrics}
       + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ in berechneten Metriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=de)
@@ -332,6 +334,7 @@ ht-degree: 98%
       + [Berechnete Metriken – Metrikauswahl](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Schnelle berechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Verwenden von Dimensionen in berechneten Metriken](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Mit berechneten Metriken können Sie Ihre Datenanalyse auf die nächste Ebene bringen.](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classifications {#classifications}
       + [Übersicht über Classifications](components/classifications/overview-of-classifications.md)
       + [Verwenden von Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [Erstellen einer internen Adobe Analytics-Site](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Verwenden einer globalen Report Suite](administration/admin-tips/use-a-global-report-suite.md)
       + [Erstellen eines Projekts für Nachrichten und Ankündigungen](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Erfolgreiche Ausführung mit Zusammenfassungs-Dashboards](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)

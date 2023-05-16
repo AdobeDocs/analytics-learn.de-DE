@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 98%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 98%
       + [Kohortenanalyse mit einer beliebigen Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Latenzanalyse mit Kohortentabellen](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Berechnung der rollierenden Kundentreue in Kohortentabellen](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Verwenden Sie die Kohortenanalyse, um das Kundenverhalten zu verstehen.](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Sprachassistentenanalyse {#voice-analytics}
       + [Verwalten und Verfolgen der Mobile-App-Daten Ihres Sprachassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Verstehen der Unterschiede zwischen sprachgesteuerten Geräten](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)

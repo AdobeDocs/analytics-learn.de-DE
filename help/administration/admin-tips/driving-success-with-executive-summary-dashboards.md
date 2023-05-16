@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: fff44440dc527ccfed920954301faaf01d27736c
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -32,16 +32,13 @@ Wenn Sie die Grafik untersuchen, werden Sie möglicherweise einige Dinge bemerke
 
 1. Das liegt daran, dass Ihr Treibstoff auf 0 % gesunken ist und Sie auf Straßenhilfe warten mussten, um durch den Portland-Verkehr zu kommen und Ihren Tanktank wieder aufzufüllen
 
-Eine solche Reise wäre offensichtlich miserabel, unvorhersehbar und gefährlich.
-Es ist keine Möglichkeit zu fahren. Sie benötigen kontinuierliche Informationen über Geschwindigkeit, zurückgelegte Entfernung und Kraftstoffspiegel, um laufend Änderungen an der Fahrweise vornehmen zu können. Zweifellos würde eine vernünftige Person das Karton vom Dashboard abreißen und regelmäßig überprüfen, was die Reisedauer verkürzt, das Risiko, dass es zu wenig Gas gibt, fast eliminiert und Sie bei der richtigen Geschwindigkeit bewegen würde, um ein schnelleres Ticket zu vermeiden.
+Eine solche Reise wäre offensichtlich miserabel, unvorhersehbar und gefährlich. Es ist keine Möglichkeit zu fahren. Sie benötigen kontinuierliche Informationen über Geschwindigkeit, zurückgelegte Entfernung und Kraftstoffspiegel, um laufend Änderungen an der Fahrweise vornehmen zu können. Zweifellos würde eine vernünftige Person das Karton vom Dashboard abreißen und regelmäßig überprüfen, was die Reisedauer verkürzt, das Risiko, dass es zu wenig Gas gibt, fast eliminiert und Sie bei der richtigen Geschwindigkeit bewegen würde, um ein schnelleres Ticket zu vermeiden.
 
 Warum also akzeptieren so viele Führungskräfte dies als vernünftigen Weg, ihre Websites und Apps zu betreiben?
 
-Viele Führungskräfte haben keinen Zugriff auf laufende, relevante Informationen, die erforderlich sind, um rechtzeitig Maßnahmen zu ergreifen. Stattdessen erhalten sie einmal monatlich ein Deck mit Statistiken, die von Adobe Analytics in Excel exportiert, gechartert und dann in einen PowerPoint geploppt werden. Wenn Anfang des Monats ein Wendepunkt auftritt, werden sie erst Anfang des nächsten Monats davon erfahren, lange nachdem sie Fragen stellen oder Maßnahmen ergreifen können.
-Benutzerdefinierte Warnhinweise sind ebenfalls eine großartige Option, aber wir alle wissen, wie der E-Mail-Posteingang eines Exec aussieht.
+Viele Führungskräfte haben keinen Zugriff auf laufende, relevante Informationen, die erforderlich sind, um rechtzeitig Maßnahmen zu ergreifen. Stattdessen erhalten sie einmal monatlich ein Deck mit Statistiken, die von Adobe Analytics in Excel exportiert, gechartert und dann in einen PowerPoint geploppt werden. Wenn Anfang des Monats ein Wendepunkt auftritt, werden sie erst Anfang des nächsten Monats davon erfahren, lange nachdem sie Fragen stellen oder Maßnahmen ergreifen können. Benutzerdefinierte Warnhinweise sind ebenfalls eine großartige Option, aber wir alle wissen, wie der E-Mail-Posteingang eines Exec aussieht.
 
-Aber Führungskräfte sind auch sehr beschäftigt. Stellen Sie sich vor, Sie haben dieselbe Reise unternommen, aber anstatt des sauberen Dashboards, das Sie in Ihrem Auto haben, hatten Sie nicht nur Ihren Kraftstoffspiegel, Ihr Kilometer und Ihren Geschwindigkeitsmesser, sondern auch zwei Dutzend andere Meter, die Ihnen unglaublich detaillierte Daten über alles geben, von Scheibenwischerflughöhe bis zur geschätzten Lebensdauer Ihrer Ölfilter.
-Es wäre zu viel, zu spezifisch, zu spezialisiert.
+Aber Führungskräfte sind auch sehr beschäftigt. Stellen Sie sich vor, Sie haben dieselbe Reise unternommen, aber anstatt des sauberen Dashboards, das Sie in Ihrem Auto haben, hatten Sie nicht nur Ihren Kraftstoffspiegel, Ihr Kilometer und Ihren Geschwindigkeitsmesser, sondern auch zwei Dutzend andere Meter, die Ihnen unglaublich detaillierte Daten über alles geben, von Scheibenwischerflughöhe bis zur geschätzten Lebensdauer Ihrer Ölfilter. Es wäre zu viel, zu spezifisch, zu spezialisiert.
 
 Sie wollen, dass Führungskräfte genügend Daten haben, um zu wissen, wann ihre Aufmerksamkeit sofort benötigt wird, und nicht so sehr, dass sie ihre Hände in Frustration stecken. Wenn Sie von einem Produkteigentümer oder Marketing-Manager zu einer Meldung gelangen, dass ein Exec von einer Anomalie erfahren möchte, treffen Sie auf den &quot;Guten Ort&quot;.
 
@@ -59,8 +56,7 @@ Fügen Sie in ein paar Dropdown-Listen für alles hinzu, was für Ihre Organisat
 
 Diese beiden sind insgesamt ziemlich wichtig, stellen aber wie immer sicher, dass das, was Sie auswählen, für Ihre Site oder App relevant ist.
 
-Fügen Sie abschließend einige Details hinzu. Ich finde, dass die Seitenleistung bei Führungskräften häufig beliebt ist, aber der Schlüssel ist, dass sie unter der Kante liegt.
-Sie können es suchen, wenn sie es wünschen, aber andernfalls verfügen sie über die Daten, die sie benötigen, um sofort Fragen zu stellen:
+Fügen Sie abschließend einige Details hinzu. Ich finde, dass die Seitenleistung bei Führungskräften häufig beliebt ist, aber der Schlüssel ist, dass sie unter der Kante liegt. Sie können es suchen, wenn sie es wünschen, aber andernfalls verfügen sie über die Daten, die sie benötigen, um sofort Fragen zu stellen:
 
 ![Large Dashboard.png](assets/large-dashboard.png)
 

@@ -6,10 +6,10 @@ kt: 4104
 role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,3 @@ In diesem Video erfahren Sie mehr über [!UICONTROL Dimensionen] und [!UICONTROL
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), der kostenlos in Experience League verfügbar ist.

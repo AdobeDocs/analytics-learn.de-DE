@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ In diesem Video erfahren Sie, wie Sie mit [!UICONTROL Report Builder] Segmente g
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

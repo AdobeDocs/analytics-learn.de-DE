@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 83%
 
 ---
 
@@ -21,10 +21,6 @@ Sie können [!UICONTROL Metriken] jetzt über mehrere Datenanforderungen von [!U
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über [!UICONTROL Mehrere bearbeiten] im Fenster „Verwalten“ erfolgen.
+Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über &quot;[!UICONTROL Mehrere bearbeiten]&quot; im Fenster &quot;Verwalten&quot;.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Exportieren und Demokratisieren von Adobe Analytics-Daten](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

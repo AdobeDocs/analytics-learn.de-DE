@@ -11,9 +11,9 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ In diesem Video sehen Sie das [!DNL Attribution IQ] [!UICONTROL Bedienfeld], das
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 Das [!DNL Attribution IQ] [!UICONTROL Bedienfeld] in Analysis Workspace bietet eine Möglichkeit, jedes der zehn regelbasierten [!DNL attribution models] schnell visuell zu vergleichen. Sehen Sie, wie sich die einzelnen Modelle auf eine Dimension auswirken, indem Sie [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] und sogar ein [!DNL Flow Diagram] verwenden. Das [!DNL Attribution] [!UICONTROL Bedienfeld] ist ein guter Ausgangspunkt für eine komplexere Attributionsanalyse.
-
->[!INFO]
->
-> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Berührungspunkten in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

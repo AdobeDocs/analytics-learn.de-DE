@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: ht
-source-wordcount: '314'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Es gibt viele Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weite
 * 4:30 – Spalteneinstellungen können jetzt stapelweise statt einzeln aktualisiert werden. Weitere Informationen finden Sie bei 8:45 im Video: [Zeilen- und Spalteneinstellungen in Freiformtabellen](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Weitere Informationen zu diesem Thema finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Zuweisen von Werten zu digitalen Touchpoints auf der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos in Experience League verfügbar ist.

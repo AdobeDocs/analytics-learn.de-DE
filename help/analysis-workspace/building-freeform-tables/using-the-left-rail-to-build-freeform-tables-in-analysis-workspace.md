@@ -7,9 +7,9 @@ kt: 6161
 role: User
 level: Beginner
 exl-id: 60611747-80c7-4bd0-88b8-a36fb420d290
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Erfahren Sie, wie Sie mit der linken Leiste in Analysis Workspace Elemente suchen, erstellen und zu Freiformtabellen hinzufügen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

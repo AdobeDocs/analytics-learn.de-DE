@@ -7,9 +7,9 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Interne Verknüpfungen ermöglichten es Analysten, die Projekte in Analysis Work
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 Interne Verknüpfungen können auch verwendet werden, um Inhaltsverzeichnisse zu erstellen und anhand der Daten insgesamt effektivere Berichte zu erhalten. Aufgrund der neuen Hyperlink-Funktionen ist nun auch eine projektübergreifende Verknüpfung möglich.
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Mit Visualisierungen Ihre Datengeschichten erzählen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

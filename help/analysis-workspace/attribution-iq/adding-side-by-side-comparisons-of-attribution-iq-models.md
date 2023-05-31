@@ -11,9 +11,9 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 In diesem Video erfahren Sie, wie Sie [!DNL Attribution IQ models] schnell vergleichn können, unter anderem mithilfe einer automatisch erstellten Spalte, die die prozentuale Differenz zwischen den Zahlen der beiden Modelle anzeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)
-
->[!INFO]
->
-> Dieses Video ist Teil eines Kurses [Zuweisung von Werten zu digitalen Berührungspunkten in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

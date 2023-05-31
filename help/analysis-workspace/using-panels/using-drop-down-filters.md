@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ Der Bedienfeld-Ablagebereich verfügt jetzt über Dropdown-Filterfunktionen. Dro
 Dropdown-Listen sind auch eine hilfreiche Möglichkeit zur Konsolidierung von Projekten und Bedienfeldern. Wenn Sie beispielsweise mehrere Versionen eines Projekts haben, das länderspezifische Berichte bereitstellt, können Sie diese Projekte jetzt in einem einzelnen Projekt zusammenfassen und eine Dropdown-Liste für Länder hinzufügen, aus der Benutzer Länder auswählen und so zwischen den einzelnen Ländern wechseln können.
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Filterung Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

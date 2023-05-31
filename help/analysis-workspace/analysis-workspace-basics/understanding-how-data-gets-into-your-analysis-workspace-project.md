@@ -7,10 +7,10 @@ level: Beginner
 kt: 4109
 thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
@@ -22,6 +22,3 @@ In diesem Video erfahren Sie, wie Sie den Datenfluss von Ihrer Seite zu den Tabe
 
 Weitere Informationen zu Adobe Experience Platform Debugger finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=de).
 
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), der kostenlos in Experience League verfügbar ist.

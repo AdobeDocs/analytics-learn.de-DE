@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: ht
-source-wordcount: '112'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ Im Video behandelte Themen, einschließlich Zeitstempeln:
 * Dimensionen als Filter (8:30)
 * Aufschlüsselungen (9:48)
 * Rang-, Zeitverlaufs- und Trendberichte (13:11)
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

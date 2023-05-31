@@ -7,9 +7,9 @@ kt: 11754
 role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Wenn Sie Komponenten direkt in ein leeres Projekt, ein Bedienfeld oder eine Freiformtabelle ziehen, wird automatisch eine Tabelle in einem empfohlenen Format erstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

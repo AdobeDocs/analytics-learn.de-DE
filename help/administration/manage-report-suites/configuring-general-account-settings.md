@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
 exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '148'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Wenn Sie Adobe Analytics einrichten, kann die Konfiguration der Einstellungen Au
 >[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=de#admin-tools).
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Konfiguration und Administration von Report Suites in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=de), der kostenlos auf Experience League verfügbar ist!

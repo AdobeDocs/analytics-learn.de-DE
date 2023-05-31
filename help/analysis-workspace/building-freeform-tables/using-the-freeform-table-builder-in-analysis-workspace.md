@@ -7,9 +7,9 @@ kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Mit dem [!DNL Freeform table builder] können Sie für komplexe Geschäftsszenarien Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag-and-Drop erstellen. Daten werden nicht laufend aktualisiert, sondern erst, wenn Sie auf „Erstellen“ klicken, wodurch Sie Zeit sparen, da die Tabelle nur einmal aktualisiert wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
-
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Freiformtabellen, die Grundlage für Analysen](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=de), der kostenlos in Experience League verfügbar ist.

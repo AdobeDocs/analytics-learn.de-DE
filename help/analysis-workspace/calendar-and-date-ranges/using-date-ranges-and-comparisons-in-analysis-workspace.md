@@ -8,9 +8,9 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -22,11 +22,3 @@ In diesem Video erfahren Sie, wie Sie mit Datumsangaben, [!UICONTROL Datumsberei
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=de).
-
->[!INFO]
->
-> Dieses Video ist Teil von zwei Kursen:
-> * [Erste Schritte mit Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de)
-> * [Filtern Sie Ihre Daten mit benutzerdefinierter Segmentierung und Datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de)
->
-> Beide sind kostenlos auf Experience League verfügbar!

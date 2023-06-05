@@ -3,9 +3,9 @@ title: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung – Teil
 description: Lernen Sie die wichtigsten Herausforderungen kennen, vor denen Analytics-Teams heute stehen, und lernen Sie unsere Empfehlungen kennen, wie Sie sie mithilfe von integrierten Strategien bewältigen können.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **Teil 2: Integrierte Strategien**
 
 In diesem Artikel werden die wichtigsten Herausforderungen beschrieben, vor denen Analyse-Teams heute stehen, sowie unsere Empfehlungen zur Überwindung dieser Herausforderungen mithilfe von integrierten Strategien. Navigieren Sie [hierhin](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) für Teil 1.
-
-Weitere Informationen zu wirksamen Lösungen außerhalb der Adobe Analytics-Plattform erhalten Sie unter [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Schlüssel zur Effizienz: Integrierte Strategien
 
@@ -93,7 +91,5 @@ Verwenden Sie Anmerkungen, um Dokumentationsreferenzen zur produktinternen Lösu
 ## Berichterstellungs-API für Adobe 2.0
 
 Nutzen Sie die Reporting-API, um Standardberichte aus [!UICONTROL Workspace] in terminierte Berichte und Dashboards zu übertragen. Nutzen Sie außerdem [!UICONTROL Analysis Workspace] um API-Anfragen zu erstellen.
-
-Wir hoffen, dass Sie diesen Artikel zu Strategien innerhalb des Tools wertvoll gefunden haben. Weitere Informationen zu effektiven Lösungen für eine effizientere Nutzung außerhalb der Adobe Analytics-Plattform finden Sie [hier](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de)-Hub.

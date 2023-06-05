@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ Verwenden einer Datenschicht für [!DNL Analytics] und andere Experience Cloud-L
 
 Eine _Datenschicht_ ist ein Framework von JavaScript-Objekten, die Entwickler zu digitalen Webseiten hinzufügen. Analytics-Lösungen verwenden die Datenschicht letztendlich, um Werte in Berichte einzufügen. Tag-Management-Systeme, einschließlich [!DNL Experience Platform Tags], dienen zur Vermittlung. Sie lesen die Datenschicht, ordnen die Werte Variablen zu und senden diese Daten an digitale Experience-Lösungen.
 
-Weitere Informationen zu Datenschichten finden Sie in der [Dokumentation zu Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=de) und im Blog [Data Layers: From Buzzword to Best Practice](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Zusätzliche Informationen zu Datenschichten in der [Dokumentation zu Experience Clouden](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=de).
 
 ## Datenschichten, [!DNL Experience Platform Tags] und Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 

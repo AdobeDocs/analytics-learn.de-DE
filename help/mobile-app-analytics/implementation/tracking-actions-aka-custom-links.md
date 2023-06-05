@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,4 +28,4 @@ Dies ist die API, die Sie zur Verfolgung aller Aktionen ohne Bildschirmauslastun
 
 Diese Daten werden als `contextData` geliefert. Dies bedeutet auch, dass Sie [!UICONTROL Verarbeitungsregeln] verwenden müssen, um die mobilen Daten aus diesen `contextData`-Variablen abzurufen und sie [!DNL eVars], [!DNL Props], Ereignissen usw. zuzuordnen. in Adobe Analytics.
 
-Weitere Informationen zu trackAction finden Sie in der [Dokumentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
+Weitere Informationen zu trackAction finden Sie in der [Dokumentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).

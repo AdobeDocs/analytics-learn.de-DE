@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
-ht-degree: 96%
+source-wordcount: '2451'
+ht-degree: 97%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 96%
       + [Schnelleinstieg in Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigieren in der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Starten Sie Ihre Analyse mit einem vordefinierten Bericht.](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
+      + [Starten Sie Ihre Analyse mit einem vorkonfigurierten Bericht](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Arbeitsbereich-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Erstellen und Verwalten von benutzerdefinierten Vorlagen in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Übertragen von Daten in Ihr Analysis Workspace-Projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -95,6 +95,7 @@ ht-degree: 96%
       + [Auswählen von Segmenten für ein Bedienfeld](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Mehrere Report Suites in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Arbeitsbereich-Bedienfelder „Nächstes Element“ und „Vorheriges Element“ und Berichte](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Attributionsbedienfeld und Lookback-Fenster](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + Erstellen von Freiformtabellen {#building-freeform-tables}
       + [Grundlegendes zu Ihren Daten – Freiformtabellen](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Verwenden der linken Leiste zum Erstellen von Freiformtabellen](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -337,7 +338,7 @@ ht-degree: 96%
       + [Berechnete Metriken – Metrikauswahl](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Schnelle berechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Verwenden von Dimensionen in berechneten Metriken](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Mit berechneten Metriken können Sie Ihre Datenanalyse auf die nächste Ebene bringen.](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classifications {#classifications}
       + [Übersicht über Classifications](components/classifications/overview-of-classifications.md)
       + [Verwenden von Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)

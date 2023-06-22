@@ -1,24 +1,22 @@
 ---
 title: 'Berechnete Metriken: segmentierte Metriken'
-description: Erfahren Sie, wie Sie segmentierte Metriken in Adobe Analytics erstellen können.
+description: Erfahren Sie, wie Sie berechnete Metriken basierend auf Segmenten erstellen, damit Sie die zugehörigen Besucher, Besuche und Seitenansichten effektiver analysieren können.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2319
 role: User
 level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 25%
 
 ---
 
-# [!UICONTROL Berechnete Metriken]: segmentierte Metriken {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Berechnete Metriken]: Segmentierte Metriken {#calculated-metrics-segmented-metrics}
 
-Erfahren Sie, wie Sie segmentierte Metriken in Adobe Analytics erstellen können.
+Erfahren Sie, wie Sie berechnete Metriken basierend auf Segmenten erstellen, damit Sie die zugehörigen Besucher, Besuche und Seitenansichten effektiver analysieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=de).

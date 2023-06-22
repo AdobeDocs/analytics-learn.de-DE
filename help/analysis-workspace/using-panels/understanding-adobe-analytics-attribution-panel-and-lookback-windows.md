@@ -8,10 +8,10 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: ae6fb85c3903986940463a4133f7b46f5efb64e1
+source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 2%
+source-wordcount: '1682'
+ht-degree: 3%
 
 ---
 
@@ -46,7 +46,9 @@ In **Attribution** berücksichtigen Sie einfach, wie Ereignisse/Aktionen von ein
 Gemäß [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *Attribution* gibt Analysten die Möglichkeit, die *Dimension* Artikel erhalten eine Gutschrift für *Erfolgsereignisse*.
 
 
-**⛔** DETOUR: Kurze Anmerkung: **Attributionsmodelle** sind so häufig mit **Marketing-Kanäle** dass ich *durchkreuzt* KANAL in der Abbildung oben, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit den meisten anderen ***Dimension***.
+>[!WARNING]
+>
+>**⛔** DETOUR: Kurze Anmerkung: **Attributionsmodelle** sind so häufig mit **Marketing-Kanäle** dass ich *durchkreuzt* ❷ KANAL in der Abbildung oben, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit den meisten anderen ***Dimension***.
 
 
 In der Tat ist selten eine Journey wirklich linear und sogar noch seltener vorhersehbar.  Außerdem wird jeder Kunde in seinem eigenen Tempo vorgehen. Häufig können sie sich verdoppeln, anhalten, aussteigen oder sich in anderem nicht-linearen Verhalten engagieren. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketingmaßnahmen auf die Journey zu kennen. Außerdem werden die Bemühungen zur Verknüpfung mehrerer Datenkanäle behindert.
@@ -55,25 +57,27 @@ Das ist richtig.  Lassen Sie Ihre &quot;Domino&quot;-Analogien vor der Tür und 
 
 ## **Attributionsmodelle**
 
-Wenn wir **Attributionsbedienfeld** können wir anfangen, verschiedene Dinge zu beobachten.  Beispielsweise wird die **Attributionsmodelle** demonstrieren Sie uns, wie unsere *Konversionen* (d. h. ***Erfolgsmetriken***) verteilt werden können. *Treffer* in jeder Gruppe.
+Wenn wir **Attributionsbedienfeld** können wir anfangen, verschiedene Dinge zu beobachten.  Beispielsweise wird die **Attributionsmodelle** demonstrieren Sie uns, wie unsere *Konversionen* (d. h. ❶ **Erfolgsmetriken**) verteilt werden können. *Treffer* in jeder Gruppe.
 
 Einfach ausgedrückt, wenn **10 Personen** drücken Sie eine **GROSSE ROTE SCHALTFLÄCHE** durch eine Tür zu treten, **Attributionsmodelle** werden uns sagen, welche von denen **10 Personen** Wir möchten &quot;Guthaben&quot; zuweisen - oder besser gesagt, wie *viel* &quot;Guthaben&quot; wollen wir sie zuweisen - für das Drücken des Knopfes.
 
 ![Schaltfläche](assets/button.png)
 
-Beachten Sie dies bei einigen Beispielen, wie die **Attributionsmodelle** diese **10 Personen**:
+Im Folgenden finden Sie einige Beispiele dafür, wie die ❷ **Attributionsmodelle** diese **10 Personen**:
 
 - **Erstkontakt**: Dieses Modell funktioniert genau wie es klingt, indem es **100 % Kredit** der *first* Person, die durch die Tür ging.  Marketingexperten werden diesen Ansatz eher für Taktiken wie ***Social Media*** oder ***display***; Es ist jedoch auch eine großartige Taktik, häufig für die Effektivität von Produktempfehlungen vor Ort zu verwenden.
 - **Letztkontakt**: Diese Taktik funktioniert auch genau wie sie klingt, gibt aber stattdessen **100 % Kredit** zum letzten, der durch die Tür ging.  Dieses Modell wird normalerweise verwendet, um Dinge wie ***natürliche (organische) Suche*** und andere *kurzfristig* Marketingzykluskampagnen.
 - **Linear**: Dieses Modell verteilt die gleiche Gewichtung auf JEDE EINZELNE PERSON, die durch die Tür ging.
 
-Vorsicht wird jedoch empfohlen, da Sie bei der Anwendung dieser Taktik sehr schnell Ihre Ergebnisse verbreiten können. Dabei ist zu berücksichtigen, je länger sie ausgeführt wird und je größer die Zielgruppe, die sie trifft.
+  >[!CAUTION]
+  >
+  >Vorsicht wird jedoch empfohlen, da Sie bei der Anwendung dieser Taktik sehr schnell Ihre Ergebnisse verbreiten können. Dabei ist zu berücksichtigen, je länger sie ausgeführt wird und je größer die Zielgruppe, die sie trifft.
 
 - **U-förmig**: Dieser Ansatz weist **40 %** des Kredits an *erste Person* in der Tür, breitet sich aus **20 %** des *alle dazwischen* und gibt dann **40 %** der **letzte** durch. Dieses Modell wird meistens in Situationen verwendet, in denen Sie eine **langer Konversions-/Verkaufszyklus** contain *mehrere Touchpoints* auf dem Weg.  In diesem Fall besteht Ihr Ziel darin, in erster Linie die ***first*** und ***last*** Marketingtaktiken, die zur Kundenkonvertierung beigetragen haben.
 - **J**-**förmig** und **Umgekehrtes J**:
    - Denken Sie darüber nach **U-förmig**, aber stattdessen weist dieses Modell **60 %** dem *letzte Person* durch die Tür gehen, **20 %** der *first*, und dann *divides* die verbleibenden **20 %** quer *alle anderen* in der Mitte.  **Umgekehrtes J** tut genau das Gegenteil.
 
-Das Ziel besteht darin, den größten Teil Ihrer Aufmerksamkeit auf die *Anfang* oder *end* Ihrer Kampagne; Sie möchten dem beitragenden Element jedoch weiterhin einen gewissen Anteil zuweisen, während Sie die &quot;kleinen Jungs&quot;auf dem Weg anerkennen.
+     Das Ziel besteht darin, den größten Teil Ihrer Aufmerksamkeit auf die *Anfang* oder *end* Ihrer Kampagne; Sie möchten dem beitragenden Element jedoch weiterhin einen gewissen Anteil zuweisen, während Sie die &quot;kleinen Jungs&quot;auf dem Weg anerkennen.
 
 - **Zeitverfall**: Nun, ich würde mich zurückweisen, wenn ich dieses nicht teilen würde. Dieses Modell hat buchstäblich eine Halbwertszeit, die exponentiell abnimmt - im Laufe der Zeit!  In diesem Fall wird die *default* Parameter für die Halbwertszeit dieses Modells ist **7 Tage**.  Die Funktionsweise ist dann die Anwendung *Gewichtung* jeder **Marketing-Kanal**, *basierend auf der Zeitdauer* , der nach der *erster Touchpoint* und wenn der Kunde konvertiert.
 
@@ -108,12 +112,23 @@ Was bedeutet das also für uns Analysten?
 
 Die **Attributionsbedienfeld** und **Lookback-Fenster** geben uns die Macht, über die alltäglichen, oberflächlichen Daten hinaus zu schauen und tiefer in die Journey zu tauchen. Durch Verständnis, welche Touchpoints den größten Einfluss auf *Konversionen* können wir fundierte Entscheidungen über unsere Marketingstrategien treffen und Ressourcen effektiver zuweisen.
 
-Denken Sie daran, nachdem Sie Ihre **Attributionsmodelle** und **Lookback-Fenster** ausgewählt ist, können Sie Ihre Daten weiter bearbeiten, indem Sie sie mit einer  **Segment,** oder einer anderen Komponente, die Sie an dieser Stelle wünschen.  Darüber hinaus steht Ihnen nach dem Rendern des Bedienfelds alle Funktionen eines traditionellen Arbeitsbereichs zur Verfügung.
+Denken Sie daran, nachdem Sie Ihre **Attributionsmodelle** und **Lookback-Fenster** ausgewählt ist, können Sie Ihre Daten weiter bearbeiten, indem Sie sie mit einem ❺ filtern. **Segment,** oder einer anderen Komponente, die Sie an dieser Stelle wünschen.  Darüber hinaus steht Ihnen nach dem Rendern des Bedienfelds alle Funktionen eines traditionellen Arbeitsbereichs zur Verfügung.
 
 ## **Letzte Umsetzung**
 
 Nun, da Sie die Konzepte festgelegt haben, stellen Sie sich vor, Sie führen eine Marketing-Kampagne und versuchen zu ermitteln, welcher Kanal der *höchste Effizienz* für Konversionen. Mithilfe des **Attributionsbedienfeld** nicht nur können Sie die **Letztkontakt**, aber auch **Erstkontakt**, **derselbe Kontakt** und anderen **model** Sie entscheiden, welche **channels** sind *höchste Effizienz* bei der *Konversionen*. Diese Informationen können dann verwendet werden, um *optimieren* Ihre Kampagnen und verbessern die Gesamtleistung, indem Sie einfach die Uhr mit der **Lookback-Fenster** Ihrer Wahl!
 
-Nachdem Sie nun gesehen haben, was es kann, lassen Sie sich nicht von den scheinbar komplexen Funktionen des Attributionsbedienfelds täuschen oder einschüchtern.  **Angepasst**.  *Embrace* es.  Verstehen Sie es*.* ABER AM HÄUFIGSTEN - *Nutze es zu deinem Vorteil.* Die **Attributionsbedienfeld** und **Lookback-Fenster** sind die Schlüssel, um ein tieferes Verständnis Ihrer Kunden und ihrer Journey mit Ihrer Marke zu gewinnen.
+Nachdem Sie nun gesehen haben, was es kann, lassen Sie sich nicht von den scheinbar komplexen Funktionen des Attributionsbedienfelds täuschen oder einschüchtern.  **Angepasst**.  *Embrace* es.  **Grundlegendes** es.
+ABER DIE MEISTEN - *Nutze es zu deinem Vorteil.* Die **Attributionsbedienfeld** und **Lookback-Fenster** sind die Schlüssel, um ein tieferes Verständnis Ihrer Kunden und ihrer Journey mit Ihrer Marke zu gewinnen.
 
-Jetzt können wir reisen &quot;[zurück in der Zeit](https://youtu.be/gVryJmZNFdU)&quot; mit Vertrauen und Nutzung der Leistungsfähigkeit unserer Trustischen Zeitmaschine (auch bekannt als ***Adobe Analytics***), um datenbasierte Entscheidungen zu treffen.
+Jetzt können wir reisen &quot;[zurück in der Zeit](https://youtu.be/gVryJmZNFdU)&quot; mit Vertrauen und nutzen Sie die Leistungsfähigkeit unserer Trusty Time Machine (auch bekannt als a.k. ***Adobe Analytics***), um datenbasierte Entscheidungen zu treffen.
+
+## Autor
+
+Dieses Dokument wurde verfasst von:
+
+![Jeff Bloomer](assets/jeff-headshot.png)
+
+**Jeff Bloomer**, Manager, Digital Analytics bei Kroger Personal Finance
+
+Adobe Analytics-Experte

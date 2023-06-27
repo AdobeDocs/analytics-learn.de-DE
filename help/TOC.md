@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Verwenden der Dichte](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Verwenden von Filtern](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Echtzeitberichte {#real-time-reports}
+      + [Echtzeitberichterstellung](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [Senkung der Fehlerquoten und Verbesserung der Erfolgsquoten in Ihrer Sprach-Mobile-App](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Verstehen des Benutzerverhaltens bei Sprachassistenten](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Verstehen der Voice Journey des Benutzers](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Echtzeitberichte in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
    + Wichtige Admin-Fähigkeiten {#key-admin-skills}
       + [Aufbau einer gestärkten Community](administration/key-admin-skills/empowered-community.md)

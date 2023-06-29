@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
 source-wordcount: '2446'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -329,14 +329,14 @@ ht-degree: 97%
       + [Analytics Insider-Webinar – Strategien zur Kunden-Segmentierung](components/segmentation/customer-segmentation-strategies.md)
       + [Warten Sie jetzt einfach ein Segment... Verwenden Sie die Segmentierung, um neue Einblicke zu gewinnen.](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berechnete Metriken {#calculated-metrics}
-      + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Attribution IQ in berechneten Metriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=de)
-      + [Berechnete Metriken – Generator für Metriken](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [Übersicht über den Generator für berechnete Metriken](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Berechnete Metriken – Funktionen](components/calculated-metrics/calculated-metrics-functions.md)
       + [Berechnete Metriken – implementierungslose Metriken](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Berechnete Metriken – segmentierte Metriken](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Berechnete Metriken – Metrikauswahl](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Schnelle berechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Attribution IQ in berechneten Metriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=de)
       + [Verwenden von Dimensionen in berechneten Metriken](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classifications {#classifications}

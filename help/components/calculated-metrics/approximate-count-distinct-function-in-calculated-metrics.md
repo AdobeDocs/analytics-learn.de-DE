@@ -1,26 +1,22 @@
 ---
-title: Funktion „Ungefährer Distinct Count“ in berechneten Metriken
-description: Die Funktion „Ungefährer Distinct Count“ wurde dem Generator für berechnete Metriken hinzugefügt. Diese lang erwartete Funktion zeigt den individuellen Annäherungswert der Dimensionselemente für eine ausgewählte Dimension an.
+title: Ungefähre Funktion "Distinct Count" in berechneten Metriken
+description: Erfahren Sie, wie Sie mit der Funktion Ungefährer Distinct Count eine berechnete Metrik erstellen, die die ungefähre Distinct Count-Anzahl an Dimensionselementen für eine ausgewählte Dimension zurückgibt.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Funktion] [!UICONTROL Ungefährer Distinct Count] in [!UICONTROL berechneten Metriken] {#approximate-count-distinct-function-in-calculated-metrics}
+# Ungefähre Funktion &quot;Distinct Count&quot; in berechneten Metriken {#approximate-count-distinct-function-in-calculated-metrics}
 
-Die [!UICONTROL Funktion] [!UICONTROL Ungefährer Distinct Count] wurde dem [!UICONTROL Generator für berechnete Metriken] hinzugefügt. Diese lang erwartete [!UICONTROL Funktion] zeigt den [!UICONTROL individuellen Annäherungswert] der [!UICONTROL Dimensionselemente] für ausgewählte [!UICONTROL Dimension] an.
+Erfahren Sie, wie Sie mit der Funktion Ungefährer Distinct Count eine berechnete Metrik erstellen, die die ungefähre Distinct Count-Anzahl an Dimensionselementen für eine ausgewählte Dimension zurückgibt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-Sie können die [!UICONTROL Metrik] in jedem Bericht verwenden, um die Zahl einer [!UICONTROL Dimension] im Vergleich zu den Werten einer anderen zu verstehen. Beispielsweise die Anzahl der Unique Customers nach Marketing-Kanal.
+Sie können die in diesem Video angezeigte Metrik in einem beliebigen Bericht verwenden, um die Zählung einer Dimension im Vergleich zu Werten anderer zu verstehen. Ein sehr häufiges Anwendungsbeispiel wäre die Verwendung dieser Funktion zum Erstellen einer Kunden-IDs-Metrik, die Sie dann in einem beliebigen Bericht verwenden können, um zu sehen, wie viele Kunden auf die verschiedenen Dimensionswerte zutreffen.

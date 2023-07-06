@@ -1,20 +1,20 @@
 ---
 title: Verstehen von grundlegenden Besuchermetriken
-description: Seitenansichten, Besuche und Besucher (oje?). In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
+description: Seitenansichten, Besuche und Besucher. In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
 feature: Metrics
 kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 4edc6b256cf437bc4eb4aefc95a3ee8e16f16322
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 81%
 
 ---
 
 # Verstehen von grundlegenden Besuchermetriken
 
-[!UICONTROL Seitenansichten], [!UICONTROL Besuche] und [!UICONTROL Besucher] (oje?). In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
+[!UICONTROL Seitenansichten], [!UICONTROL Besuche]und [!UICONTROL Besucher]. In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

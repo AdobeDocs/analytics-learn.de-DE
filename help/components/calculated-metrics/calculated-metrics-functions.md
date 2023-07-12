@@ -1,24 +1,22 @@
 ---
-title: Berechnete Metriken – Funktionen
-description: Erfahren Sie, wie Sie Funktionen in berechneten Metriken in Adobe Analytics verwenden.
+title: Berechnete Metriken - Funktionen
+description: Erfahren Sie, wie Sie Funktionen bei der Erstellung berechneter Metriken in Analysis Workspace verwenden können.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2321
 role: User
 level: Beginner
 exl-id: aace1da6-2958-47a6-957c-5d63a5104b5f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Berechnete Metriken]: [!UICONTROL Funktionen] {#calculated-metrics-functions}
+# Berechnete Metriken - Funktionen {#calculated-metrics-functions}
 
-Erfahren Sie, wie Sie [!UICONTROL Funktionen] in [!UICONTROL berechneten Metriken] in Adobe Analytics verwenden.
+Erfahren Sie, wie Sie Funktionen bei der Erstellung berechneter Metriken in Analysis Workspace verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+
+Weitere Informationen zur Verwendung von [basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) und [advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) Funktionen beim Erstellen berechneter Metriken.

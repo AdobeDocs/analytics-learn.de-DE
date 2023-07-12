@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -330,12 +330,12 @@ ht-degree: 96%
       + [Warten Sie jetzt einfach ein Segment... Verwenden Sie die Segmentierung, um neue Einblicke zu gewinnen.](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berechnete Metriken {#calculated-metrics}
       + [Übersicht über den Generator für berechnete Metriken](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Berechnete Metriken – Funktionen](components/calculated-metrics/calculated-metrics-functions.md)
       + [Berechnete Metriken – implementierungslose Metriken](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Berechnete Metriken – segmentierte Metriken](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Berechnete Metriken – Funktionen](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Schnelle berechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Berechnete Metriken verwalten](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ in berechneten Metriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=de)
       + [Verwenden von Dimensionen in berechneten Metriken](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)

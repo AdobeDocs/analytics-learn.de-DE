@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 96%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 96%
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Schnellsegmente in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [Erstellen von Journey-Segmenten für Kunden](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Erstellen von Journey-Segmenten für Kunden - Teil 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Metriken {#metrics}
       + [Verstehen von grundlegenden Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
@@ -185,7 +186,7 @@ ht-degree: 96%
       + [Speichern und Freigeben von sowie Zusammenarbeiten an Projekten in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Kuratieren und Freigeben in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direkter Link zu einem Projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Mit anderen Benutzern in Analysis Workspace teilen](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Freigeben für alle in Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Herunterladen von 50.000 Objekten als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportieren von Daten als CSV- und PDF-Datei aus Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)

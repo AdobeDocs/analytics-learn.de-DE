@@ -1,13 +1,16 @@
 ---
 title: Adobe Analytics-Lehrplan für den Unterricht
 description: Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vorzustellen. Im Rahmen dieses Lehrangebots stehen Ihnen vier verschiedene Module zur Verfügung, anhand derer Sie sich mit der Erfassung und den Berichten in Adobe Analytics vertraut machen können. Diese Module lassen sich in digitale Analyse- oder Marketing-Kurse einteilen und einbetten. Dieses Einführungshandbuch ermöglicht es Professoren und Studierenden, das Wissen zu erwerben, das sie für die Teilnahme an den Adobe Analytics Global Challenges jeden Herbst benötigen.
+feature: Analytics Basics
+role: Leader
+level: Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -21,18 +24,18 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 ### Ein neuer Kurs, der Sie bei der Vorbereitung unterstützt
 
-Als Vorbereitung auf das Lernen und das Vermitteln des Analytics-Lernangebots haben wir auf Adobe Education Exchange einen komplett neuen Kurs zur Verfügung gestellt, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Lernenden in den vier Kernmodulen und darüber hinaus zu unterrichten.
+Um uns auf das Lernen und die Lehre des Analysecurriculums vorzubereiten, haben wir einen brandneuen Kurs in Adobe Education Exchange begonnen, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Schüler/innen auf die 4 Kernmodule und darüber hinaus zu unterrichten.
 
 Melden Sie sich hier für den Kurs an: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
-### Im Folgenden erfahren Sie, was Sie lernen werden:
+### Hier erfahren Sie:
 
 *Los geht&#39;s mit Daten:*
 
 * Datenerfassungsmodul (1): Framework für Implementierung, Erfassung, Reporting und Validierung von/für Daten
 * Datenstrategie- und Architekturmodul (2): Grundlagen von Datenvariablen, Strategien und Architektur
 
-*Als Nächstes kombinieren Sie diese Daten mit Einblicken:*
+*Als Nächstes kombinieren Sie diese Daten mit INSIGHTS:*
 
 * Modul zu Standard-Metriken und -Funktionen von Adobe (3): Zugreifen auf und Anzeigen von wichtigen Analytics-Leistungsmetriken und -Berichten
 * Modul zu den Analysis Workspace-Grundlagen (4): Vertiefende Informationen zu Visualisierungen für Analytics-Berichte

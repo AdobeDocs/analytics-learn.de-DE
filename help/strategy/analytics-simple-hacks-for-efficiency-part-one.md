@@ -1,9 +1,12 @@
 ---
 title: Einfache Hacks für mehr Effizienz und leichtere Selbstbedienung – Teil 1
 description: Lernen Sie die wichtigsten Herausforderungen kennen, mit denen Analytics-Teams heute konfrontiert sind, und lernen Sie unsere Empfehlungen kennen, um sie mithilfe von Strategien außerhalb der Adobe Analytics-Benutzeroberfläche zu überwinden.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%
@@ -50,7 +53,7 @@ Andere wichtige Herausforderungen für Analyst*innen:
 
    _Weitere Hinweise:_
 
-   * Hochtechnisches Dokument, das speziell für Ihre Implementierungsumgebungen erstellt wurde
+   * Hochtechnisches Dokument, das speziell für Ihre Bereitstellungsumgebungen erstellt wurde
    * Nützlich sowohl für die erstmalige Implementierung als auch die anschließende Wartung/Referenz
    * Organisiert nach Lösungstyp (z. B. Kampagnen-Tracking, Seitenmetadaten usw.)
    * Primäres Dokument, das aktualisiert und gepflegt werden muss, wenn Änderungen der SDR vorgenommen werden

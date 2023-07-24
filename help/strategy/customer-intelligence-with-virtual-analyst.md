@@ -1,9 +1,12 @@
 ---
 title: Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ
 description: Erfahren Sie, wie wichtig die Verwendung von künstlicher Intelligenz und maschinellem Lernen (KI/ML) ist. Erfahren Sie mehr über die Vorteile und Erfahrungen von echten Erfolgsgeschichten globaler Kund*innen, die Virtual Analyst und Segment IQ verwenden, um Anomalien zu erkennen, Ausreißer zu vermeiden und den ROI zu maximieren.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%

@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
-ht-degree: 96%
+source-wordcount: '2448'
+ht-degree: 95%
 
 ---
 
@@ -164,11 +164,11 @@ ht-degree: 96%
       + [Erstellen von Journey-Segmenten für Kunden](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Erstellen von Journey-Segmenten für Kunden - Teil 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Metriken {#metrics}
-      + [Verstehen von grundlegenden Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
+      + [Grundlegende Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
       + [Einführung in Konversionsereignisse](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=de)
-      + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Verwenden von Beitragsmetriken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Auf Wiedersehen Excel, Hallo berechnete Metriken](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensionen {#dimensions}
       + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)

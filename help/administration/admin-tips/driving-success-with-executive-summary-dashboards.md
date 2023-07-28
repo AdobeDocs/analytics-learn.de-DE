@@ -1,6 +1,6 @@
 ---
-title: Erfolgreiche Ausführung von Zusammenfassungs-Dashboards
-description: Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps, da sie sich auf monatliche Excel-Diagramme verlassen oder granulare Daten ertrinken. Die Lösung - Dashboard der ausführlichen Zusammenfassung.
+title: Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg
+description: Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps. Sie verlassen sich auf monatliche Excel-Diagramme oder ertrinken in granularen Daten. Die Lösung – ein zusammenfassendes Dashboard für Führungskräfte.
 feature: Admin Tools
 role: User
 level: Experienced
@@ -9,68 +9,70 @@ last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '873'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Erfolgreiche Ausführung von Zusammenfassungs-Dashboards
+# Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg
 
-_Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps, da sie sich auf monatliche Excel-Diagramme verlassen oder granulare Daten ertrinken. Die Lösung: Dashboard der ausführlichen Zusammenfassung._
+_Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps. Sie verlassen sich auf monatliche Excel-Diagramme oder ertrinken in granularen Daten. Die Lösung: ein zusammenfassendes Dashboard für Führungskräfte._
 
-Ich möchte, dass Sie sich vorstellen, von Seattle nach San Francisco zu fahren. Richtung, es ist ziemlich einfach. Steigen Sie auf die I-5 Süd für zwölf bis sechzehn Stunden und Sie sind dort. Einfach, nicht wahr? Ich möchte, dass Sie sich vorstellen, ich habe ein Stück Pappe über Ihr Dashboard gelegt, und ich sage Ihnen, dass Sie am Ende Ihrer Reise ein Dashboard erhalten, das Ihnen Ihre Geschwindigkeit, Kraftstoffmengen und zurückgelegte Entfernung anzeigt:
+Ich möchte, dass Sie sich vorstellen, von Seattle nach San Francisco zu fahren. Was die Richtung angeht, ist das ziemlich einfach. Fahren Sie die I-5 Richtung Süden, und in zwölf bis sechzehn Stunden sind Sie dort. Einfach, nicht wahr? Ich möchte, dass Sie sich vorstellen, ich hätte ein Stück Pappe über Ihr Dashboard gelegt, und ich sage Ihnen, dass Sie am Ende
+Ihrer Reise ein Dashboard sehen werden, das Ihnen Geschwindigkeit, Tankfüllstand und zurückgelegte Entfernung anzeigt:
 
-![Balkendiagramm.png](assets/bar-graph.png)
+ ![Bar Graph.png](assets/bar-graph.png)
 
-Wenn Sie die Grafik untersuchen, werden Sie möglicherweise einige Dinge bemerken:
+Beim Blick auf das Diagramm werden Sie vermutlich ein paar Dinge feststellen:
 
-1. Ihre Geschwindigkeit variierte sehr, sehr weit über die gesetzliche Geschwindigkeitsbegrenzung an einigen Punkten, und sehr niedrig an anderen Punkten wegen Dingen wie Portland Traffic
+1. Ihre Geschwindigkeit ist enorm geschwankt, war an einigen Stellen deutlich über der gesetzlichen Geschwindigkeitsbegrenzung und an anderen Stellen sehr langsam – zum Beispiel wegen des Verkehres in Portland
 
-1. Die zurückgelegte Strecke ist statisch für Stunden 6-9
+1. Für die Stunden 6 bis 9 ist die zurückgelegte Strecke statisch
 
-1. Das liegt daran, dass Ihr Treibstoff auf 0 % gesunken ist und Sie auf Straßenhilfe warten mussten, um durch den Portland-Verkehr zu kommen und Ihren Tanktank wieder aufzufüllen
+1. Das liegt daran, dass Ihr Treibstoff auf 0 % gesunken ist und Sie auf die Pannenhilfe warten mussten, um durch den Portland-Verkehr zu kommen und wieder aufzutanken
 
-Eine solche Reise wäre offensichtlich miserabel, unvorhersehbar und gefährlich. Es ist keine Möglichkeit zu fahren. Sie benötigen kontinuierliche Informationen über Geschwindigkeit, zurückgelegte Entfernung und Kraftstoffspiegel, um laufend Änderungen an der Fahrweise vornehmen zu können. Zweifellos würde eine vernünftige Person das Karton vom Dashboard abreißen und regelmäßig überprüfen, was die Reisedauer verkürzt, das Risiko, dass es zu wenig Gas gibt, fast eliminiert und Sie bei der richtigen Geschwindigkeit bewegen würde, um ein schnelleres Ticket zu vermeiden.
+Eine solche Reise wäre offensichtlich schrecklich, unvorhersehbar und gefährlich. So kann man wirklich nicht fahren. Sie benötigen kontinuierliche Informationen über Geschwindigkeit, zurückgelegte Entfernung und Tankfüllstand, um laufend Änderungen an der Fahrweise vornehmen zu können. Zweifellos würde ein vernünftiger Mensch die Pappe vom Dashboard reißen und regelmäßig darauf sehen. Dies würde die Reisedauer verkürzen, das Risiko, den Tank leerzufahren, fast eliminieren, und auch eine Geschwindigkeitsübertretung ließe sich so einfach vermeiden.
 
-Warum also akzeptieren so viele Führungskräfte dies als vernünftigen Weg, ihre Websites und Apps zu betreiben?
+Warum also akzeptieren so viele Führungskräfte dies als vernünftigen Weg, um ihre Websites und Apps zu betreiben?
 
-Viele Führungskräfte haben keinen Zugriff auf laufende, relevante Informationen, die erforderlich sind, um rechtzeitig Maßnahmen zu ergreifen. Stattdessen erhalten sie einmal monatlich ein Deck mit Statistiken, die von Adobe Analytics in Excel exportiert, gechartert und dann in einen PowerPoint geploppt werden. Wenn Anfang des Monats ein Wendepunkt auftritt, werden sie erst Anfang des nächsten Monats davon erfahren, lange nachdem sie Fragen stellen oder Maßnahmen ergreifen können. Benutzerdefinierte Warnhinweise sind ebenfalls eine großartige Option, aber wir alle wissen, wie der E-Mail-Posteingang eines Exec aussieht.
+Viele Führungskräfte haben keinen Zugriff auf laufende, relevante Informationen, die erforderlich sind, um rechtzeitig Maßnahmen ergreifen zu können. Stattdessen erhalten sie einmal monatlich ein Deck mit Statistiken, die von Adobe Analytics in Excel exportiert, grafisch aufbereitet und dann in eine PowerPoint-Präsentation gesteckt werden. Wenn Anfang des Monats ein Wendepunkt auftritt, erfahren sie erst Anfang des nächsten Monats davon, lange, nachdem sie hätten Fragen stellen oder Maßnahmen ergreifen können. Benutzerdefinierte Warnhinweise sind ebenfalls eine großartige Option, aber wir alle wissen, wie der E-Mail-Posteingang einer Führungskraft aussieht.
 
-Sie wollen, dass Führungskräfte genügend Daten haben, um zu wissen, wann ihre Aufmerksamkeit sofort benötigt wird, und nicht so sehr, dass sie ihre Hände in Frustration stecken. Wenn Sie von einem Produkteigentümer oder Marketing-Manager zu einer Meldung gelangen, dass ein Exec von einer Anomalie erfahren möchte, treffen Sie auf den &quot;Guten Ort&quot;.
+Führungskräfte sollten genügend Daten haben, um zu wissen, wann ihre Aufmerksamkeit sofort benötigt wird, und nicht so viele, dass sie die Hände überm Kopf zusammenschlagen. Wenn Sie von einer oder einem Produktverantwortlichen oder einem Marketing-Manager die Nachricht erhalten, dass eine Führungskraft Fragen über eine Anomalie hat, dann ist die ideale Datenmenge gut getroffen. 
 
-Hier wird das Dashboard der ausführenden Zusammenfassung als glückliches Medium angezeigt. Wir wissen, dass die mobile Scorecard für einen schnellen Check-in für einen Ausflug auf dem Weg ist, aber ein Executive Summary Dashboard kann es für Führungskräfte leicht machen, etwas tiefer einzugraben, wenn sie sich an ihren Schreibtischen befinden. Die mobile Scorecard kann sie auf ein Problem aufmerksam machen, aber das Executive Summary Dashboard ermöglicht ihnen, dann genug zu verstehen, um die richtigen Fragen von den richtigen Personen zu stellen.
+Das zusammenfassende Dashboard schlägt diesen guten Mittelweg ein. Wir wissen, dass sich die mobile Scorecard gut für eine Führungskraft eignet, die gleich losmuss und noch einmal einen schnellen Blick auf die Daten werfen möchte. Ein „Executive Summary Dashboard“ kann es Führungskräften jedoch einfacher machen, einen genaueren Blick zu werfen, wenn sie an ihrem Schreibtisch sind. Die mobile Scorecard kann sie auf ein Problem aufmerksam machen, aber das Executive Summary Dashboard ermöglicht ihnen dann, genug zu verstehen, um den richtigen Leuten die richtigen Fragen stellen zu können.
 
-Die meisten Führungskräfte verfügen über etwa drei KPIs, mit denen sie sich sehr beschäftigen. Im Einzelhandel kann es sich um Bestellungen, Umsatz und AOV handeln. Für B2B: Leads, Lead-Qualität und Konversionsrate. Services können an Besuchen, Terminen und wiederkehrenden Besuchern interessiert sein. Was auch immer die drei sind, stecken Sie sie in große, fette Zahlen mit einer Jahresänderung und einer Grafik. Die Visualisierung der Schlüsselmetrik-Zusammenfassung macht dies so einfach:
+Die meisten Führungskräfte haben etwa drei KPIs, die ihnen sehr wichtig sind. Im Einzelhandel könnte dies Bestellungen, Umsatz und durchschnittlicher Bestellwert sein. Für B2B könnte dies Leads, Lead-Qualität und Konversionsrate sein. Services könnten an Besuchen, Terminen und wiederkehrenden Besuchern interessiert sein. Welche drei KPIs es auch sind: Schreiben Sie sie groß, mit fetten Zahlen, mit der Änderung im Jahresvergleich und einem Diagramm. Die Visualisierung der Schlüsselmetrik-Zusammenfassung macht dies so einfach:
 
-![In Bedienfeld zoomen](assets/zoom-in-panel.png)
+![Eingezoomtes Bedienfeld](assets/zoom-in-panel.png)
 
 Fügen Sie historische Daten für dieselben drei Metriken hinzu, damit sich langfristige Trends leicht erkennen lassen:
 
 ![line Graph.png](assets/line-graph.png)
 
-Fügen Sie in ein paar Dropdown-Listen für alles hinzu, was für Ihre Organisation wichtig ist. Ich finde, dass Gerätetyp und Marketing-Kanal normalerweise gute Wetten sind:
+Fügen Sie ein paar Dropdown-Listen für alles hinzu, was für Ihre Organisation wichtig ist. Ich finde, dass Gerätetyp und Marketing-Kanal normalerweise eine gute Wahl sind:
 
 ![Social Campaigns.png](assets/social-campaigns.png)
 
-Diese beiden sind insgesamt ziemlich wichtig, stellen aber wie immer sicher, dass das, was Sie auswählen, für Ihre Site oder App relevant ist.
+Diese beiden sind insgesamt ziemlich wichtig, doch Sie sollten in jedem Fall sicherstellen, dass das, was Sie auswählen, relevant für Ihre Site oder App ist.
 
-Fügen Sie abschließend einige Details hinzu. Ich finde, dass die Seitenleistung bei Führungskräften häufig beliebt ist, aber der Schlüssel ist, dass sie unter der Kante liegt. Sie können es suchen, wenn sie es wünschen, aber andernfalls verfügen sie über die Daten, die sie benötigen, um sofort Fragen zu stellen:
+Fügen Sie abschließend einige Details hinzu. Ich finde, dass die Seitenleistung bei Führungskräften häufig beliebt ist, aber der Schlüssel ist, dass sie unter dem Hauptaugenmerk liegt. Führungskräfte können sie einsehen, wenn sie es wünschen, doch ansonsten haben Sie die Daten, die sie benötigen, um sofort Fragen stellen zu können:
 
 ![Large Dashboard.png](assets/large-dashboard.png)
 
 Mit diesem fertigen Produkt müssen Sie nur:
 
-- Trainieren von Führungskräften beim Lesen
+- Ihre Führungskräfte darin schulen, wie es zu lesen ist
 
-- Trainieren der Filter
+- sie darin schulen, wie die Filter zu verwenden sind
 
-- Trainieren Sie sie mit einem einfachen Drilldown.
+- sie darin schulen, einen einfachen Drilldown durchzuführen
 
-- Holen Sie sich Kaffee und bereiten Sie sich vor, denn nachdem sie mit Daten ausgestattet sind, werden Führungskräfte Ihnen viele Fragen stellen
+- Holen Sie sich einen Kaffee und machen Sie sich bereit, denn wenn die Führungskräfte mit Daten präpariert sind, werden sie mit vielen Fragen zu Ihnen kommen
 
-Zusammenfassende Dashboards bieten fortlaufende, relevante Informationen für eine zeitnahe Entscheidungsfindung. Monatliche Decks mit Excel-Diagrammen sind unzureichend und die Bereitstellung zu detaillierter Daten kann Führungskräfte überfordern. Ein glückliches Medium besteht darin, sich auf die drei wichtigsten KPIs mit historischen Daten und Dropdown-Listen für relevante Faktoren zu konzentrieren. Durch die Schulung von Führungskräften in der Nutzung des Dashboards können sie fundierte Entscheidungen treffen und Fragen stellen. Die ausführlichen Zusammenfassungs-Dashboards können die Site- und App-Leistung verbessern und den Erfolg steigern.
+Halten wir fest: Zusammenfassende Dashboards bieten fortlaufende, relevante Informationen für eine zeitnahe Entscheidungsfindung. Monatliche Decks mit Excel-Diagrammen sind unzureichend, und zu viele granulare Daten können Führungskräfte überfordern. Ein guter Mittelweg besteht darin, sich auf die drei wichtigsten KPIs mit historischen Daten und Dropdown-Listen für relevante Faktoren zu konzentrieren. Indem Führungskräfte
+darin geschult werden, wie das Dashboard verwendet wird, können sie fundierte Entscheidungen treffen und Fragen stellen. Zusammenfassende Dashboards für Führungskräfte können die Site- und App-Leistung verbessern und den Erfolg voranbringen.
 
 ## Autor
 
@@ -78,6 +80,6 @@ Dieses Dokument wurde verfasst von:
 
 ![Gitai Ben-Ammi](assets/gitai-ben-ammi.png)
 
-**Gitai Ben-Ammi**, Hauptberater bei Concentrix Catalyst
+**Gitai Ben-Ammi**, Principal Consultant bei Concentrix Catalyst
 
 Adobe Analytics-Experte

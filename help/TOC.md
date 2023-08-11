@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -331,15 +331,15 @@ ht-degree: 98%
       + [Jetzt mal ein Segmentchen abwarten … Verwenden von Segmentierung, um neue Erkenntnisse zu erhalten](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berechnete Metriken {#calculated-metrics}
       + [Builder für berechnete Metriken – Übersicht](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Berechnete Metriken - Metriken ohne Implementierung](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [Berechnete Metriken - segmentierte Metriken](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Berechnete Metriken - Funktionen](components/calculated-metrics/calculated-metrics-functions.md)
-      + [Ungefähre Funktion zur Distinct Count in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Schnellberechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
-      + [Berechnete Metriken verwalten](components/calculated-metrics/manage-your-calculated-metrics.md)
+      + [Berechnete Metriken – implementierungslose Metriken](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [Berechnete Metriken – segmentierte Metriken](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Berechnete Metriken – Funktionen](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Funktion „Ungefährer Distinct Count“ in berechneten Metriken](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Schnelle berechnete Metriken in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Verwalten von berechneten Metriken](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [Attribution IQ in berechneten Metriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=de)
-      + [Dimensionen in berechneten Metriken verwenden](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Mit berechneten Metriken können Sie Ihre Datenanalyse auf die nächste Ebene bringen.](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Verwenden von Dimensionen in berechneten Metriken](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classifications {#classifications}
       + [Übersicht über Classifications](components/classifications/overview-of-classifications.md)
       + [Verwenden von Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)

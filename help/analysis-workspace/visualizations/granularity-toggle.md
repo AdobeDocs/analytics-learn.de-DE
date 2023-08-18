@@ -1,21 +1,23 @@
 ---
-title: Einstellen der Granularität in Analysis Workspace
-description: Die Einstellungen für die Trend-Visualisierung wurden um eine Granularitätsauswahl erweitert, mit der Sie die Granularität Ihrer Daten ganz einfach von einer Minute bis hin zu einem Jahr anpassen können. Mit der Einstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Tabelle nicht mehr ausblenden und manipulieren müssen.
+title: Festlegen der Granularität für Visualisierungen
+description: Für Trend-Visualisierungseinstellungen steht eine Granularitätsauswahl zur Verfügung, mit der Sie die Anzeige Ihrer Daten sehr einfach anpassen können.
 feature: Visualizations
 thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
-# Einstellen der [!UICONTROL Granularität] in Analysis Workspace {#granularity-toggle-in-analysis-workspace}
+# Festlegen der Granularität für Visualisierungen
 
-Die Einstellungen für die [!UICONTROL Trend-Visualisierung] wurden um eine [!UICONTROL Granularitätsauswahl] erweitert, mit der Sie die [!UICONTROL Granularität] Ihrer Daten ganz einfach von einer Minute bis hin zu einem Jahr anpassen können. Mit der Einstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Tabelle nicht mehr ausblenden und manipulieren müssen.
+Für Trend-Visualisierungseinstellungen steht eine Granularitätsauswahl zur Verfügung, mit der Sie die Anzeige Ihrer Daten sehr einfach anpassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+
+Mit der Granularitätseinstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Schritte zum Aufheben und Bearbeiten der Tabelle speichern können.

@@ -1,22 +1,22 @@
 ---
-title: Histogramm-Visualisierung in Analysis Workspace
-description: Histogramme ermöglichen es Ihnen, die Verteilung einer Metrik über Besucher, Besuche und jetzt auch über Treffer hinweg zu visualisieren, um Segmente mit hohem und niedrigem Wert zu finden.
+title: Histogrammvisualisierung in Analysis Workspace
+description: Histogramme ermöglichen es Ihnen, die Verteilung einer Metrik über Besucher, Besuche und Treffer hinweg zu visualisieren, um Segmente mit hohem und niedrigem Wert zu finden.
 feature: Visualizations
 thumbnail: 23725.jpg
 kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 26%
 
 ---
 
-# [!UICONTROL Histogramm]-[!UICONTROL Visualisierung] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
+# [!UICONTROL Histogramm] [!UICONTROL Visualisierung] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
-[!UICONTROL Histogramme] ermöglichen es Ihnen, die Verteilung einer [!UICONTROL Metrik] über Ihre Besucher, Besuche und jetzt auch über Treffer hinweg zu visualisieren, um [!UICONTROL Segmente] mit hohem und niedrigem Wert zu finden.
+[!UICONTROL Histogramme] ermöglichen es Ihnen, die Verteilung einer Metrik über Besucher, Besuche und Treffer hinweg zu visualisieren, um Segmente mit hohem und niedrigem Wert zu finden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 

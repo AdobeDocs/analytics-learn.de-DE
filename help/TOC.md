@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [Visualisierung mit horizontalen Säulendiagrammen](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Ringvisualisierung](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualisierung als Histogramm](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Entsperren von Einblicken mit Histogrammen](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Linienvisualisierung](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Kombinationsdiagramme](analysis-workspace/visualizations/combo-charts.md)
       + [Hinzufügen von Trendlinien zu Linienvisualisierungen](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [Streudiagramm-Visualisierung](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-Visualisierung](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisierung als Venn-Diagramm](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Verwendung der kumulativen Durchschnittsfunktion zur Anwendung der metrischen Ausgleichung](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Verwenden der Funktion Kumulativer Durchschnitt zum Anwenden der Metrikausgleichung](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexible Layouts](analysis-workspace/visualizations/flexible-layouts.md)
       + [Ändern der Skalierung/Achse bei Visualisierungen](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Live-Verknüpfung von Dimensions-Diagrammen](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Umschalten der Granularität](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Festlegen der Granularität für Visualisierungen](analysis-workspace/visualizations/granularity-toggle.md)
       + [Interne Verknüpfungen in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Neuanordnung und Größenanpassung von Visualisierungen](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassen der Legenden von Visualisierungen](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [Verwenden einer globalen Report Suite](administration/admin-tips/use-a-global-report-suite.md)
       + [Erstellen eines Projekts für Nachrichten und Ankündigungen](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Erstellen von operationellen Dashboards](administration/admin-tips/create-operational-dashboards.md)
    + Unternehmenseinstellungen {#company-settings}
       + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)

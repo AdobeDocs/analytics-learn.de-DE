@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Lassen Sie mich Sie durch die drei operativen Dashboards führen, die ich für m
 1. Fehler, Funktionen und wichtige Versionsprotokolle
 
 
-## 1 - FAQ-Dashboard*
+## 1 - FAQ-Dashboard
 
 Müde von der endlosen Schleife der sich wiederholenden Antworten? Stop! Sparen Sie Zeit, indem Sie ein FAQ-Dashboard erstellen. Benutzer können sie konsultieren, bevor sie fragen, oder Sie können in Ihren Antworten schnell darauf verlinken.
 

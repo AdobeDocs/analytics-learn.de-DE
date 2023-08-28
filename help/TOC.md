@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 99%
       + [Freiformtabellen-Filter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensionen für die Zeitunterteilung](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisierungen {#visualizations}
-      + [Datenvisualisierung in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Arten von Visualisierungen](analysis-workspace/visualizations/visualization-types.md)
+      + [Visualisierungstypen und -übersicht](analysis-workspace/visualizations/visualization-types.md)
       + [Anwendungsfälle für Visualisierungen](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Auswählen der zu visualisierenden Daten](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Datenvisualisierungs-Playbook](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Einbringen von Daten in Visualisierungen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Verwenden von Dropdown-Listen für Komponenten in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Verwenden von Komponenten-Dropdown-Listen in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisierungen mit Bereichen und gestapelten Bereichen](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualisierungen mit Balken und gestapelten Balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisierung mit horizontalen Säulendiagrammen](analysis-workspace/visualizations/bullet-graph-visualization.md)

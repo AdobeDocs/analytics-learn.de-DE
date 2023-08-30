@@ -141,7 +141,7 @@ ht-degree: 99%
       + [Ändern der Skalierung/Achse bei Visualisierungen](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Live-Verknüpfung von Dimensions-Diagrammen](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Festlegen der Granularität für Visualisierungen](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Link innerhalb oder außerhalb Ihres Projekts](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
+      + [Verknüpfen innerhalb oder außerhalb des Projekts](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [Anpassen der Legenden von Visualisierungen](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100 % gestapelte Visualisierungen](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)

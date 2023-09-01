@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -114,11 +114,11 @@ ht-degree: 99%
       + [Freiformtabellen-Filter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensionen für die Zeitunterteilung](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisierungen {#visualizations}
-      + [Visualisierungstypen und -übersicht](analysis-workspace/visualizations/visualization-types.md)
+      + [Visualisierungsarten und Übersicht](analysis-workspace/visualizations/visualization-types.md)
       + [Anwendungsfälle für Visualisierungen](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Datenvisualisierungs-Playbook](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Einbringen von Daten in Visualisierungen](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Verwenden von Komponenten-Dropdown-Listen in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Verwenden von Dropdown-Listen für Komponenten in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisierungen mit Bereichen und gestapelten Bereichen](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualisierungen mit Balken und gestapelten Balken](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisierung mit horizontalen Säulendiagrammen](analysis-workspace/visualizations/bullet-graph-visualization.md)

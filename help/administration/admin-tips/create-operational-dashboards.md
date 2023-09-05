@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
+source-git-commit: 15e9c1c1722cbf6476b8035540d1973aaf095f86
 workflow-type: ht
 source-wordcount: '1150'
 ht-degree: 100%
@@ -57,7 +57,7 @@ Sobald sich Ihre FAQs umfassend anfühlen, teilen Sie sie mit dem Unternehmen, d
 
 Im Folgenden finden Sie einige Screenshots dazu, wie ein FAQ-Dashboard aussehen kann:
 
-![Screenshot 1](assets/screenshot-1.png)
+![Screenshot 1](assets/screenshot-1_v2.png)
 
 ![Geringer Traffic – FAQ1](assets/low-traffic-faq.png)
 

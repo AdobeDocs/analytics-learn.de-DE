@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -310,21 +310,21 @@ ht-degree: 98%
       + [Verwendung von Best Practices beim Tracking von Einzelseitenanwendungen](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Komponenten {#components}
    + Segmentierung {#segmentation}
-      + [Übersicht über den Segment Builder](components/segmentation/segment-builder-overview.md)
+      + [Segment Builder – Überblick](components/segmentation/segment-builder-overview.md)
       + [Suchen und Erstellen von Segmenten](components/segmentation/finding-and-creating-segments.md)
       + [Rollierende Datumsbereiche in Segmenten](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentvergleich in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segment-Container](components/segmentation/segment-containers.md)
       + [Segmentverwaltung und -freigabe](components/segmentation/segment-management-and-sharing.md)
       + [Anwenden von Segmenten in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=de)
-      + [Segmente als Dimensionen verwenden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=de)
+      + [Verwenden von Segmenten als Dimensionen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=de)
       + [Verwenden von Segmenten zur Datenbegrenzung](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=de)
       + [Unterschiede zwischen Segment Builder und Schnellsegmenten](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Sequenzielle Segmentierung](components/segmentation/sequential-segmentation.md)
-      + [Vor/Nach-Sequenzen in der sequenziellen Segmentierung](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentierung nach unterschiedlichen Dimensionszahlen](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [Segmentierungsmodelle für Dimensionen](components/segmentation/dimension-models-in-segmentation.md)
-      + [Operator &quot;Entspricht einem von&quot;in der Segmentierung](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Vor-/Nach-Sequenzen in der sequenziellen Segmentierung](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [Segmentierung nach einzelnen Dimensionswerten](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [Dimensionsmodelle in der Segmentierung](components/segmentation/dimension-models-in-segmentation.md)
+      + [Operator „ist gleich eines von“ bei der Segmentierung](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider-Webinar – Strategien zur Kunden-Segmentierung](components/segmentation/customer-segmentation-strategies.md)
       + [Jetzt mal ein Segmentchen abwarten … Verwenden von Segmentierung, um neue Erkenntnisse zu erhalten](components/segmentation/segmentation-to-discover-new-insights.md)
    + Berechnete Metriken {#calculated-metrics}

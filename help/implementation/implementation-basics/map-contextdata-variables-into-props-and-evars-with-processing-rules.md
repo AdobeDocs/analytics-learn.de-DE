@@ -7,17 +7,21 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 57%
 
 ---
 
-# Zuordnen von [!DNL contextData]-Variablen zu [!DNL Props] und [!DNL Evars] mit [!UICONTROL Verarbeitungsregeln] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
+# Zuordnen von contextData-Variablen zu Props und eVars mit Verarbeitungsregeln {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-Wenn Sie in Ihrer Adobe Analytics-Implementierung [!DNL contextData]-Variablen verwenden, müssen Sie die [!DNL contextData]-Variablen in der Oberfläche für [!UICONTROL Verarbeitungsregeln] [!DNL props/eVars] zuordnen, damit Ihre Daten in den eigentlichen Berichten angezeigt werden. Dieses Video zeigt Ihnen, wie das geht.
+Wenn Sie in Ihrer Adobe Analytics-Implementierung [!DNL contextData]-Variablen verwenden, müssen Sie die [!DNL contextData]-Variablen in der Oberfläche für [!UICONTROL Verarbeitungsregeln] [!DNL props/eVars] zuordnen, damit Ihre Daten in den eigentlichen Berichten angezeigt werden. Dieses Video zeigt Ihnen, wie das geht. Eine ausführliche Dokumentation finden Sie unter [Übersicht über Verarbeitungsregeln](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html).
+
+>[!IMPORTANT]
+>
+>Dieser Artikel und dieses Video gelten für eine &quot;AppMeasurement&quot;-Implementierung von Adobe Analytics, wenn Sie keine Adobe Experience Platform-Tags (Tag-Manager) verwenden.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=de).

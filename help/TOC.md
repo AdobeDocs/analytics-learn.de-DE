@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+workflow-type: tm+mt
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -278,9 +278,9 @@ ht-degree: 100%
    + Implementierungsgrundlagen {#implementation-basics}
       + [Verstehen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de)
       + [Zuordnen von contextData-Variablen zu Props und eVars mit Verarbeitungsregeln](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Anleitung zum Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suites](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Erstellen und Verwalten einer SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Implementieren von Experience Cloud-Lösungen in Websites mit Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
       + [Grundlegende Konfiguration der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)

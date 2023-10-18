@@ -1,34 +1,20 @@
 ---
-title: Komponentenkuratierung in Virtual Report Suites
+title: Komponenten-Kuratierung in Virtual Report Suites
 description: Virtual Report Suites können so kuratiert werden, dass Dimensionen, Metriken und Segmente in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 43%
 
 ---
 
-# Komponentenkuratierung in [!UICONTROL Virtual Report Suites] {#component-curation-in-virtual-report-suites}
+# Komponenten-Kuratierung in Virtual Report Suites
 
-[!UICONTROL Virtual Report Suites] können so kuratiert werden, dass [!UICONTROL Dimensionen], [!UICONTROL Metriken] und [!UICONTROL Segmente] in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
+Virtual Report Suites können so kuratiert werden, dass sie [!UICONTROL Dimensionen], [!UICONTROL Metriken], und [!UICONTROL Segmente] in Analysis Workspace, was bei der Freigabe für andere Teams sehr hilfreich ist, da Sie nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden. Eine ausführliche Dokumentation finden Sie unter [Kuratierung von Virtual Report Suite-Komponenten](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
-
-Wenn die Komponentenanpassung aktiviert ist, ist die [!UICONTROL Virtual Report Suite] nur in Analysis Workspace zugänglich.
-
-Abschnitte in diesem Video:
-
-0:00 – Funktionsübersicht und Einrichtung
-
-4:05 – VRS in Analysis Workspace verwenden
-
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=de).

@@ -1,30 +1,20 @@
 ---
-title: Kontextbezogene Sitzungen in Virtual Report Suites
-description: Jetzt ist es möglich, die Definition eines Besuchs in Adobe Analytics nicht-destruktiv mithilfe einer Virtual Report Suite zu ändern. Wir zeigen Ihnen, wie Sie dies tun können und welche Optionen zur Verfügung stehen.
+title: Anpassen von Besuchen in Virtual Report Suites
+description: Es ist möglich, die Definition eines Besuchs in Adobe Analytics mithilfe einer Virtual Report Suite zerstörungsfrei zu ändern. In diesem Video werden diese und die verschiedenen verfügbaren Optionen gezeigt.
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1775
 role: User
 level: Intermediate
 exl-id: eccd24d8-ed55-49db-894c-ef31de891728
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
-# Kontextsnsitive Sitzung in [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
+# Anpassen von Besuchen in Virtual Report Suites
+
+Es ist möglich, die Definition eines Besuchs in Adobe Analytics mithilfe einer Virtual Report Suite zerstörungsfrei zu ändern. In diesem Video werden diese und die verschiedenen verfügbaren Optionen gezeigt. Eine ausführliche Dokumentation finden Sie unter [Kontextbezogene Sitzungen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
-
-Abschnitte in diesem Video:
-
-0:00 – Funktionsübersicht und Einrichtung
-
-2:45 – Verwenden von VRS in Analysis Workspace
-
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=de).

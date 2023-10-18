@@ -1,26 +1,20 @@
 ---
-title: Beginnen eines neuen Besuchs bei einem beliebigen Ereignis in Virtual Report Suites
-description: In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
+title: Neuen Besuch bei jedem Ereignis in Virtual Report Suites starten
+description: In diesem Video wird gezeigt, wie mithilfe von Ereignissen der Beginn eines neuen Besuchs in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Trigger wird.
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 0%
 
 ---
 
-# Beginnen eines neuen Besuchs bei einem beliebigen Ereignis in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Neuen Besuch bei jedem Ereignis in Virtual Report Suites starten
 
-In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer [!UICONTROL Virtual Report Suite] Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
+In diesem Video wird gezeigt, wie mithilfe von Ereignissen der Beginn eines neuen Besuchs in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Trigger wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
-
-Sie können den Kontext eines Besuchs in Adobe Analytics durch benutzerdefinierte Einstellungen für die maximale Wartezeit, das Ignorieren von Hintergrundtreffern oder das Auslösen eines neuen Besuchs beim Start des Programms neu definieren. Mit dieser Funktion erweitern wir diese Funktionen, um Ihnen zu ermöglichen, einen neuen Besuch bei einer beliebigen Ereigniskombination anstatt nur über einen Start des Programms auszulösen.

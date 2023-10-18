@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: ht
-source-wordcount: '2436'
-ht-degree: 100%
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+workflow-type: tm+mt
+source-wordcount: '2429'
+ht-degree: 99%
 
 ---
 
@@ -342,10 +342,10 @@ ht-degree: 100%
       + [Übersicht über Classifications](components/classifications/overview-of-classifications.md)
       + [Verwenden von Classification Rule Builder](components/classifications/using-the-classification-rule-builder.md)
    + Virtual Report Suites {#virtual-report-suites}
-      + [Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
-      + [Komponentenkuratierung in Virtual Report Suites](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [Kontextbezogene Sitzungen in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Beginnen eines neuen Besuchs bei einem beliebigen Ereignis in Virtual Report Suites](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Virtual Report Suites – Übersicht](components/virtual-report-suites/virtual-report-suites.md)
+      + [Komponentenkuratierung](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [Anpassen von Besuchen in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [Neuen Besuch bei jedem Ereignis starten](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Übersicht über Activity Map](components/activity-map/activity-map-overview.md)
       + [Aktivieren, Debuggen und Anpassen von Activity Map in Adobe Analytics](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)

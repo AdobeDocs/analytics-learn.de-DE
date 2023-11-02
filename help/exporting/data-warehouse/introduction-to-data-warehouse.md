@@ -1,22 +1,21 @@
 ---
-title: Einführung in Data Warehouse
-description: Das Tool für Data Warehouse-Anfragen in Adobe Analytics bietet Ihnen Zugriff auf die Abfrage der Rohdaten. Data Warehouse kann eine unbegrenzte Anzahl an Zeilen in einer einzigen Anfrage für einzelne terminierte und heruntergeladene Berichte verarbeiten. Dieses Video ist eine Einführung in das Tool und beinhaltet auch eine exemplarische Vorgehensweise bei der Erstellung eines Data Warehouse-Berichts.
+title: Einführung in den Data Warehouse-Export
+description: Erfahren Sie, wie Sie die Data Warehouse Reporting-Benutzeroberfläche sowie die Exportkonten und -speicherorte optimal nutzen können. In diesem Video wird der grundlegende Workflow eines Berichtversands an E-Mail und Amazon S3 behandelt.
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 7%
 
 ---
 
-# Einführung in [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Einführung in den Data Warehouse-Export
 
-Das Tool für [!UICONTROL Data Warehouse]-Anfragen in Adobe Analytics bietet Ihnen Zugriff auf die Abfrage der Rohdaten. [!UICONTROL Data Warehouse] kann eine unbegrenzte Anzahl an Zeilen in einer einzigen Anfrage für einzelne terminierte und heruntergeladene Berichte verarbeiten. Dieses Video bietet eine Einführung in das Tool und beinhaltet auch eine exemplarische Vorgehensweise bei der Erstellung eines [!UICONTROL Data Warehouse]-Berichts.
+Erfahren Sie, wie Sie die Data Warehouse Reporting-Benutzeroberfläche sowie die Exportkonten und -speicherorte optimal nutzen können. In diesem Video wird der grundlegende Workflow eines Berichtversands an E-Mail und Amazon S3 behandelt. Eine ausführliche Dokumentation finden Sie unter [Data Warehouse - Übersicht](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=de) und umliegenden Dokumenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

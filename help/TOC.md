@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 99%
    + Über die Benutzeroberfläche {#from-the-ui}
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Data Warehouse-Export](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Senden von Data Warehouse-Anfragen über SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Data Warehouse-Berichte in Tableau-Datenextraktion senden](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Data-Warehouse-Export](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Senden von Data-Warehouse-Anfragen über SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Senden von Data-Warehouse-Berichten im Tableau-Datenextraktions-Format](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Daten-Feeds {#data-feeds}
       + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
       + [Herunterladen des Authentifizierungsschlüssels für einen Daten-Feed](exporting/data-feeds/download-the-data-feed-authentication-key.md)

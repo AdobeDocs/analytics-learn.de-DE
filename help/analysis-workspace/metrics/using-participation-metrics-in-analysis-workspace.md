@@ -1,22 +1,22 @@
 ---
-title: Verwenden von Teilnahmemetriken in Analysis Workspace
-description: Verwenden Sie diesen einfachen Trick, um jederzeit eine beliebige Teilnahmemetrik in Analysis Workspace zu erhalten.
+title: Beitragsmetriken erstellen
+description: Erfahren Sie, wie Sie Beitragsmetriken erstellen und in verwenden können. [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
-# Verwenden von Teilnahmemetriken in Analysis Workspace
+# Beitragsmetriken erstellen
 
-Verwenden Sie diesen einfachen Trick, um jederzeit eine beliebige Teilnahmemetrik in Analysis Workspace zu erhalten.
+Erfahren Sie, wie Sie Beitragsmetriken erstellen und in verwenden können. [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 

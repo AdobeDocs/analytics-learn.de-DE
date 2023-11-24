@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2425'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -170,7 +170,7 @@ ht-degree: 99%
       + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Tschüss Excel, hallo berechnete Metriken](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensionen {#dimensions}
-      + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Hinzufügen von Dimensionen und Metriken zu einem Projekt](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Einführung in Traffic-Variablen (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Einführung in Konversionsvariablen (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Arbeiten mit Dimensionen in einer Freiformtabelle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=de)

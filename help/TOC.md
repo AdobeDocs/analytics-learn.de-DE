@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: ht
-source-wordcount: '2425'
-ht-degree: 100%
+source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+workflow-type: tm+mt
+source-wordcount: '2427'
+ht-degree: 99%
 
 ---
 
@@ -281,10 +281,10 @@ ht-degree: 100%
       + [Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Via Experience Platform Launch {#via-adobe-launch}
+   + Verwenden von Experience Platform-Tags {#via-adobe-launch}
       + [Implementieren von Experience Cloud-Lösungen in Websites mit Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
       + [Grundlegende Konfiguration der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Konfigurieren der Bibliotheksverwaltung für Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Bibliotheksverwaltung für die Analytics-Erweiterung konfigurieren](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Konfigurieren von allgemeinen Einstellungen in der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Konfigurieren von globalen Variablen in der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurieren der Cookie-Einstellungen in der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)

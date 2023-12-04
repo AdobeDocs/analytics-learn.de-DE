@@ -1,24 +1,20 @@
 ---
-title: Grundlegende Konfiguration der Launch-Erweiterung für Analytics
-description: In diesem Video wird gezeigt, wie Sie die Analytics-Erweiterung in Launch für eine einfache Site schnell konfigurieren können.
+title: Grundlegende Konfiguration der Analytics-Erweiterung in Experience Platform-Tags
+description: In diesem Video wird eine schnelle Konfiguration der Analytics-Erweiterung in Experience Platform-Tags für eine einfache Site gezeigt.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3586
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Grundlegende Konfiguration der [!DNL Experience Platform Launch]-Erweiterung für Analytics
+# Grundlegende Konfiguration der Analytics-Erweiterung in Experience Platform-Tags
 
-In diesem Video wird gezeigt, wie Sie die [!DNL Analytics]-Erweiterung in [!DNL Experience Platform Launch] für eine einfache Site schnell konfigurieren können.
+In diesem Video wird eine schnelle Konfiguration der Analytics-Erweiterung in Experience Platform-Tags für eine einfache Site gezeigt. Eine ausführliche Dokumentation finden Sie unter [Übersicht über die Adobe Analytics-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

@@ -286,7 +286,7 @@ ht-degree: 99%
       + [Implementieren von Experience Cloud-Lösungen in Websites mit Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
       + [Grundlegende Konfiguration der Analytics-Erweiterung](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Konfigurieren der Bibliotheksverwaltung für die Analytics-Erweiterung](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Allgemeine Einstellungen für die Analytics-Erweiterung konfigurieren](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Konfigurieren von allgemeinen Einstellungen für die Analytics-Erweiterung](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Konfigurieren von globalen Variablen in der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurieren der Cookie-Einstellungen in der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Verwenden von benutzerspezifischem Code beim Konfigurieren der Launch-Erweiterung für Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)

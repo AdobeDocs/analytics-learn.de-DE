@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2264'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -231,7 +231,7 @@ ht-degree: 99%
       + [Stellen Sie die richtigen Fragen?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Tipps und Best Practices für Admins {#admin-tips}
       + [Herunterladen des Playbooks für Implementierungen](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [Datenwörterbuch überprüfen](administration/admin-tips/audit-your-data-dictionary.md)
+      + [Überprüfen Ihres Datenwörterbuchs](administration/admin-tips/audit-your-data-dictionary.md)
       + [Erstellen standardisierter Benennungskonventionen](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Erstellen standardisierter Code-Vorlagen](administration/admin-tips/create-standardized-code-templates.md)
       + [Erstellen grundlegender Videos und Schulungen](administration/admin-tips/create-basic-videos-and-training.md)

@@ -1,24 +1,20 @@
 ---
-title: Konfigurieren von globalen Variablen in der Launch-Erweiterung für Analytics
-description: Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics-Erweiterung beginnen, kann dieses Video Ihnen dabei helfen zu verstehen, wann und wo globale Variablen festgelegt werden sollen, d. h. Werte, die für jede Seite oder jeden Klick festgelegt werden sollen.
+title: Globale Variableneinstellungen für die Analytics-Erweiterung konfigurieren
+description: Erfahren Sie, wie Sie die globalen Variableneinstellungen in der Analytics-Tag-Erweiterung für eine einfache Website konfigurieren.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2855
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: a7c86bd13b48e2549fe64240397514b84c77b3be
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Konfigurieren von [!UICONTROL globalen Variablen] in der [!DNL Launch Analytics]-[!UICONTROL Erweiterung] {#configuring-global-variables-in-the-launch-analytics-extension}
+# Globale Variableneinstellungen für die Analytics-Erweiterung in Experience Platform-Tags konfigurieren {#configuring-global-variables-in-the-launch-analytics-extension}
 
-Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics-[!UICONTROL Erweiterung] beginnen, kann dieses Video Ihnen dabei helfen zu verstehen, wann und wo [!UICONTROL globale Variablen] festgelegt werden sollen, d. h. Werte, die für jede Seite oder jeden Klick festgelegt werden sollen.
+Erfahren Sie, wie Sie die globalen Variableneinstellungen in der Analytics-Tag-Erweiterung für eine einfache Website konfigurieren. Eine ausführliche Dokumentation finden Sie unter [Übersicht über die Adobe Analytics-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html?lang=de){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)

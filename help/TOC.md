@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 98%
    + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
       + [Wechsel von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
-      + [Analytics-Zyklus verstehen](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [So werden Analytics-Daten erfasst](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [Erfassung von Analytics-Daten](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Anmelden bei Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Report Suites verstehen und erstellen](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Grundlegende Besuchermetriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=de)
+      + [Verstehen und Erstellen von Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Verstehen von grundlegenden Besuchermetriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=de)
       + [Einführung in Traffic-Variablen (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=de)
       + [Einführung in Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=de)
       + [Einführung in Konversionsereignisse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=de)

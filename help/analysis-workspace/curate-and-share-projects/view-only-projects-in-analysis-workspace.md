@@ -1,6 +1,6 @@
 ---
-title: Schreibgeschützte Projekte in Analysis Workspace
-description: Workspace-Projekte können Benutzern nur als "Kann anzeigen"freigegeben werden. Wenn ein Empfänger mit der Rolle „Anzeigen“ das freigegebene Projekt öffnet, hat er ein eingeschränktes Projekterlebnis ohne linke Leiste und mit beschränkten Interaktionen.
+title: Ein schreibgeschütztes Projekt in Analysis Workspace freigeben
+description: Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzer freigeben können, und lernen Sie die für diese Berechtigungsebene verfügbaren Funktionen kennen.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Schreibgeschützte Projekte in Analysis Workspace
+# Ein schreibgeschütztes Projekt in Analysis Workspace freigeben
 
-Workspace-Projekte können Benutzern nur als &quot;Kann anzeigen&quot;freigegeben werden. Wenn ein Empfänger mit der Rolle „Anzeigen“ das freigegebene Projekt öffnet, hat er ein eingeschränktes Projekterlebnis ohne linke Leiste und mit beschränkten Interaktionen.
+Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzer freigeben können, und lernen Sie die für diese Berechtigungsebene verfügbaren Funktionen kennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 

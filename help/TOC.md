@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -180,7 +180,7 @@ ht-degree: 98%
       + [Datumsvergleiche in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Kuratieren und Freigeben von Projekten {#curate-and-share-projects}
-      + [Speichern, Freigeben und Zusammenarbeiten an Projekten](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Speichern und Freigeben von Projekten und Zusammenarbeiten an Projekten](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Kuratieren und Freigeben von Projekten](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direkter Link zu einem Projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Für alle freigeben](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
@@ -188,7 +188,7 @@ ht-degree: 98%
       + [Exportieren in CSV und PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Schreibgeschützte Projekte freigeben](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Entsperren Sie die Macht der &quot;Nur Ansicht&quot;-Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Entfesseln der Möglichkeiten der schreibgeschützten Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Verwenden von registerkartenübergreifenden Analysen zur Erforschung der grundlegenden Marketing-Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Hinzufügen von nebeneinander angezeigten Vergleichen von Attribution IQ-Modellen](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)

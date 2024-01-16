@@ -1,24 +1,25 @@
 ---
-title: Verwenden von benutzerspezifischem Code beim Konfigurieren der Launch-Erweiterung für Analytics
-description: Wenn Sie gerade erst mit Experience Platform Launch und der Adobe Analytics-Erweiterung beginnen, kann Ihnen dieses Video helfen, die Fensteroptionen für benutzerdefinierten Code, den Ausführungszeitpunkt von Code usw. zu verstehen.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Verwenden Sie benutzerdefinierten Code in der Adobe Analytics-Erweiterung in [!DNL Tags]
+description: Erfahren Sie mehr über Anwendungsfälle und technische Überlegungen zur Verwendung des benutzerdefinierten Code-Editors bei der Konfiguration der Adobe Analytics-Erweiterung in [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
-# Verwenden von benutzerspezifischem Code beim Konfigurieren der [!DNL Launch]-Erweiterung für [!DNL Analytics] {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Verwenden Sie benutzerdefinierten Code in der Adobe Analytics-Erweiterung in [!DNL Tags]
 
-Wenn Sie gerade erst mit Adobe Experience Platform Launch und der [!UICONTROL -Erweiterung] für Adobe Analytics beginnen, kann Ihnen dieses Video helfen, die Fensteroptionen für benutzerdefinierten Code, den Ausführungszeitpunkt von Code usw. zu verstehen.
+Erfahren Sie mehr über Anwendungsfälle und technische Überlegungen zur Verwendung des benutzerdefinierten Code-Editors bei der Konfiguration der Adobe Analytics-Erweiterung in [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Überprüfen Sie die [Dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=de) Weitere Informationen zu <i>doPlugins-Funktion</i> in diesem Video referenziert.

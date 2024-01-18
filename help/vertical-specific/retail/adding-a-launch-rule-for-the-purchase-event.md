@@ -1,20 +1,25 @@
 ---
-title: Hinzufügen einer Launch-Regel für das Kaufereignis
-description: In diesem Video wird gezeigt, wie Sie mithilfe der Produktzeichenfolgenerweiterung in Launch Käufe auf Ihrer Site verfolgen können, was in Ihrer Analyse zu Metriken Umsatz, Bestellungen und Einheiten führt.
-feature: Launch Implementation
+title: Hinzufügen einer Regel für das Kaufereignis in der Experience Platform [!DNL tags]
+description: In diesem Video wird gezeigt, wie die Produktzeichenerweiterung in [!DNL tags] , um Käufe auf Ihrer Site zu verfolgen, was zu den Metriken Umsatz, Bestellungen und Einheiten in Ihrer Analyse führt.
+feature: Tags
+topics: Development
 kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 35%
 
 ---
 
-# Hinzufügen einer [!DNL Launch]-[!UICONTROL Regel] für das [!DNL Purchase]-Ereignis
+# Hinzufügen einer Regel für das Kaufereignis in der Experience Platform [!DNL tags]
 
 In diesem Video wird gezeigt, wie Sie mithilfe der [!UICONTROL Produktzeichenfolgenerweiterung] in [!DNL Experience Platform Launch] Käufe auf Ihrer Site verfolgen können, was in Ihrer Analyse zu [!UICONTROL Metriken] [!UICONTROL Umsatz], [!UICONTROL Bestellungen] und [!UICONTROL Einheiten] führt.
+
+>[!NOTE]
+>
+> Launch ist jetzt **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

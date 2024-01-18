@@ -187,7 +187,7 @@ ht-degree: 94%
       + [Herunterladen von 50.000 Objekten als CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportieren in CSV und PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Schreibgeschützte Projekte freigeben](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Freigeben von schreibgeschützten Projekten](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [Entfesseln der Möglichkeiten der schreibgeschützten Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Verwenden von registerkartenübergreifenden Analysen zur Erforschung der grundlegenden Marketing-Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)

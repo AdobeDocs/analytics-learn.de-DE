@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
 source-wordcount: '2192'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -290,7 +290,7 @@ ht-degree: 100%
       + [Hinzufügen von Implementierungs-Plug-ins](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
       + [Verwenden von doPlugins in der Adobe Analytics-Erweiterung](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Konfigurieren eines einfachen Downloadlink-Trackings](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Konfigurieren eines einfachen Exitlink-Trackings](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [einfachen Tracking von Exitlinks konfigurieren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Vorbereiten von Tags für Ihre Analytics-Implementierung](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Erstellen von Datenelementen für die Analytics-Implementierung](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Erstellen einer globalen Seitenladeregel](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)

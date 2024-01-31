@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen von Implementierungs-Plug-ins in [!DNL tags]
-description: Implementierungs-Plug-ins sind JavaScript-Funktionen, die Sie zu Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo der Code hinzugefügt werden soll in [!DNL tags].
+description: Implementierungs-Plug-ins sind JavaScript-Funktionen, die Sie zu Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo Sie den Code in  [!DNL tags] hinzufügen können.
 feature: Tags
 topics: Development
 thumbnail: 28772.jpg
@@ -9,15 +9,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ffc3863c-4875-4502-a572-b344a5ec34dc
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Hinzufügen von Implementierungs-Plug-ins in [!DNL tags]
 
-Implementierungs-Plug-ins sind JavaScript-Funktionen, die Sie zu Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo der Code hinzugefügt werden soll in [!DNL tags].
+Implementierungs-Plug-ins sind JavaScript-Funktionen, die Sie zu Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo Sie den Code in [!DNL tags] hinzufügen können.
 
 >[!NOTE]
 >

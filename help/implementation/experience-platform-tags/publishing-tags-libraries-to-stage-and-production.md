@@ -1,6 +1,6 @@
 ---
-title: Experience Platform veröffentlichen [!DNL tags] Bibliotheken für die Staging- und Produktionsumgebung
-description: Erfahren Sie, wie Sie Ihre [!DNL tags] Entwicklungs-Code in eine Staging-Umgebung für Testzwecke. Nachdem der Test abgeschlossen ist, erstellen Sie ihn in Ihrer Produktionsumgebung. Dieses Video zeigt diesen Prozess.
+title: Veröffentlichen von Experience Platform [!DNL tags] -Bibliotheken für Staging und Produktion
+description: Erfahren Sie, wie Sie Ihren [!DNL tags] Entwicklungs-Code für eine Staging-Umgebung zu Testzwecken erstellen. Erstellen Sie ihn nach Abschluss der Tests entsprechend Ihrer Produktionsumgebung. Dieses Video zeigt die Vorgehensweise.
 feature: Tags
 topics: Development
 kt: 3595
@@ -8,15 +8,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Experience Platform veröffentlichen [!DNL tags] Bibliotheken für die Staging- und Produktionsumgebung
+# Veröffentlichen von Experience Platform [!DNL tags]-Bibliotheken für Staging und Produktion
 
-Erfahren Sie, wie Sie Ihre [!DNL tags] Entwicklungs-Code in eine Staging-Umgebung für Testzwecke. Nachdem der Test abgeschlossen ist, erstellen Sie ihn in Ihrer Produktionsumgebung. Dieses Video zeigt diesen Prozess.
+Erfahren Sie, wie Sie Ihren [!DNL tags]-Entwicklungs-Code für eine Staging-Umgebung zu Testzwecken erstellen. Erstellen Sie ihn nach Abschluss der Tests entsprechend Ihrer Produktionsumgebung. Dieses Video zeigt die Vorgehensweise.
 
 >[!NOTE]
 >

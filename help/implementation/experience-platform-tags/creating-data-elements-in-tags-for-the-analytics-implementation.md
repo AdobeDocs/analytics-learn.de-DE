@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Datenelementen in Experience Platform [!DNL tags] für die Analytics-Implementierung
-description: In diesem Video wird gezeigt, wie Sie Datenelemente für Ihre Analytics-Implementierung in [!DNL tags] basierend auf den Variablen und Ereignissen, die in einem Dokument zur Lösungsdesign-Referenz (Solution Design Reference, SDR) dokumentiert sind.
+description: In diesem Video erfahren Sie, wie Sie anhand der in einem SDR-Dokument (Solution Design Reference) erstellten Variablen und Ereignisse in [!DNL tags] Datenelemente für Ihre Analytics-Implementierung erstellen.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 >
 > Launch ist jetzt **[!DNL tags]**
 
-In diesem Video wird gezeigt, wie Sie Datenelemente für Ihre Analytics-Implementierung in [!DNL tags] basierend auf den Variablen und Ereignissen, die in einem Dokument zur Lösungsdesign-Referenz (Solution Design Reference, SDR) dokumentiert sind.
+In diesem Video erfahren Sie, wie Sie anhand der in einem SDR-Dokument (Solution Design Reference) erstellten Variablen und Ereignisse Datenelemente für Ihre Analytics-Implementierung in [!DNL tags] erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)

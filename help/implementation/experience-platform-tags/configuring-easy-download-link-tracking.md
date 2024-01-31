@@ -13,14 +13,14 @@ exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 70%
 
 ---
 
-# Einfaches Tracking von Downloadlinks in Experience Platform konfigurieren [!DNL tags]
+# Konfigurieren des einfachen Downloadlink-Trackings in Experience Platform[!DNL tags]
 
-Sie können mit dem Tracking von Downloadlinks auf Ihrer Site (Links, über die Nicht-Browser-Dateien auf Ihren Computer heruntergeladen werden) mit nur wenigen Klicks in der Adobe Analytics-Erweiterung in Experience Platform beginnen. [!DNL tags].
+Mit der Adobe Analytics-Erweiterung in Experience Platform [!DNL tags] können Sie mit wenigen Klicks mit der Verfolgung der Download-Links auf Ihrer Site (Links, die Nicht-Browser-Dateien auf Ihren Rechner herunterladen) beginnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
-Ob es sich um Whitepapers, Handbücher, Audio- oder Videodateien oder eine Vielzahl anderer Möglichkeiten handelt, Sie können Links auf Ihrer Site haben, um Dateien herunterzuladen, die nicht in einem Browser geöffnet sind. Bei diesen Dateien können Sie Folgendes nicht [!DNL Analytics] -Code auf der Seite zur Verfolgung. Mit der im Video erläuterten Konfiguration können Sie den Link zur Download-Datei verfolgen.
+Egal ob Whitepapers, Handbücher, Audio- oder Videodateien oder eine Vielzahl anderer Möglichkeiten: Möglicherweise werden über einige Links auf Ihrer Site Dateien heruntergeladen, die nicht in einem Browser geöffnet werden. Bei diesen Dateien darf die Seite keinen [!DNL Analytics]-Code zum Tracking enthalten. Mit der im Video erläuterten Konfiguration können Sie den Link zur Download-Datei verfolgen.

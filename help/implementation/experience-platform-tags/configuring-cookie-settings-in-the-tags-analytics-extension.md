@@ -1,6 +1,6 @@
 ---
-title: Cookie-Einstellungen in der [!DNL tags] Analytics-Erweiterung
-description: Wenn Sie gerade erst anfangen [!DNL tags] und der Adobe Analytics-Erweiterung können Sie in diesem Video nachvollziehen, wann und wie die Cookie-Einstellungen in der Analytics-Erweiterung festgelegt werden.
+title: Konfigurieren der Cookie-Einstellungen in der [!DNL tags] Analytics-Erweiterung
+description: Wenn Sie [!DNL tags] und die Adobe Analytics-Erweiterung erst seit Kurzem nutzen, erfahren Sie in diesem Video, wie und wann Sie die Cookie-Einstellungen in der Analytics-Erweiterung konfigurieren können.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,15 +11,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
 source-git-commit: f671c6edfde800ebc6d3dd0aebfeab57299814e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Cookie-Einstellungen in der [!DNL tags] Analytics-Erweiterung
+# Konfigurieren der Cookie-Einstellungen in der [!DNL tags] Analytics-Erweiterung
 
-Wenn Sie gerade erst anfangen [!DNL tags] und der Adobe Analytics-Erweiterung können Sie in diesem Video nachvollziehen, wann und wie die Cookie-Einstellungen in der Analytics-Erweiterung festgelegt werden.
+Wenn Sie [!DNL tags] und die Adobe Analytics-Erweiterung erst seit Kurzem nutzen, erfahren Sie in diesem Video, wie und wann Sie die Cookie-Einstellungen in der Analytics-Erweiterung konfigurieren können.
 
 >[!NOTE]
 >

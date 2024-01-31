@@ -1,6 +1,6 @@
 ---
 title: Verwenden von doPlugins in der Adobe Analytics-Erweiterung
-description: Erfahren Sie, wie Sie Analytics-Plug-ins und die doPlugins-Funktion in der Analytics-Erweiterung unter Experience Platform verwenden. [!DNL tags]. Plug-ins erweitern die Funktionen Ihres Codes durch die Bereitstellung spezieller Funktionen.
+description: Erfahren Sie, wie Sie Analytics-Plug-ins und die doPlugins-Funktion in der Analytics-Erweiterung in Experience Platform [!DNL tags] verwenden. Plug-ins erweitern die Funktionen Ihres Codes durch die Bereitstellung spezieller Funktionen.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,15 +11,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Verwenden von doPlugins in der Adobe Analytics-Erweiterung
 
-Erfahren Sie, wie Sie Analytics-Plug-ins und die doPlugins-Funktion in der Analytics-Erweiterung unter Experience Platform verwenden. [!DNL tags]. Plug-ins erweitern die Funktionen Ihres Codes durch die Bereitstellung spezieller Funktionen.
+Erfahren Sie, wie Sie Analytics-Plug-ins und die doPlugins-Funktion in der Analytics-Erweiterung in Experience Platform [!DNL tags] verwenden. Plug-ins erweitern die Funktionen Ihres Codes durch die Bereitstellung spezieller Funktionen.
 
 >[!NOTE]
 >

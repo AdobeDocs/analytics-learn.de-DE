@@ -1,20 +1,26 @@
 ---
 title: Verstehen von grundlegenden Besuchermetriken
-description: Seitenansichten, Besuche und Besucher. In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
+description: Erfahren Sie mehr über Seitenansichten, Besuche und Besucher in Adobe Analytics. Hier erhalten Sie Einblicke in die grundlegenden Besuchermetriken, die Ihnen beim Verständnis des Website-Traffics helfen.
 feature: Metrics
 kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 4edc6b256cf437bc4eb4aefc95a3ee8e16f16322
+source-git-commit: 5ca8c7350ccda400ebdc52d161b5a6afe69fb333
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 81%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
 # Verstehen von grundlegenden Besuchermetriken
 
-[!UICONTROL Seitenansichten], [!UICONTROL Besuche]und [!UICONTROL Besucher]. In diesem kurzen Video erhalten Sie grundlegende Informationen zum Verständnis dieser zentralen Kennzahlen, um den Website-Traffic zu verstehen.
+Informationen zu [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de), und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
+
+* Hier erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren mehr über deren Ähnlichkeiten und Unterschiede.
+
+* Lernen Sie die verschiedenen Begriffe (Synonyme oder Keywords) kennen, die mit Besuchermetriken und Website-Traffic verknüpft sind.
+
+* Beispiel anzeigen [!UICONTROL Arbeitsbereich] -Projekt, das zeigt, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

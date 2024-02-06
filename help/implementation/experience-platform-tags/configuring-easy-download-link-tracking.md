@@ -1,6 +1,6 @@
 ---
-title: Einfaches Tracking von Downloadlinks in Experience Platform-Tags konfigurieren
-description: Sie können mit dem Tracking von Downloadlinks auf Ihrer Site (Links, über die Nicht-Browser-Dateien auf Ihren Computer heruntergeladen werden) mit nur wenigen Klicks in der Adobe Analytics-Erweiterung in Experience Platform-Tags beginnen.
+title: Konfigurieren des einfachen Downloadlink-Trackings in Experience Platform-Tags
+description: Mit der Adobe Analytics-Erweiterung in Experience Platform-Tags können Sie mit wenigen Klicks mit der Verfolgung der Download-Links auf Ihrer Site (Links, die Nicht-Browser-Dateien auf Ihren Rechner herunterladen) beginnen.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 

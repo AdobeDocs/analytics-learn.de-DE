@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Experience Platform-Tagregeln für spezielle Seiten
+title: Erstellen von Regeln für Experience Platform-Tags für spezielle Seiten
 description: Zusätzlich zu den Daten, die auf jeder Seite erfasst werden, müssen auf speziellen Daten weitere Daten erfasst werden. In diesem Video erfahren Sie, wie Sie diese Daten mit den Daten aller Seiten zusammenführen und an Adobe Analytics senden.
 feature: Tags
 topics: Development
@@ -8,9 +8,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
 source-git-commit: f543c17c01e3aa3c799b4870d69aef6e84c409f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

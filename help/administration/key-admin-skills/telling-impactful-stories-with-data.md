@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -27,14 +27,14 @@ Evaluieren Sie zunächst die aktuelle Situation und definieren Sie das Problem o
 
 ## Erklären Sie anhand von Daten
 
-Nachdem Sie die Situation umrissen haben, verwenden Sie Daten, um die Ursache des Problems/der Chance zu offenbaren. Konzentrieren Sie sich auf die Ergebnisse und Faktoren, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung des Lösungswegs.  Stellen Sie ansprechende Visualisierungen zur Verfügung, mit denen die Beziehung Ihrer abhängigen und unabhängigen Faktoren dargestellt werden kann, halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
+Nachdem Sie die Situation gerahmt haben, verwenden Sie Daten, um die Quelle des Problems/der Gelegenheit anzuzeigen. Konzentrieren Sie sich auf die Ergebnisse und Faktoren, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung des Lösungswegs.  Stellen Sie ansprechende Visualisierungen zur Verfügung, mit denen die Beziehung Ihrer abhängigen und unabhängigen Faktoren dargestellt werden kann, halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
 
-**Tipp für Adobe Workspace:**
-Erstellen Sie einfache, leicht verständliche Visualisierungen, die der Art von Daten entsprechen, über die Sie berichten:
+**Adobe Workspace-Tipp:**
+Erstellen Sie einfache, einfach zu lesende Visualisierungen, die dem Datentyp entsprechen, den Sie freigeben:
 
 * Verwenden Sie Balkendiagramme für kategorische und binäre Daten.
 * Verwenden Sie Liniendiagramme für numerische Daten (oder ein Blasendiagramm außerhalb von Adobe).
-* Verwenden Sie Streudiagramme zur Darstellung statistischer Beziehungen.
+* Verwenden Sie Streudiagramme zum Nachweis statistischer Beziehungen
 
 ## Bieten Sie eine Lösung an
 

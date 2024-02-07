@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 3%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # Grundlagen zum Adobe Analytics-Attributionsbedienfeld und zu Lookback-Fenstern
 
@@ -26,7 +26,7 @@ Ich gebe zu, dass **Attributionsbedienfeld** ist ein ziemlich komplexes Werkzeug
 
 Warum sollten wir es zulassen, dass so etwas wie eine kleine Angst so erstaunlichen, ausgeklügelten und mächtigen Werkzeugen wie diesen, die es uns buchstäblich erlauben, auszusehen *backward* in der Zeit, jeden einzelnen Tag?
 
-Schließlich - das ist TIME REISE, Leute!!  Wir sind alle über solche Sachen.  Richtig???!!
+Schließlich - das ist TIME REISE, Leute!!  Wir sind alle über solche Sachen.  Richtig??!!
 
 Worauf warten wir also - ein glänzendes Metallauto, eine Polizeikiste oder ein altes Telefonkabine, das die Verkabelung eines alten Regenschirms als Antenne verwendet, um sich vor unserer Haustür zu zeigen?
 
@@ -39,7 +39,7 @@ Nun, da wir uns alle über Zeitreisen freuen, lassen Sie uns tief atmen, ein wen
 
 ![Attribution](assets/attribution.png)
 
-*Abbildung 1: Inline-Anzeige von Zahlen mit Text weiter unten*
+*Abbildung 1: Die angezeigten Zahlen sind mit dem unten stehenden Text inline*
 
 In **Attribution** berücksichtigen Sie einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einer beliebigen Anzahl von verschiedenen Ereignissen über einen bestimmten Zeitraum verursacht werden können.
 
@@ -48,7 +48,7 @@ Gemäß [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using
 
 >[!WARNING]
 >
->Kurze Bemerkung: **Attributionsmodelle** sind so häufig mit **Marketing-Kanäle** dass ich *durchkreuzt* ❷ KANAL in der Abbildung oben, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit den meisten anderen ***Dimension***.
+>**Attributionsmodelle** sind so häufig mit **Marketing-Kanäle** dass ich *durchkreuzt* ❷ KANAL in der Abbildung oben, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit den meisten anderen ***Dimension***.
 
 
 In der Tat ist selten eine Journey wirklich linear und sogar noch seltener vorhersehbar.  Darüber hinaus geht jeder Kunde in seinem eigenen Tempo vor. Oft kann er sich verdoppeln, anhalten, abbrechen oder sich in einem anderen nicht linearen Verhalten engagieren. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketingmaßnahmen auf die Journey zu kennen. Außerdem werden die Bemühungen zur Verknüpfung mehrerer Datenkanäle behindert.
@@ -85,7 +85,7 @@ Im Folgenden finden Sie einige Beispiele dafür, wie die ❸ **Attributionsmodel
 
 - **Benutzerdefiniert**: Sie wählen aus und wählen aus, wem ein Guthaben gutgeschrieben wird.  Das ist deine Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie unter [Klicken Sie hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie unter [Klicken Sie hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Um das noch interessanter zu machen, lassen Sie uns darüber reden, die Uhr zurückzudrehen!
 
@@ -93,7 +93,7 @@ Um das noch interessanter zu machen, lassen Sie uns darüber reden, die Uhr zur�
 
 Jetzt ist es an der Zeit, Ihre Meinung auf die nächste Stufe zu bringen.  Hier fügen wir buchstäblich das Element Zeitreise zu unserer Analyse hinzu - und wieder beginnen wir mit den Grundlagen.
 
-***Adobe*** definiert ❹ **Lookback-Fenster** als &quot;die Zeit, die eine Konversion zurückblicken sollte, um Touchpoints aufzunehmen. Attributionsmodelle, die der ersten Interaktion mehr Gewicht zuschreiben, sehen bei der Anzeige verschiedener Lookback-Fenster größere Unterschiede.&quot;
+***Adobe*** definiert ❹ **Lookback-Fenster** als &quot;die Zeit, die eine Konversion zurückblicken sollte, um Touchpoints aufzunehmen. Attributionsmodelle, die der ersten Interaktion mehr Gewicht verleihen, sehen bei der Anzeige verschiedener Lookback-Fenster größere Unterschiede.&quot;
 
 
 Mit anderen Worten: **Lookback-Fenster** den Zeitraum festlegen, in dem *Konversionen* berücksichtigt werden und *context* zur Attributionsanalyse. ***Adobe Analytics*** bietet drei Arten von **Lookback-Fenster**:
@@ -131,4 +131,4 @@ Dieses Dokument wurde verfasst von:
 
 **Jeff Bloomer**, Manager, Digital Analytics bei Kroger Personal Finance
 
-Adobe Analytics-Experte
+Adobe Analytics-Expertin

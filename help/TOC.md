@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2187'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -288,8 +288,8 @@ ht-degree: 99%
       + [Verwenden benutzerdefinierter Codes in der Analytics-Erweiterung](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Verwenden einer Datenebene zum Festlegen von Variablen](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Verwenden von doPlugins und Implementierungs-Plug-ins](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
-      + [Konfigurieren eines einfachen Downloadlink-Trackings](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [einfachen Tracking von Exitlinks konfigurieren](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Konfigurieren eines einfachen Download-Linktrackings](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [Konfigurieren eines einfachen Exitlink-Trackings](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Vorbereiten von Tags für Ihre Analytics-Implementierung](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Erstellen von Datenelementen für die Analytics-Implementierung](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Erstellen einer globalen Seitenladeregel](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)

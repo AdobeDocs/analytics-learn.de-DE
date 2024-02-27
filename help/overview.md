@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: ht
-source-wordcount: '320'
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+workflow-type: tm+mt
+source-wordcount: '244'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,6 @@ Informieren Sie sich zunächst
 
 Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebenfalls im Abschnitt „Kurse“ zur Verfügung. Melden Sie sich einfach mit Ihrer Adobe ID an und navigieren Sie über die obere Navigationsleiste zu **Lernen > Empfohlene Kurse**.
 
-<div id="whats-new-section">
-
-## Neue Funktionen
-
-* **[Adobe Analytics Mobile Scorecard-App](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Erfahren Sie, wie Sie die Mobile Scorecard-App herunterladen und die in [!DNL Analysis Workspace] erstellten mobilen Scorecards anzeigen können.*
-
-* **[Anmerkungen in Analysis Workspace (Video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Anmerkungen in [!DNL Analysis Workspace] ermöglichen es Ihnen, den Benutzern in Ihrem Unternehmen kontextbezogene Hinweise und Informationen zu kommunizieren. Kommentieren Sie ein Datum oder einen Datumsbereich mit bekannten Datenproblemen, Feiertagen, Kampagnenstarts und so weiter. Dies informiert Benutzende darüber, warum sie Unregelmäßigkeiten in Liniendiagrammen, Tabellen und mehr sehen.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

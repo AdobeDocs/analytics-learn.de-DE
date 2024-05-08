@@ -1,6 +1,6 @@
 ---
-title: Einstellungen der Kohortentabellen
-description: Es gibt verschiedene Einstellungen der Kohortentabellen, mit denen Sie Ihre Ansicht der Kundenbindung oder Abwanderung anpassen können. In diesem Video werden sie vorgestellt.
+title: Kohortentabelleneinstellungen
+description: Erfahren Sie, wie Sie Ihre Ansicht der Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen für Kohortentabellen anpassen können.
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 198405506f7aab1dc450a6f7b19224fd96ab1baa
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 # Einstellungen der [!UICONTROL Kohortentabellen]
 
-Es gibt mehrere Einstellungen, mit denen Sie Ihre Ansicht der [!UICONTROL Kundenbindung] oder [!UICONTROL Abwanderung] anpassen können. In diesem Video werden sie vorgestellt.
+Erfahren Sie, wie Sie Ihre Ansicht der Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen für Kohortentabellen anpassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
@@ -29,6 +29,6 @@ Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichk
 1. Prozentsätze auf die nächste Ganzzahl runden
 1. Eine Zeile mit den durchschnittlichen Prozentwerten oben in der Tabelle anzeigen/ausblenden.
 
-Die Durchschnittszeile ist besonders hilfreich bei der Betrachtung von [!UICONTROL Kundenbindung] oder [!UICONTROL Abwanderung] insgesamt und nicht nach einzelnen [!UICONTROL Kohorten]-Zeilen.
+Die durchschnittlichen Zeilen eignen sich ideal für die Anzeige [!UICONTROL Treue] oder [!UICONTROL Abwanderung] Insgesamt und nicht nach Individuen [!UICONTROL Kohorte] Zeilen.
 
 Weitere Informationen zur [!UICONTROL Kohorten]-Analyse finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=de).

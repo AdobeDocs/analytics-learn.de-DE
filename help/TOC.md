@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: ht
-source-wordcount: '2176'
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+workflow-type: tm+mt
+source-wordcount: '2179'
 ht-degree: 100%
 
 ---
@@ -240,6 +240,7 @@ ht-degree: 100%
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
    + Benutzerverwaltung {#user-management}
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Produktprofile anlegen](administration/user-management/create-product-profiles.md)
       + [Beschränken des Zugriffs auf Report Suites in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Übertragen von Benutzer-Assets an einen anderen Benutzer](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Überprüfen der verknüpften IMS-ID, um Anmeldeprobleme zu vermeiden](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)

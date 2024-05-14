@@ -1,6 +1,6 @@
 ---
-title: Senden von Data Warehouse-Anfragen über SFTP
-description: Data Warehouse bezieht sich auf die Kopie der Analytics-Daten für Speicherberichte und benutzerspezifische Berichte, die Sie durch Filtern der Daten ausführen können. Sie können Berichte anfordern, um erweiterte Datenbeziehungen aus Rohdaten basierend auf den für Sie relevanten Fragen anzuzeigen. Data Warehouse-Berichte werden per E-Mail oder über FTP versendet. Die Verarbeitung von Data Warehouse-Berichten kann bis zu 72 Stunden dauern. Die Verarbeitungsdauer ist abhängig von der Komplexität der Abfrage und der Menge der zu verarbeitenden Daten.
+title: Data Warehouse-Berichte über SFTP senden
+description: Erfahren Sie, wie Sie in Adobe Analytics eine Data Warehouse-Anfrage erstellen und diese für die SFTP-Bereitstellung einrichten.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
+last-substantial-update: 2024-05-13T00:00:00Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: c56deab9a0496c1152e971f98a832a9f57135d64
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
-# Senden von Data Warehouse-Anfragen über SFTP
+# Senden [!DNL Data Warehouse] Berichte über SFTP
 
-Data Warehouse bezieht sich auf die Kopie der Analysedaten für Speicherberichte und benutzerspezifische Berichte, die Sie durch Filtern der Daten ausführen können. Sie können Berichte anfordern, um erweiterte Datenbeziehungen aus Rohdaten basierend auf den für Sie relevanten Fragen anzuzeigen. Data Warehouse-Berichte werden per E-Mail oder über FTP versendet. Die Verarbeitung von Data Warehouse-Berichten kann bis zu 72 Stunden dauern. Die Verarbeitungsdauer ist abhängig von der Komplexität der Abfrage und der Menge der zu verarbeitenden Daten.
+Erfahren Sie, wie Sie eine [!DNL Data Warehouse] in Adobe Analytics anfordern und für die SFTP-Bereitstellung einrichten. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

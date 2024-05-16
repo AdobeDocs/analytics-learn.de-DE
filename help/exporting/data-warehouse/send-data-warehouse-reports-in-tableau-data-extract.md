@@ -1,6 +1,6 @@
 ---
 title: Data Warehouse-Berichte im Tableau-Data-Extract-Format senden
-description: Data Warehouse kann Berichte im Tableau-Data-Extract-Dateiformat (TDE) bereitstellen, mit denen Sie Daten allgemein zugänglich machen und Daten, die nicht von Adobe Analytics stammen, einfügen können.
+description: Erfahren Sie, wie Data Warehouse Berichte im Tableau-Datenextraktionsformat (TDE) bereitstellen kann, damit Sie Daten von außerhalb von Adobe Analytics demokratisieren und kombinieren können.
 feature: Data Warehouse
 topic: Collaboration
 role: User
@@ -9,17 +9,17 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: db46eab452615329192fded673bd14261f97e21e
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 24%
 
 ---
 
-# Data Warehouse-Berichte im Tableau-Data-Extract-Format senden
+# Senden [!DNL Data Warehouse] Berichte in Tableau-Datenextraktion
 
-Data Warehouse kann Berichte im Tableau-Data-Extract-Dateiformat (TDE) bereitstellen, mit denen Sie Daten allgemein zugänglich machen und Daten, die nicht von Adobe Analytics stammen, einfügen können.
+Erfahren Sie mehr [!DNL Data Warehouse] Sie können Berichte im Tableau-Datenextraktionsdateiformat (TDE) bereitstellen, damit Sie Daten von außerhalb von Adobe Analytics demokratisieren und kombinieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=de).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).

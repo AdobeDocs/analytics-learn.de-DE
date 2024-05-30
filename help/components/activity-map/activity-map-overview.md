@@ -1,23 +1,24 @@
 ---
-title: Übersicht über Activity Map in Adobe Analytics
-description: Activity Map ist ein Tool, mit dem Benutzer von Adobe Analytics Benutzeraktivitätsdaten direkt auf ihrer Website visualisieren können. Zeigen Sie die Anzahl der Klicks (oder andere Metriken) direkt für die Links Ihrer Seite an.
+title: Activity Map-Übersicht in Adobe Analytics
+description: Erfahren Sie mehr über Activity Map, ein Tool, mit dem Sie Benutzeraktivitätsdaten direkt auf Ihrer Website visualisieren können. Zeigen Sie die Anzahl der Klicks oder anderen Metriken direkt auf den Links Ihrer Seite an.
 feature: Activity Map
 thumbnail: 25451.jpg
 kt: 2349
 role: User
 level: Beginner
+last-substantial-update: 2024-05-30T00:00:00Z
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 3f8e08ed84ffc40f77b678fbe2cb0310d671abec
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 10%
 
 ---
 
-# [!UICONTROL Activity Map] in Adobe Analytics {#activity-map-in-adobe-analytics}
+# [!UICONTROL Activity Map] Übersicht über Adobe Analytics
 
-[!UICONTROL Activity Map] ist ein Tool, mit dem Benutzer von Adobe Analytics Benutzeraktivitätsdaten direkt auf ihrer Website visualisieren können. Zeigen Sie die Anzahl der Klicks (oder andere [!UICONTROL Metriken]) direkt für die Links Ihrer Seite an.
+Erfahren Sie mehr über Activity Map, ein Tool, mit dem Sie Benutzeraktivitätsdaten direkt auf Ihrer Website visualisieren können. Zeigen Sie die Anzahl der Klicks oder anderen Metriken direkt auf den Links Ihrer Seite an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=de).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).

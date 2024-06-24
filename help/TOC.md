@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 100%
+source-wordcount: '2157'
+ht-degree: 99%
 
 ---
 
@@ -339,7 +339,7 @@ ht-degree: 100%
       + [Beginnen eines neuen Besuchs bei einem beliebigen Ereignis](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Übersicht über Activity Map](components/activity-map/activity-map-overview.md)
-      + [Aktivieren, Debuggen und Anpassen von Activity Map in Adobe Analytics](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Activity Map aktivieren, debuggen und anpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Weitere Tools {#additional-tools}
    + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics-Dashboards {#analytics-dashboards}

@@ -1,24 +1,23 @@
 ---
 title: Erstellen eines Inhaltsverzeichnisses in Analysis Workspace
-description: Erfahren Sie, wie Sie ein Workspace-Projekt für Inhaltsverzeichnisse erstellen und als Zielseite Ihrer Benutzer festlegen, damit sie schnell die benötigten Daten und Erkenntnisse in Adobe Analytics finden können.
+description: Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace, das Links bereitstellt, über die Benutzer schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können.
 feature: Panels
-topics: null
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f3357dcef123114c89ce5ea2409d8a67b0ae537f
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 
 # Erstellen eines Inhaltsverzeichnisses in Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Erfahren Sie, wie Sie ein Workspace-Projekt für Inhaltsverzeichnisse erstellen und als Zielseite Ihrer Benutzer festlegen, damit sie schnell die benötigten Daten und Erkenntnisse in Adobe Analytics finden können.
+Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace, das Links bereitstellt, über die Benutzer schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Inhaltsverzeichnis des Projekts](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

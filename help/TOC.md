@@ -4,9 +4,9 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [Anzeigen von Analysis Workspace-Leistungsmetriken](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Erstellen von Bot-Berichten](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Tipps und Tricks {#tips-and-tricks}
+      + [Erstellen von Hyperlinks in Freiformtabellen](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [7 Tipps und Tricks für Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Rechtsklick-Tipps und -Tricks für effizientere Workflows](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tipps zur Produktivitätssteigerung in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Verwenden der Dichte](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Verwenden von Filtern](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Verwenden von Dropdown-Filtern mit Mehrfachauswahl](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Echtzeitberichte {#real-time-reports}
       + [Echtzeitberichterstellung](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Verwenden von Bedienfeldern {#using-panels}

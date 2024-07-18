@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen grundlegender Einzelhandelsvariablen und -ereignisse zu Regeln in der Experience Platform [!DNL tags]
-description: In diesem Video wird die Verwendung einer speziellen Produktzeichenerweiterung in [!DNL tags] , um grundlegende Einzelhandelsvariablen und -ereignisse wie Produktansichten, Zusatz zum Warenkorb und Checkouts zu verfolgen.
+title: Hinzufügen grundlegender Einzelhandelsvariablen und -ereignisse zu Regeln in Experience Platform [!DNL tags]
+description: In diesem Video wird gezeigt, wie mit einer speziellen Produktzeichenerweiterung in [!DNL tags] grundlegende Einzelhandelsvariablen und -ereignisse wie Produktansichten, Zusatz zum Warenkorb und Checkouts verfolgt werden.
 feature: Tags
 topics: Development
 kt: 3592
@@ -10,13 +10,13 @@ exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Hinzufügen grundlegender Einzelhandelsvariablen und -ereignisse zu Regeln in der Experience Platform [!DNL tags]
+# Hinzufügen grundlegender Einzelhandelsvariablen und -ereignisse zu Regeln in Experience Platform [!DNL tags]
 
-In diesem Video wird die Verwendung einer speziellen Produktzeichenerweiterung in [!DNL tags] , um grundlegende Einzelhandelsvariablen und -ereignisse wie Produktansichten, Zusatz zum Warenkorb und Checkouts zu verfolgen.
+In diesem Video wird gezeigt, wie mit einer speziellen Produktzeichenerweiterung in [!DNL tags] grundlegende Einzelhandelsvariablen und -ereignisse wie Produktansichten, Zusatz zum Warenkorb und Checkouts verfolgt werden.
 
 >[!NOTE]
 >

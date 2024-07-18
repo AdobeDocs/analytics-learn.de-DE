@@ -1,5 +1,5 @@
 ---
-title: Dimensionen in berechneten Metriken verwenden
+title: Verwenden von Dimensionen in berechneten Metriken
 description: Dimensionen sind im Generator für berechnete Metriken verfügbar und können zu jeder beliebigen berechneten Metrikformel hinzugefügt werden, um die neue Metrik auf einen Dimensions- oder Dimensionswert zu beschränken.
 feature: Calculated Metrics
 kt: 1904
@@ -8,17 +8,17 @@ level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 31%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 
-# Dimensionen in berechneten Metriken verwenden {#using-dimensions-in-calculated-metrics}
+# Verwenden von Dimensionen in berechneten Metriken {#using-dimensions-in-calculated-metrics}
 
 Dimensionen sind im Generator für berechnete Metriken verfügbar und können zu jeder beliebigen berechneten Metrikformel hinzugefügt werden, um die neue Metrik auf einen Dimensions- oder Dimensionswert zu beschränken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Diese Funktion optimiert den Arbeitsablauf für die Erstellung und Verwendung von Segmenten innerhalb von berechneten Metriken.
+Diese Funktion optimiert den Arbeitsablauf für die Erstellung und Verwendung von Segmenten in berechneten Metriken.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de).

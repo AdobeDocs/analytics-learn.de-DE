@@ -8,17 +8,17 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-
 # Entsperren der Funktion der schreibgeschützten Freigabe in Analysis Workspace
 
-Erfahren Sie, wie durch die Freigabe von Adobe Analysis Workspace-Projekten als &quot;schreibgeschützt&quot;ausführbare Dashboard-Berichte mit einer sauberen Benutzeroberfläche und vordefinierten Filteroptionen erstellt werden können und wie die &quot;mobile Scorecard&quot;die Freigabe von Digital-Experience-KPIs für Führungskräfte unterwegs vereinfachen kann.
+Erfahren Sie, wie durch die Freigabe von Adobe Analysis Workspace-Projekten als &quot;schreibgeschützt&quot;ausführbare Dashboard-Berichte mit einer sauberen Benutzeroberfläche und vordefinierten Filteroptionen erstellt werden können und wie die &quot;mobile Scorecard&quot;die Freigabe von digitalen Erlebnis-KPIs für Führungskräfte unterwegs vereinfachen kann.
 
 Die gemeinsame Nutzung von Adobe Analytics Workspace-Projekten mit Kollegen ist ein wesentlicher Bestandteil von Analytics, um bessere Geschäftsentscheidungen zu treffen. Wir können Projekte für andere Benutzer freigeben, um die Zugriffsberechtigungen &quot;Original bearbeiten&quot;, &quot;Kopie bearbeiten&quot;und &quot;schreibgeschützt&quot;zu erhalten. Meistens können wir Projekte mit Bearbeitungsrechten für Original- oder Bearbeitungsrechte für den Kopierzugriff freigeben, damit wir das Projekt gemeinsam aktualisieren können oder andere Benutzer das Projekt für weitere Aktualisierungen als eigenes duplizieren können. Manchmal ist die Freigabe nur für schreibgeschützte Inhalte jedoch eine überraschend gute Freigabeoption, die über die Zugriffskontrolle hinausgeht, wie durch den Namen der Zugriffsberechtigungen vorgeschlagen.
 
@@ -34,7 +34,7 @@ Das schreibgeschützte Projekt ist auch hilfreich, um Daten mit Benutzern zu tei
 
 ## Eine andere Möglichkeit: die mobile Scorecard
 
-Neben der schreibgeschützten Projektfreigabe ist das Analytics Dashboard ein weiterer Ansatz, um ausführbare Dashboards mit vordefiniertem Erlebnis freizugeben. Es handelt sich um die &quot;mobile Scorecard&quot;, wenn ein neues Projekt in Analysis Workspace erstellt wird und das resultierende Projekt in der mobilen App &quot;Adobe Analytics&quot;verfügbar sein wird. Auf diese Weise können wir digitale Erlebnis-KPIs mit Führungskräften in einer einfachen und benutzerfreundlichen App teilen, auf die jederzeit und überall zugegriffen werden kann.
+Neben der schreibgeschützten Projektfreigabe ist das Analytics Dashboard ein weiterer Ansatz zur Freigabe ausführbarer Dashboards mit vordefiniertem Erlebnis. Es handelt sich um die &quot;mobile Scorecard&quot;, wenn ein neues Projekt in Analysis Workspace erstellt wird und das resultierende Projekt in der mobilen App &quot;Adobe Analytics&quot;verfügbar sein wird. Auf diese Weise können wir digitale Erlebnis-KPIs mit Führungskräften in einer einfachen und benutzerfreundlichen App teilen, auf die jederzeit und überall zugegriffen werden kann.
 
 Ein gutes Dashboard für Führungskräfte sollte einfach und in wichtigen Punkten sein. Indem Sie nur KPIs zum ersten Bildschirm eines Analytics-Dashboards hinzufügen, mit einem optionalen Drilldown auf einer Ebene, um eine KPI anhand einer vordefinierten Auswahl nach einer Dimension aufzuschlüsseln. Das Analytics-Dashboard ermöglicht es uns, eine Geschichte zu erzählen, die wir für Führungskräfte haben möchten.
 
@@ -49,4 +49,4 @@ Dieses Dokument wurde verfasst von:
 
 **Leo Lau**, Director, MarTech Lead Asia
 
-Adobe Analytics-Experte
+Adobe Analytics-Expertin

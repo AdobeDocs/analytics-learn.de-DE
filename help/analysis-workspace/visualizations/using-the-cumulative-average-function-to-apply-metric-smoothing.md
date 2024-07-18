@@ -1,5 +1,5 @@
 ---
-title: Verwenden der Funktion Kumulativer Durchschnitt zum Anwenden der Metrikausgleichung
+title: Verwenden der Funktion „Kumulativer Durchschnitt“ zum Anwenden der Metrikausgleichung
 description: Je länger der Zeitraum ist, über den eine Metrik beobachtet wird, desto schwieriger ist es, richtungsweisende Trends für die Metrik zu erkennen. Um dies zu erleichtern, kann die Funktion „Kumulativer Durchschnitt“ in „Berechnete Metriken“ verwendet werden, um in Analysis Workspace Ausgleichung auf Metriken anzuwenden.
 feature: Visualizations
 thumbnail: 27068.jpg
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Verwenden der Funktion Kumulativer Durchschnitt zum Anwenden der Metrikausgleichung {#using-the-cumulative-average-function-to-apply-metric-smoothing}
+# Verwenden der Funktion „Kumulativer Durchschnitt“ zum Anwenden der Metrikausgleichung {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
 Je länger der Zeitraum ist, über den eine Metrik beobachtet wird, desto schwieriger ist es, richtungsweisende Trends für die Metrik zu erkennen. Um dies zu erleichtern, kann die Funktion „Kumulativer Durchschnitt“ in „Berechnete Metriken“ verwendet werden, um in Analysis Workspace Ausgleichung auf Metriken anzuwenden.
 

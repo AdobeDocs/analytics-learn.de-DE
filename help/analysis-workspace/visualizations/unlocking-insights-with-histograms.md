@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 2%
+source-wordcount: '1098'
+ht-degree: 1%
 
 ---
 
-
 # Einblicke mit Histogrammen erschließen: über die Durchschnittswerte in Analytics hinaus
 
-_Entdecken Sie die Auswirkungen von Histogrammen in der Analyse auf Einblicke über Durchschnittswerte hinaus. Histogramme zeigen Datenmuster im Kundenverhalten, in der Besucherinteraktion, in der technischen Leistung und Formularfehlern an, sodass tiefere Einblicke und fundierte Entscheidungen in Adobe Workspace möglich sind._
+_Entdecken Sie die Auswirkungen von Histogrammen in Analysen auf Erkenntnisse über Durchschnittswerte hinaus. Histogramme zeigen Datenmuster im Kundenverhalten, der Besucherinteraktion, der technischen Leistung und Formularfehlern auf, was tiefere Einblicke und fundierte Entscheidungen in Adobe Workspace ermöglicht._
 
-Springen wir gleich rein! Sie sollten [Histogramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären, warum, aber ich möchte Ihre erste Frage beantworten: Was in der Welt ist ein Histogramm? Ich verstehe es. Meistens, wenn Sie einen Haufen Balken hochfahren sehen, denken Sie vielleicht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind anders. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Im Folgenden finden Sie ein Balkendiagramm:
+Springen wir gleich rein! Sie sollten [Histogramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de) verwenden. Ich werde erklären, warum, aber ich möchte Ihre erste Frage beantworten: Was in der Welt ist ein Histogramm? Ich verstehe es. Meistens, wenn Sie einen Haufen Balken hochfahren sehen, denken Sie vielleicht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind anders. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Schau mal. Im Folgenden finden Sie ein Balkendiagramm:
 
 ![Balkendiagramm 1](assets/bar-chart-1.png)
 

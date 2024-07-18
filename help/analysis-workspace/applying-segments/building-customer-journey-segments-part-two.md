@@ -7,13 +7,13 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen von Journey-Segmenten für Kunden - Teil zwei
 
@@ -29,11 +29,11 @@ Die Besuchsabsichtssegmente, die wir jetzt erstellen, bilden die Grundlage für 
 
 Denken Sie daran, dass das Erstellen von BesuchsIntent-Segmenten ein Eliminationsprozess ist. Wir bauen diese Segmente also nicht in chronologischer Reihenfolge. Wir erstellen unsere Besuchsabsichtssegmente, um die Definition zu beschleunigen, um Folgendes zu definieren:
 
-1. Intent: 0 - Ein Trefferwächter
+1. Intent: 0 - One Hit Wonders
 1. Intent: 3 - Kauf
-1. Intent: 4 - Treue
+1. Absicht: 4 - Bindung
 1. Intent: 2 - Überlegungen
-1. Intent: 1 - Bewusstsein
+1. Absicht: 1 - Bewusstsein
 
 In unserem letzten Beitrag nannte ich das Segment &quot;Kauf&quot; &quot;Buchung&quot;, da ich im Reisegewerbe bin. In Zukunft werden wir es aber als Kaufsegment bezeichnen, um die Anwendung auf mehrere Branchen zu vereinfachen.
 
@@ -53,7 +53,7 @@ Sie müssen ein gewisses Maß an Urteilsvermögen bei der Entscheidung darüber 
 
 In ähnlicher Weise ist der Drilldown-Trichter zur Überprüfung Ihrer Kaufseite (oder der unmittelbar vor der Kaufbestätigung liegende Bereich) wahrscheinlich zu weit entfernt, um für Analysen und Targeting nützlich zu sein.
 
-Wenn Sie den Trichter weiter nach oben bewegen, kann es weniger deutlich werden, ob das Signal nützlich ist, um anzugeben, dass ein Kunde einen Kauf tätigen möchte. In meinem Fall ähnelt &quot;Book Now&quot;einem &quot;Checkout&quot;-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. In einem Einzelhandelskontext ist der Checkout jedoch möglicherweise immer noch zu weit unten im Trichter und &quot;Warenkorb anzeigen&quot;oder &quot;Zum Warenkorb hinzufügen&quot;kann besser sein.
+Wenn Sie den Trichter weiter nach oben bewegen, kann es weniger deutlich werden, ob das Signal nützlich ist, um anzugeben, dass ein Kunde einen Kauf tätigen möchte. In meinem Fall ähnelt &quot;Book Now&quot;einem &quot;Checkout&quot;-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. In Einzelhandelskontexten ist der Checkout jedoch möglicherweise noch zu weit unten im Trichter und der Warenkorb oder Hinzufügen zum Warenkorb könnte besser sein.
 
 Wir können uns das wie ein Lebensmittelgeschäft vorstellen. Wenn jemand ein Produkt aus dem Regal nimmt, bedeutet das nicht, dass er es kaufen will. Selbst wenn sie ihn in ihren Warenkorb legen, könnten sie ihn sofort wieder ins Regal stellen. Aber wenn sie das Produkt in ihren Warenkorb legen und damit anfangen, damit herumzulaufen, besteht eine ziemlich gute Chance, dass sie es kaufen wollen. Und wenn sie mit diesem Produkt in die Kasse gehen, ist es eine ziemlich gute Wette, dass sie kaufen werden.
 
@@ -91,7 +91,7 @@ Fügen Sie dem Segment, das durch die &quot;Und&quot;-Bedingung verbunden wird, 
 
 Als Best Practice sollten Sie sicherstellen, dass Sie Ihre Container beschriften. Sie werden sich freuen, insbesondere da unsere Segmentdefinitionen komplexer werden.
 
-Nachdem wir nun das Segment &quot;Kaufabsicht&quot;erstellt haben, können wir den Arbeitsbereich für die Datenqualität des Besuchsabsichten verwenden, um zu sehen, dass sich unser Segment für den Kaufabsichten gegenseitig mit unserem Segment &quot;Eins&quot;und &quot;Fertig&quot;ausschließt.
+Nachdem wir nun das Segment &quot;Kaufabsicht&quot;erstellt haben, können wir die Workspace für die Datenqualität des Besuchsintents verwenden, um zu sehen, dass sich unser Zielgruppensegment &quot;Kauf&quot;gegenseitig mit unserem Segment &quot;Eins&quot;und &quot;Fertig&quot;ausschließt.
 
 ![Bild 5](assets/Image-5.png)
 
@@ -107,7 +107,7 @@ Ich sollte beachten, dass &quot;Treue&quot;ein wenig ein unangenehmer Name für 
 
 ### Verwenden von Analytics Workspace zur Identifizierung von Intent-Signalen
 
-Auch hier hilft uns Analytics Workspace bei der Identifizierung des Bindungsabsichten. Sie können die Seiten, den Sitebereich oder die benutzerdefinierten Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Einkaufskonversionsraten. In unserem Fall haben die Seiten &quot;Online Check-In&quot;und &quot;Shore Excursion&quot;(Shorex) vergleichsweise niedrigere Konversionsraten als andere Seiten, die logischerweise mit dem Kauf und Einkauf verbunden sind.
+Auch hier hilft uns Analytics Workspace bei der Identifizierung der Bindungsabsichten. Sie können die Seiten, den Sitebereich oder die benutzerdefinierten Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Einkaufskonversionsraten. In unserem Fall haben die Seiten &quot;Online Check-In&quot;und &quot;Shore Excursion&quot;(Shorex) vergleichsweise niedrigere Konversionsraten als andere Seiten, die logischerweise mit dem Kauf und Einkauf verbunden sind.
 
 ![Bild 6](assets/Image-6.png)
 
@@ -131,11 +131,11 @@ Fügen Sie dann Container zum Ausschließen für Ihre Besuche &quot;One Hit Wond
 
 ![Bild 7](assets/Image-7.png)
 
-Sehen Sie sich erneut Ihren Arbeitsbereich für die Datenqualität des Besuchsabsichten an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Besuchsabsichten-Segmente nehmen eine schöne Form an!
+Sehen Sie sich erneut Ihren Workspace für die Datenqualität des Besuchsabsichten an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Besuchsabsichten-Segmente nehmen eine schöne Form an!
 
 ![Bild 8](assets/Image-8.png)
 
-An dieser Stelle haben wir drei unserer fünf Segmente für Besuchsabsichten konfiguriert. Wir sehen, dass sich diese Segmente gegenseitig ausschließen. In unserem nächsten Beitrag erstellen wir die endgültigen Segmente für Besuchsinteressen, Betrachtung und Bewusstsein, und unsere Segmente werden alle vollständig sein. Sobald die Segmente für den Besuchsabsichten eingerichtet sind, führen wir sie in besucherbasierte Segmente zusammen, die Sie für die Analyse und Personalisierung als sehr nützlich erachten.
+An dieser Stelle haben wir drei unserer fünf Segmente für Besuchsabsichten konfiguriert. Diese Segmente schließen sich gegenseitig aus. In unserem nächsten Beitrag erstellen wir die endgültigen Segmente für Besuchsinteressen, Betrachtung und Bewusstsein, und unsere Segmente werden alle vollständig sein. Sobald die Segmente für den Besuchsabsichten eingerichtet sind, führen wir sie in besucherbasierte Segmente zusammen, die Sie für die Analyse und Personalisierung als sehr nützlich erachten.
 
 ## Autor
 
@@ -145,4 +145,4 @@ Dieses Dokument wurde verfasst von:
 
 **Aaron Fossum**, Director, Digital Analytics
 
-Adobe Analytics-Experte
+Adobe Analytics-Expertin

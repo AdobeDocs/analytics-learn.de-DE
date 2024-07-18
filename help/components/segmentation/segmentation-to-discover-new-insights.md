@@ -8,31 +8,31 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+exl-id: 7743debd-57d8-4c79-a332-187180fc9701
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 6%
+source-wordcount: '812'
+ht-degree: 1%
 
 ---
 
-
 # Warten Sie jetzt einfach ein Segment ... Verwenden Sie Segmente, um neue Einblicke in Analysis Workspace zu erhalten.
 
-Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten ziemlich gut nutzen. As [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, &quot;Segmente ermöglichen es Ihnen, Besucheruntergruppen anhand von Merkmalen oder Website-Interaktionen zu identifizieren&quot;. Während das grundlegende Ergebnis dieser Funktion das Isolieren von Gruppen von Benutzern, Besuchen oder Treffern auf Ihrer Site bedeutet, können sich besonders interessierte Analytiker wie Sie mit diesem Tool kreativ beschäftigen und neue Möglichkeiten finden, Einblicke in Ihre Site-Aktivität zu gewinnen. Die Liste der möglichen Optionen ist riesig. Daher zögern Sie nicht, Ihre eigene zu erstellen und sie mit anderen in Ihrer Organisation oder online in Communitys wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf der Experience League oder [#Measurement Slack](https://www.measure.chat/) Community.
+Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten ziemlich gut nutzen. Wie [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, &quot;ermöglichen es Ihnen Segmente, Besucheruntergruppen anhand von Merkmalen oder Website-Interaktionen zu identifizieren&quot;. Während das grundlegende Ergebnis dieser Funktion das Isolieren von Gruppen von Benutzern, Besuchen oder Treffern auf Ihrer Site bedeutet, können sich besonders interessierte Analytiker wie Sie mit diesem Tool kreativ beschäftigen und neue Möglichkeiten finden, Einblicke in Ihre Site-Aktivität zu gewinnen. Die Liste der möglichen Optionen ist umfangreich. Daher zögern Sie nicht, Ihre eigene zu erstellen und sie mit anderen in Ihrer Organisation oder online in Communitys wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder der [#Measure Slack](https://www.measure.chat/) Community zu teilen.
 
-Wenn Sie einen schnellen Auffrischungskurs zum Erstellen eines Segments benötigen, lesen Sie bitte die Experience League-Dokumentation unter Verwendung der [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
+Wenn Sie einen schnellen Auffrischungskurs zum Erstellen eines Segments benötigen, lesen Sie bitte die Experience League-Dokumentation zur Verwendung des [Segmentaufbaus](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
 
 ## Vergleichen und Vergleichen von Segmenten
 
-In Analysis Workspace können Sie zwei Segmente mit &quot;[Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)&quot;. Segmentvergleiche finden Sie im Abschnitt Bedienfelder in der linken Navigationsleiste:
+In Analysis Workspace können Sie zwei Segmente mit &quot;[Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)&quot;vergleichen. Segmentvergleiche finden Sie im Abschnitt Bedienfelder in der linken Navigationsleiste:
 
 ![Seg 01](assets/seg01.png)
 
 Manchmal benötigen Sie jedoch keinen vollständigen Vergleichsbereich, um Ihre Endbenutzer über wichtige Einblicke zu informieren. Glücklicherweise können einige Funktionen auch in einem Standardbedienfeld verglichen werden.
 
-Die [Venn-Diagrammvisualisierung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de) kann Ihnen dabei helfen, einen schnellen Vergleich zu erstellen, sodass Sie den Mauszeiger über die sich überschneidenden Sitzungen, Bestellungen, Benutzer usw. bewegen und diese anzeigen können. zwischen 2 und 3 benutzerdefinierten Segmenten. Sie können auch schnell Segmente erstellen, indem Sie mit der rechten Maustaste auf einen der überlappenden Abschnitte klicken:
+Die [Venn-Diagrammvisualisierung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de) kann Ihnen dabei helfen, einen schnellen Vergleich zu erstellen, sodass Sie den Mauszeiger über die überlappenden Sitzungen, Bestellungen, Benutzer usw. halten und sie anzeigen können. zwischen 2 und 3 benutzerdefinierten Segmenten. Sie können auch schnell Segmente erstellen, indem Sie mit der rechten Maustaste auf einen der überlappenden Abschnitte klicken:
 
-![02.](assets/s02.png)
+![Seg 02](assets/s02.png)
 
 Manchmal sind die wichtigen Informationen nicht in den überlappenden Daten enthalten, sondern in den Daten, die sich nicht überschneiden. Eine schnelle Möglichkeit, dies anzuzeigen, besteht darin, eine Kopie eines Segments zu erstellen und es zu einem &quot;Ausschließen&quot;-Segment zu machen:
 
@@ -40,7 +40,7 @@ Manchmal sind die wichtigen Informationen nicht in den überlappenden Daten enth
 
 Durch die Stapelung Ihres Segments &quot;Ausschließen&quot;mit dem anderen Segment in Ihrem Vergleich können Sie jetzt schnell berechnen, wie viele Besuche Ihre Menüseite erreichen, ohne auch die Startseite in derselben Sitzung anzuzeigen:
 
-![04.](assets/s04.png)
+![Seg 04](assets/s04.png)
 
 ## Stapelattacken
 
@@ -68,19 +68,19 @@ Beispielsweise stehen vordefinierte Behälter für die Besuchszeit pro Seite ode
 
 Diese werden jedoch möglicherweise nicht immer den Anforderungen Ihres Unternehmens gerecht - die meisten Besuche der Site laufen möglicherweise kürzer als 10 Minuten. Sie können die granulare Messung verwenden, um Behälter unterschiedlicher Größe zu erstellen. Im Folgenden finden Sie einen Bericht zu Besuchen, die zwischen 1 Minute, 1 Sekunde und 1 Minute und 30 Sekunden dauern:
 
-![10.](assets/s10.png)
+![Seg 10](assets/s10.png)
 
 Nach der Erstellung kann ich nun meine Besuche, Bestellungen und anderen Ereignisse nach den verschiedenen zusammengefassten Zeitgruppen, die ich angepasst habe, untersuchen:
 
-![11.](assets/s11.png)
+![Seg 11](assets/s11.png)
 
 Sie können sogar damit beginnen zu untersuchen, wie sich Ihre KPIs (Key Performance Indicators) verändern, indem Sie ermitteln, wie viel Zeit ein Benutzer verbringt, wie viele Seiten er bei einem Besuch besucht hat, wie oft er in der Vergangenheit besucht hat, oder einen anderen numerischen Wert verwenden - im Grunde können Sie eine Metrik als Faktor einer anderen Metrik betrachten:
 
-![12.](assets/s12.png)
+![Seg 12](assets/s12.png)
 
-Die Möglichkeiten, Segmente zu verwenden, um neue Einblicke zu erhalten, sind endlos! Dies ist lediglich ein Ausgangspunkt. Probieren Sie einige von Ihnen selbst aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf der Experience League oder [#Measurement Slack](https://www.measure.chat/) Community.
+Die Möglichkeiten, Segmente zu verwenden, um neue Einblicke zu erhalten, sind endlos! Dies ist lediglich ein Ausgangspunkt. Probieren Sie einige von Ihnen aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder die [#Measure Slack](https://www.measure.chat/) Community.
 
-Gute Segmentierung!
+Frohes Segmentieren!
 
 ## Autor
 
@@ -90,5 +90,4 @@ Dieses Dokument wurde verfasst von:
 
 **Dan Cummings**, Sr. Product Engineering Analytics Manager bei McDonald&#39;s Corporation
 
-Adobe Analytics-Experte
-
+Adobe Analytics-Expertin

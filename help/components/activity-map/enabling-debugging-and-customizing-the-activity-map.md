@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics aktivieren, debuggen und anpassen [!UICONTROL Activity Map]
+# Aktivieren, Debuggen und Anpassen des Adobe Analytics [!UICONTROL Activity Map]
 
-Erfahren Sie, wie Sie die [!UICONTROL Activity Map] wird in der Analytics-Erweiterung in Adobe Experience Platform-Tags bereitgestellt.
+Erfahren Sie, wie Sie die Bereitstellung von [!UICONTROL Activity Map] in der Analytics-Erweiterung in Adobe Experience Platform-Tags aktivieren, debuggen und anpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Weitere Informationen zur Bereitstellung [!UICONTROL Activity Map], besuchen Sie die [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Weitere Informationen zum Bereitstellen von [!UICONTROL Activity Map] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

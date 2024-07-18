@@ -29,6 +29,6 @@ Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichk
 1. Prozentsätze auf die nächste Ganzzahl runden
 1. Eine Zeile mit den durchschnittlichen Prozentwerten oben in der Tabelle anzeigen/ausblenden.
 
-Die durchschnittlichen Zeilen eignen sich ideal für die Anzeige [!UICONTROL Treue] oder [!UICONTROL Abwanderung] Insgesamt und nicht nach Individuen [!UICONTROL Kohorte] Zeilen.
+Die durchschnittlichen Zeilen eignen sich ideal für die Anzeige von [!UICONTROL Beibehaltung] oder [!UICONTROL Abwanderung] insgesamt, nicht aber von einzelnen [!UICONTROL Kohortenzeilen].
 
 Weitere Informationen zur [!UICONTROL Kohorten]-Analyse finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=de).

@@ -15,12 +15,12 @@ ht-degree: 11%
 
 # Verstehen von grundlegenden Besuchermetriken
 
-Informationen zu [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de), und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
+Erfahren Sie mehr über [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
 
 * Hier erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren mehr über deren Ähnlichkeiten und Unterschiede.
 
 * Lernen Sie die verschiedenen Begriffe (Synonyme oder Keywords) kennen, die mit Besuchermetriken und Website-Traffic verknüpft sind.
 
-* Beispiel anzeigen [!UICONTROL Arbeitsbereich] -Projekt, das zeigt, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
+* Sehen Sie sich ein Beispielprojekt für [!UICONTROL Workspace] an, in dem gezeigt wird, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

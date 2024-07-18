@@ -96,6 +96,6 @@ Sie können jetzt ganz einfach jedes Projekt in eine benutzerdefinierte Vorlage 
 
 [Klicken Sie hier, um auf Experience League weitere Tipps und Tricks zu erhalten](https://experienceleague.adobe.com/?search=tips&amp;lang=de#recommended/solutions/analytics)
 
-| Über den Autor |  |
+| Über den Autor |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser ist Manager im Produkt-Management-Team von Adobe Analytics. <br> In dieser Funktion trifft sie sich mit Kunden, um deren geschäftliche Anforderungen zu verstehen, <br>und nutzt die dabei gewonnenen Erkenntnisse, um die Produkt-Roadmap für Adobe Analytics zu erstellen <br>und Prioritäten für neue Produktfunktionen zu setzen. Vor ihrer derzeitigen Position war <br>Jen als Hauptberaterin des Consulting-Teams von Adobe tätig, nämlich als <br>Expertin für Datenvisualisierung, Analysis Workspace und [!DNL Report Builder]. <br><br>Auf der Grundlage ihrer Erfahrungen aus der Praxis haben wir die folgenden Tipps und Tricks zusammengestellt, die <br>die Erstellung, Visualisierung und Freigabe Ihrer Analysis Workspace-Projekte erleichtern |

@@ -11,7 +11,7 @@ hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
 source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '173'
 ht-degree: 100%
 
 ---
@@ -33,6 +33,6 @@ Wenn Sie ein Business-Anwender oder praktischer Anwender sind bzw. eine ähnlich
 1. [Verwenden von Visualisierungen zur Darstellung Ihrer Datenverläufe](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=de)
 1. [Zuweisung von Werten zu digitalen Touchpoints in der Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de)
 
-Es gibt zusätzliche Kurse im Zusammenhang mit [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), die Ihnen in Experience League zur Verfügung stehen.
+Es gibt zusätzliche Kurse im Zusammenhang mit [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=de), die Ihnen in Experience League zur Verfügung stehen.
 
 Vielen Dank!

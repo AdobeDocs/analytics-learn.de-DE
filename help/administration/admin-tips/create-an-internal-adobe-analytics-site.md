@@ -12,13 +12,13 @@ exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
 # Erstellen einer internen Adobe Analytics-Site (Zusammenfluss oder andere)
 
-**WAS:** Wenn Sie die Empfehlung zum Erstellen von Schulungsdokumenten in [diesem Tipp](create-basic-videos-and-training.md){target=&quot;_blank&quot;} beherzigt haben, können Sie diese natürlich nicht auf Ihrer Festplatte speichern. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können – eine interne Adobe Analytics-Website (Zusammenfluss oder andere), an der Sie all diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
+**WAS:** Wenn Sie die Empfehlung in [diesem Tipp](create-basic-videos-and-training.md){target="_blank"} befolgt haben, Schulungsdokumente zu erstellen, können Sie diese offensichtlich nicht auf Ihrer Festplatte behalten. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können – eine interne Adobe Analytics-Website (Zusammenfluss oder andere), an der Sie all diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
 
 **WARUM:** Durch die Einrichtung eines einzigen gemeinsam genutzten Repositorys erhalten Sie einen Ort, an den alle neuen Benutzer weitergeleitet werden und an dem eine einzige Quelle der Wahrheit in Bezug auf die neuesten Versionen aller Dokumente bereitgestellt wird. Dies ermöglicht eine optimale Versionsverwaltung und Zusammenarbeit.
 

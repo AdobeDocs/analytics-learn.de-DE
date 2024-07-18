@@ -1,6 +1,6 @@
 ---
 title: 'Berechnete Metriken: segmentierte Metriken'
-description: Erfahren Sie, wie Sie berechnete Metriken basierend auf Segmenten erstellen, damit Sie die zugehörigen Besucher, Besuche und Seitenansichten effektiver analysieren können.
+description: Lernen Sie, wie Sie berechnete Metriken auf der Grundlage von Segmenten erstellen, damit Sie die dazugehörigen Besuchenden, Besuche und Seitenaufrufe effektiver analysieren können.
 feature: Calculated Metrics
 kt: 2319
 role: User
@@ -8,14 +8,14 @@ level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
 source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 25%
+source-wordcount: '68'
+ht-degree: 94%
 
 ---
 
 # [!UICONTROL Berechnete Metriken]: Segmentierte Metriken {#calculated-metrics-segmented-metrics}
 
-Erfahren Sie, wie Sie berechnete Metriken basierend auf Segmenten erstellen, damit Sie die zugehörigen Besucher, Besuche und Seitenansichten effektiver analysieren können.
+Lernen Sie, wie Sie berechnete Metriken auf der Grundlage von Segmenten erstellen, damit Sie die dazugehörigen Besuchenden, Besuche und Seitenaufrufe effektiver analysieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 

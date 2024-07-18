@@ -11,8 +11,8 @@ kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '1805'
-ht-degree: 100%
+source-wordcount: '1802'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Es wird empfohlen, dieses Dokument so einfach wie möglich zu halten und es nich
 >
 >Erstellen Sie in Adobe Analytics eine Dimension für Website-Namen/Eigenschaften. Eine eigene Dimension (in der Regel eine eVar) in Adobe Analytics, die den Namen der Website/Anwendung identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind unbegrenzt, insbesondere wenn mehrere Websites in einer (globalen) Report Suite kombiniert werden. Der Schlüssel dazu ist, dass Ihre Entwicklerteams diesen Wert immer in der Eigenschaftsdimension setzen, einschließlich aller Seitenladevorgänge (s.t-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Hilfsmittel sein, um diese Werte richtig und einheitlich festzulegen.
 
-[Sehen Sie sich dieses Video von Doug Moore an](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target=&quot;_blank&quot;} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
+[Sehen Sie sich dieses Video von Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
 
 ## Autoren
 

@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Definieren Sie einen Prozess für das Onboarding von Benutzern.
 
-   Welche Anforderungen und Prozesse sind in Ihrem Unternehmen mit dem Zugriff auf Adobe Analytics verbunden? Wenn Sie noch keine Anforderungen definiert und auch noch keinen Prozess für das Onboarding von neuen Benutzern implementiert haben, vereinfacht der Aufbau dieser Infrastruktur die Skalierung.
+  Welche Anforderungen und Prozesse sind in Ihrem Unternehmen mit dem Zugriff auf Adobe Analytics verbunden? Wenn Sie noch keine Anforderungen definiert und auch noch keinen Prozess für das Onboarding von neuen Benutzern implementiert haben, vereinfacht der Aufbau dieser Infrastruktur die Skalierung.
 
 * Implementieren von korrektem User Management und Zugriff:
 
-   Der Benutzerzugriff auf Report Suites, Metriken, Dimensionen, Werkzeuge, Berichte und Komponenten stellt die Grundlage für die Arbeit in Adobe Analytics dar und ist ein zentrales Element der [Benutzergruppenverwaltung](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=de). Durch den richtigen Zugriff auf Werkzeuge können die Benutzer innerhalb von Analysis Workspace und Reports &amp; Analytics die verfügbaren Funktionen selbst nutzen.
+  Der Benutzerzugriff auf Report Suites, Metriken, Dimensionen, Werkzeuge, Berichte und Komponenten stellt die Grundlage für die Arbeit in Adobe Analytics dar und ist ein zentrales Element der [Benutzergruppenverwaltung](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=de). Durch den richtigen Zugriff auf Werkzeuge können die Benutzer innerhalb von Analysis Workspace und Reports &amp; Analytics die verfügbaren Funktionen selbst nutzen.
 
 * Verstehen der Implementierung:
 
-   Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de) (BRD) und einem [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=de) (SDR) festgehalten. Diese Anforderungen sollten enthalten, was bereits implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorien definieren.
+  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de) (BRD) und einem [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=de) (SDR) festgehalten. Diese Anforderungen sollten enthalten, was bereits implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorien definieren.
 
 * Verwenden Sie Berichtsvorlagen:
 
-   Die Adobe Analytics-Berichtsvorlagen und -Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reporting und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
+  Die Adobe Analytics-Berichtsvorlagen und -Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reporting und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
 
 ## 2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte.
 
 * Entscheiden Sie, wer die Community leiten wird:
 
-   Eine leistungsfähige Community beginnt mit einer Infrastruktur, die auf der Verwaltung und Umsetzung von Geschäftsanforderungen basiert. Daher sind die Teams, die die Adobe Analytics-Verwaltung und -Einarbeitung eines Unternehmens betreuen, in der Regel auch für die Verwaltung einer Benutzergruppe oder internen Community zuständig.
+  Eine leistungsfähige Community beginnt mit einer Infrastruktur, die auf der Verwaltung und Umsetzung von Geschäftsanforderungen basiert. Daher sind die Teams, die die Adobe Analytics-Verwaltung und -Einarbeitung eines Unternehmens betreuen, in der Regel auch für die Verwaltung einer Benutzergruppe oder internen Community zuständig.
 
 * Legen Sie fest, wer beteiligt ist und welche Rollen und Verantwortlichkeiten es gibt:
 
@@ -65,7 +65,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * [Erstellen Sie eine Projektcharta](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (Vorlage zum Herunterladen):
 
-   Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Mit der Beantwortung der folgenden Fragen haben Sie alle Voraussetzungen für den Entwurf Ihrer Charta erfüllt:
+  Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Mit der Beantwortung der folgenden Fragen haben Sie alle Voraussetzungen für den Entwurf Ihrer Charta erfüllt:
 
    * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community, und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
    * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?

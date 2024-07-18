@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrieren [!DNL Adobe Analytics] mit [!DNL Adobe Audience Manager] Verwendung der serverseitigen Weiterleitung
+# Integrieren von [!DNL Adobe Analytics] mit [!DNL Adobe Audience Manager] mithilfe der serverseitigen Weiterleitung
 
-Erfahren Sie, wie Sie [!DNL Adobe Analytics] Daten an [!DNL Adobe Audience Manager] Verwendung der serverseitigen Weiterleitung.
+Erfahren Sie, wie Sie mit der serverseitigen Weiterleitung [!DNL Adobe Analytics] Daten an [!DNL Adobe Audience Manager] senden.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]wurde in umbenannt.[!UICONTROL tags]&quot;in der Experience Cloud-Oberfläche. Auswählen [!UICONTROL Datenerfassung] aus dem [!UICONTROL Anwendungsschalter] , um Tags zu öffnen und die in diesem Video beschriebenen Schritte durchzuführen.
+>&quot;[!UICONTROL Launch]&quot;wurde in der Experience Cloud-Oberfläche in &quot;[!UICONTROL tags]&quot;umbenannt. Wählen Sie [!UICONTROL Datenerfassung] aus dem [!UICONTROL Anwendungsschalter] aus, um Tags zu öffnen und die in diesem Video beschriebenen Schritte auszuführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

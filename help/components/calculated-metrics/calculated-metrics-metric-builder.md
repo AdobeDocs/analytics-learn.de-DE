@@ -1,5 +1,5 @@
 ---
-title: Übersicht über den Generator für berechnete Metriken
+title: Builder für berechnete Metriken – Übersicht
 description: Übersicht über den Metrikaufbau in Analysis Workspace
 feature: Calculated Metrics
 kt: 2318
@@ -8,12 +8,12 @@ level: Beginner
 exl-id: fcfffd68-4394-48db-b38e-3a4ea7d0f854
 source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 38%
+source-wordcount: '32'
+ht-degree: 50%
 
 ---
 
-# Übersicht über den Generator für berechnete Metriken {#calculated-metrics-metric-builder}
+# Builder für berechnete Metriken – Übersicht {#calculated-metrics-metric-builder}
 
 Übersicht über den Metrikaufbau in Analysis Workspace
 

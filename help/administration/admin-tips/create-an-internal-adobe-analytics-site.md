@@ -18,7 +18,7 @@ ht-degree: 92%
 
 # Erstellen einer internen Adobe Analytics-Site (Zusammenfluss oder andere)
 
-**WAS:** Wenn Sie die Empfehlung in [diesem Tipp](create-basic-videos-and-training.md){target="_blank"} befolgt haben, Schulungsdokumente zu erstellen, können Sie diese offensichtlich nicht auf Ihrer Festplatte behalten. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können – eine interne Adobe Analytics-Website (Zusammenfluss oder andere), an der Sie all diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
+**WAS:** Wenn Sie die Empfehlung zum Erstellen von Schulungsdokumenten [diesem Tipp](create-basic-videos-and-training.md){target="_blank"} beherzigt haben, können Sie diese natürlich nicht auf Ihrer Festplatte speichern. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können – eine interne Adobe Analytics-Website (Zusammenfluss oder andere), an der Sie all diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
 
 **WARUM:** Durch die Einrichtung eines einzigen gemeinsam genutzten Repositorys erhalten Sie einen Ort, an den alle neuen Benutzer weitergeleitet werden und an dem eine einzige Quelle der Wahrheit in Bezug auf die neuesten Versionen aller Dokumente bereitgestellt wird. Dies ermöglicht eine optimale Versionsverwaltung und Zusammenarbeit.
 

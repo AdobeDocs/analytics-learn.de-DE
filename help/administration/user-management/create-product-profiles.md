@@ -1,5 +1,5 @@
 ---
-title: Produktprofile in der Experience Cloud-Admin Console erstellen
+title: Erstellen von Produktprofilen in der Experience Cloud-Admin Console
 description: Erstellen Sie Analytics-Produktprofile in der Experience Cloud-Admin Console, um den Zugriff auf Report Suites, Metriken, Dimensionen und Tools zu verwalten.
 feature: User Management
 doc-type: feature video
@@ -17,7 +17,7 @@ ht-degree: 71%
 
 ---
 
-# Produktprofile in der Experience Cloud-Admin Console erstellen
+# Erstellen von Produktprofilen in der Experience Cloud-Admin Console
 
 Erstellen Sie Analytics-Produktprofile in der Experience Cloud-Admin Console, um den Zugriff auf Report Suites, Metriken, Dimensionen und Tools zu verwalten.
 

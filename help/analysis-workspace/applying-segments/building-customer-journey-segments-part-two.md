@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Journey-Segmenten für Kunden - Teil zwei
-description: In Teil 2 erfahren Sie, wie Sie Einkaufs- und Bindungsbesuchsabsichten segmentieren, um die Journey von Kunden zu verstehen und Inhalte zu personalisieren. Mithilfe von Signalen wie "Jetzt buchen"-Klicks oder -Anmeldungen identifizieren wir die Kauf- und Bindungsabsichten für eine effektive Analyse und zielgerichtetes Marketing.
+title: Erstellen von Journey-Segmenten für Kunden - Teil 2
+description: In Teil 2 erfahren Sie, wie Sie Zielgruppensegmente für Kauf und Kundenbindung erstellen, um das Kaufen von Journey und die Personalisierung von Inhalten durch Kunden zu verstehen. Mithilfe von Signalen wie „Jetzt buchen“-Klicks oder Logins identifizieren wir die Kauf- und Aufbewahrungsabsicht für eine effektive Analyse und zielgerichtetes Marketing.
 feature: Segmentation
 role: User
 level: Experienced
@@ -15,127 +15,127 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Journey-Segmenten für Kunden - Teil zwei
+# Erstellen von Journey-Segmenten für Kunden - Teil 2
 
-In Teil 2 erfahren Sie, wie Sie Einkaufs- und Bindungsbesuchsabsichten segmentieren, um die Journey von Kunden zu verstehen und Inhalte zu personalisieren. Mithilfe von Signalen wie &quot;Jetzt buchen&quot;-Klicks oder -Anmeldungen identifizieren wir die Kauf- und Bindungsabsichten für eine effektive Analyse und zielgerichtetes Marketing.
+In Teil 2 erfahren Sie, wie Sie Zielgruppensegmente für Kauf und Kundenbindung erstellen, um das Kaufen von Journey und die Personalisierung von Inhalten durch Kunden zu verstehen. Mithilfe von Signalen wie „Jetzt buchen“-Klicks oder Logins identifizieren wir die Kauf- und Aufbewahrungsabsicht für eine effektive Analyse und zielgerichtetes Marketing.
 
-## Erstellen von Marketingzielsegmenten für Kauf und Treuebesuche
+## Erstellen von Zielgruppensegmenten für Kauf und Kundenbindung
 
-In unserem letzten Beitrag haben wir den Prozess der Erstellung von Besuchsabsichten-Segmenten beschrieben und unser erstes Besuchsabsichtssegment &quot;One Hit Wonders&quot;erstellt. Heute werden wir unsere Segmente für Kauf und Bindung erstellen. Wir hatten rund 23 % unserer Besuche segmentiert und unsere Platzhalter für die verbleibenden Besuchsabsichten-Segmente erstellt.
+In unserem letzten Beitrag haben wir den Prozess der Erstellung von Besuchsabsichtssegmenten beschrieben und unser erstes Besuchsabsichtssegment, One Hit Wonders , erstellt. Heute werden wir unsere Kauf- und Kundenbindungssegmente erstellen. Wir hatten etwa 23 % unserer Besuche segmentiert und unsere Platzhalter für die verbleibenden Besuchsabsichtssegmente erstellt.
 
 ![Bild 1](assets/Image-1.png)
 
-Die Besuchsabsichtssegmente, die wir jetzt erstellen, bilden die Grundlage für die Erstellung besucherbasierter Journey-Segmente. Wir werden diese besucherbasierten Journey-Segmente erstellen, nachdem wir unsere Besuchsabsichten-Segmente erstellt haben.
+Die Besuchsabsichtssegmente, die wir jetzt erstellen, sind die Grundlage für die Erstellung besucherbasierter Kunden-Journey-Segmente. Wir erstellen diese besucherbasierten Journey-Segmente, nachdem wir unsere Besuchsabsichtssegmente erstellt haben.
 
-Denken Sie daran, dass das Erstellen von BesuchsIntent-Segmenten ein Eliminationsprozess ist. Wir bauen diese Segmente also nicht in chronologischer Reihenfolge. Wir erstellen unsere Besuchsabsichtssegmente, um die Definition zu beschleunigen, um Folgendes zu definieren:
+Denken Sie daran, dass die Erstellung von Besuchsabsichtssegmenten ein Eliminierungsprozess ist. Wir erstellen diese Segmente also nicht in chronologischer Reihenfolge. Wir erstellen unsere Besuchsabsichtssegmente, damit sie am einfachsten zu definieren und schwieriger zu definieren sind:
 
-1. Intent: 0 - One Hit Wonders
-1. Intent: 3 - Kauf
-1. Absicht: 4 - Bindung
-1. Intent: 2 - Überlegungen
-1. Absicht: 1 - Bewusstsein
+1. Absicht: 0 - One Hit Wonders
+1. Absicht: 3 - Kauf
+1. Absicht: 4. Bindung
+1. Absicht: 2 - Überlegungen
+1. Absicht: 1 - Bewusstheit
 
-In unserem letzten Beitrag nannte ich das Segment &quot;Kauf&quot; &quot;Buchung&quot;, da ich im Reisegewerbe bin. In Zukunft werden wir es aber als Kaufsegment bezeichnen, um die Anwendung auf mehrere Branchen zu vereinfachen.
+In unserem letzten Beitrag habe ich das Segment „Kauf“ als „Buchung“ bezeichnet, da ich im Reisegeschäft bin. Künftig nennen wir es jedoch das Segment „Einkauf“, um es einfacher zu machen, es auf mehrere Branchen anzuwenden.
 
-Je klarer das Signal, desto einfacher ist es, das Segment zu erstellen. In unserem letzten Beitrag haben wir unser Segment &quot;One Hit Wonders&quot;erstellt, das am einfachsten zu definieren war, da es sich lediglich um Bounce-Traffic handelt. Sie werden feststellen, dass auch die Segmente für die Absicht von Kauf und Bindung sehr einfach zu definieren sind, da sie auf sehr klaren Signalen basieren.
+Je klarer das Signal, desto einfacher ist es, das Segment zu erstellen. In unserem letzten Beitrag haben wir unser Segment One Hit Wonders erstellt, das am einfachsten zu definieren war, da es nur Traffic zurückgibt. Sie werden feststellen, dass die Segmente Kaufabsicht und Kundenbindungsabsicht ebenfalls sehr einfach zu definieren sind, da sie auf sehr klaren Signalen basieren.
 
-## Journey des Kunden unterscheidet sich von der Kaufneigung
+## Kunden-Journey unterscheidet sich von der Kaufneigung
 
-Beim Erstellen unseres Segments &quot;Kaufabsicht&quot;ist es wichtig, sich daran zu erinnern, dass sich die Identifizierung, wo sich ein Kunde auf seiner Journey befindet, von der Tendenz unterscheidet. Möglicherweise verfügen Sie über einige Kaufneigungsmodelle, mit denen Webbesucher bewertet werden, um vorherzusagen, wie wahrscheinlich ein Kauf ist. Diese Modelle sind zwar überaus nützlich, unterscheiden sich aber vom Segment &quot;Kaufabsicht&quot;, das wir heute erstellen werden.
+Wenn wir uns mit dem Aufbau unseres Kaufabsichtssegments befassen, ist es wichtig, sich zu erinnern, dass die Identifizierung des Ortes, an dem sich ein Kunde in seinem Journey befindet, von der Tendenz unterscheidet. Möglicherweise verfügen Sie über einige Kaufneigungsmodelle, mit denen Web-Besucher bewerten, um vorherzusagen, mit welcher Wahrscheinlichkeit sie einen Kauf tätigen werden. Diese Modelle sind äußerst nützlich, unterscheiden sich jedoch von dem Segment der Kaufabsicht, das wir heute erstellen werden.
 
-Während ein Tendenzmodell vorhersagen soll, ob ein Besucher etwas kauft, versuchen unsere Besuchsabsichten-Segmente zu verstehen, wo sich eine Person in ihrer Journey befindet. Die Verwendung von Intent-Segmenten zum Verständnis des Geistes eines Kunden hilft uns, Inhalte zu personalisieren und das Marketing so anzupassen, dass der richtige Traffic zur Unterstützung unserer Verkaufspipelines geleitet wird. Unser Zielgruppensegment Kauf sucht also nach expliziten Verhaltenssignalen, die darauf hinweisen, dass ein Besucher einen Kauf tätigen möchte.
+Während ein Tendenzmodell vorhersagen soll, ob eine Besucherin oder ein Besucher einen Kauf tätigt, versuchen unsere Besuchsabsichtssegmente zu verstehen, wo eine Person sich in ihrem kaufenden Journey befindet. Die Verwendung von Intent-Segmenten, um den Gemütszustand eines Kunden zu verstehen, hilft uns, Inhalte zu personalisieren und das Marketing so anzupassen, dass der richtige Traffic für unsere Vertriebs-Pipeline entsteht. Daher sucht unser Segment Kaufabsicht nach expliziten Verhaltenssignalen, die darauf hinweisen, dass ein Besucher einen Kauf tätigen möchte.
 
-## Erstellen des Zielgruppensegments für den Besuch von Käufen
+## Erstellen des Segments „Purchase Visit Intent“
 
-Das Segment Besuchsabsicht für Kauf ist einfach zu definieren. In meinem Fall zeigt jeder, der auf die Schaltfläche &quot;Jetzt buchen&quot; klickt, eine Art Absicht an, eine Kreuzfahrt zu buchen. Dies ähnelt dem Klicken auf &quot;Auschecken&quot;für einen Online-Händler oder auf einen Link &quot;Abonnieren&quot;in einem Medienkontext.
+Das Segment „Purchase Visit Intent“ lässt sich einfach definieren. In meinem Fall signalisiert jeder, der auf den „Jetzt buchen“-Button klickt, eine Art Absicht, eine Kreuzfahrt zu buchen. Dies ähnelt dem Klicken auf „Checkout“ bei einem Online-Händler oder auf einen Link „Abonnieren“ in einem Medienkontext.
 
-Sie müssen ein gewisses Maß an Urteilsvermögen bei der Entscheidung darüber walten lassen, welches Signal für die absichtliche Kaufabsicht verwendet werden soll. Unser Segment &quot;Kaufabsicht&quot;soll alle Käufe enthalten, die Konversionsrate darf jedoch nicht 100 % betragen. Daher möchten wir die Kaufbestätigungs- oder Dankeseite für dieses Segment nicht verwenden.
+Bei der Entscheidung, welches Signal für die Ableitung der Kaufabsicht verwendet werden soll, müssen Sie ein gewisses Urteilsvermögen walten lassen. Wir möchten, dass unser Segment „Kaufabsicht“ alle Käufe enthält, aber die Konversionsrate sollte nicht 100 % betragen. Daher möchten wir für dieses Segment nicht die Seite mit der Kaufbestätigung oder der Dankeseite verwenden.
 
-In ähnlicher Weise ist der Drilldown-Trichter zur Überprüfung Ihrer Kaufseite (oder der unmittelbar vor der Kaufbestätigung liegende Bereich) wahrscheinlich zu weit entfernt, um für Analysen und Targeting nützlich zu sein.
+Ebenso ist die Seite Einkauf überprüfen (oder was auch immer unmittelbar vor der Kaufbestätigung steht) wahrscheinlich zu weit unten im Trichter, um für Analysen und Targeting nützlich zu sein.
 
-Wenn Sie den Trichter weiter nach oben bewegen, kann es weniger deutlich werden, ob das Signal nützlich ist, um anzugeben, dass ein Kunde einen Kauf tätigen möchte. In meinem Fall ähnelt &quot;Book Now&quot;einem &quot;Checkout&quot;-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. In Einzelhandelskontexten ist der Checkout jedoch möglicherweise noch zu weit unten im Trichter und der Warenkorb oder Hinzufügen zum Warenkorb könnte besser sein.
+Wenn Sie den Trichter weiter hinaufgehen, wird es möglicherweise weniger klar, ob das Signal nützlich ist, um anzuzeigen, dass ein Kunde einen Kauf beabsichtigt. In meinem Fall ähnelt „Jetzt buchen“ einem „Checkout“-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. Aber in einem Einzelhandelskontext kann der Checkout immer noch zu weit unten im Trichter liegen und Warenkorb anzeigen oder sogar Zum Warenkorb hinzufügen könnte besser sein.
 
-Wir können uns das wie ein Lebensmittelgeschäft vorstellen. Wenn jemand ein Produkt aus dem Regal nimmt, bedeutet das nicht, dass er es kaufen will. Selbst wenn sie ihn in ihren Warenkorb legen, könnten sie ihn sofort wieder ins Regal stellen. Aber wenn sie das Produkt in ihren Warenkorb legen und damit anfangen, damit herumzulaufen, besteht eine ziemlich gute Chance, dass sie es kaufen wollen. Und wenn sie mit diesem Produkt in die Kasse gehen, ist es eine ziemlich gute Wette, dass sie kaufen werden.
+Wir können es uns wie einen Lebensmittelladen vorstellen. Wenn jemand ein Produkt aus dem Regal abholt, bedeutet das nicht, dass er beabsichtigt, es zu kaufen. Selbst wenn sie es in ihren Warenkorb legen, können sie es sofort wieder zurück ins Regal legen. Aber wenn sie das Produkt in den Warenkorb legen und anfangen damit herumzulaufen, ist die Wahrscheinlichkeit recht groß, dass sie es kaufen wollen. Und wenn sie mit diesem Produkt in die Kasse gehen, ist das eine ziemlich gute Wette, dass sie kaufen werden.
 
-Ich schlage vor, besuchte Seiten oder andere explizite Kaufabsichten-Signale zu verwenden und andere, weniger direkte Signale zu vermeiden, um die Kaufabsicht zu identifizieren. Beispielsweise würde ich keine Anzahl von Sitzungen oder Seiten in einer Sitzung oder einer ähnlichen Sitzung verwenden. Diese indirekten Signale geben die Berücksichtigung an, nicht die Kaufabsicht. Beachten Sie, dass der Zweck dieses Segments darin besteht, die Absicht des Besuchers und nicht seine Neigung zum Besuch zu vermitteln.
+Ich schlage vor, besuchte Seiten oder andere explizite Kaufabsichtssignale zu verwenden und andere, weniger direkte Signale zu vermeiden, um die Kaufabsicht zu identifizieren. Beispielsweise würde ich nicht die Anzahl der Sitzungen oder die Anzahl der Seiten in einer Sitzung oder Ähnliches verwenden. Diese indirekten Signale deuten auf eine Berücksichtigung, nicht auf eine Kaufabsicht hin. Denken Sie daran, dass dieses Segment dazu dient, die Absicht des Besuchers für den Besuch abzuleiten, nicht seine Neigung.
 
-### Verwenden von Analytics Workspace zur Identifizierung von KaufIntent-Signalen
+### Verwenden von Analytics Workspace zur Identifizierung von Kaufabsichtssignalen
 
-Der Fallout-Bericht ist sehr nützlich, um ein gutes Signal zu identifizieren, das auf die Kaufabsicht hinweist. Suchen Sie nach einem Ort, der die Absicht logisch angibt. Sie können bestätigen, dass der Schritt die Absicht anzeigt, wenn Sie einen wichtigen Fallout sehen, der zu diesem Schritt führt, gefolgt von einem kleineren Fallout für den Schritt unmittelbar danach.
+Der Fallout -Bericht ist sehr nützlich, um ein gutes Signal zu identifizieren, das auf eine Kaufabsicht hinweist. Suchen Sie nach einem Ort, der logisch Absicht anzeigt. Sie können bestätigen, dass der Schritt eine Absicht anzeigt, wenn Sie einen bemerkenswerten Fallout sehen, der zu diesem Schritt führt, oft gefolgt von einem kleineren Fallout für den Schritt unmittelbar danach.
 
 ![Bild 2](assets/Image-2.png)
 
-Es ist auch nützlich, sich die Konversionsraten anzusehen, die mit den verschiedenen Seiten auf Ihrer Site verbunden sind. Dies ist besonders hilfreich, um Seiten zu identifizieren, die einen Kaufabsicht angeben, aber möglicherweise nicht für einen Kauf benötigt werden (z. B. Finanzierungsseiten, Einkaufs-Konfigurationsseiten usw.).
+Es ist auch nützlich, die Konversionsraten zu betrachten, die mit den verschiedenen Seiten auf Ihrer Site verbunden sind. Dies ist besonders hilfreich, um Seiten zu identifizieren, die eine Kaufabsicht anzeigen, aber möglicherweise nicht zu einem Kauf erforderlich sind (z. B. Finanzierungsseiten, Kaufkonfigurationsseiten usw.).
 
 ![Bild 3](assets/Image-3.png)
 
-Schließlich ist es wichtig, alle Seiten zwischen Kaufstart und Kaufbestätigung in Ihr Segment einzuschließen. Besucher können herumspringen und an verschiedenen Punkten wieder in Ihren Kauffluss eintreten.
+Schließlich ist es wichtig, alle Seiten zwischen Kaufstart und Kaufbestätigung in Ihrem Segment einzubeziehen. Besucher können an verschiedenen Punkten Ihren Kauffluss zurückschrauben und ihn erneut aufrufen.
 
-### Ausschließen anderer Segmente
+### Andere Segmente ausschließen
 
-Erinnern Sie sich an unseren ersten Beitrag, dass sich unsere Besuchsabsichten-Segmente gegenseitig ausschließen und vollständig erschöpfend sein müssen. Das ist absurd, dass du in dieser Serie viel hören wirst.
+Denken Sie an unseren ersten Beitrag. Unsere Besuchsabsichtssegmente müssen sich gegenseitig ausschließen und vollständig erschöpfend sein. Dieser Refrain wird in dieser Serie viel zu hören sein.
 
-Stellen Sie sicher, dass das Segment &quot;Kaufabsicht&quot;die Segmente &quot;Eins&quot;und &quot;Fertig&quot;ausschließt. Sie sollten nur die Segmente &quot;Eins&quot;und &quot;Fertig&quot;ausschließen, da die für den Kaufabsichten verwendeten Signale sehr spezifisch sind.
+Stellen Sie sicher, dass Ihr Kaufabsichtssegment das Segment „Ein“ und „Fertig“ ausschließt. Sie sollten nur das Segment „Ein“ und „Fertig“ ausschließen müssen, da die Signale, die wir für die Kaufabsicht verwenden, sehr spezifisch sind.
 
-Beachten Sie, dass durch das Ausschließen der Segmente &quot;Eins&quot;und &quot;Fertig&quot;Personen ausgeschlossen werden können, die Ihre Site erneut auf einer Checkout-Seite aufrufen. Das ist in Ordnung. Die Definition von &quot;Eins&quot;und &quot;Fertig&quot;ist nur eine Seitenansicht. Das bedeutet, dass selbst wenn ein Besucher eine Checkout-Seite aufruft oder aktualisiert, sein Besuch nicht fortgesetzt wurde. Daher gibt es keinen Ausdruck für einen Kaufabsichten.
+Beachten Sie, dass beim Ausschließen des Segments Eins und Fertig möglicherweise eine Person ausgeschlossen wird, die auf einer Checkout-Seite erneut auf Ihre Website gelangt. Das ist in Ordnung. Die Definition von Eins und Fertig ist eine Seitenansicht, was bedeutet, dass selbst dann, wenn ein Besucher eine Checkout-Seite betritt oder auf dieser aktualisiert, sein Besuch nicht fortgeschritten ist, daher kein Ausdruck der Kaufabsicht vorhanden ist.
 
-### Das Segment &quot;Kaufabsicht&quot;in Segment Builder
+### Das Segment Kaufabsicht in Segment Builder
 
-Die Segmentdefinition für den Kaufabsichten ist sehr einfach.
+Die Segmentdefinition für die Kaufabsicht ist sehr einfach.
 
-Schließen Sie unter Verwendung des Besuchsbehälters die Seiten oder anderen Aktionen ein, die explizit auf eine Kaufabsicht hinweisen. Wenn Sie mehrere Einschlussbedingungen haben, stellen Sie sicher, dass Sie sie in einem Container platzieren, der durch die &quot;Und&quot;-Bedingung verbunden ist.
+Schließen Sie mit dem Besuchs-Container die Seiten oder andere Aktionen ein, die explizit eine Kaufabsicht anzeigen. Wenn Sie mehrere Einschlussbedingungen haben, stellen Sie sicher, dass Sie sie in einen Container einfügen, der durch die „Und“-Bedingung verbunden ist.
 
-Fügen Sie dem Segment, das durch die &quot;Und&quot;-Bedingung verbunden wird, einen Container zum Ausschließen hinzu. Fügen Sie Ihre Segmentdefinition &quot;One Hit Wonders&quot;(Seitenansichten gleich 1) zum Container Ausschließen hinzu.
+Fügen Sie einen Ausschluss -Container zu dem Segment hinzu, das durch die Bedingung „Und“ verbunden ist. Fügen Sie Ihre Segmentdefinition One Hit Wonders (Seitenansichten gleich 1) zum Ausschluss-Container hinzu.
 
 ![Bild 4](assets/Image-4.png)
 
-Als Best Practice sollten Sie sicherstellen, dass Sie Ihre Container beschriften. Sie werden sich freuen, insbesondere da unsere Segmentdefinitionen komplexer werden.
+Als Best Practice sollten Sie sicherstellen, dass Sie Ihre Container beschriften. Sie werden sich freuen, dass Sie dies getan haben, insbesondere da unsere Segmentdefinitionen komplexer werden.
 
-Nachdem wir nun das Segment &quot;Kaufabsicht&quot;erstellt haben, können wir die Workspace für die Datenqualität des Besuchsintents verwenden, um zu sehen, dass sich unser Zielgruppensegment &quot;Kauf&quot;gegenseitig mit unserem Segment &quot;Eins&quot;und &quot;Fertig&quot;ausschließt.
+Nachdem wir nun das Segment „Kaufabsicht“ erstellt haben, können wir die Workspace „Besuchsabsicht - Datenqualität“ verwenden, um zu sehen, dass sich unser Segment „Kaufabsicht“ und unser Segment „Eins und Fertig“ gegenseitig ausschließen.
 
 ![Bild 5](assets/Image-5.png)
 
-## Erstellen des Intent-Segments für Besuche bei der Datenaufbewahrung
+## Erstellen des Segments „Retention Visit Intent“
 
-Im Kreuzfahrtgeschäft kommen viele Gäste auf unsere Website, um eine Buchung zu verwalten, aber nicht unbedingt, um einen Kauf zu tätigen. Sie können auf die Website kommen, um Reisedaten einzugeben, ihre Reiseroute zu überprüfen, Abendreservierungen zu machen oder eine Reihe anderer Dinge, ohne für eine Kreuzfahrt einkaufen. Unsere Gäste können auch Ausflüge an der Küste oder andere Erlebnisse erwerben. Wir betrachten diese Verbesserungen als Teil der Aufbewahrung, daher halten wir sie von unserem Buchungssegment (das wir in dieser Blogserie &quot;Kauf&quot; nennen) getrennt.
+Im Kreuzfahrtgeschäft kommen viele Gäste auf unsere Website, um eine Buchung zu verwalten, aber nicht unbedingt, um einen Kauf zu tätigen. Sie können auf die Website kommen, um Reiseinformationen einzugeben, ihre Reiseroute zu überprüfen, Abendessenreservierungen vorzunehmen oder eine Reihe anderer Dinge, ohne für eine Kreuzfahrt einzukaufen. Unsere Gäste können auch Landausflüge oder andere Verbesserungen ihrer Erfahrung erwerben. Wir betrachten diese Verbesserungen als Teil der Bindung, daher halten wir sie von unserem Buchungssegment (das wir in dieser Blog-Reihe als „Kauf“ bezeichnen) getrennt.
 
-Einzelhandelskunden können möglicherweise Renditen erwirtschaften oder ihr Treueprogramm verwalten. Abonnenten von Medien oder Technologie verwenden möglicherweise das Produkt. Wenn Ihr Gast auf Ihrer Website ist, um seine Beziehung zu Ihnen zu verwalten, ist dies ein Treuebesuch und wir sollten uns diese Signale ansehen. Und wenn Sie ein Online-Produkt anbieten, wie Media, Tech, Online Banking oder andere, gibt es wahrscheinlich viele andere Arten von Besuchsintentionssegmenten, die wir in dieser Reihe nicht diskutieren werden.
+Einzelhandelskunden können möglicherweise Rücksendungen vornehmen oder ihr Treueprogramm verwalten. Abonnentinnen und Abonnenten von Medien oder Technologie verwenden das Produkt möglicherweise. Wenn sich Ihr Gast auf Ihrer Website befindet, um seine Beziehung zu Ihnen zu verwalten, ist dies ein Kundenbesuch, und wir sollten uns diese Signale ansehen. Und wenn Sie ein Online-Produkt bereitstellen, wie etwa Media, Tech, Online Banking oder andere, gibt es wahrscheinlich viele andere Arten von Besuchsabsichtssegmenten, die wir in dieser Serie nicht besprechen werden.
 
-Wie beim Segment &quot;Kaufabsicht&quot;suchen wir sehr explizite Absichtserklärungen. Für mich gibt es einen kompletten Bereich der Website, der sich der Verwaltung einer Kreuzfahrt widmet, damit es einfach ist, diese Seiten zu identifizieren. Dies könnte für andere Unternehmen komplexer sein. Suchen Sie nach Signalen wie Anmeldungen, Kontoverwaltung, Besuchen zur Unterstützung von Seiten und Ähnliches.
+Wie beim Segment „Kaufabsicht“ suchen wir nach sehr expliziten Anzeichen für eine Absicht. Für mich gibt es einen ganzen Bereich der Website, der sich mit der Verwaltung einer Kreuzfahrt beschäftigt, damit diese Seiten leicht zu erkennen sind. Dies könnte für andere Unternehmen komplexer sein. Achten Sie auf Signale wie Anmeldungen, Kontoverwaltung, Besuche auf Support-Seiten und Ähnliches.
 
-Ich sollte beachten, dass &quot;Treue&quot;ein wenig ein unangenehmer Name für diesen Besuchsabsichten ist, da der Besucher nicht auf unserer Site ist, &quot;sodass ich als Kunde beibehalten werden kann&quot;. Treue ist unsere Absicht für diesen Besuch. Denken Sie einfach daran, für unsere Kunden einfühlsam zu sein und einen Kundenfokus zu pflegen!
+Ich sollte beachten, dass „Bindung“ ein etwas seltsamer Name für diesen Besuchswunsch ist, da der Besucher nicht auf unserer Website ist, „sodass ich als Kunde beibehalten werden kann“. Die Bindung ist unsere Absicht für diesen Besuch. Denken Sie nur daran, gegenüber unseren Kunden empathisch zu sein und einen Customer-First-Fokus zu bewahren!
 
-### Verwenden von Analytics Workspace zur Identifizierung von Intent-Signalen
+### Verwenden von Analytics Workspace zur Identifizierung von Aufbewahrungsabsichtssignalen
 
-Auch hier hilft uns Analytics Workspace bei der Identifizierung der Bindungsabsichten. Sie können die Seiten, den Sitebereich oder die benutzerdefinierten Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Einkaufskonversionsraten. In unserem Fall haben die Seiten &quot;Online Check-In&quot;und &quot;Shore Excursion&quot;(Shorex) vergleichsweise niedrigere Konversionsraten als andere Seiten, die logischerweise mit dem Kauf und Einkauf verbunden sind.
+Auch hier hilft uns Analytics Workspace bei der Identifizierung der Aufbewahrungsabsicht. Sie können die Seiten, den Site-Bereich oder benutzerdefinierte Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Kaufkonversionsraten. In unserem Fall stellen wir fest, dass die Seiten für Online-Check-In und Shore-Exkursion (Shorex) relativ niedrigere Konversionsraten aufweisen als andere Seiten, die logischer mit Shopping und Einkauf verbunden sind.
 
 ![Bild 6](assets/Image-6.png)
 
-Es empfiehlt sich auch, in Workspace nach Seiten mit hohem Traffic zu suchen. Überprüfen Sie die Liste der Seiten mit hohem Traffic-Aufkommen und entscheiden Sie, ob sie einen Bindungszweck angeben.
+Es empfiehlt sich auch, in Workspace nach Seiten mit hohem Traffic zu suchen. Scannen Sie die Liste der Seiten mit hohem Traffic und entscheiden Sie, ob sie eine Aufbewahrungsabsicht anzeigen.
 
-## Ausschließen anderer Segmente
+## Andere Segmente ausschließen
 
-Auch hier müssen sich unsere Segmente für Besuchsabsichten gegenseitig ausschließen und vollständig erschöpfend sein. Wenn du es noch nicht müde hast, das zu lesen, wirst du es tun! Für unser Bindungsabsichten-Segment ist es von entscheidender Bedeutung, Kaufabsichten auszuschließen.
+Auch hier müssen sich unsere Besuchsabsichtssegmente gegenseitig ausschließen und vollständig erschöpfend sein. Wenn Sie es noch nicht leid sind, dies zu lesen, werden Sie es sein! Für unser Segment „Aufbewahrungsabsicht“ ist es von entscheidender Bedeutung, Kaufabsichtsverhaltensweisen auszuschließen.
 
-Für die meisten von uns schließen sich Kaufabsichten und Bindungsabsichten nicht gegenseitig aus. Wir haben Gäste, die auf die Website kommen, um ihre bevorstehende Kreuzfahrt zu verwalten, aber auch um ihre nächste Reise zu buchen (danke!). Wenn Sie ein Restaurant sind, kann ein Besucher seine Treuepunkte überprüfen und dann eine Online-Bestellung aufgeben.
+Für die meisten von uns schließen Kaufabsicht und Aufbewahrungsabsicht sich nicht gegenseitig aus. Wir haben Gäste, die auf die Website kommen, um ihre bevorstehende Kreuzfahrt zu verwalten, aber auch um ihre nächste Reise zu buchen (danke!). Wenn Sie ein Restaurant sind, kann ein Besucher seine Treuepunkte überprüfen und dann eine Online-Bestellung aufgeben.
 
-Auch wenn sich das Verhalten nicht gegenseitig ausschließt, müssen unsere Journey-Segmente für die Kundenanalyse verwendet werden. Wir können weitere sehr interessante Segmente erstellen, um die Überschneidung zwischen Kauf- und Treueverhalten zu analysieren. Für unsere aktuellen Zwecke müssen diese Segmente jedoch sich gegenseitig ausschließen.
+Auch wenn sich das Verhalten nicht gegenseitig ausschließt, müssen unsere Segmente für die Analyse des Kunden-Journey verwendet werden. Wir können weitere sehr interessante Segmente erstellen, um die Überschneidung zwischen Kauf- und Treueverhalten zu analysieren. Für unsere aktuellen Zwecke müssen diese Segmente sich jedoch gegenseitig ausschließen.
 
-Da die Nachfragegenerierung eines der Hauptziele des Marketing ist, schließt unser Segment zur Bindungsabsicht den Kaufabsichten aus. Wenn also jemand zur Verwaltung einer Kreuzfahrt auf unsere Website kommt, aber auch die Absicht anzeigt, eine neue Kreuzfahrt zu buchen, wird dieser Besuch zum Segment &quot;Kaufabsicht&quot;geleitet.
+Da die Nachfragegenerierung eines der Hauptziele des Marketings ist, schließt unser Segment „Retention Intent“ die Kaufabsicht aus. Mit anderen Worten, wenn jemand auf unsere Website kommt, um eine Kreuzfahrt zu verwalten, aber auch die Absicht zeigt, eine neue Kreuzfahrt zu buchen, wird dieser Besuch zum Segment Kaufabsicht gehen.
 
-### Das Bindungsabsichtssegment im Segmentaufbau
+### Segment Builder für die Aufbewahrungsabsicht
 
-Unsere Segmentdefinitionen werden immer deutlicher. Fügen Sie Besuche in Ihr Segment ein. Fügen Sie Ihre BindungsIntent-Signale hinzu. Für mich war das einfach. Wenn der Seitenname mit &quot;bge:&quot;(unseren gebuchten Gastseiten) beginnt, befinden Sie sich im Segment. Ich habe Seitenansichten hinzugefügt, die für zusätzliche Messungen größer sind als 1 (aber wir schließen trotzdem eine Trefferfrage unten aus).
+Unsere Segmentdefinitionen werden immer knapper. Besichtigungen in Ihr Segment einschließen. Fügen Sie Ihre Retention Intent-Signale hinzu. Für mich war das ganz einfach. Wenn der Seitenname mit „bge:“ (unsere gebuchten Gastseiten) beginnt, befinden Sie sich im Segment. Ich habe Seitenansichten hinzugefügt, die größer als eins für zusätzliche Kennzahlen sind (aber wir schließen unten immer noch ein Trefferwunder aus).
 
-Fügen Sie dann Container zum Ausschließen für Ihre Besuche &quot;One Hit Wonders&quot;und &quot;Purchase Intent&quot;hinzu. Stellen Sie sicher, dass Ihre Container mit der Bedingung &quot;Und&quot;verbunden sind.
+Fügen Sie dann Ausschluss-Container für Ihre One-Hit-Wunder und Kaufabsichtsbesuche hinzu. Stellen Sie sicher, dass Ihre Container mit der Bedingung „Und“ verbunden sind.
 
 ![Bild 7](assets/Image-7.png)
 
-Sehen Sie sich erneut Ihren Workspace für die Datenqualität des Besuchsabsichten an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Besuchsabsichten-Segmente nehmen eine schöne Form an!
+Sehen Sie sich erneut Ihre Besuchsabsicht Data Quality Workspace an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Visit Intent-Segmente nehmen eine schöne Form an!
 
 ![Bild 8](assets/Image-8.png)
 
-An dieser Stelle haben wir drei unserer fünf Segmente für Besuchsabsichten konfiguriert. Diese Segmente schließen sich gegenseitig aus. In unserem nächsten Beitrag erstellen wir die endgültigen Segmente für Besuchsinteressen, Betrachtung und Bewusstsein, und unsere Segmente werden alle vollständig sein. Sobald die Segmente für den Besuchsabsichten eingerichtet sind, führen wir sie in besucherbasierte Segmente zusammen, die Sie für die Analyse und Personalisierung als sehr nützlich erachten.
+Zu diesem Zeitpunkt haben wir drei unserer fünf Besuchsabsichtssegmente konfiguriert. Diese Segmente schließen sich unseres Erachtens gegenseitig aus. In unserem nächsten Beitrag erstellen wir die endgültigen Besuchsabsichtssegmente Überlegungen und Bewusstseinsbildung, und unsere Segmente sind alle vollständig erschöpfend. Sobald unsere Besuchsabsichtssegmente eingerichtet sind, bringen wir sie zu besucherbasierten Segmenten zusammen, die Sie für die Analyse und Personalisierung sehr nützlich finden.
 
 ## Autor
 

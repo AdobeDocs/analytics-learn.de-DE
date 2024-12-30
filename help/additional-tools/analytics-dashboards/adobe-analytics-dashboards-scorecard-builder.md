@@ -1,6 +1,6 @@
 ---
 title: Scorecard-Builder für Adobe Analytics-Dashboards
-description: In diesem Video erfahren Sie, wie Sie "Scorecards"in Analysis Workspace erstellen und freigeben, die in Adobe Analytics-Dashboards (mobile App) angezeigt werden können.
+description: In diesem Video erfahren Sie, wie Sie „Scorecards“ in Analysis Workspace erstellen und freigeben, die in Adobe Analytics-Dashboards (Mobile App) angezeigt werden.
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 29%
 
 # Scorecard-Builder für Adobe Analytics-Dashboards
 
-In diesem Video erfahren Sie, wie Sie &quot;Scorecards&quot;in Analysis Workspace erstellen und freigeben, die in Adobe Analytics-Dashboards (mobile App) angezeigt werden können.
+In diesem Video erfahren Sie, wie Sie „Scorecards“ in Analysis Workspace erstellen und freigeben, die in Adobe Analytics-Dashboards (Mobile App) angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 

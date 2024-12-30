@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Customer Journey-Segmenten
-description: Erfahren Sie, wie Sie in Adobe Analytics verhaltensbasierte Journey-Segmente erstellen und das Kundenerlebnis mit Adobe Experience Cloud verbessern können, indem Sie diese Anleitung Schritt für Schritt befolgen.
+description: Erfahren Sie in dieser schrittweisen Anleitung, wie Sie verhaltensbasierte Kunden-Journey-Segmente in Adobe Analytics erstellen und das Kundenerlebnis mit Adobe Experience Cloud verbessern.
 feature: Segmentation
 role: User
 level: Experienced
@@ -18,85 +18,85 @@ ht-degree: 1%
 
 # Erstellen von Customer Journey-Segmenten
 
-Erfahren Sie, wie Sie in Adobe Analytics verhaltensbasierte Journey-Segmente erstellen und das Kundenerlebnis mit Adobe Experience Cloud verbessern können, indem Sie diese Anleitung Schritt für Schritt befolgen.
+Erfahren Sie in dieser schrittweisen Anleitung, wie Sie verhaltensbasierte Kunden-Journey-Segmente in Adobe Analytics erstellen und das Kundenerlebnis mit Adobe Experience Cloud verbessern.
 
-Erstellen wir bessere Journey-Segmente für Kunden! In dieser Reihe verwenden wir Adobe Analytics, um verhaltensbasierte Segmente zu definieren, Zielgruppengrößen zu schätzen und Benutzerbewegungen zu verfolgen. Schließlich können Sie Medien personalisieren und das Kundenerlebnis mit Adobe Experience Cloud verbessern. Beachten Sie, dass diese Segmente aktuell sind und aktualisiert werden sollten, wenn Sie mehr über Ihre Kunden erfahren. Auch wenn die Berichterstellung einige Herausforderungen darstellen kann, machen Sie sich keine Sorgen, ich werde Sie durch sie führen! Beginnen wir mit der Erstellung unseres ersten Segments für Customer Journey, beginnend mit dem Segment &quot;One Hit Wonders&quot;.
+Erstellen wir bessere Kunden-Journey-Segmente! In dieser Serie verwenden wir Adobe Analytics, um verhaltensbasierte Segmente zu definieren, Zielgruppengrößen zu schätzen und Benutzerbewegungen zu verfolgen. Am Ende werden Sie in der Lage sein, Medien zu personalisieren und das Kundenerlebnis mit Adobe Experience Cloud zu verbessern. Denken Sie daran, dass diese Segmente noch vorhanden sind und aktualisiert werden sollten, wenn Sie mehr über Ihre Kunden erfahren. Auch wenn die Berichterstellung einige Herausforderungen mit sich bringen kann, keine Sorge, ich werde Sie durch diese führen! Beginnen wir mit der Erstellung unserer ersten Gruppe von Kunden-Journey-Segmenten, beginnend mit dem Segment „One Hit Wonders“.
 
-Heute erstellen wir Platzhalter für unsere ersten Kundensegmente, erstellen eine Adobe Analytics-Workspace, um unsere Journey-Segmente zu definieren und definieren unser erstes Segment &quot;One Hit Wonders&quot;.
+Heute erstellen wir Platzhalter für unsere ersten Kundensegmente, erstellen eine Adobe Analytics-Workspace, mit der wir unsere Journey definieren können, und definieren unser erstes Segment, „One Hit Wonders“.
 
-Am Ende dieser Serie können Sie in Adobe Analytics Kundensegmente auf der Grundlage von Verhaltenssignalen erstellen. Sie können die Größe der einzelnen Zielgruppen in jeder Phase des Journey schätzen und verstehen, mit welcher Rate Benutzer zwischen diesen Phasen wechseln. Außerdem können Sie diese Journey-Zielgruppen von Kunden in Adobe Experience Cloud exportieren, um Personalisierung und Medien-Targeting zu ermöglichen.
+Am Ende dieser Serie werden Sie in der Lage sein, Kundensegmente für Journey in Adobe Analytics auf der Grundlage von Verhaltenssignalen zu erstellen. Sie können die Größe der einzelnen Zielgruppen in jedem Stadium des Journey schätzen und verstehen, mit welcher Geschwindigkeit sich Benutzer zwischen diesen Stadien bewegen. Außerdem können Sie diese Kunden-Journey-Zielgruppen in Adobe Experience Cloud exportieren, um Personalisierung und Medien-Targeting zu ermöglichen.
 
-Jedes Unternehmen ist anders, was bedeutet, dass Ihre Journey-Segmente Ihrer Kunden anders aussehen als meine. Anstatt spezifische Formeln für Ihre Segmente zu formulieren, sollten Sie daher einige Dinge vorschlagen, die Sie untersuchen sollten, und einen allgemeinen Prozess für deren Erstellung.
+Jedes Unternehmen ist anders, und das bedeutet, dass Ihre Kunden-Journey-Segmente anders aussehen als meine. Anstatt spezifische Formeln für Ihre Segmente vorzuschreiben, schlagen Sie einige Dinge vor, die Sie beachten sollten, und einen allgemeinen Prozess für ihre Erstellung.
 
-Beachten Sie außerdem, dass Ihre Journey-Segmente lebende Segmente sein werden. Dies ist keine einmalige Übung. Wenn Sie mehr über Ihre Kunden erfahren, aktualisieren Sie diese Segmente. Dies stellt einige Herausforderungen für die Berichterstellung dar. Die Benutzer möchten Kohärenz in ihren Berichten sicherstellen. Wenn sich unsere Segmentdefinitionen ändern, ändern sich auch die Zahlen in den Berichten.
+Beachten Sie außerdem, dass es sich bei Ihren Kunden-Journey-Segmenten um aktive Segmente handelt. Dies ist keine einmalige Aufgabe. Wenn Sie mehr über Ihre Kunden erfahren, aktualisieren Sie diese Segmente. Dies stellt das Reporting vor einige Herausforderungen. Die Benutzer wünschen Konsistenz in ihren Berichten. Wenn sich unsere Segmentdefinitionen ändern, ändern sich auch die Zahlen in den Berichten.
 
-## Erste Schritte mit Besuchsabsichten-Segmenten
+## Erste Schritte mit Besuchsabsichtssegmenten
 
-Der erste Schritt beim Erstellen von Kundensegmenten besteht darin, zu erkennen, warum ein Journey auf Ihrer Website mithilfe von Verhaltenssignalen und, falls verfügbar, mithilfe von Kundendaten angezeigt wird. Wir werden eine Reihe von Besuchsinstanzen erstellen, um alle Besuche auf der Website zu kategorisieren. An dieser Stelle müssen sich unsere Besuchsabsichten-Segmente gegenseitig ausschließen und vollständig erschöpfend sein. Jeder Besuch sollte zu einem Segment gehören, und nur zu einem Segment mit Besuchsabsicht .
+Der erste Schritt zum Erstellen von Kunden-Journey-Segmenten besteht darin, mithilfe von Verhaltenssignalen und, falls verfügbar, Voice of Customer-Daten abzuleiten, warum sich ein Gast auf Ihrer Website befindet. Wir erstellen eine Reihe von Segmenten für die Besuchsabsicht, um alle Besuche auf der Website zu kategorisieren. An dieser Stelle müssen sich unsere Besuchsabsichtssegmente gegenseitig ausschließen und vollständig erschöpfend sein. Jeder Besuch sollte einem und nur einem Besuchsabsichtssegment angehören.
 
-Die Segmente für Besuchsabsichten beschreiben einen Besuch. Daher verwenden wir den Besuchsbehälter in der Segmentdefinition.
+Die Besuchsabsichtssegmente beschreiben einen Besuch. Daher verwenden wir den Besuchs-Container in der Segmentdefinition.
 
-Zu meinen anfänglichen Segmenten für den Besuchsabsichten gehörten:
+Zu meinem ersten Satz von Besuchsabsichtssegmenten gehörten:
 
-* One Hit Wonders
-* Bewusstsein
+* Ein Treffer wundert sich
+* Bewusstheit
 * Übertragung
 * Buchung (Kauf)
-* Bindung (Buchung/Kauf verwalten)
+* Aufbewahrung (Buchung/Kauf verwalten)
 
-Damit meine Segmente für den Besuchsabsichten einfach zu verwenden sind, habe ich meinen Segmentnamen den Präfix &quot;Intent:&quot;, gab ihnen eine Nummer, um die Sortierung zu ermöglichen, und habe sie mit &quot;Intent&quot;getaggt. Meine Segmente sahen wie das folgende Bild aus.
+Um die Verwendung meiner Besuchsabsichtssegmente zu vereinfachen, habe ich meinen Segmentnamen das Präfix „Absicht:“ vorangestellt, ihnen eine Nummer zur Aktivierung der Sortierung gegeben und sie mit „Absicht“ versehen. Meine Segmente sahen wie im folgenden Bild aus.
 
-![Intent segments](assets/intent-segments.png)
+![Intent-Segmente](assets/intent-segments.png)
 
-**Erstellen Sie zunächst Ihre Besuchsabsichten-Segmente mithilfe des Besuchsbehälters mit einer Platzhalterdefinition für Seitenansichten >= 1.**
+**Erstellen Sie anschließend Ihre Besuchsabsichtssegmente mithilfe des Besuchs-Containers mit einer Platzhalterdefinition von Seitenansichten >= 1.**
 
-Wie wir sehen werden, ist der Aufbau dieser Segmente ein iterativer und vernetzter Prozess. Ich werde den Prozess der Erstellung dieser Segmente in einem zukünftigen Beitrag beschreiben.
+Wie wir sehen werden, ist der Aufbau dieser Segmente ein iterativer und vernetzter Prozess. Ich werde den Prozess zum Erstellen dieser Segmente in einem zukünftigen Beitrag beschreiben.
 
-## Die Segmentdatenqualität Workspace für Besuchsabsichten
+## Workspace zur Datenqualität des Besuchssegments
 
-![Arbeitsbereich für Besuchsabsichten](assets/visit-intent-workspace.png)
+![Besuchsabsicht-Arbeitsbereich](assets/visit-intent-workspace.png)
 
-Ich habe einen einfachen Arbeitsbereich verwendet, um sicherzustellen, dass ich meine Segmente für den Besuchsabsichten gut definiert habe. Beachten Sie, dass jeder Besuch zu einem Segment und nur einem Segment für den Besuchsabsichten gehören muss. Der von mir eingerichtete Arbeitsbereich stellt sicher, dass alle Besuche berücksichtigt werden und dass keine Überschneidungen zwischen den Segmenten vorliegen.
+Ich habe einen einfachen Arbeitsbereich verwendet, um sicherzustellen, dass ich meine Besuchsabsichtssegmente gut definiert habe. Denken Sie daran, dass jeder Besuch zu einem und nur einem Segment mit der Besuchsabsicht gehören muss. Der von mir eingerichtete Arbeitsbereich stellt sicher, dass alle Besuche berücksichtigt werden und es keine Überschneidungen zwischen den Segmenten gibt.
 
-Ich habe diesen Arbeitsbereich mit den Tags &quot;Datenqualität&quot;, &quot;Besuchsabsichten&quot;und &quot;Journey&quot;bezeichnet. Später erstellen wir ein Dashboard für Besuchsabsichten, sodass das Präfix &quot;DATENQUALITÄT&quot;anzeigt, dass dieser Arbeitsbereich für die Einrichtung und Wartung der Segmente dient. Es handelt sich dabei um ein Admin-Dashboard, das wenig Geschäftserfahrung hat, aber wichtig ist, um sicherzustellen, dass die Segmente gepflegt werden. Es empfiehlt sich, regelmäßig zu diesem Dashboard zurückzukehren oder Warnhinweise einzurichten, um sicherzustellen, dass Ihre Segmente korrekt definiert bleiben.
+Ich habe diesen Arbeitsbereich „DATENQUALITÄT: Besuchsabsichtssegmente“ mit den Tags „Datenqualität“, „Besuchsabsicht“ und „Kunden-Journey&quot; benannt. Später erstellen wir ein „Besuchsabsicht-Dashboard“, sodass das Präfix „DATENQUALITÄT“ anzeigt, dass dieser Arbeitsbereich für die Einrichtung und Verwaltung der Segmente verwendet wird. Es handelt sich dabei um ein administratives Dashboard, das wenig geschäftliche Einblicke bietet, aber wichtig ist, um sicherzustellen, dass die Segmente gepflegt werden. Es empfiehlt sich, routinemäßig zu diesem Dashboard zurückzukehren oder Warnhinweise einzurichten, um sicherzustellen, dass Ihre Segmente korrekt definiert bleiben.
 
-Die wichtigste Visualisierung in diesem Arbeitsbereich ist die Freiformvisualisierung der Segmentüberlagerung in der Mitte links. Erstellen Sie mithilfe der Metrik Besuche Spaltenfilter für jedes Ihrer Besuchsabsichten-Segmente sowie das Segment Alle Besuche in der Spalte ganz rechts. Erstellen Sie Zeilen für jedes Segment mit Besuchsabsichten auf der linken Seite. Sie verfügen jetzt über eine tabulatorübergreifende Visualisierung. Wenn Ihre Segmente korrekt konfiguriert sind, gibt es nur Daten in einer Spalte und einer Zeile an der Schnittmenge jedes Besuchsinteressent-Segments mit sich selbst.
+Die wichtigste Visualisierung in diesem Arbeitsbereich ist die Freiformvisualisierung für Segmentüberschneidungen in der linken Mitte. Erstellen Sie mithilfe der Metrik Besuche Spaltenfilter für jedes Ihrer Besuchsabsichtssegmente plus das Segment Alle Besuche in der Spalte ganz rechts. Erstellen Sie Zeilen für jedes Segment mit Besuchsabsicht auf der linken Seite. Jetzt verfügen Sie über eine tabellenübergreifende Visualisierung. Wenn Ihre Segmente richtig konfiguriert sind, gibt es nur Daten in einer Spalte und einer Zeile, am Schnittpunkt jedes Besuchsabsichtssegments mit sich selbst.
 
-Die nächsten wichtigsten Visualisierungen sind die Zusammenfassungsmetriken oben links. Die Zusammenfassung segmentierter Besuche nimmt ihren Wert aus der Spalte &quot;Alle Besuche&quot;in der Visualisierung der Segmentüberschneidung direkt unten an. Die Zusammenfassung &quot;Alle Besuche&quot;verfügt über eine eigene ausgeblendete Tabelle.
+Die nächstwichtigsten Visualisierungen sind die Zusammenfassungsmetriken oben links. Die segmentierte Besuchsübersicht übernimmt ihren Wert aus der Spalte Alle Besuche in der Visualisierung der Segmentüberschneidung direkt unten. Die Zusammenfassung „Alle Besuche“ verfügt über eine eigene ausgeblendete Tabelle.
 
-![alle Besuche](assets/all-visits.png)
+![Alle Besuche](assets/all-visits.png)
 
-Oben rechts habe ich zusätzliche Metriken zu den einzelnen Segmenten hinzugefügt, um einen &quot;Geschmack&quot;für die Gestaltung der Segmente zu geben. Da sich diese Segmente gegenseitig ausschließen, erwarte ich nur Buchungen für das Segment &quot;Buchungsabsicht&quot;. (Angst nicht, wir werden zu Konversionsraten kommen, wenn wir diese Besuchsabsichten segmentieren, die auf Besuchern basieren.
+Oben rechts habe ich zusätzliche Metriken zu jedem der Segmente hinzugefügt, um der Entwicklung der Segmente einen gewissen „Geschmack“ zu verleihen. Da sich diese Segmente gegenseitig ausschließen, erwarte ich insbesondere nur Buchungen für das Segment „Buchungsvorgabe“ (fürchten Sie nicht, wir werden Konversionsraten erzielen, wenn wir diese Segmente für Besuchsabsicht besucherbasiert gestalten.
 
-Denken Sie daran, dass wir soeben Platzhaltersegmente erstellt haben. Zunächst wird Ihr Arbeitsbereich also erstaunlich aussehen. Alle Segmente mit Besuchsabsichten überschneiden sich zu 100 %, da sie dieselbe Definition aufweisen. Dies ist richtig und genau das, was Sie an dieser Stelle im Prozess sehen möchten. Während wir die Segmentdefinitionen erstellen, werden Sie sehen, wie diese Segmente anfangen, Gestalt anzunehmen.
+Denken Sie daran, dass wir gerade Platzhaltersegmente erstellt haben. Zunächst sieht Ihr Arbeitsbereich also nicht immer gut aus. Alle Besuchsabsichtssegmente überschneiden sich zu 100 %, da sie dieselbe Definition haben. Das ist richtig und genau das, was Sie an dieser Stelle im Prozess sehen möchten. Beim Erstellen der Segmentdefinitionen sehen Sie, wie diese Segmente Gestalt annehmen.
 
-![Segmentdefinitionen für Besuchsabsichten](assets/visit-intent-segment-defs.png)
+![Besuchsabsichtssegmentdefinitionen](assets/visit-intent-segment-defs.png)
 
-## Erstellen des Segments für den ersten Besuch
+## Erstellen des ersten Besuchszielsegments
 
-Die Definition von Besuchsabsichten-Segmenten ist ein wenig ein Eliminierungsprozess, und es gibt eine große Interdependenz zwischen ihnen. Ich baute diese Segmente also nicht in der Reihenfolge der Journey, ich baute sie, um sie von den am einfachsten definierten zu den schwierigsten zu ordnen. Das gab mir die folgende Reihenfolge:
+Die Definition der Besuchsabsichtssegmente ist ein wenig ein Eliminierungsprozess, und es besteht eine große Interdependenz zwischen ihnen. Ich habe diese Segmente nicht in der Reihenfolge der Journey erstellt, sondern in der Reihenfolge der am einfachsten zu den anspruchsvollsten. Das gab mir diesen Befehl:
 
-1. Intent: 0 - One Hit Wonders
+1. Absicht: 0 - One Hit Wonders
 1. Absicht: 3 - Buchung
-1. Absicht: 4 - Bindung
-1. Intent: 2 - Überlegungen
-1. Absicht: 1 - Bewusstsein
+1. Absicht: 4. Bindung
+1. Absicht: 2 - Überlegungen
+1. Absicht: 1 - Bewusstheit
 
-Ziemlich zufällig, nicht wahr? Die Definition dieser Besuchsabsichten-Segmente war ein iterativer Prozess, ein Prozess, und oft erforderte die Anpassung an ein Segment Aktualisierungen an anderen Segmenten. Dies wird klarer, da ich beschreibe, wie ich die einzelnen Segmente definiert habe.
+Ziemlich zufällig, was? Die Definition dieser Besuchsabsichtssegmente war ein iterativer, wechselseitiger Prozess und oft erforderte eine Anpassung an ein Segment die Aktualisierung anderer Segmente. Dies wird noch deutlicher werden, wenn ich beschreibe, wie ich jedes dieser Segmente definiert habe.
 
-Heute definieren wir unser erstes und einfachstes Segment, One Hit Wonders
+Heute definieren wir unser erstes und einfachstes Segment, die One Hit Wonders
 
-## Erstellen des Segments &quot;One Hit Wonders&quot;
+## Erstellen des Segments „One Hit Wonders“
 
-Mein erstes Segment, &quot;One Hit Wonders&quot;, war einfach zu definieren. Es handelt sich lediglich um einen Besuch mit nur einem Seitenaufruf. Wir wissen wirklich nicht, warum dieser Benutzer auf der Website war, weil er abgestürzt war. Ich vermute, dass wir einen Intent auf Grundlage seiner Entrypage erraten könnten, aber mit nur einem Seitenaufruf gibt es einfach nicht genug Informationen, um eine fundierte Einschätzung des Intents vorzunehmen.
+Mein erstes Segment, „One Hit Wonders“, war einfach zu definieren. Es ist einfach jeder Besuch mit nur einer Seitenansicht. Wir wissen wirklich nicht, warum dieser Benutzer auf der Website war, denn sie haben sich abgewiesen. Ich nehme an, wir können einen Intent anhand seiner Einstiegsseite erraten, aber mit nur einer Seitenansicht gibt es einfach nicht genug Informationen, um einen fundierten Intent zu erraten.
 
 ![Segmentdefinition](assets/segment-def.png)
 
-Nachdem Sie dieses Segment definiert haben, sehen Sie, wie Ihr Besuchsabsichten-Workspace Gestalt annimmt.
+Nachdem Sie dieses Segment definiert haben, werden Sie sehen, wie sich Ihre Besuchsabsicht Workspace entwickelt.
 
-![Mehr Segmentdefinitionen](assets/more-segment-defs.png)
+![Weitere Segmentdefinitionen](assets/more-segment-defs.png)
 
-Die Erstellung von Kundensegmenten mit Adobe Analytics ist ein anspruchsvoller, aber lohnender Prozess. Durch die Erstellung verhaltensbasierter Segmente, die Schätzung der Zielgruppengrößen und die Verfolgung von Benutzerbewegungen können Unternehmen Medien personalisieren und das Kundenerlebnis verbessern. Jedes Unternehmen ist einzigartig, und es gibt keine spezifischen Formeln zum Erstellen von Segmenten, sondern Richtlinien und einen Prozess, der befolgt werden muss. Segmente sollten aktualisiert werden, wenn Unternehmen mehr über ihre Kunden erfahren, was Berichterstellungsprobleme mit sich bringt. Indem Unternehmen dem Prozess der Erstellung von Besuchsabsichten-Segmenten folgen, können sie das Kundenerlebnis insgesamt verbessern.
+Die Erstellung von Kunden-Journey-Segmenten mit Adobe Analytics ist ein anspruchsvoller, aber lohnender Prozess. Durch die Erstellung verhaltensbasierter Segmente, die Schätzung der Zielgruppengrößen und die Verfolgung von Benutzerbewegungen können Unternehmen Medien personalisieren und das Kundenerlebnis verbessern. Jedes Unternehmen ist einzigartig, und es gibt keine spezifischen Formeln zum Erstellen von Segmenten, sondern Richtlinien und einen Prozess, der befolgt werden muss. Segmente sollten aktualisiert werden, wenn Unternehmen mehr über ihre Kunden erfahren, was Reporting-Herausforderungen mit sich bringt. Durch Befolgen des Prozesses zum Erstellen von Besuchsabsichtssegmenten können Unternehmen die allgemeine Kundenerfahrung verbessern.
 
 ## Autor
 

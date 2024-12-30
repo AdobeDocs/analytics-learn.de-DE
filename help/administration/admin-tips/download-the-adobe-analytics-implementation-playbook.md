@@ -12,7 +12,7 @@ exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '1802'
-ht-degree: 99%
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ Bevor Sie beginnen, [laden Sie das Playbook herunter](assets/aa-implementation-p
 
 **WAS:** Ein Business Requirements Doc (allgemein als BRD bezeichnet) ist eine sehr wichtige Dokumentation, an der wesentliche Stakeholder, Geschäftsbenutzer und technische Anwender zusammenarbeiten sollten. Hier können Sie alle gewünschten KPIs, Reporting-Anforderungen und jeden Datenpunkt dokumentieren, den Sie nach Abschluss der Adobe Analytics (AA)-Implementierung sehen möchten.
 
-**WARUM:** Dies dient als Ausgangspunkt für die nachfolgende Dokumentation (SDR, technische Spezifikationen usw.) und ist eine gemeinsame Quelle der Wahrheit für einen vereinbarten Endzustand von AA. Dieses Dokument fasst die Gedanken der verschiedenen Teams innerhalb der Organisation zusammen, um eine einheitliche Richtung für den Aufbau oder die Verbesserung Ihrer Implementierung festzulegen.
+**WARUM:** Dies dient als Ausgangspunkt für die nachfolgende Dokumentation (SDR, technische Spezifikationen usw.) und ist eine gemeinsame Datenquelle für einen vereinbarten Endzustand von AA. Dieses Dokument fasst die Gedanken der verschiedenen Teams innerhalb der Organisation zusammen, um eine einheitliche Richtung für den Aufbau oder die Verbesserung Ihrer Implementierung festzulegen.
 
 **WIE:** Die Dokumentation der Geschäftsanforderungen wird in der Regel von den geschäftlichen Endbenutzern von AA durchgeführt. Es ist jedoch wichtig, Feedback von technischen Anwendern zu erhalten, da technische Herausforderungen zu beachten sind und bestimmte Datenpunkte möglicherweise mehr Aufwand erfordern als andere, was wiederum zu einer Priorisierung führen sollte.
 
@@ -44,7 +44,7 @@ Und schließlich dient die Spalte „Implementierungsstatus“ als Statuskontrol
 
 **WARUM:** Dieses Dokument dient vielen Zwecken, die wichtigsten sind jedoch die folgenden:
 
-* Für alle, die mit Ihrer Implementierung noch nicht vertraut sind (neue Mitarbeiter, Geschäftsverantwortliche, die die verfügbaren Berichte besser verstehen möchten usw.), bietet dieses Dokument den besten Überblick über alle implementierten Variablen und ihren Zweck, so dass jeder Einzelne sich selbst mit den Details der AA-Einrichtung vertraut machen kann.
+* Für alle, die mit Ihrer Implementierung noch nicht vertraut sind (neue Mitarbeiter, Geschäftsinhaber, die die verfügbaren Berichte besser verstehen möchten usw.), bietet dieses Dokument den besten Überblick über alle implementierten Variablen und deren Zweck, damit sich Einzelpersonen selbst mit der Einrichtung Ihrer AA vertraut machen können.
 * Für den AA-Produktverantwortlichen oder einen technischen Benutzer dient dieses Dokument als Erinnerung daran, wie andere Variablen eingerichtet werden und welche Variablen beim Hinzufügen einer neuen Dimension verwendet werden können.
 
 **WIE:** Beginnen Sie damit, alle von Adobe vorkonfigurierten Variablen (Seite, Produkt, Geografie usw.) sowie eVars, Props, Ereignisse und Listenvariablen in einem Excel-Dokument aufzulisten. Dieses sollte eine Registerkarte pro Website / Report Suite enthalten.
@@ -101,7 +101,7 @@ Es wird empfohlen, dieses Dokument so einfach wie möglich zu halten und es nich
 >
 >Erstellen Sie in Adobe Analytics eine Dimension für Website-Namen/Eigenschaften. Eine eigene Dimension (in der Regel eine eVar) in Adobe Analytics, die den Namen der Website/Anwendung identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind unbegrenzt, insbesondere wenn mehrere Websites in einer (globalen) Report Suite kombiniert werden. Der Schlüssel dazu ist, dass Ihre Entwicklerteams diesen Wert immer in der Eigenschaftsdimension setzen, einschließlich aller Seitenladevorgänge (s.t-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Hilfsmittel sein, um diese Werte richtig und einheitlich festzulegen.
 
-[Sehen Sie sich dieses Video von Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
+[Sehen Sie sich dieses Video von Doug ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
 
 ## Autoren
 

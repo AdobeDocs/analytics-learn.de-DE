@@ -27,14 +27,14 @@ Evaluieren Sie zunächst die aktuelle Situation und definieren Sie das Problem o
 
 ## Erklären Sie anhand von Daten
 
-Nachdem Sie die Situation gerahmt haben, verwenden Sie Daten, um die Quelle des Problems/der Gelegenheit anzuzeigen. Konzentrieren Sie sich auf die Ergebnisse und Faktoren, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung des Lösungswegs.  Stellen Sie ansprechende Visualisierungen zur Verfügung, mit denen die Beziehung Ihrer abhängigen und unabhängigen Faktoren dargestellt werden kann, halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
+Nachdem Sie die Situation umrissen haben, verwenden Sie Daten, um die Ursache des Problems/der Chance zu offenbaren. Konzentrieren Sie sich auf die Ergebnisse und Faktoren, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung des Lösungswegs.  Stellen Sie ansprechende Visualisierungen zur Verfügung, mit denen die Beziehung Ihrer abhängigen und unabhängigen Faktoren dargestellt werden kann, halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
 
 **Adobe Workspace Tipp:**
-Erstellen Sie einfache, einfach zu lesende Visualisierungen, die dem Datentyp entsprechen, den Sie freigeben:
+Erstellen Sie einfache, leicht verständliche Visualisierungen, die mit der Art der Daten übereinstimmen, über die Sie berichten:
 
 * Verwenden Sie Balkendiagramme für kategorische und binäre Daten.
 * Verwenden Sie Liniendiagramme für numerische Daten (oder ein Blasendiagramm außerhalb von Adobe).
-* Verwenden Sie Streudiagramme zum Nachweis statistischer Beziehungen
+* Verwenden von Streudiagrammen zur Darstellung statistischer Beziehungen
 
 ## Bieten Sie eine Lösung an
 

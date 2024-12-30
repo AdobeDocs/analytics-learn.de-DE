@@ -50,7 +50,7 @@ Lassen Sie Ihrem Stakeholder vor dem Discovery-Meeting eine Liste mit Fragen zuk
 
 Die Fragen werden je nach technischem oder analytischem Verständnis, Unternehmensstruktur oder Komplexität des Datenerfassungsprozesses anders lauten. Oft ist es hilfreich, mit allgemeinen, das gesamte Unternehmen betreffenden Fragen zu beginnen, dann die Rolle Ihres Stakeholders im Zusammenhang mit den betrieblichen Zielen zu besprechen und so Schritt für Schritt immer weiter ins Detail zu gehen. Anschließend können Sie prüfen, ob die besprochenen detaillierten Datenpunkte tatsächlich die übergeordneten Unternehmensziele vorantreiben. Dieser Ansatz ermöglicht auch kreative Überlegungen und bringt neue Ideen für die Datenerfassung hervor, die für die Unternehmensziele förderlich sind.
 
-[Erkunden Sie diese Vorlage](assets/stakeholder-questionnaire.pdf){target="_blank"} mit mehreren Beispielfragen für Interviews mit Interessenträgern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
+[Hier finden Sie ](assets/stakeholder-questionnaire.pdf){target="_blank"} Vorlage mit einigen Beispielfragen für Gespräche mit Stakeholdern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
 
 ### 2. Verlangen Sie Musterberichte
 

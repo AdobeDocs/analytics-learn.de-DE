@@ -83,7 +83,7 @@ ht-degree: 96%
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Verwenden der Dichte](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Verwenden von Filtern](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
-      + [Verwenden von Dropdown-Filtern mit Mehrfachauswahl](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
+      + [Verwenden von Mehrfachauswahl-Dropdown-Filtern](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Echtzeitberichte {#real-time-reports}
       + [Echtzeitberichterstellung](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Verwenden von Bedienfeldern {#using-panels}
@@ -340,7 +340,7 @@ ht-degree: 96%
       + [Beginnen eines neuen Besuchs bei einem beliebigen Ereignis](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Übersicht über Activity Map](components/activity-map/activity-map-overview.md)
-      + [Activity Map aktivieren, debuggen und anpassen](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Aktivieren, Debuggen und Anpassen von Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Weitere Tools {#additional-tools}
    + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics-Dashboards {#analytics-dashboards}
@@ -385,12 +385,12 @@ ht-degree: 96%
       + [Implementieren von Tracking-Vorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Einführung in die Adobe Advertising DSP-Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Erstellen einer Kampagnenanalyse vor dem Start](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Berichte zu Advertising DSP-Marketingkanälen](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Bericht zu Advertising DSP-Marketing-Kanälen](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Erstellen von Site-Journey-Profilen in Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Erstellen von Analytics-Segmenten für Aktivierung und Reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Advertising DSP-Warnhinweise mit Adobe Analytics erstellen](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Benutzerdefinierte Analytics-Metriken mit Advertising DSP-Daten erstellen](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Erstellen von Advertising DSP Site-Einstiegsberichten](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Erstellen von Advertising DSP-Warnhinweisen mit Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising DSP-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Erstellen von Site-Einstiegsberichten für Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Erstellen von Advertising DSP-Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)

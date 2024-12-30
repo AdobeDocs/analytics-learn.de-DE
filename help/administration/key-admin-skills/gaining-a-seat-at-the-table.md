@@ -11,7 +11,7 @@ exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
 source-wordcount: '1286'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,7 @@ Nachdem Sie nun verstehen, warum Sie in derartige Prozesse einbezogen werden sol
 
 * Hat diese Person die Befugnis/den Einfluss, andere einzuladen? Wenn sie keinen Einfluss auf die Gästeliste hat, ist sie nicht Ihre Zielperson.
 * Kann ich dieser Person einen Wert bieten? Manche Personen in den Sitzungen haben womöglich zu wenig mit Ihrer Arbeit zu tun, sodass Sie ihnen keinen echten Wert bieten können. Finden Sie jemanden, für den Ihre Daten wichtig sind.
-* Wird diese Person ein guter Partner sein? Dies ist wahrscheinlich die am schwersten zu beantwortende Frage, vielleicht aber die wichtigste. Die Wesensmerkmale, nach denen Sie suchen sollten, sind Offenheit und Selbstsicherheit. Berücksichtigt diese Person ernsthaft alternative Standpunkte, wenn sie durch stichhaltige Belege untermauert werden? Hat sie das Selbstbewusstsein, um die Anerkennung für gute Arbeit mit Ihnen zu teilen? (Denken Sie daran, dass, solange Sie nicht an diesen Sitzungen teilnehmen, diese Person wahrscheinlich die ganze Anerkennung erntet.) Dies sind einige der Fragen, die Sie sich stellen können, wenn Sie nach einem guten Partner suchen.
+* Wird diese Person ein guter Partner sein? Dies ist wahrscheinlich die am schwersten zu beantwortende Frage, vielleicht aber die wichtigste. Die Wesensmerkmale, nach denen Sie suchen sollten, sind Offenheit und Selbstsicherheit. Berücksichtigt diese Person ernsthaft alternative Standpunkte, wenn sie durch stichhaltige Belege untermauert werden? Hat sie das Selbstbewusstsein, um die Anerkennung für gute Arbeit mit Ihnen zu teilen? (Denken Sie daran, dass diese Person, wenn Sie nicht am Tisch sitzen, wahrscheinlich die ganze Anerkennung erntet.) Dies sind einige der Fragen, die Sie sich stellen können, wenn Sie nach einem guten Partner suchen.
 * BONUS - Leistet diese Person Arbeit, die etwas bewirkt? Seien wir ehrlich, nicht jeder leistet Arbeit, die etwas bewirkt. Es gibt sehr „erfolgreiche“ Personen, die keine spürbare Wirkung auf das Unternehmen haben. Finden Sie jemanden, der etwas bewirkt. Ihre Arbeit wird viel erfüllender sein, wenn Sie bemerken, dass Sie damit etwas verändern können.
 
 Die obigen Fragen sollten Ihnen helfen, die Liste der infrage kommenden Personen einzugrenzen. Mittlerweile sollten Sie ein oder zwei Personen haben, auf die Sie sich für die nächsten beiden Schritte konzentrieren können. Ich werde das Konzept der nächsten beiden Schritte von dem kürzlich geladenen [Gast bei Analytics Power Hour, Cassie Kozyrkov](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/), leihen. Sie fasste es so treffend zusammen, als sie sagte, man müsse „nützlich und hervorragend sein“.

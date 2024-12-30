@@ -13,7 +13,7 @@ ht-degree: 19%
 
 ---
 
-# Echtzeitberichterstellung in Adobe Analytics {#real-time-reporting}
+# Echtzeit-Reporting in Adobe Analytics {#real-time-reporting}
 
 Erfahren Sie mehr über den Echtzeitbericht in Adobe Analytics, einschließlich der Konfiguration für Ihre Analyse.
 

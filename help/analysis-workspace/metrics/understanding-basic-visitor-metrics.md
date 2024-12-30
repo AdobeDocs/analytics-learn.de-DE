@@ -1,6 +1,6 @@
 ---
 title: Verstehen von grundlegenden Besuchermetriken
-description: Erfahren Sie mehr über Seitenansichten, Besuche und Besucher in Adobe Analytics. Hier erhalten Sie Einblicke in die grundlegenden Besuchermetriken, die Ihnen beim Verständnis des Website-Traffics helfen.
+description: Erfahren Sie mehr über Seitenansichten, Besuche und Besucher in Adobe Analytics. Gewinnen Sie Einblicke in die grundlegenden Besuchermetriken, die Ihnen dabei helfen, den Traffic Ihrer Website zu verstehen.
 feature: Metrics
 kt: 3575
 role: User
@@ -15,12 +15,12 @@ ht-degree: 11%
 
 # Verstehen von grundlegenden Besuchermetriken
 
-Erfahren Sie mehr über [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
+Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
 
-* Hier erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren mehr über deren Ähnlichkeiten und Unterschiede.
+* Erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren Sie mehr über deren Ähnlichkeiten und Unterschiede.
 
 * Lernen Sie die verschiedenen Begriffe (Synonyme oder Keywords) kennen, die mit Besuchermetriken und Website-Traffic verknüpft sind.
 
-* Sehen Sie sich ein Beispielprojekt für [!UICONTROL Workspace] an, in dem gezeigt wird, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
+* Sehen Sie sich ein Beispielprojekt für [!UICONTROL Workspace] an, das zeigt, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

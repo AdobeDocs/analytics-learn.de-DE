@@ -1,6 +1,6 @@
 ---
 title: Festlegen der Granularität für Visualisierungen
-description: Für Trend-Visualisierungseinstellungen steht eine Granularitätsauswahl zur Verfügung, mit der Sie die Anzeige Ihrer Daten sehr einfach anpassen können.
+description: Für Einstellungen der Trend-Visualisierung steht eine Granularitätsauswahl zur Verfügung, mit der Sie ganz einfach anpassen können, wie Ihre Daten angezeigt werden.
 feature: Visualizations
 thumbnail: 23548.jpg
 kt: 1770
@@ -16,8 +16,8 @@ ht-degree: 13%
 
 # Festlegen der Granularität für Visualisierungen
 
-Für Trend-Visualisierungseinstellungen steht eine Granularitätsauswahl zur Verfügung, mit der Sie die Anzeige Ihrer Daten sehr einfach anpassen können.
+Für Einstellungen der Trend-Visualisierung steht eine Granularitätsauswahl zur Verfügung, mit der Sie ganz einfach anpassen können, wie Ihre Daten angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
-Mit der Granularitätseinstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Schritte zum Aufheben und Bearbeiten der Tabelle speichern können.
+Mit der Granularitätseinstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Tabelle nicht mehr ausblenden und bearbeiten müssen.

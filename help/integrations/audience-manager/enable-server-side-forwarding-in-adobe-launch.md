@@ -1,6 +1,6 @@
 ---
-title: Integrieren von Adobe Analytics mit Adobe Audience Manager mithilfe der serverseitigen Weiterleitung
-description: Erfahren Sie, wie Sie Adobe Analytics-Daten mithilfe der serverseitigen Weiterleitung an Adobe Audience Manager senden.
+title: Integrieren von Adobe Analytics mit Adobe Audience Manager mithilfe der Server-seitigen Weiterleitung
+description: Erfahren Sie, wie Sie Adobe Analytics-Daten mithilfe der Server-seitigen Weiterleitung an Adobe Audience Manager senden.
 feature: Experience Cloud Integration
 topic: Integrations
 team: Technical Marketing
@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrieren von [!DNL Adobe Analytics] mit [!DNL Adobe Audience Manager] mithilfe der serverseitigen Weiterleitung
+# Integrieren von [!DNL Adobe Analytics] mit [!DNL Adobe Audience Manager] mithilfe der Server-seitigen Weiterleitung
 
-Erfahren Sie, wie Sie mit der serverseitigen Weiterleitung [!DNL Adobe Analytics] Daten an [!DNL Adobe Audience Manager] senden.
+Erfahren Sie, wie Sie mithilfe der Server-seitigen Weiterleitung [!DNL Adobe Analytics] an [!DNL Adobe Audience Manager] senden.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot;wurde in der Experience Cloud-Oberfläche in &quot;[!UICONTROL tags]&quot;umbenannt. Wählen Sie [!UICONTROL Datenerfassung] aus dem [!UICONTROL Anwendungsschalter] aus, um Tags zu öffnen und die in diesem Video beschriebenen Schritte auszuführen.
+>&quot;[!UICONTROL Launch]&quot; wurde in der Experience Cloud-Benutzeroberfläche in &quot;[!UICONTROL tags] umbenannt. Wählen Sie [!UICONTROL Datenerfassung] aus dem [!UICONTROL Programmumschalter], um Tags zu öffnen und die in diesem Video beschriebenen Schritte auszuführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

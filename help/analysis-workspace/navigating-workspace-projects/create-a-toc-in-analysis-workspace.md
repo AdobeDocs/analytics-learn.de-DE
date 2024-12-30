@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Inhaltsverzeichnisses in Analysis Workspace
-description: Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace, das Links bereitstellt, über die Benutzer schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können.
+description: Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace mit Links, über die Benutzende schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können.
 feature: Panels
 doc-type: feature video
 team: Technical Marketing
@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # Erstellen eines Inhaltsverzeichnisses in Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace, das Links bereitstellt, über die Benutzer schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Inhaltsverzeichnis des Projekts](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace mit Links, über die Benutzende schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Projektverzeichnis](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

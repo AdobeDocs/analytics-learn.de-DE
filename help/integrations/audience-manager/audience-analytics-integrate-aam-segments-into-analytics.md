@@ -22,10 +22,10 @@ ht-degree: 65%
 
 # Audience Analytics: Integrieren von Adobe Audience Manager-[!DNL Segments] in [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] ist eine Integration, die es Ihnen ermöglicht, Segmente vom Audience Manager in Echtzeit für [!DNL Analytics] freizugeben, um über die Erkennung, Segmentierung und Optimierung von Zielgruppen zu informieren.
+[!UICONTROL Audience Analytics] ist eine Integration, mit der Sie Segmente aus dem Audience Manager in Echtzeit für [!DNL Analytics] freigeben können, um Informationen zu Zielgruppenerkennung, Segmentierung und Optimierung auszutauschen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
-Beispielsweise gehören zu den [!UICONTROL Segment]-Daten, die freigegeben werden können: demografische Daten von Drittanbietern, Kampagnendaten von Werbe-Servern (z. B. Offsite-Impressions) und integrierte CRM-Daten. Hierbei handelt es sich um die erste produktierte Integration zwischen einer DMP und einer Analytics-Engine auf dem Markt.
+Beispielsweise gehören zu den [!UICONTROL Segment]-Daten, die freigegeben werden können: demografische Daten von Drittanbietern, Kampagnendaten von Werbe-Servern (z. B. Offsite-Impressions) und integrierte CRM-Daten. Dies ist die erste produktbezogene Integration zwischen einer DMP und einer Analyse-Engine auf dem Markt.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).

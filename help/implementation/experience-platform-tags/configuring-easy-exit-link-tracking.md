@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren des einfachen Exitlink-Trackings in Experience Platform-Tags
-description: Mit der Adobe Analytics-Erweiterung in Experience Platform-Tags können Sie lernen, wie Sie mit wenigen Klicks mit dem Tracking von Exitlinks auf Ihrer Site (d. h. Links, die zu einer anderen Site führen) beginnen.
+description: 'Mit der Adobe Analytics-Erweiterung in Experience Platform-Tags können Sie lernen, wie Sie mit wenigen Klicks mit dem Tracking von Exitlinks auf Ihrer Site (d. h. Links, die zu einer anderen Site führen) beginnen. '
 feature: Tags
 topics: Development
 activity: implement

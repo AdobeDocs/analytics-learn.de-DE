@@ -1,6 +1,6 @@
 ---
-title: Ein schreibgeschütztes Projekt in Analysis Workspace freigeben
-description: Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzer freigeben können, und lernen Sie die für diese Berechtigungsebene verfügbaren Funktionen kennen.
+title: Freigeben eines schreibgeschützten Projekts in Analysis Workspace
+description: Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzende freigeben können, und lernen Sie die für diese Berechtigungsstufe verfügbaren Funktionen kennen.
 feature: Curate and Share
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 11%
 
 ---
 
-# Ein schreibgeschütztes Projekt in Analysis Workspace freigeben
+# Freigeben eines schreibgeschützten Projekts in Analysis Workspace
 
-Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzer freigeben können, und lernen Sie die für diese Berechtigungsebene verfügbaren Funktionen kennen.
+Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzende freigeben können, und lernen Sie die für diese Berechtigungsstufe verfügbaren Funktionen kennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Freigeben für alle in Analysis Workspace
-description: Erfahren Sie mehr über die Freigabe für alle Funktionen in Workspace. Mit dieser Funktion können Sie Personen ohne Zugriff auf Adobe Analytics oder CJA, einschließlich Empfängern außerhalb Ihres Unternehmens, schreibgeschützten Zugriff auf Workspace-Projekte gewähren.
+description: Erfahren Sie mehr über die Funktion „Für alle freigeben“ in Workspace. Mit dieser Funktion können Sie Personen, die keinen Zugriff auf Adobe Analytics oder CJA haben, einschließlich Empfängerinnen und Empfängern außerhalb Ihres Unternehmens, schreibgeschützten Zugriff auf Workspace-Projekte gewähren.
 feature: Curate and Share
 role: User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # Freigeben für alle in Analysis Workspace
 
-Erfahren Sie mehr über die Funktion &quot;Für alle freigeben&quot;in Workspace. Mit dieser Funktion können Sie Personen, die keinen Zugriff auf Adobe Analytics oder Customer Journey Analytics haben, einschließlich Empfängern außerhalb Ihres Unternehmens, schreibgeschützten Zugriff auf Workspace-Projekte gewähren.
+Erfahren Sie mehr über die Funktion „Für alle freigeben“ in Workspace. Mit dieser Funktion können Sie Personen, die keinen Zugriff auf Adobe Analytics oder Customer Journey Analytics haben, einschließlich Empfängerinnen und Empfängern außerhalb Ihres Unternehmens, schreibgeschützten Zugriff auf Workspace-Projekte gewähren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 

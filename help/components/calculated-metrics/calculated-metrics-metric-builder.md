@@ -1,6 +1,6 @@
 ---
 title: Builder für berechnete Metriken – Übersicht
-description: Übersicht über den Metrikaufbau in Analysis Workspace
+description: Übersicht über den Generator für Metriken in Analysis Workspace
 feature: Calculated Metrics
 kt: 2318
 role: User
@@ -15,7 +15,7 @@ ht-degree: 50%
 
 # Builder für berechnete Metriken – Übersicht {#calculated-metrics-metric-builder}
 
-Übersicht über den Metrikaufbau in Analysis Workspace
+Übersicht über den Generator für Metriken in Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
 

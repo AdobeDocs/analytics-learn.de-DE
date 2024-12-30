@@ -1,5 +1,5 @@
 ---
-title: Komponenten-Kuratierung in Virtual Report Suites
+title: Komponentenkuratierung in Virtual Report Suites
 description: Virtual Report Suites können so kuratiert werden, dass Dimensionen, Metriken und Segmente in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden.
 feature: VRS
 kt: 1774
@@ -14,7 +14,7 @@ ht-degree: 40%
 
 ---
 
-# Komponenten-Kuratierung in Virtual Report Suites
+# Komponentenkuratierung in Virtual Report Suites
 
 Virtual Report Suites können so kuratiert werden, dass [!UICONTROL Dimensionen], [!UICONTROL Metriken] und [!UICONTROL Segmente] in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden. Eine ausführliche Dokumentation finden Sie unter [Kuratierung der Virtual Report Suite-Komponenten](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=de){target="_blank"}.
 

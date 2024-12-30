@@ -13,7 +13,7 @@ ht-degree: 94%
 
 ---
 
-# [!UICONTROL Berechnete Metriken]: Segmentierte Metriken {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Berechnete Metriken]: segmentierte Metriken {#calculated-metrics-segmented-metrics}
 
 Lernen Sie, wie Sie berechnete Metriken auf der Grundlage von Segmenten erstellen, damit Sie die dazugehörigen Besuchenden, Besuche und Seitenaufrufe effektiver analysieren können.
 

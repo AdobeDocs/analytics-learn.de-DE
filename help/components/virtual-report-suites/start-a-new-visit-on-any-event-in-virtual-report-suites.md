@@ -1,6 +1,6 @@
 ---
-title: Neuen Besuch bei jedem Ereignis in Virtual Report Suites starten
-description: In diesem Video wird gezeigt, wie mithilfe von Ereignissen der Beginn eines neuen Besuchs in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Trigger wird.
+title: Beginnen eines neuen Besuchs bei einem beliebigen Ereignis in Virtual Report Suites
+description: In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
 feature: VRS
 kt: 1663
 role: User
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Neuen Besuch bei jedem Ereignis in Virtual Report Suites starten
+# Beginnen eines neuen Besuchs bei einem beliebigen Ereignis in Virtual Report Suites
 
-In diesem Video wird gezeigt, wie mithilfe von Ereignissen der Beginn eines neuen Besuchs in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Trigger wird.
+In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)

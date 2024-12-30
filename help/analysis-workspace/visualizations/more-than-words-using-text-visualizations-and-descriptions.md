@@ -1,6 +1,6 @@
 ---
-title: Mehr als Wörter - Verwenden von Textvisualisierungen und -beschreibungen in Analysis Workspace
-description: Erfahren Sie, wie Sie mit Textvisualisierungen und -beschreibungen in Projekten eine optimierte Analysis Workspace für Ihre Endbenutzer erstellen können.
+title: Mehr als nur Wörter - Verwenden von Textvisualisierungen und Beschreibungen in Analysis Workspace
+description: Erfahren Sie, wie Sie Textvisualisierungen und Beschreibungen in Projekten verwenden können, um eine optimierte Analysis Workspace für Ihre Endbenutzer zu erstellen.
 feature: Visualizations
 role: User
 level: Beginner
@@ -16,46 +16,46 @@ ht-degree: 2%
 
 ---
 
-# Mehr als Wörter - Verwenden von Textvisualisierungen und -beschreibungen in Analysis Workspace
+# Mehr als nur Wörter - Verwenden von Textvisualisierungen und Beschreibungen in Analysis Workspace
 
-Als Adobe Analytics Analysis Workspace-Benutzer ist es natürlich, dass Ihr Fokus oft auf Ihre Daten- und Datenvisualisierungen gerichtet ist - jeder kann eine Zusammenfassung eingeben, oder? Wenn Sie jedoch Funktionen in Analysis Workspace übersehen, wie z. B. die Textvisualisierung oder die Visualisierungsbeschreibungen, kann dies bedeuten, dass Ihnen eine wertvolle Gelegenheit fehlt, Ihre Einblicke mit wertvollem Text, Bildern, GIF-Dateien und Links zu kombinieren. Wenn Sie Referenzen und mehr Kontext bereitstellen, um Ihre Benutzer über die Bedeutung Ihrer Daten zu informieren, können diese effizienter und wirkungsvoller werden.
+Als Adobe Analytics Analysis Workspace-Anwender ist es normal, dass Ihr Fokus oft auf Ihre Daten und Datenvisualisierungen gerichtet ist - jeder kann eine Zusammenfassung eingeben, nicht wahr? Wenn Sie jedoch Funktionen in Analysis Workspace wie die Textvisualisierung oder die Visualisierungsbeschreibungen übersehen, kann dies bedeuten, dass Sie eine wertvolle Gelegenheit verpassen, Ihre Einblicke mit wertvollem Text, Bildern, GIFs und Links zu kombinieren. Indem Sie Verweise und mehr Kontext bereitstellen, um Ihre Benutzer über die Bedeutung Ihrer Daten zu informieren, können diese effektiver und wirkungsvoller werden.
 
 Stellen Sie zunächst sicher, dass Sie wissen, wo Sie diese Funktionen finden:
 
-- Um die Beschreibung einer Visualisierung hinzuzufügen oder zu ändern, klicken Sie einfach mit der rechten Maustaste auf den oberen Bereich des Elements und wählen Sie den Link &quot;Beschreibung bearbeiten&quot;:
+- Um die Beschreibung einer Visualisierung hinzuzufügen oder zu ändern, klicken Sie einfach mit der rechten Maustaste auf den oberen Bereich des Elements und wählen Sie den Link „Beschreibung bearbeiten“ aus:
 
-  ![text 01](assets/t01.png)
+  ![Text 01](assets/t01.png)
 
 
-- Um einen separaten Textbereich hinzuzufügen, klicken Sie auf das Menü Visualisierungen in der linken Navigationsleiste:
+- Um ein separates Textbedienfeld hinzuzufügen, klicken Sie auf das Menü Visualisierungen in der linken Navigationsleiste:
 
-  ![text 02](assets/t02.png)
+  ![Text 02](assets/t02.png)
 
-Während dieses Handbuch ein Beispiel mit einer dieser beiden Methoden zeigt, können Sie ähnliche Ergänzungen sowohl in Beschreibungen als auch in Textvisualisierungen vornehmen. Sie können auch Schriftartenhöhe, -ausrichtung, -farbe und Listen mit Aufzählungszeichen oder Nummerierungen erstellen:
+Während dieses Handbuch ein Beispiel mit einer dieser beiden Methoden zeigt, können Sie ähnliche Ergänzungen sowohl in Beschreibungen als auch in Textvisualisierungen vornehmen. Sie können auch die Schriftzeicheneinstellung, die Ausrichtung und die Farbe anpassen und Listen mit Aufzählungszeichen oder nummerierten Listen erstellen:
 
-![text 03](assets/t03.png)
+![Text 03](assets/t03.png)
 
-Legen wir los. Ein sehr hilfreicher Kontext, der zu einem Analysis Workspace-Projekt hinzugefügt werden kann, ist ein Hyperlink. Dazu gehören die Verknüpfung mit der URL der im Bericht detaillierten Seite, Links zu anderen Analysis Workspace-Projekten, externe Berichtskontextseiten oder alles andere, was bei der Anzeige Ihres Berichts hilfreich sein kann. Auf diese Funktion können Sie zugreifen, indem Sie einen beliebigen Teil Ihres Textes auswählen und auf das Symbol &quot;Link&quot;klicken:
+Legen wir los. Ein sehr hilfreicher Kontext, der zu einem Analysis Workspace-Projekt hinzugefügt werden kann, ist ein Hyperlink. Dazu können Links zur URL der im Bericht beschriebenen Seite, Links zu anderen Analysis Workspace-Projekten, externe Berichtskontextseiten oder alles andere gehören, was beim Anzeigen des Berichts nützlich sein kann. Sie können auf diese Funktion zugreifen, indem Sie einen beliebigen Teil Ihres Textes auswählen und auf das Symbol „Link“ klicken:
 
-![text 04](assets/t04.png)
+![Text 04](assets/t04.png)
 
-Dadurch kann jeder Benutzer, der das Analysis Workspace-Projekt anzeigt, mit einem Klick jede Seite erreichen, auf die er online oder im Intranet Ihres Unternehmens zugreifen kann:
+Das Ergebnis ist, dass jeder, der das Analysis Workspace-Projekt betrachtet, mit einem einzigen Klick jede Seite erreichen kann, auf die er online oder im Intranet Ihres Unternehmens zugreifen kann:
 
-![text 05](assets/t05.png)
+![Text 05](assets/t05.png)
 
-Wenn Sie nun den Inhalt lieber direkt in Ihren Bericht einfügen möchten, können Sie einen Bild -Link verwenden, um den Inhalt neben Ihren Daten zu platzieren:
+Wenn Sie es vorziehen, den Inhalt direkt in Ihren Bericht einzufügen, können Sie einen Bild-Link verwenden, um den Inhalt neben Ihren Daten zu platzieren:
 
-![text 06](assets/t06.png)
+![Text 06](assets/t06.png)
 
-Sie können einem Bericht ein Bild hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, vorausgesetzt die URL weist das Format *https* auf und ist als .png, .jpeg, .jpg oder .gif formatiert. Dies klingt zwar restriktiv, aber alle Online-Tools, die zum Freigeben von Bildern verwendet werden, oder GIF wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Dateien mit Workspace bereitstellen.
+Sie können ein Bild zu Ihrem Bericht hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, sofern die URL im *https*-Format vorliegt und als .png, .jpeg, .jpg oder .gif formatiert ist. Dies kann zwar restriktiv klingen, aber alle Online-Tools zum Freigeben von Bildern oder GIF wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Workspace-zugänglichen Dateien über einen Freigabe-Link bereitstellen.
 
 Das Ergebnis? Sie können die Webseite anzeigen, auf die Ihre Daten direkt in Ihrem Projekt verweisen:
 
-![text 07](assets/t07.png)
+![Text 07](assets/t07.png)
 
-Sie können in Ihren Projekten auch GIF verwenden, um bewegte Bilder wie eine Website-Umgehung, einen idealen Pfad durch Ihre Site oder eine Aufgabe in Ihrer App einzuschließen oder einfach Ihrem Team zu zeigen, wie ***störend*** Ihre Berichte jetzt geworden sind:
+Sie können GIF in Ihren Projekten auch verwenden, um bewegte Bilder wie eine Site-exemplarische Vorgehensweise, einen Idealpfad durch Ihre Site oder eine Aufgabe in Ihre App einzuschließen, oder einfach Ihrem Team zeigen, wie ***überwältigend*** Ihre Berichte jetzt geworden sind:
 
-![text 08](assets/t08.png)
+![Text 08](assets/t08.png)
 
 ## Autor
 

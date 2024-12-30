@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Kohortenanalyse, um das Kundenverhalten zu verstehen
-description: Um das Kundenerlebnis und den Umsatz zu verbessern, müssen Unternehmen das Kundenverhalten verstehen. Die Kohortenanalyse kann dabei helfen, Interaktion und Bindung zu verstehen, was zu Aktionen wie der Verbesserung der Kontoerstellung und der Erstellung von Kampagnen für Monate mit hohem Volumen führt.
+description: Um das Kundenerlebnis und den Umsatz zu verbessern, müssen Unternehmen das Kundenverhalten verstehen. Die Kohortenanalyse kann dabei helfen, Interaktion und Kundenbindung zu verstehen, was zu Aktionen führt wie die Verbesserung der Kontoerstellung und die Erstellung von Kampagnen für Monate mit hohem Volumen.
 feature: Cohort Analysis
 role: User
 level: Experienced
@@ -18,46 +18,46 @@ ht-degree: 13%
 
 # Verwenden von Kohortenanalyse, um das Kundenverhalten zu verstehen
 
-Um das Kundenerlebnis und den Umsatz zu verbessern, müssen Unternehmen das Kundenverhalten verstehen. Die Kohortenanalyse kann dabei helfen, Interaktion und Bindung zu verstehen, was zu Aktionen wie der Verbesserung der Kontoerstellung und der Erstellung von Kampagnen für Monate mit hohem Volumen führt.
+Um das Kundenerlebnis und den Umsatz zu verbessern, müssen Unternehmen das Kundenverhalten verstehen. Die Kohortenanalyse kann dabei helfen, Interaktion und Kundenbindung zu verstehen, was zu Aktionen führt wie die Verbesserung der Kontoerstellung und die Erstellung von Kampagnen für Monate mit hohem Volumen.
 
-Die Analyse der digitalen Leistung ist entscheidend, um zu verstehen, wie Kunden mit einem Unternehmen interagieren und welche Maßnahmen ergriffen werden können, um ihre Erfahrung zu verbessern. In diesem Blogpost werden wir untersuchen, wie wir die Kohortenanalyse verwenden können, um das Kundenverhalten besser zu verstehen.
+Die Analyse der digitalen Leistung ist von entscheidender Bedeutung, um zu verstehen, wie Kunden mit einem Unternehmen interagieren und welche Maßnahmen ergriffen werden können, um ihr Erlebnis zu verbessern. In diesem Blogpost erfahren Sie, wie Sie die Kohortenanalyse verwenden können, um das Kundenverhalten besser zu verstehen.
 
-## Teil 1: Vergleich der digitalen Leistung zwischen ersten und rückkehrenden Besuchen
+## Teil 1: Vergleich der digitalen Leistung zwischen ersten und wiederkehrenden Besuchen
 
-### Festlegen der Bühne
+### Bühne bereiten
 
-Ein Kunde möchte die digitale Leistung der letzten zwei Jahre verstehen und erwägt die Entwicklung eines Treueprogramms zur Steigerung der digitalen Leistung. Zunächst können wir uns den aktuellen Site-Mix zwischen neuen und wiederholten Benutzern ansehen, um zu verstehen, wie sich die beiden Besuchergruppen heute verhalten.
+Ein Kunde möchte die digitale Leistung in den letzten zwei Jahren verstehen und erwägt die Entwicklung eines Treueprogramms zur Steigerung der digitalen Leistung. Zunächst können wir uns den aktuellen Site-Mix zwischen neuen und wiederholten Benutzern ansehen, um zu verstehen, wie sich die beiden Besuchergruppen heute verhalten.
 
 Aktuelle digitale Leistung
 
-1. 2022 stammten 62 % der Bestellungen von Erstbesuchen, verglichen mit 38 % der Bestellungen von wiederkehrenden Besuchen (abhängig von Cookies und mehreren Geräten).
-1. Erstmalige Besuche werden in einer etwas höheren Rate konvertiert als Wiederkehrbesuche für beide, 11,6 % vs. 11,4 %.
-1. Im Vergleich zu 2021 sanken die Konversionsraten in beiden Segmenten.
+1. Im Jahr 2022 gingen 62 % der Bestellungen auf Erstbesuche zurück, verglichen mit 38 % der Bestellungen bei Rückkehrbesuchen (abhängig von Cookies, mehreren Geräten).
+1. Erstbesuche konvertieren mit einer etwas höheren Rate als wiederkehrende Besuche für beide, 11,6 % vs. 11,4 %.
+1. Im Vergleich zu 2021 gingen die Konversionsraten in beiden Segmenten zurück.
 
 ![Besuchstabelle](assets/cohort1.png)
 
-## Teil 2: Kohortenanalyse - Besuche essbare Arrangements Global Prod
+## Teil 2: Kohortenanalyse - Besuche zu essbaren Anordnungen Global Prod
 
-Um die Treue des digitalen Kanals und die Möglichkeit, wiederholte Käufer zu fördern, zu verstehen, lautet die nächste Frage: Wie viele Besucher kehren 2022 jeden Monat auf die Site zurück?
+Um die Stickiness des digitalen Kanals und die Möglichkeit, Wiederholungskäufer zu fördern, zu verstehen, ist die nächste zu beantwortende Frage: Wie hoch ist die Anzahl der Besucher, die im Jahr 2022 jeden Monat zur Website zurückkehren?
 
 ### Einführung in die Kohortenanalyse
 
-Die Kohortenanalyse ist ein nützliches Werkzeug, um zu verstehen, wie Kohorten im Laufe der Zeit mit einer Marke interagieren. Zunächst haben wir bestimmt, welche Fragen beantwortet werden sollen:
+Die Kohortenanalyse ist ein nützliches Tool, um zu verstehen, wie Kohorten im Laufe der Zeit mit einer Marke interagieren. Zunächst haben wir festgelegt, welche Fragen zu beantworten sind:
 
-1. Wie hoch ist die durchschnittliche Aufbewahrungsfrist pro Monat in einem bestimmten Jahr?
-1. Welches Volumen an Besuchern der Site kehrt in einem bestimmten Jahr monatlich zurück?
-1. Wie wirkt sich die Anmeldung auf die Aufbewahrung aus?
-1. Gibt es bestimmte Produkte, die zu einer höheren Aufbewahrung geführt haben?
+1. Wie hoch ist die durchschnittliche Aufbewahrungsfrist in einem bestimmten Jahr nach Monat?
+1. Welches Besuchervolumen kehrt in einem bestimmten Jahr monatlich auf die Website zurück?
+1. Welche Auswirkungen hat die Anmeldung auf die Datenspeicherung?
+1. Gibt es bestimmte Produkte, die zu einer höheren Kundenbindung geführt haben?
 
 Einrichten der Kohortentabelle
 
 1. Datumsbereich auf Januar bis Dezember 2022 festlegen
-1. **Aufnahmekriterien:** Besuche
+1. **Einschlusskriterien:** Besuche
 1. **Rückkehrkriterien:** Besuche
 1. **Granularität:** Monat
-1. **Einstellungen:** Rollierende Berechnung
-\*\*Ermöglicht die Berechnung der Beibehaltung auf der Grundlage der vorherigen Spalte, nicht der eingeschlossenen Spalte. Das bedeutet, dass ein Benutzer in jedem der Monate enthalten ist\*\*
-1. **Segmente:** Sie können bestimmte Segmente auswählen, um diese Analyse weiter voranzutreiben.
+1. **Einstellungen:** Berechnung
+\*\*Ermöglicht die Berechnung der Beibehaltung basierend auf der vorherigen Spalte, nicht auf der eingeschlossenen Spalte. Das bedeutet, dass ein Benutzer in jedem Monat enthalten ist.\*\*
+1. **Segmente** Sie können bestimmte Segmente auswählen, um diese Analyse weiter voranzutreiben
    1. Spezifische Landingpages
    1. Gerätetyp
    1. Marketing-Kanäle
@@ -65,104 +65,104 @@ Einrichten der Kohortentabelle
 
 ### Interpretation der Ergebnisse
 
-**Im Jahr 2022:**
+**2022:**
 
-1) Die Monate mit den höchsten Treueraten +1 Monat umfassen Januar, April und November
-1) Die Monate mit dem größten Volumen umfassen Februar und Mai
-1) Es gibt rund 1.000 Besucher, die jeden Monat zur Site zurückkehren
+1) Die Monate mit den höchsten Bindungsraten von +1 Monat umfassen Januar, April und November
+1) Die Monate mit dem höchsten Volumen umfassen Februar und Mai
+1) Es gibt ~1.000 Besucher, die jeden Monat zur Website zurückkehren
 
-![Bindungstabelle 2022](assets/cohort2.png)
+![2022-Beibehaltungstabelle](assets/cohort2.png)
 
-**Im Jahr 2021:**
+**2021:**
 
-1) Die Monate mit den höchsten Treueraten +1 Monat umfassen April, Januar und März
-1) Die Monate mit dem größten Volumen umfassen Februar und Mai
+1) Die Monate mit den höchsten Bindungsraten von +1 Monat umfassen April, Januar und März
+1) Die Monate mit dem höchsten Volumen umfassen Februar und Mai
 
-![2021 Bindungstabelle](assets/cohort3.png)
+![2021-Beibehaltungstabelle](assets/cohort3.png)
 
 **Aktionselemente:**
 
-Erstellen Sie ein Segment basierend auf den ~1.000 Besuchern und erfahren Sie mehr darüber:
+Erstellen Sie ein Segment basierend auf den ~1.000 Besuchern und erfahren Sie mehr über sie:
 
-- Wo sind sie?
+- Wo befinden sie sich?
 - Welche Produkte kaufen sie das ganze Jahr über?
 - Aus welchen Geschäften kaufen sie?
 
-Wichtige Monate zeigen die Möglichkeit, die Bindung auf Grundlage des Volumens zu steigern:
+Die wichtigsten Monate zeigen die Möglichkeit, die Kundenbindung auf der Basis des Volumens zu steigern:
 
-- Gibt es spezielle Taktiken, die zusätzliche Stickeits im Februar und Mai fördern können, um die Lautstärke zu nutzen?
+- Gibt es bestimmte Taktiken, die im Februar und Mai zu zusätzlichen Verklebungen führen können, um das Volumen zu nutzen?
 
 Wiederholungsanalyse für Bestellungen zum Verständnis von Wiederholungskäufern
 
-- Sind die höchsten +1-Monats-Bindungsraten für dieselben Monate?
+- Sind die höchsten Einbehaltungsraten von +1 Monat für dieselben Monate?
 - Sind die höchsten Besuchsmonate bei Bestellungen gleich?
 
-## Teil 3: Hinzufügen von zwei Metriken zu Aufnahmekriterien
+## Teil 3: Hinzufügen von zwei Metriken zu Einschlusskriterien
 
 ### Auswirkungen der Anmeldung verstehen
 
-Da dieser Kunde den Wert eines Treueprogramms verstehen möchte, umfasste der nächste Schritt in der Analyse das Hinzufügen der Erfolgsereignis bei der Anmeldung als Einschlussmetrik zur Kohorte.
+Da dieser Client den Wert eines Treueprogramms verstehen möchte, umfasst der nächste Schritt in der Analyse das Hinzufügen des Erfolgsereignisses „Anmeldung“ als Einschlussmetrik zur Kohorte.
 
-Warnung: Die Kohortenanalyse kann nicht für berechnete Metriken (z. B. Konversionsrate) oder Metriken ohne Ganzzahl (z. B. Umsatz) verwendet werden. In der Kohortenanalyse können nur Metriken verwendet werden, die in Segmenten verwendet werden können, und sie können jeweils nur um mehr als 1 inkrementiert werden.
+Einschränkung: Die Kohortenanalyse kann nicht für berechnete Metriken (z. B. Konversionsrate) oder Nicht-Ganzzahlmetriken (z. B. Umsatz) verwendet werden. In der Kohortenanalyse können nur Metriken verwendet werden, die auch in Segmenten verwendet werden können. Darüber hinaus können diese Metriken jeweils nur um > 1 inkrementiert werden.
 
-Hält die Site Benutzer, die sich anmelden, mit höherer Wahrscheinlichkeit an?
+Ist es wahrscheinlicher, dass die Site Benutzer beibehält, die sich anmelden?
 
-Welche Auswirkungen hätte es, wenn wir mehr Benutzer zur Anmeldung bewegen könnten? Ist das ein Aufklebererlebnis?
+Was wäre die Auswirkung, wenn sich mehr Benutzer anmelden könnten? Ist das eine klebrigere Erfahrung?
 
-### Einrichten der Kohortentabelle
+### Kohortentabelle einrichten
 
-1. **Datumsbereich festlegen:** auf Jan bis Dezember 2022 festlegen
-1. **Aufnahmekriterien:** Besuche + Erfolgsereignis bei der Anmeldung
+1. **Datumsbereich festlegen:** bis Januar bis Dezember 2022
+1. **Einschlusskriterien:** Besuche + Erfolgsereignis bei der Anmeldung
 1. **Rückkehrkriterien:** Besuche
 1. **Granularität:** Monat
-1. **Einstellungen:** Rollierende Berechnung
-\*\*Ermöglicht die Berechnung der Beibehaltung auf der Grundlage der vorherigen Spalte, nicht der eingeschlossenen Spalte. Das bedeutet, dass ein Benutzer in jedem der Monate enthalten ist\*\*
+1. **Einstellungen:** Berechnung
+\*\*Ermöglicht die Berechnung der Beibehaltung basierend auf der vorherigen Spalte, nicht auf der eingeschlossenen Spalte. Das bedeutet, dass ein Benutzer in jedem Monat enthalten ist.\*\*
 
 ### Interpretieren der Ergebnisse
 
-**Im Jahr 2022:**
+**2022:**
 
-1) Monate mit den höchsten Treueraten +1 Monat umfassen Januar, April und November (dieselben Monate wie die erste Kohortentabelle)
-1) Die Monate mit dem größten Volumen umfassen Februar und Mai und Dezember
-1) Es gibt ~2500 Besucher, die jeden Monat zurückkehren \*\*mehr als doppelt\*\*
+1) Die Monate mit den höchsten Bindungsraten +1 Monat umfassen Januar, April und November (dieselben Monate wie die erste Kohortentabelle)
+1) Die Monate mit dem höchsten Volumen umfassen Februar und Mai und Dezember
+1) Es gibt ~2500 Besucher, die jeden Monat zurückkommen \*\*mehr als das Doppelte\*\*
 
 **Aktionselemente:**
 
-Untersuchen Sie das Benutzererlebnis auf der Site, um Benutzer dazu zu bringen, während des Checkout ein Konto zu erstellen.
+Erkunden des Site-Benutzererlebnisses, um Benutzer dazu zu bringen, während des Checkouts ein Konto zu erstellen
 
 ![Kohortentabelle 4](assets/cohort4.png)
 
-## Teil 4: Angepasste Kohorte der Dimension
+## Teil 4: Kohorte mit benutzerdefinierter Dimension
 
-Angepasste Kohorte: Erstellen Sie Kohorten auf Grundlage der ausgewählten Dimension und nicht auf Grundlage zeitbasierter Kohorten (Standard). Viele Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren und die neue Funktion der angepassten Dimensionskohorte bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in Adobe Analytics, um anzuzeigen, wie die Bindung sich basierend auf verschiedenen Werten dieser Dimensionen verändert. Das
+Kohorte mit benutzerdefinierter Dimension: Erstellen Sie Kohorten basierend auf der ausgewählten Dimension und nicht auf zeitbasierten Kohorten (Standard). Viele Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren und die neue Funktion der angepassten Dimensionskohorte bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in Adobe Analytics, um anzuzeigen, wie die Bindung sich basierend auf verschiedenen Werten dieser Dimensionen verändert. Das
 
-Die Segmentdefinition für die Kohorte benutzerspezifische Dimension wendet das Dimensionselement nur als Teil des Aufnahmezeitraums an, nicht als Teil der Rückgabedefinition.
+Die Definition eines Kohortensegments mit benutzerdefinierter Dimension wendet das Dimensionselement nur als Teil des Einschlusszeitraums an, nicht als Teil der Rückgabedefinition.
 
-Nach Auswahl der Option Angepasste Dimension Kohorte können Sie jede beliebige Dimension in die Dropzone ziehen. Auf diese Weise können Sie ähnliche Dimensionselemente über den gleichen Zeitraum hinweg miteinander vergleichen. Sie können beispielsweise die Leistung von Städten nebeneinander vergleichen
+Nachdem Sie die Option „Kohorte mit benutzerdefinierter Dimension&quot; ausgewählt haben, können Sie die gewünschte Dimension per Drag-and-Drop in den Ablagebereich ziehen. Auf diese Weise können Sie ähnliche Dimensionselemente über den gleichen Zeitraum hinweg miteinander vergleichen. Beispielsweise können Sie die Leistung von Städten nebeneinander vergleichen
 
--Seite, Produkten, Kampagnen usw. Es werden Ihre 14 wichtigsten Dimensionselemente zurückgegeben. Sie können jedoch einen Filter verwenden (auf den Sie zugreifen können, indem Sie mit der Maus über den Bereich rechts von der gezogenen Dimension fahren), um nur die gewünschten Dimensionselemente anzuzeigen. Eine angepasste Dimensionskohorte kann nicht mit der Funktion der Latenztabelle verwendet werden.
+Seite, Produkte, Kampagnen usw. Dadurch werden Ihre 14 wichtigsten Dimensionselemente zurückgegeben. Sie können jedoch einen Filter verwenden (auf den Sie zugreifen können, indem Sie mit der Maus über den Bereich rechts von der gezogenen Dimension fahren), um nur die gewünschten Dimensionselemente anzuzeigen. Eine angepasste Dimensionskohorte kann nicht mit der Funktion der Latenztabelle verwendet werden.
 
-### Welche Produkte treiben die Site-Stickigkeit?
+### Welche Produkte treiben die Website-Klebrigkeit an?
 
-Die Kohortentabelle für benutzerdefinierte Dimensionen zeigt Produkte, die zu höheren Bindungsraten als im Durchschnitt führen.  Diese Tabelle hilft Ihnen dabei, Ihre wichtigsten Produkte zu identifizieren, um interne und externe Marketing-Kampagnen mit hochgradig achtungswürdigen Produkten zu fördern.
+Die Kohortentabelle mit benutzerdefinierter Dimension zeigt Produkte, die zu höheren Kundenbindungsraten als der Durchschnitt führen.  Diese Tabelle hilft bei der Identifizierung Ihrer Top-Produkte, um interne und externe Marketing-Kampagnen mit Top-Aufmerksamkeit-würdigen Produkten zu fördern.
 
-**Im Februar:** 3 Produkte mit höheren Rückhaltungsraten ausfallen
+**Im Februar:** 3 Produkte zeichnen sich durch höhere Kundenbindungsraten aus
 
 1) Produkt 1
 1) Product 2
 1) Product 3
 
-**In mar:**
+**März:**
 
 1) Produkt 1
 1) Product 2
-1) Produkt 3 - ist häufig leistungsstärker als bei einer höheren Retentionsrate im Vergleich zur durchschnittlichen Bindung.
+1) Produkt 3: Übertrifft häufig die Leistung mit einer höheren Kundenbindungsrate als die durchschnittliche Kundenbindung.
 
 ![Kohortentabelle 5](assets/cohort5.png)
 
 ## Zusammenfassung
 
-Die Kohortenanalyse und die Kohorte &quot;Benutzerspezifische Dimension&quot;sind leistungsstarke Tools zum Verständnis des Kundenverhaltens und zur Verbesserung der digitalen Leistung. Durch die Analyse von Aufbewahrungsraten, Anmelderaten und Auswirkungen bestimmter Produkte können Unternehmen datengesteuerte Entscheidungen treffen, um das Kundenerlebnis zu verbessern und das Wachstum zu fördern.
+Die Kohortenanalyse und benutzerdefinierte Dimension sind leistungsstarke Tools, mit denen Sie das Kundenverhalten verstehen und die Digitalleistung verbessern können. Durch die Analyse der Kundenbindungsraten, Anmeldequoten und der Auswirkungen bestimmter Produkte können Unternehmen datengesteuerte Entscheidungen treffen, um das Kundenerlebnis zu verbessern und das Wachstum zu steigern.
 
 ## Autor
 
@@ -170,6 +170,6 @@ Dieses Dokument wurde verfasst von:
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**, Senior Director at Marriott
+**Jennifer**, Senior Director bei Marriott
 
 Adobe Analytics-Expertin

@@ -1,6 +1,6 @@
 ---
 title: Visualisierungsarten und Übersicht
-description: Erfahren Sie mehr über die verschiedenen Arten von Visualisierungen, die Sie in Ihre Analysis Workspace-Projekte einfügen können, um Ihnen zu helfen, Ihre Datengeschichten zu erzählen.
+description: Erfahren Sie mehr über die verschiedenen Arten oder Typen von Visualisierungen, die Sie in Ihre Analysis Workspace-Projekte einfügen können, um Ihre Datengeschichten zu erzählen.
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
 kt: 2132
@@ -10,17 +10,17 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 24%
+ht-degree: 27%
 
 ---
 
 # Visualisierungsarten und Übersicht {#visualization-types-in-analysis-workspace}
 
-Erfahren Sie mehr über die verschiedenen Arten von Visualisierungen, die Sie in Ihre Analysis Workspace-Projekte einfügen können, um Ihnen zu helfen, Ihre Datengeschichten zu erzählen.
+Erfahren Sie mehr über die verschiedenen Arten oder Typen von Visualisierungen, die Sie in Ihre Analysis Workspace-Projekte einfügen können, um Ihre Datengeschichten zu erzählen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
-Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisierungen und vorgeschlagenen Visualisierungen, die Sie Ihrem Projekt hinzufügen können, basierend auf der Art der Analyse, die Sie für Ihre Daten durchführen möchten. Wie im Video angegeben, ist dies keine harte und schnelle Regel, sondern nur einige Vorschläge für Sie, wenn Sie sich an die verschiedenen Visualisierungen gewöhnen:
+Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisierungen und empfohlenen Visualisierungen, die Sie Ihrem Projekt hinzufügen können, je nachdem, welche Art von Analyse Sie für Ihre Daten durchführen möchten. Wie im Video erklärt, ist dies keine harte &amp; schnelle Regel, sondern nur einige Vorschläge für Sie, wenn Sie sich an die verschiedenen Visualisierungen gewöhnen:
 
 <table style="max-width: 1214px;">
 <tr>
@@ -28,11 +28,11 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
         Visualisierungskategorie
     </th>
     <th>
-        Vorgeschlagene Visualisierungen
+        Empfohlene Visualisierungen
     </th>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Grundlegende Daten/Info
+  <td style="vertical-align: top;">Grundlegende Daten/Informationen
   </td>
 
 <td style="vertical-align: top;">
@@ -87,7 +87,7 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Teile-zu-Ganzen
+  <td style="vertical-align: top;">Teile-zum-Ganzen
   </td>
 
 <td style="vertical-align: top;">
@@ -110,7 +110,7 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Verteilung
+  <td style="vertical-align: top;">Verteilungen
   </td>
 
 <td style="vertical-align: top;">
@@ -131,7 +131,7 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Analysieren von Journey
+  <td style="vertical-align: top;">Analysieren von Kunden-Journey
   </td>
 
 <td style="vertical-align: top;">

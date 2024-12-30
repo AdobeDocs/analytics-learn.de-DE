@@ -1,6 +1,6 @@
 ---
-title: Beitragsmetriken erstellen
-description: Erfahren Sie, wie Sie Beitragsmetriken erstellen und in [!DNL Analysis Workspace] verwenden.
+title: Erstellen von Teilnahmemetriken
+description: Erfahren Sie, wie Sie Teilnahmemetriken erstellen und in  [!DNL Analysis Workspace] verwenden.
 feature: Metrics
 thumbnail: 41266.jpg
 role: User
@@ -14,9 +14,9 @@ ht-degree: 23%
 
 ---
 
-# Beitragsmetriken erstellen
+# Erstellen von Teilnahmemetriken
 
-Erfahren Sie, wie Sie Beitragsmetriken erstellen und in [!DNL Analysis Workspace] verwenden.
+Erfahren Sie, wie Sie Teilnahmemetriken erstellen und in [!DNL Analysis Workspace] verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 

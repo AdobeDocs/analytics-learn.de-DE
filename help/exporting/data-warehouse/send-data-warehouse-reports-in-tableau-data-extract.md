@@ -16,9 +16,9 @@ ht-degree: 58%
 
 ---
 
-# [!DNL Data Warehouse] -Berichte in Tableau-Datenextraktion senden
+# [!DNL Data Warehouse] Berichte in Tableau-Datenextraktion senden
 
-Erfahren Sie, wie [!DNL Data Warehouse] Berichte im Tableau-Datenextraktionsdateiformat (TDE) bereitstellen kann, damit Sie Daten von außerhalb von Adobe Analytics demokratisieren und kombinieren können.
+Erfahren Sie, wie [!DNL Data Warehouse] Berichte im Tableau Data Extract (TDE)-Dateiformat bereitstellen können, um Daten außerhalb von Adobe Analytics zu demokratisieren und zu kombinieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 

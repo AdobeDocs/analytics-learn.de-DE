@@ -1,6 +1,6 @@
 ---
-title: Ungefähre Funktion "Distinct Count" in berechneten Metriken
-description: Erfahren Sie, wie Sie mit der Funktion Ungefährer Distinct Count eine berechnete Metrik erstellen, die die ungefähre Distinct Count-Anzahl an Dimensionselementen für eine ausgewählte Dimension zurückgibt.
+title: Funktion Ungefährer Distinct Count in berechneten Metriken
+description: Erfahren Sie, wie Sie eine berechnete Metrik mithilfe der Funktion Ungefährer Distinct Count erstellen, die die ungefähre Distinct Count von Dimensionselementen für eine ausgewählte Dimension zurückgibt.
 feature: Calculated Metrics
 kt: 1910
 role: User
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# Ungefähre Funktion &quot;Distinct Count&quot; in berechneten Metriken {#approximate-count-distinct-function-in-calculated-metrics}
+# Funktion Ungefährer Distinct Count in berechneten Metriken {#approximate-count-distinct-function-in-calculated-metrics}
 
-Erfahren Sie, wie Sie mit der Funktion Ungefährer Distinct Count eine berechnete Metrik erstellen, die die ungefähre Distinct Count-Anzahl an Dimensionselementen für eine ausgewählte Dimension zurückgibt.
+Erfahren Sie, wie Sie eine berechnete Metrik mithilfe der Funktion Ungefährer Distinct Count erstellen, die die ungefähre Distinct Count von Dimensionselementen für eine ausgewählte Dimension zurückgibt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-Sie können die in diesem Video angezeigte Metrik in einem beliebigen Bericht verwenden, um die Zählung einer Dimension im Vergleich zu Werten anderer zu verstehen. Ein sehr häufiges Anwendungsbeispiel wäre die Verwendung dieser Funktion zum Erstellen einer Kunden-IDs-Metrik, die Sie dann in einem beliebigen Bericht verwenden können, um zu sehen, wie viele Kunden auf die verschiedenen Dimensionswerte zutreffen.
+Sie können die in diesem Video angezeigte Metrik in jedem Bericht verwenden, um die Anzahl einer Dimension im Vergleich zu den Werten einer anderen zu verstehen. Ein sehr gängiges Anwendungsbeispiel wäre die Verwendung dieser Funktion zum Erstellen einer Metrik für Kunden-IDs , die Sie dann in jedem Bericht verwenden können, um zu sehen, wie viele Kunden auf die verschiedenen Dimensionswerte anwenden.

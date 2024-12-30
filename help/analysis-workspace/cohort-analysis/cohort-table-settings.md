@@ -1,6 +1,6 @@
 ---
-title: Kohortentabelleneinstellungen
-description: Erfahren Sie, wie Sie Ihre Ansicht der Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen für Kohortentabellen anpassen können.
+title: Einstellungen der Kohortentabellen
+description: Erfahren Sie, wie Sie Ihre Ansicht von Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen der Kohortentabellen anpassen.
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -19,7 +19,7 @@ ht-degree: 46%
 
 # Einstellungen der [!UICONTROL Kohortentabellen]
 
-Erfahren Sie, wie Sie Ihre Ansicht der Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen für Kohortentabellen anpassen können.
+Erfahren Sie, wie Sie Ihre Ansicht von Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen der Kohortentabellen anpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
@@ -29,6 +29,6 @@ Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichk
 1. Prozentsätze auf die nächste Ganzzahl runden
 1. Eine Zeile mit den durchschnittlichen Prozentwerten oben in der Tabelle anzeigen/ausblenden.
 
-Die durchschnittlichen Zeilen eignen sich ideal für die Anzeige von [!UICONTROL Beibehaltung] oder [!UICONTROL Abwanderung] insgesamt, nicht aber von einzelnen [!UICONTROL Kohortenzeilen].
+Die durchschnittlichen Zeilen sind ideal für die Anzeige [!UICONTROL Bindung] oder [!UICONTROL Abwanderung] insgesamt und nicht nach einzelnen [!UICONTROL Kohorten] Zeilen.
 
 Weitere Informationen zur [!UICONTROL Kohorten]-Analyse finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=de).

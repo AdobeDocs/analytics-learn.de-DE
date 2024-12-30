@@ -1,6 +1,6 @@
 ---
 title: Exportieren in CSV aus Analysis Workspace
-description: Erfahren Sie, wie Sie komplette Projekte oder einzelne Tabellen in CSV für Analysen in Excel und anderen BI-Tools exportieren.
+description: Erfahren Sie, wie Sie ganze Projekte oder einzelne Tabellen für Analysen in Excel und anderen BI-Tools in CSV exportieren.
 feature: Curate and Share
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 24%
 
 # Exportieren in CSV aus Analysis Workspace {#export-to-csv-from-analysis-workspace}
 
-Erfahren Sie, wie Sie komplette Projekte oder einzelne Tabellen in CSV für Analysen in Excel und anderen BI-Tools exportieren.
+Erfahren Sie, wie Sie ganze Projekte oder einzelne Tabellen für Analysen in Excel und anderen BI-Tools in CSV exportieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)

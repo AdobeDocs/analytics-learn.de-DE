@@ -1,6 +1,6 @@
 ---
 title: Einführung in Konversionsereignisse
-description: Erfahren Sie mehr über die Grundlagen von Konversionsereignissen, häufig als Erfolgsereignisse bezeichnet, in Adobe Analytics. Sie messen Konversionen Ihrer digitalen Eigenschaften und werden als Metriken in Berichten verwendet.
+description: Erfahren Sie mehr über die Grundlagen von Konversionsereignissen, häufig Erfolgsereignisse genannt, in Adobe Analytics. Sie messen Konversionen in Ihren digitalen Eigenschaften und werden in Berichten als Metriken verwendet.
 feature: Metrics
 kt: 3578
 role: User
@@ -16,6 +16,6 @@ ht-degree: 12%
 
 # Einführung in Konversionsereignisse
 
-Erfahren Sie mehr über die Grundlagen von Konversionsereignissen, häufig als Erfolgsereignisse bezeichnet, in [!DNL Adobe Analytics]. Sie messen Konversionen Ihrer digitalen Eigenschaften und werden als Metriken in Berichten verwendet.
+Erfahren Sie mehr über die Grundlagen von Konversionsereignissen, häufig Erfolgsereignisse genannt, in [!DNL Adobe Analytics]. Sie messen Konversionen in Ihren digitalen Eigenschaften und werden in Berichten als Metriken verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Verwalten von berechneten Metriken
-description: Erfahren Sie, wie Sie Ihre berechneten Metriken verwalten, einschließlich Suchen, Anzeigen einer Liste, Umbenennen, Löschen, Freigeben usw.
+description: Erfahren Sie, wie Sie Ihre berechneten Metriken verwalten, einschließlich Suchen nach ihnen, Anzeigen einer Liste, Umbenennen, Löschen, Freigeben usw.
 feature: Calculated Metrics
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 19%
 
 # Verwalten von berechneten Metriken
 
-Erfahren Sie, wie Sie Ihre berechneten Metriken verwalten, einschließlich Suchen, Anzeigen einer Liste, Umbenennen, Löschen, Freigeben usw.
+Erfahren Sie, wie Sie Ihre berechneten Metriken verwalten, einschließlich Suchen nach ihnen, Anzeigen einer Liste, Umbenennen, Löschen, Freigeben usw.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)

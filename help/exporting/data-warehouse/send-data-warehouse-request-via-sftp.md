@@ -1,6 +1,6 @@
 ---
 title: Data Warehouse-Berichte über SFTP senden
-description: Erfahren Sie, wie Sie in Adobe Analytics eine Data Warehouse-Anfrage erstellen und diese für die SFTP-Bereitstellung einrichten.
+description: Erfahren Sie, wie Sie eine Data Warehouse-Anfrage in Adobe Analytics erstellen und für die SFTP-Bereitstellung einrichten.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -17,8 +17,8 @@ ht-degree: 11%
 
 ---
 
-# [!DNL Data Warehouse] Berichte über SFTP senden
+# [!DNL Data Warehouse] Berichte per SFTP senden
 
-Erfahren Sie, wie Sie eine [!DNL Data Warehouse] -Anforderung in Adobe Analytics erstellen und für die SFTP-Bereitstellung einrichten. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
+Erfahren Sie, wie Sie eine [!DNL Data Warehouse] in Adobe Analytics erstellen und für die SFTP-Bereitstellung einrichten. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

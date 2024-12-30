@@ -24,18 +24,18 @@ Adobe ist stolz darauf, Ihrer Universität diese Analytics-Grundlageninhalte vor
 
 ### Ein neuer Kurs, der Sie bei der Vorbereitung unterstützt
 
-Um uns auf das Lernen und die Lehre des Analysecurriculums vorzubereiten, haben wir einen brandneuen Kurs in Adobe Education Exchange begonnen, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Schüler/innen auf die 4 Kernmodule und darüber hinaus zu unterrichten.
+Zur Vorbereitung auf das Lernen und das Vermitteln des Analytics-Lehrplans haben wir einen völlig neuen Kurs auf Adobe Education Exchange gestartet, in dem Sie lernen können, wie Sie alle unten beschriebenen Kernkonzepte lehren können. Wir empfehlen, mit diesem Kurs zu beginnen, um sicherzustellen, dass Sie bereit sind, Ihre Schüler in den vier Kernmodulen und darüber hinaus zu unterrichten.
 
 Melden Sie sich hier für den Kurs an: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
-### Hier erfahren Sie:
+### Hier ist, was Sie lernen werden:
 
 *Los geht&#39;s mit Daten:*
 
 * Datenerfassungsmodul (1): Framework für Implementierung, Erfassung, Reporting und Validierung von/für Daten
 * Datenstrategie- und Architekturmodul (2): Grundlagen von Datenvariablen, Strategien und Architektur
 
-*Als Nächstes kombinieren Sie diese Daten mit INSIGHTS:*
+*Als Nächstes kombinieren Sie diese Daten mit Einblicken:*
 
 * Modul zu Standard-Metriken und -Funktionen von Adobe (3): Zugreifen auf und Anzeigen von wichtigen Analytics-Leistungsmetriken und -Berichten
 * Modul zu den Analysis Workspace-Grundlagen (4): Vertiefende Informationen zu Visualisierungen für Analytics-Berichte

@@ -15,6 +15,6 @@ ht-degree: 60%
 
 # Produktinterne Übermittlung von Support-Tickets {#in-product-support-ticket-submission}
 
-Erfahren Sie, wie Sie ein Support-Ticket unter Adobe von direkt im Produkt an [!DNL Customer Care] senden, wodurch der Prozess zur Auflösung optimiert wird.
+Erfahren Sie, wie Sie ein Support-Ticket direkt im Produkt bei Adobe an [!DNL Customer Care] senden, wodurch der Prozess zur Lösung optimiert wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

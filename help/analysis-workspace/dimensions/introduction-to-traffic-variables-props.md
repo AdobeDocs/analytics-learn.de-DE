@@ -1,6 +1,6 @@
 ---
 title: Einführung in Traffic-Variablen (Props)
-description: Machen Sie sich mit den Typen der Traffic-Variablen und ihrer Verwendung in Adobe Analytics vertraut.
+description: Machen Sie sich mit den Traffic-Variablentypen und ihrer Verwendung in Adobe Analytics vertraut.
 feature: Dimensions
 kt: 3576
 role: User
@@ -16,7 +16,7 @@ ht-degree: 23%
 
 # Einführung in Traffic-Variablen ([!UICONTROL Props])
 
-Machen Sie sich mit den Typen der Traffic-Variablen und ihrer Verwendung in Adobe Analytics vertraut, einschließlich Traffic-, Inhalts- und Flussanalyse.
+Machen Sie sich mit den Arten von Traffic-Variablen und ihrer Verwendung in Adobe Analytics vertraut, einschließlich Traffic, Inhalt und Flussanalyse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 

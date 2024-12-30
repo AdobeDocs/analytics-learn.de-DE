@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen einer Regel für das Kaufereignis in Experience Platform [!DNL tags]
-description: In diesem Video erfahren Sie, wie Sie mit der Produktzeichenerweiterung in [!DNL tags] Käufe auf Ihrer Site verfolgen können, was zu den Metriken Umsatz, Bestellungen und Einheiten in Ihrer Analyse führt.
+title: Fügen Sie eine Regel für das Kaufereignis auf Experience Platform hinzu [!DNL tags]
+description: In diesem Video wird gezeigt, wie Sie mit der Produktzeichenfolgenerweiterung in  [!DNL tags]  Käufe auf Ihrer Site verfolgen können, was in Ihrer Analyse zu Metriken Umsatz, Bestellungen und Einheiten führt.
 feature: Tags
 topics: Development
 kt: 3593
@@ -14,7 +14,7 @@ ht-degree: 39%
 
 ---
 
-# Hinzufügen einer Regel für das Kaufereignis in Experience Platform [!DNL tags]
+# Hinzufügen einer Regel für das Kaufereignis auf Experience Platform [!DNL tags]
 
 In diesem Video wird gezeigt, wie Sie mithilfe der [!UICONTROL Produktzeichenfolgenerweiterung] in [!DNL Experience Platform Launch] Käufe auf Ihrer Site verfolgen können, was in Ihrer Analyse zu [!UICONTROL Metriken] [!UICONTROL Umsatz], [!UICONTROL Bestellungen] und [!UICONTROL Einheiten] führt.
 

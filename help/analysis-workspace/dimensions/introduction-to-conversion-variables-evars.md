@@ -1,6 +1,6 @@
 ---
 title: Einführung in Konversionsvariablen (eVars)
-description: Erfahren Sie, wie Konversionsvariablen (auch als eVars bezeichnet) in Adobe Analytics verwendet werden, einschließlich ihrer Beziehung zu Konversionsereignissen und ihrer Unterscheidung von Traffic-Variablen.
+description: Erfahren Sie, wie Konversionsvariablen, auch als eVars bezeichnet, in Adobe Analytics verwendet werden. Sie beziehen sich auch auf Konversionsereignisse und unterscheiden sich von Traffic-Variablen.
 feature: Dimensions
 kt: 3577
 role: User
@@ -14,9 +14,9 @@ ht-degree: 19%
 
 ---
 
-# Einführung in Konversionsvariablen ([!DNL eVars])
+# Einführung in Konversionsvariablen [!DNL eVars]
 
-Erfahren Sie, wie Konversionsvariablen (auch als [!DNL eVars] bezeichnet) in Adobe Analytics verwendet werden, einschließlich ihrer Beziehung zu Konversionsereignissen und ihrer Unterscheidung von Traffic-Variablen.
+Erfahren Sie, wie Konversionsvariablen, auch als [!DNL eVars] bezeichnet, in Adobe Analytics verwendet werden, einschließlich ihrer Beziehung zu Konversionsereignissen und ihrer Unterschiede zu Traffic-Variablen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 

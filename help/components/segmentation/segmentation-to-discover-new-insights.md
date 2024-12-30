@@ -1,6 +1,6 @@
 ---
-title: Warten Sie jetzt einfach auf ein Segment ... Verwenden Sie die Segmentierung, um neue Einblicke in Analysis Workspace zu erhalten.
-description: Erfahren Sie, wie Sie mit Segmenten in Adobe Analytics neue Einblicke aus Ihren Analysis Workspace-Visualisierungen und Freiformtabellen gewinnen können.
+title: Warten Sie jetzt einfach auf ein Segment… Verwenden Sie die Segmentierung, um neue Einblicke in Analysis Workspace zu erhalten
+description: Erfahren Sie, wie Sie Segmente in Adobe Analytics verwenden, um neue Einblicke aus Ihren Analysis Workspace-Visualisierungen und Freiformtabellen zu erhalten.
 feature: Segmentation
 role: User
 level: Beginner
@@ -16,69 +16,69 @@ ht-degree: 1%
 
 ---
 
-# Warten Sie jetzt einfach ein Segment ... Verwenden Sie Segmente, um neue Einblicke in Analysis Workspace zu erhalten.
+# Warten Sie jetzt einfach auf ein Segment… Verwenden Sie Segmente, um neue Einblicke in Analysis Workspace zu erhalten
 
-Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten ziemlich gut nutzen. Wie [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, &quot;ermöglichen es Ihnen Segmente, Besucheruntergruppen anhand von Merkmalen oder Website-Interaktionen zu identifizieren&quot;. Während das grundlegende Ergebnis dieser Funktion das Isolieren von Gruppen von Benutzern, Besuchen oder Treffern auf Ihrer Site bedeutet, können sich besonders interessierte Analytiker wie Sie mit diesem Tool kreativ beschäftigen und neue Möglichkeiten finden, Einblicke in Ihre Site-Aktivität zu gewinnen. Die Liste der möglichen Optionen ist umfangreich. Daher zögern Sie nicht, Ihre eigene zu erstellen und sie mit anderen in Ihrer Organisation oder online in Communitys wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder der [#Measure Slack](https://www.measure.chat/) Community zu teilen.
+Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten recht häufig nutzen. Wie [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, „ermöglichen Segmente es Ihnen, Untergruppen von Besuchern anhand von Merkmalen oder Website-Interaktionen zu identifizieren.“ Während das grundlegende Ergebnis dieser Funktion die Isolierung von Benutzergruppen, Besuchen oder Treffern auf Ihrer Site bedeutet, kann ein scharfsinniger Analyst wie Sie mit diesem Tool kreativ werden und neue Wege finden, um Einblicke in Ihre Site-Aktivität zu erhalten. Die Liste der möglichen Optionen ist umfangreich. Zögern Sie nicht, eine eigene zu erstellen und sie für andere Personen in Ihrem Unternehmen oder online in Communities wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder der [#Measure Slack](https://www.measure.chat/) Community freizugeben.
 
-Wenn Sie einen schnellen Auffrischungskurs zum Erstellen eines Segments benötigen, lesen Sie bitte die Experience League-Dokumentation zur Verwendung des [Segmentaufbaus](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
+Wenn Sie das Erstellen eines Segments schnell auffrischen möchten, lesen Sie die Experience League-Dokumentation unter Verwendung von [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
 
-## Vergleichen und Vergleichen von Segmenten
+## Vergleichen und Abgleichen von Segmenten
 
-In Analysis Workspace können Sie zwei Segmente mit &quot;[Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)&quot;vergleichen. Segmentvergleiche finden Sie im Abschnitt Bedienfelder in der linken Navigationsleiste:
+In Analysis Workspace können Sie zwei Segmente mithilfe von &quot;[Segmentvergleich“ ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de). Einen Segmentvergleich finden Sie im Abschnitt Bedienfelder der linken Navigationsleiste:
 
-![Seg 01](assets/seg01.png)
+![SEG 01](assets/seg01.png)
 
-Manchmal benötigen Sie jedoch keinen vollständigen Vergleichsbereich, um Ihre Endbenutzer über wichtige Einblicke zu informieren. Glücklicherweise können einige Funktionen auch in einem Standardbedienfeld verglichen werden.
+Manchmal benötigen Sie jedoch kein vollständiges Vergleichsfenster, um Ihren Endbenutzern wichtige Erkenntnisse zu vermitteln. Glücklicherweise können einige Funktionen auch in einem Standard-Panel verglichen werden.
 
-Die [Venn-Diagrammvisualisierung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de) kann Ihnen dabei helfen, einen schnellen Vergleich zu erstellen, sodass Sie den Mauszeiger über die überlappenden Sitzungen, Bestellungen, Benutzer usw. halten und sie anzeigen können. zwischen 2 und 3 benutzerdefinierten Segmenten. Sie können auch schnell Segmente erstellen, indem Sie mit der rechten Maustaste auf einen der überlappenden Abschnitte klicken:
+Die [Venn-Diagrammvisualisierung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de) kann Ihnen dabei helfen, einen schnellen Vergleich zu erstellen, sodass Sie den Mauszeiger über die sich überschneidenden Sitzungen, Bestellungen, Benutzer usw. bewegen und diese sehen können. zwischen 2 und 3 benutzerdefinierten Segmenten. Sie können auch schnell Segmente erstellen, indem Sie mit der rechten Maustaste auf einen der überlappenden Abschnitte klicken:
 
-![Seg 02](assets/s02.png)
+![SEG 02](assets/s02.png)
 
-Manchmal sind die wichtigen Informationen nicht in den überlappenden Daten enthalten, sondern in den Daten, die sich nicht überschneiden. Eine schnelle Möglichkeit, dies anzuzeigen, besteht darin, eine Kopie eines Segments zu erstellen und es zu einem &quot;Ausschließen&quot;-Segment zu machen:
+Manchmal sind die wichtigen Informationen nicht in den sich überschneidenden Daten enthalten, sondern die Daten, die sich nicht überschneiden. Eine schnelle Möglichkeit, dies anzuzeigen, besteht darin, eine Kopie eines Segments zu erstellen und es zu einem „Ausschließen“-Segment zu machen:
 
-![Seg 03](assets/s03.png)
+![SEG 03](assets/s03.png)
 
-Durch die Stapelung Ihres Segments &quot;Ausschließen&quot;mit dem anderen Segment in Ihrem Vergleich können Sie jetzt schnell berechnen, wie viele Besuche Ihre Menüseite erreichen, ohne auch die Startseite in derselben Sitzung anzuzeigen:
+Indem Sie Ihr „Ausschließen“-Segment mit dem anderen Segment in Ihrem Vergleich stapeln, können Sie jetzt schnell berechnen, wie viele Besuche Ihre Menüseite erreichen, ohne auch die Startseite in derselben Sitzung anzuzeigen:
 
-![Seg 04](assets/s04.png)
+![SEG 04](assets/s04.png)
 
-## Stapelattacken
+## Stack-Angriff
 
-Auf ähnliche Weise können Sie die sich überschneidenden Daten eines Venn-Diagramms erstellen, indem Sie einfach alle Segmente stapeln. Es gibt keine Beschränkung für die Anzahl der Segmente oder einzelnen Dimensionen, die Sie stapeln. Wenn ich zum Beispiel schnell herausfinden wollte, welche Wochentage meine Site im letzten Monat auf einem Mobiltelefon besucht hat, insbesondere auf einem Samsung Galaxy A52s, das meine Menü- und Ernährungsseiten gesehen hat, aber NICHT meine Homepage gesehen hat, kann ich sie schnell wie folgt erstellen:
+Ebenso können Sie die sich überschneidenden Daten eines Venn-Diagramms erstellen, indem Sie einfach beliebige Segmente stapeln. Die Anzahl der Segmente oder einzelnen Dimensionen, die Sie stapeln, ist unbegrenzt. Wenn ich zum Beispiel schnell herausfinden wollte, an welchen Wochentagen meine Website im letzten Monat ein Mobiltelefon besucht hat, insbesondere ein Samsung Galaxy A52, das meine Speisekarten- und Ernährungsseiten gesehen hat, aber meine Startseite NICHT gesehen hat, kann ich sie schnell so erstellen:
 
-![Seg 05](assets/s05.png)
+![SEG 05](assets/s05.png)
 
-Noch besser ist jedoch, dass ich, sobald ich diese perfekte Untergruppe meiner Benutzer- oder Besuchsbasis gefunden habe, alle diese Werte auswählen, mit der rechten Maustaste klicken und sofort ein Segment erstellen kann:
+Aber noch besser: Sobald ich die perfekte Untergruppe meines Benutzers oder meiner Besucherbasis gefunden habe, kann ich all diese Werte auswählen, mit der rechten Maustaste klicken und sofort ein Segment erstellen:
 
-![Seg 06](assets/s06.png)
+![SEG 06](assets/s06.png)
 
-![Seg 07](assets/s07.png)
+![SEG 07](assets/s07.png)
 
-![Seg 08](assets/s08.png)
+![SEG 08](assets/s08.png)
 
 Das ist eine Menge Macht in einem Segment.
 
-## Ein Nummernsegment für eine Reihe von Segmenten
+## Ein Zahlensegment für mehrere Segmente
 
-Viele Benutzer betrachten beim Erstellen von Segmenten oft nominale, ordinale oder Intervallwerte - Dinge wie besuchte Seiten, eine Altersgruppe von Benutzern oder die Anzahl von Besuchen, die ein Benutzer in der Vergangenheit durchgeführt hat. Sie können jedoch auch bei der Erstellung eines Segments die Berichtsdaten verwenden, indem Sie diese Werte sammeln - ob es sich um Standarddimensionen, Standardmetriken oder benutzerdefinierte Variablen und Metriken für Ihr Unternehmen handelt.
+Viele Benutzende betrachten beim Erstellen von Segmenten häufig Nominal-, Ordinal- oder Intervallwerte - Dinge wie eine besuchte Seite, einen Altersbereich von Benutzenden oder die Anzahl der Besuche, die eine Benutzerin oder ein Benutzer in der Vergangenheit gemacht hat. Sie können jedoch auch Verhältnisdaten beim Erstellen eines Segments verwenden, indem Sie diese Werte zu Buckets zusammenfassen - egal, ob es sich um Standarddimensionen, Standardmetriken oder benutzerdefinierte Variablen und Metriken für Ihre Organisation handelt.
 
-Beispielsweise stehen vordefinierte Behälter für die Besuchszeit pro Seite oder die Zeit pro Besuch zur Verfügung:
+Beispielsweise stehen für „Zeit auf Seite“ oder „Zeit pro Besuch“ vordefinierte Buckets zur Verfügung:
 
-![Seg 09](assets/s09.png)
+![SEG 09](assets/s09.png)
 
-Diese werden jedoch möglicherweise nicht immer den Anforderungen Ihres Unternehmens gerecht - die meisten Besuche der Site laufen möglicherweise kürzer als 10 Minuten. Sie können die granulare Messung verwenden, um Behälter unterschiedlicher Größe zu erstellen. Im Folgenden finden Sie einen Bericht zu Besuchen, die zwischen 1 Minute, 1 Sekunde und 1 Minute und 30 Sekunden dauern:
+Diese entsprechen jedoch möglicherweise nicht immer den Anforderungen Ihres Unternehmens - vielleicht laufen die meisten Besuche auf der Website unter 10 Minuten. Sie können granulare Messungen verwenden, um Behälter unterschiedlicher Größe zu erstellen. Im Folgenden finden Sie eine erstellte Ansicht über Besuche, die zwischen 1 Minute, 1 Sekunde und 1 Minute bzw. 30 Sekunden dauern:
 
-![Seg 10](assets/s10.png)
+![SEG 10](assets/s10.png)
 
-Nach der Erstellung kann ich nun meine Besuche, Bestellungen und anderen Ereignisse nach den verschiedenen zusammengefassten Zeitgruppen, die ich angepasst habe, untersuchen:
+Nach der Erstellung kann ich jetzt meine Besuche, Bestellungen und andere Ereignisse nach den verschiedenen von mir angepassten Zeitgruppen anzeigen:
 
-![Seg 11](assets/s11.png)
+![SEG 11](assets/s11.png)
 
-Sie können sogar damit beginnen zu untersuchen, wie sich Ihre KPIs (Key Performance Indicators) verändern, indem Sie ermitteln, wie viel Zeit ein Benutzer verbringt, wie viele Seiten er bei einem Besuch besucht hat, wie oft er in der Vergangenheit besucht hat, oder einen anderen numerischen Wert verwenden - im Grunde können Sie eine Metrik als Faktor einer anderen Metrik betrachten:
+Sie können sogar mit der Untersuchung beginnen, wie sich Ihre Key Performance Indicators (KPIs) ändern, und zwar als Faktor dafür, wie viel Zeit ein Benutzer aufwendet, wie viele Seiten er bei einem Besuch aufruft, wie oft er in der Vergangenheit besucht hat oder einen anderen numerischen Wert. Dies ermöglicht es Ihnen, eine Metrik als Faktor einer anderen Metrik anzusehen:
 
-![Seg 12](assets/s12.png)
+![SEG 12](assets/s12.png)
 
-Die Möglichkeiten, Segmente zu verwenden, um neue Einblicke zu erhalten, sind endlos! Dies ist lediglich ein Ausgangspunkt. Probieren Sie einige von Ihnen aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder die [#Measure Slack](https://www.measure.chat/) Community.
+Die Möglichkeiten, Segmente zu nutzen, um neue Einblicke zu finden, sind unbegrenzt! Dies ist lediglich ein Ausgangspunkt. Probieren Sie selbst ein paar aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder die [#Measure Slack](https://www.measure.chat/)-Community.
 
 Frohes Segmentieren!
 

@@ -4,7 +4,7 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%

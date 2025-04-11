@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -238,7 +238,7 @@ ht-degree: 96%
       + [Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Erstellen von operativen Dashboards](administration/admin-tips/create-operational-dashboards.md)
    + Unternehmenseinstellungen {#company-settings}
-      + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [E-Mail-Domain-Beschränkungen erzwingen](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
    + Benutzerverwaltung {#user-management}
       + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
@@ -247,27 +247,27 @@ ht-degree: 96%
       + [Übertragen von Benutzer-Assets an einen anderen Benutzer](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Überprüfen der verknüpften IMS-ID, um Anmeldeprobleme zu vermeiden](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Report Suites verwalten {#manage-report-suites}
-      + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Konfigurieren allgemeiner Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Konfigurieren der gebührenpflichtigen Sucherkennung](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Konfigurieren der Erkennung von Paid Search](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Einrichten von Marketing-Kanälen](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Erstellen von Verarbeitungsregeln für Marketing-Kanäle](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Bearbeiten eingehender Daten mit Verarbeitungsregeln](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurieren von Traffic-Variablen (Props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Konfigurieren von Traffic-Klassifizierungen](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Konfigurieren von Hierarchievariablen](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Konfigurieren von Variablen in der Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Konfigurieren von Ereignissen und Variablen](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Konfigurieren von Konversionsklassifizierungen](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurieren von Listenvariablen](administration/manage-report-suites/configuring-list-variables.md)
       + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
-      + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [Konfigurieren der Postleitzahleinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Aktivieren der Einstellung „Zeitstempel optional“](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurieren von Bot-Regeln in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
       + [Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Traffic-Management {#traffic-management}
-      + [Nutzung der Server-Aufrufe](administration/traffic-management/server-call-usage.md)
+      + [Nutzung von Server-Aufrufen](administration/traffic-management/server-call-usage.md)
       + [Verwalten einer bevorstehenden Traffic-Spitze](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Protokolle{#logs}
       + [Nutzungsprotokoll-Tracking für Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)

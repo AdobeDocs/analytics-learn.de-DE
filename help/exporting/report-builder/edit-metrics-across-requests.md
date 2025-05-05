@@ -21,6 +21,6 @@ Sie können [!UICONTROL Metriken] jetzt über mehrere Datenanforderungen von [!U
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über &quot;[!UICONTROL  bearbeiten] im Fenster „Verwalten“ erfolgen.
+Diese Funktionalität ergänzt anforderungsübergreifend die bestehenden Möglichkeiten zur Bearbeitung von [!UICONTROL Report Suites], [!UICONTROL Datumsbereichen], [!UICONTROL Granularität] und [!UICONTROL Segmenten]. Die Massenbearbeitung von Anforderungen kann über das Kontextmenü oder über &quot;[!UICONTROL &#x200B; bearbeiten] im Fenster „Verwalten“ erfolgen.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=de).

@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Variablen und Ereignisse in Report Suite Manager konfigurieren, um sicherzustellen, dass Berichte, Dimensionen und Metriken die richtigen Namen und die richtigen Verhaltensweisen aufweisen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31812/?quality=12&learn=on&captions=ger)
 

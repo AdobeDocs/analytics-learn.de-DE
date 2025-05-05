@@ -23,6 +23,6 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie Sie das Abschneiden von Beschriftungen in Ihrer [!DNL flow visualization] aktivieren und deaktivieren. Lernen Sie außerdem, Dimensionen für die multidimensionale [!DNL flow]-Analyse per Drag-and-Drop in den [!DNL flow] zu ziehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327471/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de).

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Mit dem [!DNL Freeform table builder] können Sie für komplexe Geschäftsszenarien Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag-and-Drop erstellen. Daten werden nicht laufend aktualisiert, sondern erst, wenn Sie auf „Erstellen“ klicken, wodurch Sie Zeit sparen, da die Tabelle nur einmal aktualisiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33611/?quality=12&learn=on&captions=ger)

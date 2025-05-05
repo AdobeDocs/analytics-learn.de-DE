@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über einige der großartigen Verbesserungen und Ergänzungen der neuen Landingpage. Wir haben anhand Ihres Kunden-Feedbacks versucht, die wichtigsten Funktionen zu ermitteln, und integriert, darunter die Spaltenanpassung, neue Spaltentypen sowie Links zu Echtzeit- und Bot-Berichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411809/?quality=12&learn=on&captions=ger)

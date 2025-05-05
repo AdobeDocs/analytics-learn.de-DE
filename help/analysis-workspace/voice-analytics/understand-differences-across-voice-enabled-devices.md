@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die verschiedenen Performances und Funktionalitäten verschiedener sprachunterstützter Geräte verstehen können, um Produkt-Roadmaps priorisieren zu können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34981/?quality=12&learn=on&captions=ger)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie mit Datumsangaben, [!UICONTROL Datumsbereichen] und Datumsvergleichen Ihre Tabellen und Visualisierungen an den richtigen Zeitrahmen anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33712/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=de).

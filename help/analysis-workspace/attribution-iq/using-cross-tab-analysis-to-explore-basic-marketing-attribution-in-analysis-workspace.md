@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Es gibt viele Möglichkeiten, Ihre Attributionsmethode mit Adobe Analytics weiter zu verfeinern. In diesem Video zeigen wir, wie Sie mithilfe von Kreuztabellenanalysen in Workspace tiefere Einblicke anhand des Berichts über Marketing-Kanäle gewinnen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327750/?quality=12&learn=on&captions=ger)
 
 **UPDATE**: Seit der Veröffentlichung dieses Videos wurden mehrere Verbesserungen an [!DNL Workspace] vorgenommen. Wir lassen das Video trotzdem live, weil es einige tolle Tipps bietet, die Sie auf jeden Fall kennen sollten.
 

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 In diesem Video sehen Sie eine konzeptionelle Beschreibung der grundlegenden Besuchermetriken in Adobe Analytics und ihrer Beziehung zueinander. Sie werden auch mehrere Beispiel-Anwendungsfälle für die Verwendung von Seitenansichten, Besuchen und Unique Visitors im Reporting durchlaufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437874/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der Dokumentation unter [Seitenansichten](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=de), [Besuche](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [Unique Visitors](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de).

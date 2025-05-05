@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Zeitunterteilungsanalyse auf ein höheres Niveau bringen können, indem Sie eine Heatmap-[!UICONTROL Visualisierung] von Verhaltensweisen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35171/?quality=12&learn=on&captions=ger)

@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie -Funktionen bei der Erstellung berechneter Metriken in Analysis Workspace verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37642/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zur Verwendung der Funktionen [Einfach](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=de) und [Erweitert](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=de) beim Erstellen berechneter Metriken finden Sie in der Dokumentation.

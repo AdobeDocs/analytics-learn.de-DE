@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Mehrere [!UICONTROL Report Suites] können in einem einzigen [!DNL Workspace]-Projekt analysiert werden, indem [!UICONTROL Report Suites] auf Bedienfeldebene ausgewählt werden. Auf diese Weise können Sie verschiedene Datensätze Seite an Seite in einem Bedienfeld analysieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36754/?quality=12&learn=on&captions=ger)
 
 >[!TIP]
 >

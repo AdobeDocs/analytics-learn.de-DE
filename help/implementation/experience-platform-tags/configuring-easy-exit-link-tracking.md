@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Mit der Adobe Analytics-Erweiterung in Experience Platform [!DNL tags] können Sie mit wenigen Klicks mit dem Tracking von Exitlinks auf Ihrer Site (d. h. Links, die zu einer anderen Site führen) beginnen. In diesem Video erfahren Sie, wie Sie es einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37594/?quality=12&learn=on&captions=ger)
 
 Möglicherweise führen einige Links auf Ihrer Site zu weiteren eigenen oder Partner-Sites. In solchen Fällen ist es üblicherweise interessant zu wissen, wie viele Personen von Ihren Seiten aus auf diese Sites klicken. Anhand der in diesem Video erläuterten Konfiguration können Sie schnell und einfach ein Exitlink-Tracking einrichten und es an Ihre Anforderungen anpassen.

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Stellen Sie Ihre Daten mit der Segmentierung in Adobe Analytics individuell zusammen. Dieses Video führt Sie durch den Segment Builder und bietet einen einfachen Überblick.
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37412/?quality=12&learn=on&captions=ger)

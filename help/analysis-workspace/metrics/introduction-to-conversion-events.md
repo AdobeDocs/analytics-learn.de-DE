@@ -18,4 +18,4 @@ ht-degree: 12%
 
 Erfahren Sie mehr über die Grundlagen von Konversionsereignissen, häufig Erfolgsereignisse genannt, in [!DNL Adobe Analytics]. Sie messen Konversionen in Ihren digitalen Eigenschaften und werden in Berichten als Metriken verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31816/?quality=12&learn=on&captions=ger)

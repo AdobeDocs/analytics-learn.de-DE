@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Bedienfelder und Visualisierungen in Analysis Workspace kopieren und einfügen können. Dies sind zeitsparende Verfahren zum Bearbeiten eines vorhandenen Projekts oder zum direkten Einstieg in ein neues Projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38353/?quality=12&learn=on&captions=ger)

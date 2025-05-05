@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Stellen Sie die richtigen Fragen?
 
->[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411807/?quality=12&learn=on&captions=ger)
 
 _Alle_. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Dabei könnte es vorteilhafter sein, nur _die verwertbaren Datenpunkte_ zu identifizieren und zu erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.
 

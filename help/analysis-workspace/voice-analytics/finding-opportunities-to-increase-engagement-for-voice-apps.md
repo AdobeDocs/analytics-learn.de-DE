@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Interaktionsqualität in Ihrer Sprach-Mobile-App genau verstehen können, indem Sie Funktionen wie die Häufigkeit der Verwendung, [!UICONTROL Kohorte], Besuch/Benutzer und Sitzungslängen nutzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34949/?quality=12&learn=on&captions=ger)

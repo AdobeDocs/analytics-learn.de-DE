@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie die Data Warehouse-Reporting-Benutzeroberfläche und die Exportkonten und -speicherorte optimal nutzen können. In diesem Video wird der grundlegende Workflow für die Bereitstellung von Berichten sowohl an E-Mail als auch an Amazon S3 behandelt. Eine ausführliche Dokumentation finden Sie unter [Übersicht über das Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=de) und zugehörige Dokumente.
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428481/?quality=12&learn=on&captions=ger)

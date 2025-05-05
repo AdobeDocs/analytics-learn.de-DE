@@ -21,6 +21,6 @@ ht-degree: 100%
 
 So erstellen Sie eine [!UICONTROL Kohortenanalysetabelle] in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430076/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).

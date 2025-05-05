@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] macht Adobe Analytics intelligenter und hilft Marketing-Experten, aussagekräftige Einblicke über ihre Kunden zu erhalten. Dieses Video liefert zusätzliche Erklärungen zu wichtigen Funktionen in Adobe Analytics mit [!DNL Adobe Sensei]-Unterstützung, darunter [!UICONTROL Anomalieerkennung], [!UICONTROL Beitragsanalyse], [!UICONTROL intelligente Warnhinweise], Clustering, [!UICONTROL Segment IQ] und Neigungsmodellierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35468/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu [!DNL Adobe Sensei] erhalten Sie [HIER](https://www.adobe.com/de/sensei.html).

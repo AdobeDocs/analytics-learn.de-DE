@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Unter [!UICONTROL Visualisierungseinstellungen] können Sie Ihrer Linienserie eine Regression oder eine Trend-Linie für den angepassten Durchschnittswert hinzufügen, was dazu beitragen kann, ein klareres Muster in den Daten darzustellen. Zu den Optionen gehören „Linear“, „Logarithmisch“, „Exponentiell“, „Leistung“, „Quadratisch“ und „Angepasste Durchschnittswerte“.
 
->[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343543/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=de#analysis-workspace).
 

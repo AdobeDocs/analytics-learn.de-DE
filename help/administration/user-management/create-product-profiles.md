@@ -21,6 +21,6 @@ ht-degree: 71%
 
 Erstellen Sie Analytics-Produktprofile in der Experience Cloud-Admin Console, um den Zugriff auf Report Suites, Metriken, Dimensionen und Tools zu verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448816/?learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/admin/admin-console/permissions/product-profile).

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Es kann sehr nützlich sein, die Daten, die in Ihre Report Suites gelangen, zu bearbeiten, um basierend auf dem, was bereits hineingeflossen ist, Daten hinzuzufügen oder zu ändern. In diesem Video erhalten Sie einen Überblick über Verarbeitungsregeln in Adobe Analytics und darüber, wofür sie verwendet werden. Es enthält auch einige Tipps, Beispiele und sogar eine Warnung.
 
->[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342190/?quality=12&learn=on&captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=de).

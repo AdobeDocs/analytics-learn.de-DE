@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die Vorteile der Verwendung der doPlugins-Funktion und fügen Sie Analytics-Implementierungs-Plug-ins hinzu, um die Datenerfassung zu erweitern. In diesem Video wird beschrieben, wo Sie den Code finden und ihn in Experience Platform hinzufügen können. [!DNL tags]. Lesen Sie die Dokumentation für [doPlugins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=de) und [Analytics-Implementierungs-Plug-ins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=de) für weitere Details.
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428856/?quality=12&learn=on&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Dies ist eine ziemlich raffinierte Funktion. Wenn Sie ein Kantengraph aus einem Dimensionswert erstellen, können Sie jetzt verschiedene Dimensionswerte auswählen und den Kantengraph dynamisch ändern. Sehen Sie sich das Video an, um mehr zu erfahren!
 
->[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327446/?quality=12&learn=on&captions=ger)

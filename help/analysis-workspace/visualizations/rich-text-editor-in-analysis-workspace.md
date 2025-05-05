@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die Funktionen, mit denen Analystinnen, Analysten und Marketing-Fachleute Textvisualisierungen (oder Beschreibungen) in Analysis Workspace bearbeiten können: fett, kursiv, Überschriften, Links und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328063/?quality=12&learn=on&captions=ger)

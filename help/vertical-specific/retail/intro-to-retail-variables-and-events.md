@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Wenn Sie eine Einzelhandels-Website haben, gibt es einige Variablen und Ereignisse, die nur für Sie erstellt wurden (Sie sind schließlich etwas Besonderes)! In diesem Video erhalten Sie einen schnellen Einblick in diese für den Einzelhandel spezifischen Variablen und Ereignisse.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31815/?quality=12&learn=on&captions=ger)

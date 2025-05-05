@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Hier erfahren Sie mehr zu nützlichen benutzerspezifischen Metriken, die bei der Verwendung von Advertising Cloud-Daten in Adobe Analytics erstellt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40448/?quality=12&learn=on&captions=ger)

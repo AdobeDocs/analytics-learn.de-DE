@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Dieses Video zeigt Ihnen die einzelnen Schritte der Data Governance und auch, welche Rolle Daten im Hinblick auf die Einhaltung der DSGVO-Vorschriften spielen. Es bietet ein praktisches Beispiel für den Umgang mit Daten unter Anwendung von Data Governance.
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40785/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=de).

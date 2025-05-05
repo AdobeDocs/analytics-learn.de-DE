@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Mit der Adobe Analytics-Erweiterung in Experience Platform [!DNL tags] können Sie mit wenigen Klicks mit der Verfolgung der Download-Links auf Ihrer Site (Links, die Nicht-Browser-Dateien auf Ihren Rechner herunterladen) beginnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429923/?quality=12&learn=on&captions=ger)
 
 Egal ob Whitepapers, Handbücher, Audio- oder Videodateien oder eine Vielzahl anderer Möglichkeiten: Möglicherweise werden über einige Links auf Ihrer Site Dateien heruntergeladen, die nicht in einem Browser geöffnet werden. Bei diesen Dateien darf die Seite keinen [!DNL Analytics]-Code zum Tracking enthalten. Mit der im Video erläuterten Konfiguration können Sie den Link zur Download-Datei verfolgen.

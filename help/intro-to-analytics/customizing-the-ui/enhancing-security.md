@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die Sicherheits-Manager-Einstellungen in den Unternehmenseinstellungen, um den Zugriff auf Adobe Analytics zu steuern. Hierzu zählen sichere Passwörter, Passwortablauf- und Wiederherstellungsfunktionen sowie E-Mail-Domain-Einschränkungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40792/?quality=12&learn=on&captions=ger)

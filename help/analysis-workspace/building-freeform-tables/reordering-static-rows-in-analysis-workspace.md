@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Sie können statische Zeilen im Freiformtabellen-Builder manuell neu anordnen. Auf diese Weise können Sie statische Tabellenzeilen in der exakten Reihenfolge anordnen, in der Sie sie benötigen, z. B. erst Besuche, dann Bestellungen und dann Konversionsrate.
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33607/?quality=12&learn=on&captions=ger)

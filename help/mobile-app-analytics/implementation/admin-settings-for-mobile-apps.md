@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Mobile App-Berichte in Adobe Analytics einrichten, einschließlich der Komponenten zum [!UICONTROL Lebenszyklus], der [!UICONTROL Standortverfolgung] und der Berichte zu [!UICONTROL Hintergrundtreffern].
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39726/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=de).

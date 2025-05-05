@@ -21,4 +21,4 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie Sie auf einfache Weise die Skalierung (oder Achsenbeschränkungen) für die Y-Achse in einem [!UICONTROL Liniendiagramm] in Analysis Workspace ändern können, um eine falsche Interpretation von Daten für Sie und andere zu erschweren.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41447/?quality=12&learn=on&captions=ger)

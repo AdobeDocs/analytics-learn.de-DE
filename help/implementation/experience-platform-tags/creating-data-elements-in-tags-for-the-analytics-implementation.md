@@ -21,4 +21,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie anhand der in einem SDR-Dokument (Solution Design Reference) erstellten Variablen und Ereignisse Datenelemente für Ihre Analytics-Implementierung in [!DNL tags] erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31808/?quality=12&learn=on&captions=ger)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Vorlagen die ersten Schritte in Adobe Analytics für Mobile Apps meistern. Vorkonfigurierte [!UICONTROL Standardvorlagen] helfen Ihnen, [!UICONTROL Metriken] zur Benutzerinteraktion und zur App-Performance in Analysis Workspace zu verstehen. Erfahren Sie auch, wie Sie Ihr Projekt mit unserer benutzerfreundlichen Drag-and-Drop-Oberfläche anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33203/?quality=12&learn=on&captions=ger)

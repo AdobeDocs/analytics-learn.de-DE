@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Bei der Konfiguration und Anpassung Ihres Projekts in Analysis Workspace müssen Sie möglicherweise einen Datumsbereich verwenden, der über die bereits im Produkt vorkonfigurierten Datumsbereiche hinausgeht. In diesem Video sehen Sie drei Beispiele, wie Sie benutzerdefinierte Datumsbereiche erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327421/?quality=12&learn=on&captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=de).

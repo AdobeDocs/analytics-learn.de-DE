@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in [!DNL Adobe Analytics] Kontext zu Dimensionen und Metriken hinzufügen. Verwenden Sie das Beschreibungsfeld, wenn der Name Ihrer Berichte und Metriken für Benutzende in Ihrer Organisation unklar ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39719/?quality=12&learn=on&captions=ger)

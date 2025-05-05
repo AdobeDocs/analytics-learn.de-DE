@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie benutzerdefinierte Datumsbereiche anwenden, um monatliche und jährliche Trend-Vergleiche für Metriken in Analysis Workspace zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37175/?quality=12&learn=on&captions=ger)

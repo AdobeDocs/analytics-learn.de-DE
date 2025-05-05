@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit einigen neuen Funktionen vertraut, mit denen Analysten und Marketing-Experten die Beschriftungen in Diagrammen an Ihre [!UICONTROL Visualisierungsanforderungen] anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327476/?quality=12&learn=on&captions=ger)

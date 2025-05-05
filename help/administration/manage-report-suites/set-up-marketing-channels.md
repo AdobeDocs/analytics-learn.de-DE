@@ -20,7 +20,7 @@ ht-degree: 100%
 
 In diesem Video zeigen wir Ihnen, wie Sie Berichte zu Marketing-Kanälen in Ihrer Report Suite in Analytics konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346041/?quality=12&learn=on&captions=ger)
 
 >[!NOTE]
 >

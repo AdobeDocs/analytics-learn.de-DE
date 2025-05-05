@@ -18,4 +18,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Analytics-Erweiterung in Experience Platform [!DNL tags] für eine einfache Site schnell konfigurieren. Eine ausführliche Dokumentation finden Sie in der [Übersicht über die Adobe Analytics-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428543/?quality=12&learn=on&captions=ger)

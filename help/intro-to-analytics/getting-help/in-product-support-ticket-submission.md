@@ -17,4 +17,4 @@ ht-degree: 60%
 
 Erfahren Sie, wie Sie ein Support-Ticket direkt im Produkt bei Adobe an [!DNL Customer Care] senden, wodurch der Prozess zur Lösung optimiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430050/?quality=12&learn=on&captions=ger)

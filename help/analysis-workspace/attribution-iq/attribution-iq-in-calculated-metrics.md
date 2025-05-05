@@ -20,7 +20,7 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie [!DNL Attribution IQ] in [!DNL Calculated Metrics] verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41478/?quality=12&learn=on&captions=ger)
 
 Berechnete Metriken unterstützen jetzt jedes der zehn regelbasierten Attributionsmodelle. Mit berechneten Metriken können Sie Attributionsmodelle vergleichen (z. B. durch Subtrahieren des [!UICONTROL Erstkontakts] vom [!UICONTROL Letztkontakt]), um den Unterschied anzuzeigen. Sie können auch Hybridmodelle erstellen (z. B. 50 % [!UICONTROL Zeitverfall] plus 50 % [!UICONTROL Erstkontakt]) oder eine Attribution auf wichtige Konversionsmetriken wie „Umsatz pro Bestellung“ oder „Bestellungen pro Besuch“ anwenden.
 

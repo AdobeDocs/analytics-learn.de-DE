@@ -18,7 +18,7 @@ ht-degree: 100%
 
 In diesem Video zeigen wir Ihnen, wie Sie zwei Datumsvergleichsfunktionen in [!UICONTROL Freiformtabellen] nutzen können: [!UICONTROL Spalte für Zeitraum hinzufügen] und [!UICONTROL Zeiträume vergleichen].
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327678/?quality=12&learn=on&captions=ger)
 
 Datumsvergleiche sind eine einfache Möglichkeit, Ihren aktuellen Analysis Workspace-Tabellen zusätzliche Tiefe zu geben, und sie helfen Ihnen, Ihre aktuellen Daten einfach mit historischen Daten in Bezug zu setzen.
 

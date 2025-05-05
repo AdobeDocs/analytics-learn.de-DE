@@ -19,4 +19,4 @@ Erfahren Sie mehr über den Echtzeitbericht in Adobe Analytics, einschließlich 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=de).

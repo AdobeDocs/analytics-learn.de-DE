@@ -22,4 +22,4 @@ Erfahren Sie, wie [!DNL Data Warehouse] Berichte im Tableau Data Extract (TDE)-D
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/export/data-warehouse/t-tableau).

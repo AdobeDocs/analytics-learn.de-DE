@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Grundlegendes zum Adobe Analytics-Attributionsbedienfeld und Lookback-Fenstern
 
-Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
+Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=de) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
 
 Ich meine, ehrlich, schauen Sie sich nur all diese Optionen, Schalter, Bedienfelder, Auslesehilfen und Regler an.  Und ernsthaft, sprechen wir über diese komplizierten Blinklichter, Schläuche, Messgeräte… WARTE!!  Dies ist nicht die Zeit, um abgelenkt zu werden, wenn wir über Zeitmaschinen sprechen, wir haben einfach nicht die Zeit… oder tun wir das?
 
@@ -43,7 +43,7 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Laut [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
+Laut [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **Benutzerdefiniert** Sie wählen aus, wer eine Gutschrift erhalten soll.  Es ist Ihre Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
 
 Um dies noch interessanter zu machen, lassen Sie uns über das Zurückdrehen der Uhr sprechen!
 

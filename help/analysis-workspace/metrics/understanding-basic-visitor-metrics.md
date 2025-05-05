@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # Verstehen von grundlegenden Besuchermetriken
 
-Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
+Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=de), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
 
 * Erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren Sie mehr über deren Ähnlichkeiten und Unterschiede.
 

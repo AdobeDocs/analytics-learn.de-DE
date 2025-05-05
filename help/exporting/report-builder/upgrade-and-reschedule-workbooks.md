@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie ältere [!DNL Report Builder]-Arbeitsmappen auf die neuest
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/report-builder/home).

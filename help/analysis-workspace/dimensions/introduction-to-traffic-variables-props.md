@@ -20,4 +20,4 @@ Machen Sie sich mit den Arten von Traffic-Variablen und ihrer Verwendung in Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=de).

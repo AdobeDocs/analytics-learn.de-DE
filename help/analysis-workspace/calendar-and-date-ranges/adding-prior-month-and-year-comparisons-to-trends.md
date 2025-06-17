@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends
 description: Erfahren Sie, wie Sie benutzerdefinierte Datumsbereiche anwenden, um monatliche und jährliche Trend-Vergleiche für Metriken in Analysis Workspace zu erstellen.
-feature: Calendar
+feature: Date Ranges
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 5031
 role: User
 level: Beginner
 exl-id: ea65bc06-c725-4115-bb62-f8e646bc1164
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie benutzerdefinierte Datumsbereiche anwenden, um monatliche und jährliche Trend-Vergleiche für Metriken in Analysis Workspace zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/37175/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)

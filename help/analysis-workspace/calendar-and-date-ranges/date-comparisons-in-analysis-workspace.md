@@ -22,4 +22,4 @@ In diesem Video erfahren Sie, wie Sie zwei Datumsvergleichsfunktionen in „Frei
 
 Datumsvergleiche sind eine einfache Möglichkeit, Ihren aktuellen Analysis Workspace-Tabellen mehr Tiefe zu verleihen, und helfen Ihnen, Ihre aktuellen Daten einfach mit historischen Daten in Relation zu setzen.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Was werden Sie tun, wenn Sie mehrere Werte gleichzeitig in eine eVar (eine Konversionsvariable) setzen müssen? Listenvariablen sind die Rettung! In diesem Video erfahren Sie, wie und warum Listenvariablen in Adobe Analytics konfiguriert und verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342197/?quality=12&learn=on&captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=de).

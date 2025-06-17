@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Dieses Video führt Sie durch die [!UICONTROL Beitragsanalyse] und die damit verbundene Möglichkeit, maschinelles Lernen zu verwenden, um die Faktoren, die zu einem Trend in Ihren Daten beigetragen haben, schnell und einfach zu erklären.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40759/?quality=12&learn=on&captions=ger)
 
 [!UICONTROL Beitragsanalyse] ist in Analysis Workspace für Adobe Analytics Premium-Kunden verfügbar.
 

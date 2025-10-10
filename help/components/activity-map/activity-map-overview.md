@@ -21,4 +21,4 @@ Erfahren Sie mehr über Activity Map, ein Tool zur Visualisierung von Benutzerak
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/activity-map/activity-map).

@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Dropdown-Filter basierend auf einer gesamten Dimension ers
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=de#dynamic-drop-down-filters).

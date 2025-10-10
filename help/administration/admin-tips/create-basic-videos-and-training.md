@@ -33,7 +33,7 @@ ht-degree: 85%
 
 Sie können die Benutzer dann einfach auf diese verweisen, anstatt lange E-Mails zu schreiben oder eine weitere Besprechung abzuhalten. Weitere Tipps und Tricks zur Schulung von Benutzern finden Sie im Artikel von [Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target="_blank"} in dem es um die Vereinfachung und den verringerten Zeitaufwand bei der Benutzerschulung geht.
 
-Darüber hinaus gibt es eine Fülle von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
+Darüber hinaus gibt es eine Fülle von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/de?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
 
 ## Autoren
 

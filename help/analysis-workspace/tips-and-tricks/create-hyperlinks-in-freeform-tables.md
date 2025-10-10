@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Erstellen von Hyperlinks in Freiformtabellen
 
-Erfahren Sie, wie Sie Hyperlinks für ein oder mehrere Dimensionselemente erstellen, sodass sie in einer Freiformtabelle in Analysis Workspace anklickbar sind. Sie können mithilfe von Variablen Hyperlinks für Dimensionselemente mit URL-Werten, benutzerdefinierte URLs für Dimensionselemente mit Nicht-URL-Werten oder für dynamische benutzerdefinierte URLs für mehrere Dimensionselemente erstellen. Eine ausführliche Dokumentation finden Sie unter [Erstellen von Hyperlinks für Dimensionen in einer Freiformtabelle](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
+Erfahren Sie, wie Sie Hyperlinks für ein oder mehrere Dimensionselemente erstellen, sodass sie in einer Freiformtabelle in Analysis Workspace anklickbar sind. Sie können mithilfe von Variablen Hyperlinks für Dimensionselemente mit URL-Werten, benutzerdefinierte URLs für Dimensionselemente mit Nicht-URL-Werten oder für dynamische benutzerdefinierte URLs für mehrere Dimensionselemente erstellen. Eine ausführliche Dokumentation finden Sie unter [Erstellen von Hyperlinks für Dimensionen in einer Freiformtabelle](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)

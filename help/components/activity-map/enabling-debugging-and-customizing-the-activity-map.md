@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie die Bereitstellung von [!UICONTROL Activity Map] in der An
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Weitere Informationen zur Bereitstellung von [!UICONTROL Activity Map] finden Sie unter [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Weitere Informationen zur Bereitstellung von [!UICONTROL Activity Map] finden Sie unter [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

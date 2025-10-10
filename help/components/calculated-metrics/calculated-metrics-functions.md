@@ -19,4 +19,4 @@ Erfahren Sie, wie Sie -Funktionen bei der Erstellung berechneter Metriken in Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Weitere Informationen zur Verwendung der Funktionen [Einfach](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) und [Erweitert](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) beim Erstellen berechneter Metriken finden Sie in der Dokumentation.
+Weitere Informationen zur Verwendung der Funktionen [Einfach](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=de) und [Erweitert](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=de) beim Erstellen berechneter Metriken finden Sie in der Dokumentation.

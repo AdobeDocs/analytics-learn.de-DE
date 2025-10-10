@@ -18,9 +18,9 @@ ht-degree: 1%
 
 # Warten Sie jetzt einfach auf ein Segment… Verwenden Sie Segmente, um neue Einblicke in Analysis Workspace zu erhalten
 
-Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten recht häufig nutzen. Wie [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, „können Sie mit Segmenten Untergruppen von Besuchern anhand von Merkmalen oder Website-Interaktionen identifizieren.“ Während das grundlegende Ergebnis dieser Funktion die Isolierung von Benutzergruppen, Besuchen oder Treffern auf Ihrer Site bedeutet, kann ein scharfsinniger Analyst wie Sie mit diesem Tool kreativ werden und neue Wege finden, um Einblicke in Ihre Site-Aktivität zu erhalten. Die Liste der möglichen Optionen ist umfangreich. Zögern Sie nicht, eine eigene zu erstellen und sie für andere Personen in Ihrem Unternehmen oder online in Communities wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder der [#Measure Slack](https://www.measure.chat/) Community freizugeben.
+Egal, ob Sie ein neuer Adobe Analytics-Anwender oder ein erfahrener Profi sind, Sie werden Segmente in Ihren Analysis Workspace-Projekten recht häufig nutzen. Wie [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de) beschreibt, „können Sie mit Segmenten Untergruppen von Besuchern anhand von Merkmalen oder Website-Interaktionen identifizieren.“ Während das grundlegende Ergebnis dieser Funktion die Isolierung von Benutzergruppen, Besuchen oder Treffern auf Ihrer Site bedeutet, kann ein scharfsinniger Analyst wie Sie mit diesem Tool kreativ werden und neue Wege finden, um Einblicke in Ihre Site-Aktivität zu erhalten. Die Liste der möglichen Optionen ist umfangreich. Zögern Sie nicht, eine eigene zu erstellen und sie für andere Personen in Ihrem Unternehmen oder online in Communities wie der [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de&lang=de) auf Experience League oder der [#Measure Slack](https://www.measure.chat/) Community freizugeben.
 
-Wenn Sie das Erstellen eines Segments schnell auffrischen müssen, lesen Sie die Experience League-Dokumentation zur Verwendung von [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) in Analysis Workspace.
+Wenn Sie das Erstellen eines Segments schnell auffrischen müssen, lesen Sie die Experience League-Dokumentation zur Verwendung von [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=de) in Analysis Workspace.
 
 ## Vergleichen und Abgleichen von Segmenten
 
@@ -78,7 +78,7 @@ Sie können sogar mit der Untersuchung beginnen, wie sich Ihre Key Performance I
 
 ![SEG 12](assets/s12.png)
 
-Die Möglichkeiten, Segmente zu nutzen, um neue Einblicke zu finden, sind unbegrenzt! Dies ist lediglich ein Ausgangspunkt. Probieren Sie selbst einige Beispiele aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?lang=de) auf Experience League oder die [#Measure Slack](https://www.measure.chat/) Community.
+Die Möglichkeiten, Segmente zu nutzen, um neue Einblicke zu finden, sind unbegrenzt! Dies ist lediglich ein Ausgangspunkt. Probieren Sie selbst einige Beispiele aus und teilen Sie der Community mit, was Sie entdecken: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de&lang=de) auf Experience League oder die [#Measure Slack](https://www.measure.chat/) Community.
 
 Frohes Segmentieren!
 

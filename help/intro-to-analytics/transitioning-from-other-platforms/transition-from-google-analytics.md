@@ -137,7 +137,7 @@ Ein weiteres leistungsstarkes Merkmal von Arbeitsbereichen ist die Möglichkeit,
 
 >[!IMPORTANT]
 >
->Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
 
 ##### 2.1.2.2. Google Analytics: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 
@@ -267,7 +267,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics al
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
+* [Adobe Experience League](https://experienceleague.adobe.com/de?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
 * [Adobe-Benutzergruppen](https://analytics-augs.adobe.com/) – Ein zentraler Treffpunkt für von der Community organisierte Events, die Benutzenden dabei helfen, sich untereinander auszutauschen und ihre Implementierungen zu verbessern.
 * [YouTube-Kanal zu Adobe Analytics-Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – Konnten Sie keine Adobe Analytics-Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Measure Chat Slack-Kanal](https://www.measure.chat/) - Treten Sie mit Adobe Analytics-Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.

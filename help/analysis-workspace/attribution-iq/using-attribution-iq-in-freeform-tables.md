@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Mit [!DNL Attribution IQ] können Sie das [!UICONTROL Attributionsmodell] jederzeit in eines von zehn regelbasierten Modellen in einer [!UICONTROL Freiformspalte] ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/37474/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
 Jedes [!UICONTROL Attributionsmodell] unterstützt vollständig Segmentierung und Aufschlüsselungen und ermöglicht Ihnen unbegrenzte Vergleiche für jede Dimension (sogar [!DNL props]!).
 

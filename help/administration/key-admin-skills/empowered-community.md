@@ -19,13 +19,13 @@ ht-degree: 100%
 
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/341111/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie durch ihre Adobe Analytics-Administratoren unterstützt. Sie weiß, wie geschäftliche Anforderungen in der Implementierung angezeigt werden. Und letztlich ist sie in der Lage, Analysen als Grundlage für datengestützte Entscheidungen einzusetzen. Viele Unternehmen profitieren von den Vorteilen, die eine interne Adobe Analytics-Benutzergruppe oder eine formelle Community bietet.
 
 Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So geht’s:
 
-## 1. Bauen Sie eine solide Infrastruktur auf, die als Basis für Ihre gestärkte Community dient.
+## &#x200B;1. Bauen Sie eine solide Infrastruktur auf, die als Basis für Ihre gestärkte Community dient.
 
 * Definieren Sie einen Prozess für das Onboarding von Benutzern.
 
@@ -43,7 +43,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
   Die Adobe Analytics-Berichtsvorlagen und -Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reporting und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
 
-## 2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte.
+## &#x200B;2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte.
 
 * Entscheiden Sie, wer die Community leiten wird:
 
@@ -61,7 +61,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, sind Interaktion und Erfolg garantiert!
 
-## 3. Nutzen Sie Tools, um mit dem Aufbau Ihrer Community zu beginnen
+## &#x200B;3. Nutzen Sie Tools, um mit dem Aufbau Ihrer Community zu beginnen
 
 * [Erstellen Sie eine Projektcharta](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (Vorlage zum Herunterladen):
 
@@ -89,7 +89,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Nutzen Sie das Kommunikationsmittel Ihrer Community, um live zu gehen! Das Tool oder Kommunikationsmittel für Ihre Community sollten Sie abhängig von der technologischen Aufstellung Ihres Unternehmens wählen. Es handelt sich dabei um eine individuelle Wahl für Ihr Unternehmen. Viele entscheiden sich hierbei für Microsoft Teams.
 
-## 4. Pflegen Sie Ihre Community und sichern Sie ihren nachhaltigen Erfolg
+## &#x200B;4. Pflegen Sie Ihre Community und sichern Sie ihren nachhaltigen Erfolg
 
 * Zeit reservieren – Legen Sie im Kalender Community-Meetings fest, um die Zeit im Voraus zu blockieren. Wiederkehrende Meetings sind, sofern möglich, eine gute Lösung und helfen dabei, Ihren Content-Plan umzusetzen. Für einen einfacheren Einstieg finden Sie hier einige Ideen für die Agenda:
 

@@ -19,6 +19,6 @@ ht-degree: 37%
 
 Die Verwendung benutzerdefinierter Datumswerte und Datumsbereiche in Ihrem Produkt kann Ihnen dabei helfen, sich auf die Informationen zu konzentrieren, die Ihre Datengeschichte darstellen. In diesem Video erkunden wir einige Stellen, an denen Sie Datumsbereiche in Ihrem Analysis Workspace-Projekt verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447610/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

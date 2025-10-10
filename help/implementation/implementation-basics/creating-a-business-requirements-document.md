@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Erfahren Sie mehr über den wichtigen Schritt der Definition von Verhaltensdaten, die Sie in Adobe Analytics erfassen und analysieren möchten. Was muss Ihr Unternehmen über die Art und Weise wissen, wie Besucher Ihre digitalen Eigenschaften verwenden? Schreiben Sie diese Anforderungen zunächst auf und entscheiden Sie dann, wie Sie sie mithilfe von Analytics-Ereignissen, -Dimensionen und -Metriken erfassen wollen.
 
->[!VIDEO](https://video.tv.adobe.com/v/31814/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Laden Sie eine Excel-Beispielvorlage herunter](assets/aa_en_BRD_SDR_template.xlsx), um die Anforderungen, Verwendung und Zuweisung von Variablen, Segmente und das Design der Datenerfassung für Ihre digitalen Objekte zu dokumentieren.
 

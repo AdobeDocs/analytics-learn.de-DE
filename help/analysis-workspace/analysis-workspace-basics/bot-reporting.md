@@ -20,6 +20,6 @@ ht-degree: 52%
 
 Erfahren Sie, wie Sie Berichte zu Bot-Daten in Analysis Workspace erstellen. Bot-Daten sind als Übersichtsdaten verfügbar und können in Bot-fähigen Report Suites analysiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447646/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=de).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).

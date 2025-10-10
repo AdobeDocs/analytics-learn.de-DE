@@ -79,7 +79,7 @@ Fördern Sie die Akzeptanz von Vorlagen und verbessern Sie die Selbstständigkei
 
 Mit der Kuratierung können Sie die Komponenten (Dimensionen, Metriken, Segmente, Datumsbereiche) vor der Freigabe eines Projekts einschränken. Wenn ein Empfänger das Projekt öffnet, wird ihm eine begrenzte Anzahl von Komponenten angezeigt, die Sie für ihn kuratiert haben. Die Kuratierung ist ein optionaler, aber empfehlenswerter Schritt, bevor Sie ein Projekt freigeben.
 
-Beim Kuratieren von [!UICONTROL Virtual Report Suites] können Sie benutzerfreundliche Dimensionen, Metriken und Segmentbeschriftungen erstellen. Erstellen Sie benutzerdefinierte, benutzerfreundlichere Beschriftungen für Untergruppen von Benutzer*innen. Beachten Sie, dass Beschriftungen den übergeordneten Datensatz (den Namen) nicht ändern.
+Beim Kuratieren von [!UICONTROL Virtual Report Suites] können Sie benutzerfreundliche Dimensionen, Metriken und Segmentbeschriftungen erstellen. Erstellen Sie benutzerdefinierte, benutzerfreundlichere Beschriftungen für Teilmengen von Benutzer*innen. Beachten Sie, dass Beschriftungen den übergeordneten Eintrag (den Namen) nicht ändern.
 
 ## Erstellen von Referenz-Workplaces für Lösungen
 

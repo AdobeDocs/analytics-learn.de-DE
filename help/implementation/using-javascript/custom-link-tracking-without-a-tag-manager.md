@@ -32,7 +32,7 @@ Es gibt zwei Funktionen, die Daten an Adobe Analytics senden:
 >
 >In diesem Video zeigen wir Ihnen, wie Sie einen benutzerspezifischen Link-Treffer codieren, wenn Sie KEINEN Tag-Manager wie Adobe [!DNL Experience Platform Launch] verwenden. Wir empfehlen die Verwendung von [!DNL Experience Platform Launch], unserer Best-Practice-Empfehlung für die Implementierung. Wenn Sie jedoch Code mit `s.tl()` verwenden müssen, sehen Sie hier, wie das geht.
 
->[!VIDEO](https://video.tv.adobe.com/v/34491/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Beispiel-Code {#sample-code}
 

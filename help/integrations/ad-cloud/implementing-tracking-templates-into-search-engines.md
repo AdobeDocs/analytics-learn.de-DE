@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Tracking-Vorlagen aus [!DNL Advertising Analytics] in unterstützte Suchmaschinen implementieren. Dies ist ein wichtiger Schritt zur Erfassung und Weitergabe Ihrer Daten an Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/37472/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

@@ -53,7 +53,7 @@ Geschäftsanforderungen, Daten-Design und Datenerfassung sind Schlüsselfaktoren
 
 ![analytics-business-requirements](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-Sobald die Datengrundlage in Adobe Analytics erfasst wurde, verwenden Marketing-Fachleute und Wirtschaftsanalysten verschiedene Berichte und Datenvisualisierungswerkzeuge, die im Produkt verfügbar sind, um Analysen durchzuführen und aussagekräftige Erklärungsmuster für die Daten zu vermitteln. Darüber hinaus bietet Adobe Analytics verschiedene Formen der Ausgabe. Es könnte sich dabei um ein Segment oder eine Audience handeln, das bzw. die an ein Optimierungswerkzeug wie Adobe Target gesendet wird, um A/B-Tests durchzuführen. Es könnte sich um ein prädiktives Ergebnis handeln, das die Wahrscheinlichkeit einer Aktion einer Person angibt und von einem anderen System zur Modellierung verwendet wird.
+Sobald die Datengrundlage in Adobe Analytics erfasst wurde, verwenden Marketing-Fachleute und Wirtschaftsanalysten verschiedene Berichte und Datenvisualisierungswerkzeuge, die im Produkt verfügbar sind, um Analysen durchzuführen und aussagekräftige Erklärungsmuster für die Daten zu vermitteln. Darüber hinaus bietet Adobe Analytics verschiedene Formen der Ausgabe. Es könnte sich dabei um ein Segment oder eine Zielgruppe handeln, das bzw. die an ein Optimierungswerkzeug wie Adobe Target gesendet wird, um A/B-Tests durchzuführen. Es könnte sich um ein prädiktives Ergebnis handeln, das die Wahrscheinlichkeit einer Aktion einer Person angibt und von einem anderen System zur Modellierung verwendet wird.
 
 ![analytics-workspace-project](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 

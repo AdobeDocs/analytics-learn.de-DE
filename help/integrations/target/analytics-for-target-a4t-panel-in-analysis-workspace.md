@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Mit dem Bedienfeld [!DNL Analytics for Target] (A4T) können Sie Ihre Adobe Target-Aktivitäten und -Erlebnisse in [!UICONTROL Analysis Workspace] analysieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/326708/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=de).

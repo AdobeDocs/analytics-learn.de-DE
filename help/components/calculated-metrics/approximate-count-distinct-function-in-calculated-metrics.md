@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine berechnete Metrik mithilfe der Funktion Ungefährer Distinct Count erstellen, die die ungefähre Distinct Count von Dimensionselementen für eine ausgewählte Dimension zurückgibt.
 
->[!VIDEO](https://video.tv.adobe.com/v/37468/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 Sie können die in diesem Video angezeigte Metrik in jedem Bericht verwenden, um die Anzahl einer Dimension im Vergleich zu den Werten einer anderen zu verstehen. Ein sehr gängiges Anwendungsbeispiel wäre die Verwendung dieser Funktion zum Erstellen einer Metrik für Kunden-IDs , die Sie dann in jedem Bericht verwenden können, um zu sehen, wie viele Kunden auf die verschiedenen Dimensionswerte anwenden.

@@ -15,6 +15,6 @@ ht-degree: 10%
 
 # Rollierende Datumsbereiche in Segmenten {#rolling-date-ranges-in-segments}
 
-In diesem Video erfahren Sie, wie Sie rollierende Datumsbereiche in Segmenten verwenden, sodass Sie Segmente erstellen können, z. B. „Personen, die innerhalb der letzten Woche gekauft haben“ oder „Personen, die meine Site in den letzten 60 Tagen besucht haben“. Eine ausführliche Dokumentation zum Erstellen rollierender Datumsbereiche, die Sie in Ihren Segmenten verwenden können, finden Sie unter [Erstellen benutzerdefinierter Datumsbereiche](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=de).
+In diesem Video erfahren Sie, wie Sie rollierende Datumsbereiche in Segmenten verwenden, sodass Sie Segmente erstellen können, z. B. „Personen, die innerhalb der letzten Woche gekauft haben“ oder „Personen, die meine Site in den letzten 60 Tagen besucht haben“. Eine ausführliche Dokumentation zum Erstellen rollierender Datumsbereiche, die Sie in Ihren Segmenten verwenden können, finden Sie unter [Erstellen benutzerdefinierter Datumsbereiche](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

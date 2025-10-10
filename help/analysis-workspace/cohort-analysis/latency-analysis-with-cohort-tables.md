@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Die Einstellung [!UICONTROL Latenztabelle] in [!UICONTROL Kohortentabellen] ermöglicht es Ihnen, das Verhalten Ihrer [!UICONTROL Kohorten] vor und nach dem Inklusionsereignis zu analysieren (nicht nur nach dem Inklusionsereignis, wie im [!UICONTROL Kohorten]-Standard). Diese Einstellung ist beispielsweise hilfreich, um die Auswirkungen eines neuen Produkt- oder Kampagnen-Starts zu analysieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430194/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).

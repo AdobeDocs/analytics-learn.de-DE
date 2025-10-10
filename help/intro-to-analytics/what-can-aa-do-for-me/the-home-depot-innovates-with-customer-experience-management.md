@@ -1,6 +1,6 @@
 ---
 title: 'Kunden-Nutzungsszenario: The Home Depot wird durch Customer Experience Management innovativ'
-description: HomeDepot.com, eine eCommerce-Site mit einem Umsatz von 7 Milliarden US-Dollar innerhalb einer Firma von 100 Milliarden US-Dollar, ist der Konkurrenz weiterhin voraus, indem das richtige Kundenerlebnis sichergestellt wird. Erfahren Sie, wie Home Depot mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markenloyalität und Kundenzufriedenheit schafft.
+description: HomeDepot.com, eine eCommerce-Site mit einem Umsatz von 7 Milliarden US-Dollar innerhalb einer Firma von 100 Milliarden US-Dollar, ist der Konkurrenz weiterhin voraus, indem das richtige Kundenerlebnis sichergestellt wird. Erfahren Sie, wie Home Depot mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markentreue und Kundenzufriedenheit schafft.
 feature: Use Cases
 topics: null
 activity: understand
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Kunden-Nutzungsszenario: [!DNL The Home Depot] wird durch Customer Experience Management innovativ
 
-[!DNL HomeDepot.com], eine eCommerce-Site mit einem Umsatz von 7 Milliarden US-Dollar innerhalb einer Firma von 100 Milliarden US-Dollar, ist der Konkurrenz weiterhin voraus, indem das richtige Kundenerlebnis sichergestellt wird. Erfahren Sie, wie [!DNL Home Depot] mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markenloyalität und Kundenzufriedenheit schafft.
+[!DNL HomeDepot.com], eine eCommerce-Site mit einem Umsatz von 7 Milliarden US-Dollar innerhalb einer Firma von 100 Milliarden US-Dollar, ist der Konkurrenz weiterhin voraus, indem das richtige Kundenerlebnis sichergestellt wird. Erfahren Sie, wie [!DNL Home Depot] mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markentreue und Kundenzufriedenheit schafft.
 
->[!VIDEO](https://video.tv.adobe.com/v/35464/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)

@@ -47,13 +47,13 @@ Während ein Tendenzmodell vorhersagen soll, ob eine Besucherin oder ein Besuche
 
 ## Erstellen des Segments „Purchase Visit Intent“
 
-Das Segment „Purchase Visit Intent“ lässt sich einfach definieren. In meinem Fall signalisiert jeder, der auf den „Jetzt buchen“-Button klickt, eine Art Absicht, eine Kreuzfahrt zu buchen. Dies ähnelt dem Klicken auf „Checkout“ bei einem Online-Händler oder auf einen Link „Abonnieren“ in einem Medienkontext.
+Das Segment „Purchase Visit Intent“ lässt sich einfach definieren. In meinem Fall signalisiert jeder, der auf den „Jetzt buchen“-Button klickt, eine Art Absicht, eine Kreuzfahrt zu buchen. Dies ähnelt dem Klicken auf „Checkout“ für eine Online-retailer oder auf einen Link „Abonnieren“ in einem Medienkontext.
 
 Bei der Entscheidung, welches Signal für die Ableitung der Kaufabsicht verwendet werden soll, müssen Sie ein gewisses Urteilsvermögen walten lassen. Wir möchten, dass unser Segment „Kaufabsicht“ alle Käufe enthält, aber die Konversionsrate sollte nicht 100 % betragen. Daher möchten wir für dieses Segment nicht die Seite mit der Kaufbestätigung oder der Dankeseite verwenden.
 
-Ebenso ist die Seite Einkauf überprüfen (oder was auch immer unmittelbar vor der Kaufbestätigung steht) wahrscheinlich zu weit unten im Trichter, um für Analysen und Targeting nützlich zu sein.
+Ebenso ist die Seite Überprüfen eines Kaufs (oder was auch immer unmittelbar vor der Kaufbestätigung steht) zu weit unten in funnel, als dass sie für Analysen und Targeting nützlich wäre.
 
-Wenn Sie den Trichter weiter hinaufgehen, wird es möglicherweise weniger klar, ob das Signal nützlich ist, um anzuzeigen, dass ein Kunde einen Kauf beabsichtigt. In meinem Fall ähnelt „Jetzt buchen“ einem „Checkout“-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. Aber in einem Einzelhandelskontext kann der Checkout immer noch zu weit unten im Trichter liegen und Warenkorb anzeigen oder sogar Zum Warenkorb hinzufügen könnte besser sein.
+Wenn Sie den funnel weiter hinaufgehen, wird es möglicherweise weniger klar, ob das Signal nützlich ist, um anzuzeigen, dass ein Kunde einen Kauf beabsichtigt. In meinem Fall ähnelt „Jetzt buchen“ einem „Checkout“-Link für den Einzelhandel, und das ist das Signal, das ich verwendet habe. Im Einzelhandel kann es jedoch vorkommen, dass der Checkout zu weit unten im funnel liegt und Warenkorb anzeigen oder sogar Zum Warenkorb hinzufügen besser ist.
 
 Wir können es uns wie einen Lebensmittelladen vorstellen. Wenn jemand ein Produkt aus dem Regal abholt, bedeutet das nicht, dass er beabsichtigt, es zu kaufen. Selbst wenn sie es in ihren Warenkorb legen, können sie es sofort wieder zurück ins Regal legen. Aber wenn sie das Produkt in den Warenkorb legen und anfangen damit herumzulaufen, ist die Wahrscheinlichkeit recht groß, dass sie es kaufen wollen. Und wenn sie mit diesem Produkt in die Kasse gehen, ist das eine ziemlich gute Wette, dass sie kaufen werden.
 

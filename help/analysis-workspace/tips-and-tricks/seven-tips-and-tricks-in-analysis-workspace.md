@@ -28,7 +28,7 @@ Analysis Workspace ist ein leistungsstarkes Tool in Adobe Analytics, mit dem Sie
 
 Ziehen Sie einfach ein [!UICONTROL Segment] oder eine andere Komponente per Drag-and-Drop in den Ablegebereich für [!UICONTROL Segmente] am oberen Rand eines Bedienfelds. Dann können Sie dieses Bedienfeld schnell zu bestimmten Datenpunkten segmentieren. Sie können Ihr Bedienfeld beispielsweise so segmentieren, dass nur Treffer mit Bestellungen angezeigt werden, indem Sie die [!UICONTROL Metrik] „Bestellungen“ in den Ablegebereich für [!UICONTROL Segmente] ziehen. Sie können auch nach Daten segmentieren, die nicht in einer Komponente vorhanden sind (um beispielsweise Treffer ohne Bestellungen anzuzeigen), indem Sie das Dimensionselement „nicht angegeben“ oder „keine“ in den Ablegebereich ziehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/37525/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Ziehen Sie einfach ein [!UICONTROL Segment] oder eine andere Komponente per Drag
 
 Mit schnellen [!UICONTROL berechneten Metriken] können Sie neue [!UICONTROL Metriken] direkt in Analysis Workspace erstellen und müssen hierzu nicht erst zum Builder für [!UICONTROL berechnete Metriken] wechseln. Wählen Sie einfach die [!UICONTROL Metrik]-Spalten aus, die Sie berechnen möchten, und wählen Sie dann im Kontextmenü die Option [!UICONTROL Metrik aus Auswahl erstellen]. Jetzt können Sie hinzufügen, subtrahieren, teilen, multiplizieren und vieles mehr, ohne Ihr Projekt zu verlassen und Ihren Gedankengang zu unterbrechen.
 
->[!VIDEO](https://video.tv.adobe.com/v/41467/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Mit schnellen [!UICONTROL berechneten Metriken] können Sie neue [!UICONTROL Met
 
 Kopieren Sie ganz einfach Visualisierungen und Bedienfelder von einem Ort und fügen Sie sie einem anderen Ort hinzu, selbst in einem anderen Projekt. So können Sie Daten einfach verschieben, während Ihr Projekt wächst, und Ihre Ergebnisse für neue Benutzer freigeben, sodass diese keine neue Analyse starten müssen. Klicken Sie einfach mit der rechten Maustaste auf das Bedienfeld oder die Visualisierung, das bzw. die Sie kopieren möchten, wählen Sie die Option [!UICONTROL Visualisierung kopieren] aus und klicken Sie mit der rechten Maustaste auf ein leeres Bedienfeld, um das Bedienfeld oder die Visualisierung einzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/38353/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Kopieren Sie ganz einfach Visualisierungen und Bedienfelder von einem Ort und f�
 
 Ändern Sie ganz einfach die Zeitansicht beim Arbeiten mit Trend-Visualisierungen. In früheren Iterationen von Analysis Workspace war es bei einer Zeitänderung nötig, eine Quelltabelle einzublenden, eine neue [!UICONTROL Dimension] hineinzuziehen und anschließend die Tabelle erneut auszublenden. Jetzt müssen Sie lediglich die Zeitgranularität, die Sie demonstrieren möchten, direkt über das Dropdown-Menü [!UICONTROL Visualisierungseinstellungen] (Zahnrad oben rechts) auswählen.
 
->[!VIDEO](https://video.tv.adobe.com/v/41452/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## Freigabe: Einfacheres Verwenden und Verstehen von Ergebnissen durch andere
 
@@ -68,7 +68,7 @@ Kopieren Sie ganz einfach Visualisierungen und Bedienfelder von einem Ort und f�
 
 Adobe Analytics erfasst enorme Mengen an Daten. Die Komponentenkuratierung in [!DNL Virtual Report Suites] ermöglicht es Administratoren, einen Datensatz für jede Geschäftseinheit in einer Organisation zu erstellen. Das bedeutet, dass Analysten, die in Analysis Workspace arbeiten, nicht durch Daten navigieren müssen, um herauszufinden, was für sie am wichtigsten ist. Markieren Sie einfach das Kästchen mit dem Titel [!UICONTROL Anpassung der Virtual Report Suite-Komponenten aktivieren] im Generator für [!UICONTROL Virtual Report Suites] unter [!UICONTROL Komponenten] und wählen Sie dann die [!UICONTROL Komponenten] aus, die zu den Maßnahmen eines bestimmten Teams passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425533/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics erfasst enorme Mengen an Daten. Die Komponentenkuratierung in [!
 
 Erstellen Sie Verknüpfungen, die Zielgruppen an beliebigen Stellen in Analysis Workspace führen. Klicken Sie mit der rechten Maustaste auf das Bedienfeld, das das Ziel der Verknüpfung sein soll, und wählen Sie [!UICONTROL Bedienfeld-Link anfordern] und kopieren Sie diesen Link. Markieren Sie dann den Text, der der Startpunkt der Verknüpfung sein soll, wählen Sie das Link-Symbol im Texteditor eines Textfelds oder einer Beschreibung aus und fügen Sie den kopierten Link ein. Um eine Verknüpfung zu einem gesamten Projekt herzustellen, klicken Sie einfach auf die Registerkarte [!UICONTROL Freigeben], wählen Sie [!UICONTROL Projektverknüpfung abrufen] und führen Sie dieselben Schritte wie oben aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/327481/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,13 +88,13 @@ Erstellen Sie Verknüpfungen, die Zielgruppen an beliebigen Stellen in Analysis 
 
 Sie können jetzt ganz einfach jedes Projekt in eine benutzerdefinierte Vorlage umwandeln. Wählen Sie einfach [!UICONTROL Als Vorlage speichern] aus dem Dropdown-Menü [!UICONTROL Projekt], fügen Sie Tags hinzu, die das Auffinden der Vorlage erleichtern, und klicken Sie auf [!UICONTROL Projekt als Vorlage speichern]. Die Vorlage steht nun allen Analysis Workspace-Benutzern auf der Registerkarte [!UICONTROL Benutzerdefinierte Vorlagen] zur Verfügung. Dadurch können Analysten ihre Projekte mit aussagekräftigen Datenpunkten beginnen, anstatt bei null anzufangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428571/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**Häufig angefragte Funktion:** Mehrere Kunden haben uns gebeten, das Speichern von Projekten als benutzerdefinierte Vorlagen zu ermöglichen. Diese Funktion ist zu einem ihrer Favoriten geworden.
 
-[Klicken Sie hier, um auf Experience League weitere Tipps und Tricks zu erhalten](https://experienceleague.adobe.com/de?search=tips&amp;lang=de#recommended/solutions/analytics)
+[Klicken Sie hier, um auf Experience League weitere Tipps und Tricks zu erhalten](https://experienceleague.adobe.com/?search=tips&lang=de#recommended/solutions/analytics)
 
 | Über den Autor |            |
 |------------|------------|

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Analyse für alle zugänglich machen können, indem Sie gekürzte Links erstellen, über die Ihre Kollegen zu Ihren Analysis Workspace-Projekten gelangen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439093/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=de).

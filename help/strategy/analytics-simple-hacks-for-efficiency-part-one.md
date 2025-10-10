@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Andere wichtige Herausforderungen für Analyst*innen:
 
    **Technische Spezifikation**
 
-   _Anwendungsbeispiel:_ Anweisungen zum Erstellen von Skripten für die Datenerfassung
+   _Anwendungsfall :_Anweisungen zum Erstellen von Skripten für die Datenerfassung
 
-   _Primäre Benutzer*innen:_ Entwickler*innen
+   _Primäre Benutzer :_Entwickler
 
-   _Weitere Hinweise:_
+   _Weitere Hinweise :_
 
    * Hochtechnisches Dokument, das speziell für Ihre Bereitstellungsumgebungen erstellt wurde
    * Nützlich sowohl für die erstmalige Implementierung als auch die anschließende Wartung/Referenz
@@ -74,11 +74,11 @@ Andere wichtige Herausforderungen für Analyst*innen:
 
    Analytics Health Dashboard (AHD):
 
-   _Anwendungsbeispiel:_ Momentaufnahme aller Metriken und Dimensionen, die von einer einzelnen Report Suite erfasst werden
+   _Anwendungsfall: :_aller Metriken und Dimensionen, die von einer einzelnen Report Suite erfasst werden
 
-   _Primäre Benutzer*innen:_ Lead Analytics-KMU und/oder Entwickler*innen
+   _Primäre Benutzer :_Lead Analytics SME und/oder Entwicklung
 
-   _Weitere Hinweise:_
+   _Weitere Hinweise :_
    * Wird über Excel mithilfe einer benutzerdefinierten Integration der Adobe Reporting-API bereitgestellt
    * Benutzer*innen müssen Zugriff auf die Analytics Web Services API haben
    * Es gibt Optionen zur halbautomatischen Ausführung

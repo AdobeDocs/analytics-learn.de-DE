@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Intelligent Alerts] ermöglichen die [!UICONTROL Anomalieerkennung] direkt in Ihrem Posteingang oder auf Ihrem Smartphone. Wenn Sie wesentliche Änderungen bei Ihren Schlüsselmetriken und Segmenten sofort wahrnehmen, verpassen Sie keine Gelegenheiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/40923/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=de).

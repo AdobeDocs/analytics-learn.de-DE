@@ -21,6 +21,6 @@ ht-degree: 99%
 
 In diesem Video erfahren Sie, wie Sie [!DNL Postman], einen API-Client, einrichten, um Adobe Analytics 2.0-API-Anfragen zu senden. Dazu gehört das Einrichten einer Adobe I/O-Integration (Hinweis: Sie müssen Systemadministrator in Experience Cloud sein, um dies einzurichten), Informationen dazu, wo Sie Ihre globale Firmen-ID finden, und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/40304/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).

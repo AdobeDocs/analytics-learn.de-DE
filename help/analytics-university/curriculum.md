@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Adobe Analytics-Lehrplan für den Unterricht
 
->[!VIDEO](https://video.tv.adobe.com/v/3443866/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics-Kursinhalte
 

@@ -17,6 +17,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie mehr über [!UICONTROL Dimensionen] und [!UICONTROL Metriken], die Unterschiede zwischen ihnen und wie Sie sie zu Ihren Tabellen und Visualisierungen in Analysis Workspace hinzufügen. Hier erfahren Sie auch, wie Sie vordefinierte [!UICONTROL berechnete Metriken] hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33633/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de).

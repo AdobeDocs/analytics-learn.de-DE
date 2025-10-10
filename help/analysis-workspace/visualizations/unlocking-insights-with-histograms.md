@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Erschließen von Einblicken mit Histogrammen: Über die Durchschnittswerte in Analytics
 
-_Entdecken Sie die Auswirkungen von Histogrammen in Analytics für Einblicke über den Durchschnitt hinaus. Histogramme zeigen Datenmuster beim Kundenverhalten, bei der Besucherinteraktion, bei der technischen Leistung und bei Formularfehlern auf und ermöglichen tiefere Einblicke sowie fundierte Entscheidungen beim Adobe von Workspace._
+_Entdecken Sie die Auswirkungen von Histogrammen in Analytics für Einblicke über den Durchschnitt hinaus. Histogramme zeigen Datenmuster beim Kundenverhalten, bei der Besucherinteraktion, bei der technischen Leistung und bei Formularfehlern auf und ermöglichen tiefere Einblicke sowie fundierte Entscheidungen in Adobe Workspace._
 
 Springen wir gleich rein. Sie sollten &quot;[&quot; ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären warum, aber ich will Ihre erste Frage beantworten: Was in aller Welt ist ein Histogramm? Ich verstehe. Meistens denkt man, wenn man einige Balken nach oben sieht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind unterschiedlich. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Hier ist ein Balkendiagramm:
 
@@ -38,7 +38,7 @@ Also, wie ist das nützlich? Nun, wir sehen, dass die meisten Leute nur eine Ein
 
 Wenn Ihre Site oder Ihr Programm auf wiederkehrenden Traffic angewiesen ist, möchten Sie wissen, wie viele Besucher wie oft wiederkommen. Eines der einfachsten Histogramme, das Sie verwenden können, ist herauszufinden, wie viele Besucher mehrmals zurückkehren. Wenn man das Histogramm über die Zeit verfolgt, kann man den Fortschritt sehen. Hoffentlich werden die Balken auf der rechten Seite höher und die auf der linken Seite kürzer.
 
-Vielleicht möchten Sie Leute auf der Website behalten, die Artikel lesen. Ein Histogramm, das zeigt, wie viele Besucher eine unterschiedliche Anzahl von Artikeln lesen, gibt Ihnen einen Einblick in den Grad der Interaktion. Warum ist das hilfreich? Nehmen wir an, die meisten Besucher lesen einen Artikel und gehen, aber einige hochengagierte Besucher lesen drei Artikel und gehen. Das ist eine großartige Information! Jetzt wissen Sie, dass Sie die Seite für den ersten und dritten gelesenen Artikel personalisieren sollten, um Besucher dazu zu bringen, einen weiteren Artikel zu lesen.
+Vielleicht möchten Sie Leute auf der Website behalten, die Artikel lesen. Ein Histogramm, das anzeigt, wie viele Besucherinnen und Besucher unterschiedliche Artikelzahlen lesen, würde Ihnen insight den Grad der Interaktion erklären. Warum ist das hilfreich? Nehmen wir an, die meisten Besucher lesen einen Artikel und gehen, aber einige hochengagierte Besucher lesen drei Artikel und gehen. Das ist eine großartige Information! Jetzt wissen Sie, dass Sie die Seite für den ersten und dritten gelesenen Artikel personalisieren sollten, um Besucher dazu zu bringen, einen weiteren Artikel zu lesen.
 
 ## Verstehen des Kundenverhaltens
 
@@ -64,11 +64,11 @@ Sie fragen sich vielleicht, worin sich das von der bloßen Verwendung einer bere
 
   ![Histogramm 3](assets/histogram-3.png)
 
-- Formularfehler : Wenn Sie durchschnittlich 3,6 Formularfehlermeldungen pro Besucherin bzw. Besucher haben, ist dies ein Hinweis auf ein Problem. Möglicherweise haben Sie dasselbe Problem mit den technischen Fehlern, aber Sie können auch Einsichten gewinnen, wenn Sie eine Spitze im Histogramm bei einer bestimmten Anzahl von Fehlern sehen. Eine riesige Spitze bei einem Fehler? Dies könnte entweder ein häufiges Problem sein, das alle diese Besucher erleben, oder sie alle haben einen anderen Fehler einmal. Eine gigantische Spitze bei drei Fehlern? Ah, jetzt ist das interessant. Wenn eine Untersuchung ergibt, dass es dieselben drei Fehler sind, haben Sie Daten zugeschnitten, die Ihnen das Verständnis Ihrer Besucher vermitteln und Ihnen helfen, eine Gruppe miteinander verbundener Probleme zu lösen.
+- Formularfehler : Wenn Sie durchschnittlich 3,6 Formularfehlermeldungen pro Besucherin bzw. Besucher haben, ist dies ein Hinweis auf ein Problem. Möglicherweise haben Sie dasselbe Problem mit den technischen Fehlern, aber Sie können auch insight gewinnen, wenn Sie eine Spitze im Histogramm bei einer bestimmten Anzahl von Fehlern sehen. Eine riesige Spitze bei einem Fehler? Dies könnte entweder ein häufiges Problem sein, das alle diese Besucher erleben, oder sie alle haben einen anderen Fehler einmal. Eine gigantische Spitze bei drei Fehlern? Ah, jetzt ist das interessant. Wenn eine Untersuchung ergibt, dass es dieselben drei Fehler sind, haben Sie Daten zugeschnitten, die Ihnen das Verständnis Ihrer Besucher vermitteln und Ihnen helfen, eine Gruppe miteinander verbundener Probleme zu lösen.
 
   ![Histogramm 4](assets/histogram-4.png)
 
-Wie Sie sehen können, haben Histogramme nicht nur ihre eigene Verwendung, sondern sie vertiefen auch die Einsicht, die Sie durch einen Durchschnitt gewinnen. Es handelt sich um eine vordefinierte Visualisierung in Adobe Analytics, die einfach zu erstellen ist. Hoffentlich sind diese Anwendungsfälle hilfreich für Sie oder inspirieren Sie. Glücklich visualisieren!
+Wie Sie sehen können, haben Histogramme nicht nur ihre eigene Verwendung, sondern sie vertiefen auch die insight, die Sie durch einen Durchschnitt gewinnen. Es handelt sich um eine vordefinierte Visualisierung in Adobe Analytics, die einfach zu erstellen ist. Hoffentlich sind diese Anwendungsfälle hilfreich für Sie oder inspirieren Sie. Glücklich visualisieren!
 
 ## Autor
 

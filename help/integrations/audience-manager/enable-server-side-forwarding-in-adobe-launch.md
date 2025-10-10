@@ -23,6 +23,6 @@ Erfahren Sie, wie Sie mithilfe der Server-seitigen Weiterleitung [!DNL Adobe Ana
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot; wurde in der Experience Cloud-Benutzeroberfläche in &quot;[!UICONTROL tags] umbenannt. Wählen Sie [!UICONTROL Datenerfassung] aus dem [!UICONTROL Programmumschalter], um Tags zu öffnen und die in diesem Video beschriebenen Schritte auszuführen.
+>&quot;[!UICONTROL Launch]&quot; wurde in der Benutzeroberfläche von Experience Cloud in [!UICONTROL Tags] umbenannt. Wählen Sie [!UICONTROL Datenerfassung] aus dem [!UICONTROL Programmumschalter], um Tags zu öffnen und die in diesem Video beschriebenen Schritte auszuführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/34489?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

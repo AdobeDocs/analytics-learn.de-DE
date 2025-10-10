@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Sie können großartige Segmente erstellen – doch warum sollten Sie diese nur selbst nutzen? In diesem Video erhalten Sie einige Tipps zum Freigeben und Verwalten Ihrer Segmente, damit Sie und andere diese nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/37597/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=de).

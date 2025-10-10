@@ -21,6 +21,6 @@ ht-degree: 99%
 
 In diesem Video zeigen wir Ihnen, wie Sie Analysis Workspace nutzen können, um API 2.0-Anforderungen automatisch zu erstellen. Durch Debuggen der Benutzeroberfläche können Sie JSON-Anforderungen kopieren und für die Ausgabe von [!DNL Analytics]-Daten direkt in einen beliebigen API-Client einfügen. Sie können den Debugger jetzt einfacher aktivieren, indem Sie in Workspace zu „Hilfe“ > „Debugger aktivieren“ gehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/328322/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Verschaffen Sie sich einen Überblick über die Verwendung von Kalendern und Daten für Ihre Visualisierungen in Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/327347/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)

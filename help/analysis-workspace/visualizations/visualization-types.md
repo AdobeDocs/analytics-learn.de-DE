@@ -18,7 +18,7 @@ ht-degree: 27%
 
 Erfahren Sie mehr über die verschiedenen Arten oder Typen von Visualisierungen, die Sie in Ihre Analysis Workspace-Projekte einfügen können, um Ihre Datengeschichten zu erzählen.
 
->[!VIDEO](https://video.tv.adobe.com/v/37516/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisierungen und empfohlenen Visualisierungen, die Sie Ihrem Projekt hinzufügen können, je nachdem, welche Art von Analyse Sie für Ihre Daten durchführen möchten. Wie im Video erklärt, ist dies keine harte &amp; schnelle Regel, sondern nur einige Vorschläge für Sie, wenn Sie sich an die verschiedenen Visualisierungen gewöhnen:
 
@@ -81,7 +81,7 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
 
 * Linie
 * Bereich
-* Bereich gestapelt
+* Bereiche gestapelt
 * Vertikaler Balken
 
   </td>
@@ -93,8 +93,8 @@ Als Zusammenfassung des Videos finden Sie hier einige Kategorien von Visualisier
 <td style="vertical-align: top;">
 
 * Ringdiagramm
-* Bereich gestapelt
-* Treemap
+* Bereiche gestapelt
+* Baumkarte
 
   </td>
 </tr>

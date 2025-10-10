@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Vorstellung der [!DNL Magento Marketing and Commerce]-Vorlage für [!UICONTROL Analysis Workspace]. Dies richtet sich vor allem an Benutzer von [!DNL Magento], kann aber von jedem Online-Händler genutzt werden. Es enthält vorgefertigte Einzelhändler-Einblicke in Ihre Vertriebsaktivitäten, die Ihnen helfen, den Umsatz zu steigern.
 
->[!VIDEO](https://video.tv.adobe.com/v/34396/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)

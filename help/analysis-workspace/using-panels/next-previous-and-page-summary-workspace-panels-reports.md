@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Wir haben zwei neue Bedienfeldtypen zu Analysis Workspace hinzugefügt – „Nächste/Vorherige“ und „Seitenzusammenfassung“ – und sie als Teil der vordefinierten Berichte aufgelistet. Damit bietet Workspace dieselben Funktionen wie einige der beliebtesten Reports &amp; Analytics-Berichte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413529/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)

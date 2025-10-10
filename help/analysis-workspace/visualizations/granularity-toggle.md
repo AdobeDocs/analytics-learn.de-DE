@@ -18,6 +18,6 @@ ht-degree: 13%
 
 Für Einstellungen der Trend-Visualisierung steht eine Granularitätsauswahl zur Verfügung, mit der Sie ganz einfach anpassen können, wie Ihre Daten angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/41452/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 Mit der Granularitätseinstellung werden sowohl das Diagramm als auch die Quelltabelle angepasst, sodass Sie die Tabelle nicht mehr ausblenden und bearbeiten müssen.

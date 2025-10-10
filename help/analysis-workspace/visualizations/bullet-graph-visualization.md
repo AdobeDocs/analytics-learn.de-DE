@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!UICONTROL Horizontale Säulendiagramme] sind nützlich, um den Fortschritt hin zu einem Ziel (oder darüber hinaus) in Ihrer Analyse zu zeigen. Sie bieten Ihnen eine weitere Möglichkeit, den Erfolg Ihrer Organisation zu visualisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/41509/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=de).

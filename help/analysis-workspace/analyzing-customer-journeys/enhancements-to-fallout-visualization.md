@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Dieses Video zeigt Aktualisierungen der [!DNL Fallout Visualization], die von Kundinnen und Kunden stark nachgefragt wurden, einschließlich direkter gegenüber eventueller Schritte, Umbenennung von Berührungspunkten, Vergleich von unbegrenzten Segmenten und Trends der Konversionsprozentsätze von Berührungspunkten im Laufe der Zeit.
 
->[!VIDEO](https://video.tv.adobe.com/v/328035/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de).

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 So machen Sie sich die Leistungsfähigkeit von Adobe Analytics-Warnhinweisen zunutze, um Ihre Paid-Media-Kampagnen in Advertising Cloud zu überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/40442/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)

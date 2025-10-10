@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Übersetzen der technischen Sprache von Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/3410292/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Wir sprechen unterschiedliche Sprachen
 
@@ -34,7 +34,7 @@ Hier ist meine bevorzugte Methode, neuen Analysten eVars und Zuordnungsmethoden 
 >[!TIP]
 >
 >**Benennen Sie Komponenten (d. h. Dimensionen, Segmente und Metriken) mit beschreibenden Namen.**
->Die Freigabe des Datenkatalogs von eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten in Ihrem Unternehmen, erwarten Sie aber nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren Verwendung nach Index oder Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen versehen sind. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten eVars und Metriken/Segmenten zu finden.
+>>Die Freigabe des Datenkatalogs von eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten in Ihrem Unternehmen, erwarten Sie aber nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren Verwendung nach Index oder Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen versehen sind. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten eVars und Metriken/Segmenten zu finden.
 
 ## Tipp 2: Finden Sie eine gemeinsame Sprache
 
@@ -45,7 +45,7 @@ Bei [!DNL The Home Depot] können Händler oder Store-Manager möglicherweise ni
 >[!TIP]
 >
 >**Stellen Sie sicher, dass Ihre Implementierung diese allgemein verständliche Sprache widerspiegelt.**
->Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Warenkörbe als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in „Einkaufstasche“ umbenennen.
+>>Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Warenkörbe als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in „Einkaufstasche“ umbenennen.
 >
 >Erwägen Sie die Erstellung eines eigenen einheitlichen Vokabulars für Ihr Unternehmen, wenn mehrere synonyme Begriffe in Verwendung sind oder wenn es Begriffe gibt, über die Ihre Anwender häufig stolpern. Setzen Sie Schritte, um die Verwendung der bevorzugten, standardisierten Terminologie zu festigen. Und nehmen Sie in Ihren Onboarding-Sitzungen die üblicherweise verwirrenden Begriffe durch, um Anwender bei der Einarbeitung zu unterstützen.
 
@@ -58,7 +58,7 @@ Bei [!DNL The Home Depot] veranstalteten wir eine Adobe Analytics Challenge, bei
 >[!TIP]
 >
 >**Erstellen Sie mit Anmerkungen versehene lösungsspezifische Workspace-Vorlagen und -Anleitungen.**
->Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars zusätzliche Unterstützung bieten.
+>>Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars zusätzliche Unterstützung bieten.
 >
 >Dank der Flexibilität von Analysis Workspace können Sie Vorlagen für eine schnellere Analyse sowie für den Self-Service und die Selbsthilfe erstellen. Durch die Kombination von Funktionen wie kuratierte Vorlagen, Anmerkungen und die Verknüpfung zwischen Arbeitsbereichen können Sie effektive Anleitungen für nichttechnische Anwender von Adobe Analytics erstellen, die einfach genutzt und verteilt werden können.
 

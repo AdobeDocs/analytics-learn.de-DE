@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Data-driven Marketing ist der Schlüssel auf dem Weg zum Experience Business. Bringen Sie Ihre Analytics-Reife auf eine neue Stufe – von Daten über Einblicke bis hin zu Aktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35467/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 Erfahren Sie, wie Adobe Ihnen dabei helfen kann, Ihre Kunden von allen Seiten zu kennen: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

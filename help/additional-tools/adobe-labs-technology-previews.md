@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Mit [!DNL Adobe Labs] (Technology Previews) können Sie sich mit neuen Technologien beschäftigen, wertvolle Einblicke gewinnen und die Entwicklung und Prioritäten künftiger [!DNL Analytics]-Funktionen beeinflussen.
 
->[!VIDEO](https://video.tv.adobe.com/v/36749/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 Wenn Sie einen [!DNL Labs]-Prototyp verwenden, können Sie die Funktion im Kontext Ihrer eigenen geschäftlichen Nutzungsszenarien und Daten bewerten.
 

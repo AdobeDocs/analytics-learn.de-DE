@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Benutzer von Adobe Analytics benötigen Zugriff auf genau die richtigen Daten. Erfahren Sie, wie Sie mit der [!UICONTROL Admin Console] sicherstellen können, dass Benutzer nur auf die Report Suites zugreifen können, die für ihre Rolle erforderlich sind. Führen Sie diese kurzen Schritte in der [Adobe Admin Console](https://adminconsole.adobe.com/de) aus, um ein für eine Report Suite spezifisches Produktprofil in Ihrer Organisation zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327037/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)

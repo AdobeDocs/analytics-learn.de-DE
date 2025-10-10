@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie Werte aus der Datenschicht abrufen und in Experience Platf
 
 Weitere Informationen zu Datenschichten finden Sie in der Dokumentation zu [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=de) und [Experience Platform-Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/327643/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # Erstellen eines Inhaltsverzeichnisses in Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace mit Links, über die Benutzende schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Projektverzeichnis](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace mit Links, über die Benutzende schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Projektverzeichnis](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/35186/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

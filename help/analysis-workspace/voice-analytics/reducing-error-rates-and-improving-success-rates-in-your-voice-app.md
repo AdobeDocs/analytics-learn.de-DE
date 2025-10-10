@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Funktionen wie [!UICONTROL Abwanderung], Erfolgs- und Fehlerquoten sowie Fallback-Absicht Bereiche für die Verbesserung Ihrer Sprach-Mobile-App ermitteln können.
 
->[!VIDEO](https://video.tv.adobe.com/v/327671/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

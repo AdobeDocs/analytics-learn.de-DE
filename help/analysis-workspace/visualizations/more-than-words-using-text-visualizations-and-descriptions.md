@@ -47,13 +47,13 @@ Wenn Sie es vorziehen, den Inhalt direkt in Ihren Bericht einzufügen, können S
 
 ![Text 06](assets/t06.png)
 
-Sie können ein Bild zu Ihrem Bericht hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, sofern die URL im *https*-Format vorliegt und als .png, .jpeg, .jpg oder .gif formatiert ist. Dies kann zwar restriktiv klingen, aber alle Online-Tools zum Freigeben von Bildern oder GIF wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Workspace-zugänglichen Dateien über einen Freigabe-Link bereitstellen.
+Sie können ein Bild zu Ihrem Bericht hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, sofern die URL im *https*-Format vorliegt und als .png, .jpeg, .jpg oder .gif formatiert ist. Dies kann zwar restriktiv klingen, aber alle Online-Tools zum Freigeben von Bildern oder GIFs wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Dateien bereitstellen, auf die über Workspace zugegriffen werden kann, indem ein Freigabe-Link verwendet wird.
 
 Das Ergebnis? Sie können die Webseite anzeigen, auf die Ihre Daten direkt in Ihrem Projekt verweisen:
 
 ![Text 07](assets/t07.png)
 
-Sie können GIF in Ihren Projekten auch verwenden, um bewegte Bilder wie eine Site-exemplarische Vorgehensweise, einen Idealpfad durch Ihre Site oder eine Aufgabe in Ihre App einzuschließen, oder einfach Ihrem Team zeigen, wie ***überwältigend*** Ihre Berichte jetzt geworden sind:
+Sie können GIFs auch in Ihren Projekten verwenden, um bewegte Bilder wie eine Site-exemplarische Vorgehensweise, einen idealen Pfad durch Ihre Site oder eine Aufgabe in Ihre App einzuschließen, oder einfach Ihrem Team zeigen, wie ***überwältigend*** Ihre Berichte jetzt geworden sind:
 
 ![Text 08](assets/t08.png)
 

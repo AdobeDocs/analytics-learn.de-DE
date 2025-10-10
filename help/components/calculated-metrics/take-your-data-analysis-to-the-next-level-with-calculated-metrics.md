@@ -11,7 +11,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1583'
+source-wordcount: '1582'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Nachdem der Generator für berechnete Metriken geöffnet wurde, fügen Sie hinzu
 
 **B.** Eine Beschreibung der berechneten Metrik. **Diese Beschreibung wird angezeigt, wenn Benutzer in der Komponentenliste neben** Metrik auf „i“ klicken. Vergewissern Sie sich also, dass sie informativ ist. Beispiel: Für die Call-Center-AOV können wir hinzufügen *Berechnet die AOV für Call-Center-unterstützte Bestellungen*.
 
-**C.** Das Metrikformat: Wählen Sie Dezimal, Zeit, Prozent oder Währung und fügen Sie Dezimalstellen und Polarität hinzu. Hier wählen wir *Währung für das Format, 0 für die Anzahl der Dezimalstellen und* ⬆ *Gut (Grün) für die Polarität.*
+**C.** Das Metrikformat: Wählen Sie Dezimal, Zeit, Prozent oder Währung und fügen Sie Dezimalstellen und Polarität hinzu. Hier wählen wir &quot;*&quot; für das Format, „0“ für die Anzahl der Dezimalstellen und* &quot;⬆ *(grün) für die Polarität.*
 
 **D**. Wenn Sie Tags verwenden, mit denen Sie Themen anwenden und berechnete Metriken schnell finden können, fügen Sie die Tags hinzu, die hier gelten. Wir haben Tags *AOV* und *Callcenter* hinzugefügt.
 
@@ -63,7 +63,7 @@ In unserem Beispiel sehen wir eine erhebliche Steigerung, wenn Käufer das Callc
 
 ## Verwenden von Segmenten in berechneten Metriken
 
-Sehen wir uns nun an, wie wir Segmente in berechneten Metriken verwenden können, um mehr Einblick in das Kundenverhalten, die Vorlieben und die Motivation zu erhalten. Mit Segmenten und berechneten Metriken können wir ausreichend über Kunden erfahren, um ihre Erlebnisse zu verbessern, den Umsatz zu steigern und die Kundenzufriedenheit und -loyalität zu verbessern.
+Sehen wir uns nun an, wie wir Segmente in berechneten Metriken verwenden können, um mehr insight zum Kundenverhalten, zu Kundenpräferenzen und Kundenmotivationen zu erhalten. Mit Segmenten und berechneten Metriken können wir ausreichend über Kunden erfahren, um ihre Erlebnisse zu verbessern, den Umsatz zu steigern und die Kundenzufriedenheit und -loyalität zu verbessern.
 
 Aus den obigen AOV-Beispielen wissen wir bereits, dass Callcenter-unterstützte Käufe in der Regel eine höhere AOV haben. Andere Metriken zeigen jedoch, dass die meisten Benutzer das Callcenter nicht für Käufe verwenden.
 
@@ -128,7 +128,7 @@ Beachten Sie beim Erstellen von Segmenten in Adobe Analytics die folgenden Best 
 1. **Daten nicht doppelt zählen**. Stellen Sie wie bei berechneten Metriken sicher, dass das Segment nicht mehrmals dieselben Daten zählt. Container ein- und ausschließen können hilfreich sein.
    1. Wenn ein Include-Container verwendet wird, *er* umfasst *den gesamten Inhalt des Besuchs* wenn ein Treffer der Bedingung innerhalb des Besuchs entspricht.
    1. Wenn ein Ausschluss-Container verwendet wird, wird *der gesamte Inhalt des Besuchs ausgeschlossen* wenn ein Treffer der Bedingung innerhalb des Besuchs entspricht.
-1. **Container ordnungsgemäß**. Bestimmen Sie mithilfe des äußersten Containers, welche Daten enthalten sind, und wenden Sie dann verschachtelte Regeln auf die verbleibenden Daten an. Wenn verschachtelte Regeln angewendet werden, fungiert der Segmentfluss als Trichter, und nachfolgende Regeln gelten nicht für Treffer, die durch die erste Regel ausgeschlossen wurden.
+1. **Container ordnungsgemäß**. Bestimmen Sie mithilfe des äußersten Containers, welche Daten enthalten sind, und wenden Sie dann verschachtelte Regeln auf die verbleibenden Daten an. Wenn verschachtelte Regeln angewendet werden, fungiert der Segmentfluss als funnel, und nachfolgende Regeln gelten nicht für Treffer, die durch die erste Regel ausgeschlossen wurden.
 1. **Stellen Sie sicher, dass Ihre Daten auf dem neuesten Stand sind.** Stellen Sie sicher, dass Sie genaue und aktuelle Daten in der Segmentdefinition verwenden, um genaue Ergebnisse zu erhalten.
 1. **Testen Sie das Segment.** Testen Sie das Segment immer, um sicherzustellen, dass es wie beabsichtigt funktioniert, bevor Sie es für andere freigeben.
 1. **Betrachten Sie die Leistung.** Segmente können die Berichtsverarbeitung verlangsamen. Beachten Sie daher diese Auswirkungen beim Erstellen.

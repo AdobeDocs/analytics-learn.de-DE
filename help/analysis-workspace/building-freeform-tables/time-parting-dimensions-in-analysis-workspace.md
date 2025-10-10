@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Bei der [!DNL Time-parting] wird der Zeitstempel erfasster Treffer in aussagekräftigere Dimensionen wie „Stunde des Tages“ oder „Tag der Woche“ unterteilt. Diese Dimensionen sind in Analysis Workspace vorkonfiguriert.
 
->[!VIDEO](https://video.tv.adobe.com/v/41457/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=de).

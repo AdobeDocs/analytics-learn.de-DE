@@ -12,14 +12,14 @@ thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1152'
-ht-degree: 100%
+source-wordcount: '1151'
+ht-degree: 96%
 
 ---
 
 # Erstellen von operativen Dashboards in Analysis Workspace
 
-_Erfahren Sie, wie operative Dashboards in Adobe Analytics Workspace Kommunikation und Effizienz revolutionieren. Erfahren Sie, wie Sie Dashboards für FAQs, Nachrichten und Ankündigungen sowie Bugs und Funktionen erstellen, um optimierte Informationen, ein besseres Benutzererlebnis und eine verbesserte Interaktion zu erzielen._
+_Erfahren Sie, wie operative Dashboards in Adobe Analytics Workspace Kommunikation und Effizienz revolutionieren. Erfahren Sie, wie Sie Dashboards für FAQs, Nachrichten und Ankündigungen sowie Fehler und Funktionen erstellen, um optimierte Informationen, ein besseres Benutzererlebnis und eine verbesserte Interaktion zu erzielen._
 
 
 Wie viele Admins leite ich einen internen Info-Hub (Confluence oder ähnlich) für Adobe Analytics. Im Laufe der Zeit hatte ich es satt, immer wieder die gleichen Fragen zu beantworten, und brauchte einen reibungsloseren Weg, um meine Benutzerinnen und Benutzer zu erreichen, ohne das Gefühl zu haben, dass ich sie ständig anpinge und nerve. Ich benötigte Repositorys für weniger statische Informationen.
@@ -30,7 +30,7 @@ Ich bemerkte, dass Benutzerinnen und Benutzer meine Verweise auf die Confluence-
 
 Ich habe losgelegt und operative Dashboards erstellt, um sie für das ganze Unternehmen freizugeben. Sie haben bisher die Benutzerinnen und Benutzer gut auf dem Laufenden gehalten, Informationen zentralisiert und Frustrationen reduziert. Dies ist ein einfacher, sich entwickelnder Prozess, der die Effizienz im Laufe der Zeit steigert.
 
-Leute konnten ohne mein Zutun viele gute Informationen einholen, Bereiche der Site verstehen, sie konnten sehen, wie cool Adobe Analytics ist, und (wichtig für mich!) sie stellen mir weniger Fragen und nehmen weniger von meiner Zeit in Anspruch.
+Die Menschen haben es geschafft, viele gute Informationen ohne mich zu erhalten, Bereiche der Website zu verstehen, zu sehen, wie cool Adobe Analytics ist, und (wichtig für mich 😊) stellen Sie mir weniger Fragen und nehmen weniger Zeit.
 
 **Ich empfehle dringend, dass Sie Dashbords für all Ihre Assets oder Hauptbereiche Ihrer Site erstellen.** Sie sollten einen Überblick über das Asset, die Site, die App bzw. den Fluss geben und grundlegende Informationen sowie schnelle Einblicke erhalten. Diese sollten für das gesamte Unternehmen freigegeben werden, sodass alle Benutzerinnen und Benutzer das Asset verstehen können, ohne an die Hand genommen werden zu müssen. Diese Dashboards beantworten für mich in der Regel 80 % der Fragen, die ich bekomme, und sparen mir wertvolle Zeit.
 
@@ -40,12 +40,12 @@ Lassen Sie mich Sie durch die drei operativen Dashboards führen, die ich für m
 
 1. Häufig gestellte Fragen (FAQ)
 1. Nachrichten und Ankündigungen
-1. Protokoll zu Bugs, Funktionen und Hauptversionen
+1. Protokoll zu Fehlern, Funktionen und Hauptversionen
 
 
 ## 1 – FAQ-Dashboard
 
-Müde, ständig dieselben Antworten geben zu müssen? Stop! Sparen Sie Zeit, indem Sie ein FAQ-Dashboard erstellen. Benutzerinnen und Benutzer können es einsehen, bevor sie fragen, oder Sie können in Ihren Antworten schnell darauf verlinken.
+Müde, ständig dieselben Antworten geben zu müssen? Stopp! Sparen Sie Zeit, indem Sie ein FAQ-Dashboard erstellen. Benutzerinnen und Benutzer können es einsehen, bevor sie fragen, oder Sie können in Ihren Antworten schnell darauf verlinken.
 
 Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=de), wobei die Fragen als Titel und die Antworten/Erklärungen als Inhalt formatiert sind und letztere alle eingeklappt sind, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Panels. Halten Sie es einfach und führen Sie die gängigsten Fragen zuerst an.
 
@@ -82,13 +82,13 @@ So sieht mein Dashboard „Nachrichten und Ankündigungen“ aus:
 
 ![Screenshot 2](assets/screenshot-2.png)
 
-## 3 – Protokoll zu Bugs, Funktionen und Hauptversionen
+## 3 – Protokoll zu Fehlern, Funktionen und Hauptversionen
 
 Ziel dieses operativen Dashboards ist es, einen zentralen Ort zu haben, um alle Bugs und Fehler dort einzustellen. Früher habe ich das mit Excel gemacht, aber es war mühsam und das Teilen war schwierig. Warum es nicht direkt bei Workspace einstellen?
 
 Sie können es in das Dashboard „Nachrichten und Ankündigungen“ integrieren, wenn es nicht so sehr im Vordergrund stehen soll. Wenn Fehlerberichte jedoch für Ihr Unternehmen wesentlich oder entscheidend sind, kann ein separates Dashboard sinnvoll sein.
 
-Ich benutze eine Textvisualisierung und halte sie mit Aufzählungspunkten sehr einfach. Den Aufzählungspunkten wird das Datum des Bugs sowie das Asset vorangestellt (z. B. „3jan23-17jan23 – Norton.com“, „Vor 14sept22 – Chat“). Ich füge dann die Details hinzu und versuche, es kurz und prägnant zu halten. Ich vermeide es anzugeben, welches Team Schuld hatte, und vermeide es auch, zu viele technische Details hinzuzufügen, für die sich Ihre Benutzerinnen und Benutzer vermutlich nicht interessieren.
+Ich benutze eine Textvisualisierung und halte sie mit Aufzählungspunkten sehr einfach. Den Aufzählungspunkten wird das Datum des Fehlers sowie das Asset vorangestellt (z. B. „3jan23-17jan23 – Norton.com“, „Vor 14sept22 – Chat“). Ich füge dann die Details hinzu und versuche, es kurz und prägnant zu halten. Ich vermeide es anzugeben, welches Team Schuld hatte, und vermeide es auch, zu viele technische Details hinzuzufügen, für die sich Ihre Benutzerinnen und Benutzer vermutlich nicht interessieren.
 
 Der neueste Bug befindet sich ganz oben, während ältere in jährlichen Textberichten enthalten sind (z. B. „2022 – Bekannte Bugs, Fehler und Änderungen“) – alle sind eingeklappt.
 

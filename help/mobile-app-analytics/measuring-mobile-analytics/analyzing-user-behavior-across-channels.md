@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mithilfe von [!DNL Flow] die Pfade der Benutzer zur Konversion in Mobile Apps ermitteln und diese mit anderen Erlebnissen wie im Web vergleichen können. Definieren und messen Sie die Konversion in mehrstufigen Prozessen, um den Erfolg Ihrer Mobile Apps zu fördern.
 
->[!VIDEO](https://video.tv.adobe.com/v/32716/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)

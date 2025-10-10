@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Funktionsübergreifendes Arbeiten
 
->[!VIDEO](https://video.tv.adobe.com/v/3410294/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 Der schnellste Weg zu Adobe Analytics beginnt mit einer gelungenen Implementierung. Wir alle kennen den Spruch „Garbage in, Garbage out“. Um zu vermeiden, dass eine Implementierung fehlerhafte Daten liefert, müssen Administratoren alle Details der in das System gespeisten Daten überwachen. Doch die Datenerfassungsstrategie wird in einem Unternehmen von vielen Stakeholdern beeinflusst, mit denen ein Administrator tagtäglich zu tun hat.
 

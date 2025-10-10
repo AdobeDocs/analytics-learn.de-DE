@@ -38,7 +38,7 @@ Berechnete Metriken sind leistungsstark, aber selbst die grundlegenden mathemati
 
    Ich war dort. Kopieren/Einfügen. Geben Sie die Formel ein oder ziehen Sie die Zelle darüber nach unten. Klicken Sie auf das Diagramm und ändern Sie den Bereich so, dass Sie die letzten zwölf oder dreizehn Monate haben. Kopieren Sie nun das Diagramm. Jetzt noch mal. Und nochmal. Und nochmal. Senden Sie den PowerPoint aus. Es ist mühsam und zeitaufwendig und es fühlt sich an, als müsste man es jeden Monat für immer tun.
 
-   Stattdessen können Sie eine Workspace erstellen, die Ihre berechnete Metrik verwendet, die letzten zwölf oder dreizehn vollen Monate als Datumsbereich hat und die Daten und das Diagramm am ersten Tag jedes Monats um Mitternacht automatisch aktualisiert. Die Empfänger können direkt auf die Workspace zugreifen. Sie können sich am ersten Tag des Monats oder nachdem Sie Textvisualisierungen verwendet haben, automatisch eine PDF-Kopie per E-Mail schicken lassen, um Ihren Kommentar zu den Daten hinzuzufügen (Sie wissen, der unterhaltsame Teil des Reportings).
+   Stattdessen können Sie eine Workspace erstellen, die Ihre berechnete Metrik verwendet, die letzten zwölf oder dreizehn vollen Monate als Datumsbereich hat und die Daten und das Diagramm am ersten Tag jedes Monats um Mitternacht automatisch aktualisiert. Die Empfänger können direkt auf die Workspace zugreifen. Ihnen kann am ersten Tag des Monats oder nachdem Sie Textvisualisierungen verwendet haben, um Ihren Kommentar zu den Daten hinzuzufügen, automatisch eine PDF Copy per E-Mail gesendet werden (der unterhaltsame Teil des Reportings, wissen Sie).
 
 1. **Berechnete Metriken können auf große Datensätze angewendet werden**
 
@@ -52,7 +52,7 @@ Berechnete Metriken sind leistungsstark, aber selbst die grundlegenden mathemati
 
 **Anwendungsfall 1: Konversionsraten**
 
-Die meisten Konversionsraten sind nur eine einfache Division. Dividieren Sie die Anzahl der Konversionen durch die Anzahl der Besucher oder Besuche. Teilen Sie die Anzahl der Seitenansichten für die letzte Seite eines Trichters durch die Anzahl der Seitenansichten für die erste Seite eines Trichters. Dividieren Sie die Anzahl der internen Kampagnen-Clickthroughs durch die Anzahl der Impressionen. All diese Vorgänge können einfach als berechnete Metriken ausgeführt und in einem Dashboard platziert werden, das eine niedrige Datenlatenz, eine Aktualisierung von Visualisierungen und eine bessere Freigabe bietet.
+Die meisten Konversionsraten sind nur eine einfache Division. Dividieren Sie die Anzahl der Konversionen durch die Anzahl der Besucher oder Besuche. Teilen Sie die Anzahl der Seitenansichten für die letzte Seite einer funnel durch die Anzahl der Seitenansichten für die erste Seite einer funnel. Dividieren Sie die Anzahl der internen Kampagnen-Clickthroughs durch die Anzahl der Impressionen. All diese Vorgänge können einfach als berechnete Metriken ausgeführt und in einem Dashboard platziert werden, das eine niedrige Datenlatenz, eine Aktualisierung von Visualisierungen und eine bessere Freigabe bietet.
 
 **Anwendungsfall 2: Interne Suche**
 

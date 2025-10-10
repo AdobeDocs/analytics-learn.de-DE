@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie wichtige Workflows in verschiedenen Segmenten in Analysis Workspace verglichen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/328032/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=de).

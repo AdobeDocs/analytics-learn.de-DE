@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Manchmal möchten Sie ein Analysis Workspace-Projekt freigeben, vergessen jedoch, auch die Segmente und Metriken, die Sie eingebunden haben, für Ihre Kolleginnen und Kollegen freizugeben. In diesem Video erfahren Sie, wie Sie jetzt Segmente und Metriken im Prozess der Projektfreigabe freigeben können, sodass Ihre Kolleginnen und Kollegen jedes Mal sehen, was Sie beabsichtigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438795/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=de).

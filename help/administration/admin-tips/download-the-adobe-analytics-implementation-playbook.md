@@ -54,7 +54,7 @@ Für jede dieser Dimensionen werden die folgenden Spalten hinzugefügt:
 
 ![Vereinfachte Seiten-URL](assets/page-url-simplified.png)
 
-* **Code:** Der Code aus dem Back-End, der den Wert festlegt. Dies kann das Feld aus der Datenebene auf der Seite sein, oder Sie können darauf hinweisen, dass dies mit einer Startregel, einer Verarbeitungsregel usw. geschieht.
+* **Code:** Der Code aus dem Back-End, der den Wert festlegt. Dies kann das Feld aus der Datenschicht auf der Seite sein, oder Sie können darauf hinweisen, dass dies mit einer Startregel, einer Verarbeitungsregel usw. geschieht.
 * **Klassifizierungsberichte:** Rufen alle Klassifizierungsberichte auf, die entweder mit dem Klassifizierungs-Importer oder dem Classification Rule Builder erstellt wurden
 * **Lösungsumfang:** Ich finde es nützlich, alle Eigenschaften (zumindest die, die mehr als Standardvariablen verwenden) in kleinen Spalten aufzulisten und ein Häkchen für jede Dimension hinzuzufügen, die für diese Eigenschaft festgelegt wurde. Auf diese Weise können Sie leicht nach einer bestimmten Eigenschaft filtern und schnell erkennen, wo eine bestimmte Dimension festgelegt wird.
 * **Konfiguration:** Admin-Benutzeroberflächen-Einstellungen für jede Variable (z. B. für eVars – Ablauf, Zuweisung, Merchandising usw.)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Benutzereinstellungen in [!DNL Analysis Workspace] ändern und anpassen können. Hierzu zählen allgemeine Standardeinstellungen, Anzeige- und Datenvoreinstellungen sowie das Wechseln des Benutzeroberflächen-Designs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429986/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)

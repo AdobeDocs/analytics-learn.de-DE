@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Bei der Anzeige von Analysen auf Ihrem Mobilgerät ist die Verwendung der richtigen Visualisierungen wichtiger denn je. In diesem Video erfahren Sie, wie Sie Visualisierungen zu mobilen Scorecard-Projekten hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445775/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)

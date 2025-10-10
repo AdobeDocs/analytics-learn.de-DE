@@ -1,6 +1,6 @@
 ---
 title: Verstehen von grundlegenden Besuchermetriken
-description: Erfahren Sie mehr über Seitenansichten, Besuche und Besucher in Adobe Analytics. Gewinnen Sie Einblicke in die grundlegenden Besuchermetriken, die Ihnen dabei helfen, den Traffic Ihrer Website zu verstehen.
+description: Erfahren Sie mehr über Seitenansichten, Besuche und Besucher in Adobe Analytics. Gewinnen Sie insight in die grundlegenden Besuchermetriken, die Ihnen dabei helfen, den Traffic Ihrer Website zu verstehen.
 feature: Metrics
 kt: 3575
 role: User
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # Verstehen von grundlegenden Besuchermetriken
 
-Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=de), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
+Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Besuche]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=de) und [[!UICONTROL Besucher]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=de) in Adobe Analytics.
 
 * Erhalten Sie Definitionen dieser grundlegenden Besuchsmetriken und erfahren Sie mehr über deren Ähnlichkeiten und Unterschiede.
 
@@ -23,4 +23,4 @@ Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.
 
 * Sehen Sie sich ein Beispielprojekt für [!UICONTROL Workspace] an, das zeigt, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31819/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

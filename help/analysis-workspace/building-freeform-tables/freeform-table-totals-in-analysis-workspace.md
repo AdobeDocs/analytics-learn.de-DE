@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, was sich auf die Summen in Freiformtabellen auswirkt und wie Sie sie aktivieren und deaktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/32921/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)

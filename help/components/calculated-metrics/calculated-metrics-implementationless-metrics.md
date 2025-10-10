@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie neue [!UICONTROL Metriken] in Adobe Analytics erstellen, ohne Ihre Implementierung zu ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/37931/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)

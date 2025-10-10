@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Mithilfe der [!DNL Fallout]-Funktion in Analysis Workspace können Sie nun Dimensionen und Metriken als Touchpoints in Trichtern und Workflows kombinieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/327466/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 Diese leistungsfähige Funktionalität ermöglicht Ihnen mehr Flexibilität beim Definieren der Benutzerschritte, die Sie näher untersuchen möchten.
 

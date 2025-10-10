@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Das Lösungs-Design-Referenzdokument (Solution Design Reference, SDR) ist der Blueprint für Geschäftsanforderungen und Datenerfassungs-Design für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als die wahre Quelle für Ihre Analysis-Lösung erstellen und pflegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/31813/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Laden Sie eine Excel-Beispielvorlage herunter](assets/aa_en_BRD_SDR_template.xlsx), um die Anforderungen, Verwendung und Zuweisung von Variablen, Segmente und das Design der Datenerfassung für Ihre digitalen Objekte zu dokumentieren.
 

@@ -11,14 +11,14 @@ thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1659'
 ht-degree: 1%
 
 ---
 
 # Grundlegendes zum Adobe Analytics-Attributionsbedienfeld und Lookback-Fenstern
 
-Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=de) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
+Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
 
 Ich meine, ehrlich, schauen Sie sich nur all diese Optionen, Schalter, Bedienfelder, Auslesehilfen und Regler an.  Und ernsthaft, sprechen wir über diese komplizierten Blinklichter, Schläuche, Messgeräte… WARTE!!  Dies ist nicht die Zeit, um abgelenkt zu werden, wenn wir über Zeitmaschinen sprechen, wir haben einfach nicht die Zeit… oder tun wir das?
 
@@ -43,12 +43,12 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Laut [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
+Gemäß [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
 
 
 >[!WARNING]
 >
->**Attributionsmodelle** werden so häufig mit **Marketing-Kanälen** verknüpft, dass ich im obigen Bild absichtlich *durchgestrichen* ❷ KANAL gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse für fast jede andere ***Dimension*** durchzuführen.
+>**Attributionsmodelle** werden so häufig mit **Marketing-Kanälen** assoziiert, dass ich im obigen Bild *durchgestrichen* ❷ Kanal gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution**-Analyse für fast jede andere ***Dimension*** durchzuführen.
 
 
 Tatsächlich ist ein Journey-Vorgang eines Kunden nur selten wirklich linear und noch seltener vorhersehbar.  Mehr noch, jeder Kunde wird in seinem eigenen Tempo vorgehen; oft verdoppeln sie sich, bleiben stehen, fallen aus oder verhalten sich in anderem nichtlinearen Verhalten. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketing-Maßnahmen auf der gesamten Kunden-Journey zu kennen. Außerdem werden die Bemühungen zur Verknüpfung mehrerer Datenkanäle behindert.
@@ -57,13 +57,13 @@ Das ist richtig.  Lassen Sie Ihre „Domino“-Analogien vor der Tür und öffne
 
 ## **Attributionsmodelle**
 
-Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* (d. h. ❶ **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
+Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* ❶ (d. h. **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
 
 Einfach ausgedrückt, wenn **10 Personen** einen **GROSSEN ROTEN KNOPF** drücken, um durch eine Tür zu treten, werden uns unsere **Attributionsmodelle** sagen, welche dieser **10 Personen** wir „Anerkennung“ zuweisen wollen - oder noch besser gesagt, wie *viel* „Anerkennung“ wir ihnen zuweisen wollen - für das Drücken des besagten Knopfes.
 
 ![Schaltfläche](assets/button.png)
 
-Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken**:
+Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken könnte**:
 
 - **First Touch**: Dieses Modell funktioniert genau so, wie es klingt, indem es **100%** die *erste* Person, die durch die Tür ging.  Marketing-Experten verwenden diesen Ansatz eher für Taktiken wie ***Social Media*** oder ***Display***. Es ist jedoch auch eine großartige Taktik, sie häufig für die Effektivität von Produktempfehlungen auf der Site zu verwenden.
 - **Letztkontakt**: Diese Taktik funktioniert auch genau so, wie sie klingt, sondern gibt stattdessen **100%** an die LETZTE Person, die durch die Tür ging.  Dieses Modell wird in der Regel verwendet, um Dinge wie ***natürliche (organische) Suche*** und andere *kurzfristige* Marketing-Zyklus-Kampagnen zu analysieren.
@@ -75,7 +75,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **U-förmig**: Dieser Ansatz weist **40%** des Kredits der *ersten Person* in der Tür zu, verteilt **20%** des Kredits auf *alle dazwischen* und gibt dann **40%** an **letzte**. Dieses Modell wird am häufigsten in Situationen verwendet, in denen Sie einen **langen Konversions-/Verkaufszyklus** mit *mehreren Touchpoints* unterwegs haben.  In diesem Fall besteht Ihr Ziel darin, in erster Linie die Marketing ***Taktiken &quot;***&quot; und &quot;***&quot;***, die zur Konversion beim Kunden beigetragen haben.
 - **J**-**Shaped** und **Inverse J**:
-   - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem *letzten Person*, der durch die Tür geht, **60%**, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
+   - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem **letzten Person**, der durch die Tür geht, *60%*, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
 
      Das Ziel hier ist es, den größten Teil des Schwerpunkts zu setzen, entweder am *Anfang* oder am *Ende* der Kampagne. Allerdings möchten Sie dem beitragenden Element am anderen Ende dennoch einen bestimmten Betrag zuweisen, während Sie die „kleinen Leute“ auf dem Weg anerkennen.
 
@@ -85,7 +85,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **Benutzerdefiniert** Sie wählen aus, wer eine Gutschrift erhalten soll.  Es ist Ihre Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Um dies noch interessanter zu machen, lassen Sie uns über das Zurückdrehen der Uhr sprechen!
 
@@ -112,7 +112,7 @@ Was bedeutet das nun für uns Analysten?
 
 Das **Attributionsbedienfeld** und **Lookback-Fenster** geben uns die Möglichkeit, über die banalen Daten auf Oberflächenebene hinauszublicken und tiefer in die Kunden-Journey einzutauchen. Indem wir verstehen, welche Touchpoints die größte Auswirkung auf *Konversionen* hatten, können wir fundierte Entscheidungen über unsere Marketing-Strategien treffen und Ressourcen effektiver zuweisen.
 
-Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem ❺ (Segment **,** oder einer anderen Komponente filtern, die Sie an dieser Stelle benötigen.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
+Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** ❺ Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem **Segment,** oder einer anderen Komponente, die Sie an dieser Stelle wünschen, filtern.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
 
 ## **Endlich in die Praxis umsetzen**
 

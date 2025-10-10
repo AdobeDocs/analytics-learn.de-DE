@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Jetzt können Sie innerhalb von Analysis Workspace ad hoc [!UICONTROL berechnete Metriken] erstellen.  Wenn Sie eine schnelle prozentuale Änderung oder eine Division mit einigen [!UICONTROL Metriken] in Ihrer [!UICONTROL Freiformtabelle] vornehmen möchten, wählen Sie einfach die [!UICONTROL Metriken] in der Kopfzeile aus, klicken mit der rechten Maustaste und wählen den gewünschten Operator.  Die neue [!UICONTROL berechnete Metrik] wird auf der rechten Seite angezeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/41467/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)

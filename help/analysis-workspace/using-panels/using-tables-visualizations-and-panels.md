@@ -21,6 +21,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Bausteine Ihres Analysis Workspace-Projekts, nämlich Bedienfelder, Tabellen und Visualisierungen, verwenden. Diese Elemente sind die Arbeitsfläche, auf der Ihre Daten optisch dargestellt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33637/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der Dokumentation zu [Bedienfeldern](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=de) und [Visualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=de).

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihren Datenanforderungen [!UICONTROL Metriken] zur [!UICONTROL Anomalieerkennung] hinzufügen und wie Sie die Daten auf kreative Art grafisch darstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/38356/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 Die [!UICONTROL Anomalieerkennung] verwendet die statistische Modellierung, um unerwartete Trends in Ihren Daten automatisch zu finden.
 

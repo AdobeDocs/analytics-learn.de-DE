@@ -27,11 +27,11 @@ Wir alle kennen und lieben [!UICONTROL Report Builder]. Was also, wenn ich Ihnen
 
 In einem Debugger:
 
-1. Suchen Sie nach „api5.omniture.com“. Die Zahl variiert je nach Daten-Center zwischen 1 und 5.
+&#x200B;1. Suchen Sie nach „api5.omniture.com“. Die Zahl variiert je nach Daten-Center zwischen 1 und 5.
 
-2. Navigieren Sie zur Registerkarte [!UICONTROL Anfrage].
+&#x200B;2. Navigieren Sie zur Registerkarte [!UICONTROL Anfrage].
 
-3. Suchen Sie in der Anfrage nach „[!DNL Report.Queue]“.
+&#x200B;3. Suchen Sie in der Anfrage nach „[!DNL Report.Queue]“.
 
 Es gibt auch eine alternative Methode zum Debugging von Anfragen wie dieser, die genauso gut funktioniert. Sie können die Protokollierung in [!UICONTROL Report Builder] über das Menü [!UICONTROL Optionen] einschalten. Auf diese Art werden dieselben Informationen erfasst wie bei einem Debugger. Protokolle finden Sie unter [!UICONTROL Dokumente] > [!UICONTROL ReportBuilderLogs]. Sie sind dort nach Tag organisiert. Sie können die Datei nach „Report.Queue“ durchsuchen, um jede Ihrer Anfragen zu finden. Protokolle helfen auch bei der Fehlerbehebung im Fall von Problemen.
 

@@ -1,6 +1,6 @@
 ---
 title: Mit Daten aussagekräftige Geschichten erzählen
-description: Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Werden diese drei Komponenten geschickt zusammengefügt, lassen sich eindrucksvolle Datengeschichten erstellen. Wenn Sie eine Geschichte mit Daten effektiv erzählen, können Sie einer größeren Personengruppe die Analytics verständlich machen. Gleichzeitig werden datenbasierte Entscheidungsfindungen ermöglicht, was einen beträchtlichen Mehrwert für ein Unternehmen darstellt.
+description: Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Werden diese drei Komponenten geschickt zusammengefügt, lassen sich eindrucksvolle Datengeschichten erstellen. Wenn Sie mit Daten eine Geschichte erzählen, machen Sie Adobe Analytics für ein breiteres Publikum zugänglich. Gleichzeitig machen Sie datenbasierte Entscheidungsfindungen möglich, was einen beträchtlichen Mehrwert für Ihr Unternehmen darstellt.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 # Mit Daten aussagekräftige Geschichten erzählen
 
-Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Werden diese drei Komponenten geschickt zusammengefügt, lassen sich eindrucksvolle Datengeschichten erstellen. Wenn Sie eine Geschichte mit Daten effektiv erzählen, können Sie einer größeren Personengruppe die Analytics verständlich machen. Gleichzeitig werden datenbasierte Entscheidungsfindungen ermöglicht, was einen beträchtlichen Mehrwert für ein Unternehmen darstellt.
+Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Werden diese drei Komponenten geschickt zusammengefügt, lassen sich eindrucksvolle Datengeschichten erstellen. Wenn Sie mit Daten eine Geschichte erzählen, machen Sie Adobe Analytics für ein breiteres Publikum zugänglich. Gleichzeitig machen Sie datenbasierte Entscheidungsfindungen möglich, was einen beträchtlichen Mehrwert für Ihr Unternehmen darstellt.
 
 ## Identifizieren einer Chance oder eines Problems
 
@@ -29,7 +29,7 @@ Evaluieren Sie zunächst die aktuelle Situation und definieren Sie das Problem o
 
 Nachdem Sie die Situation umrissen haben, verwenden Sie Daten, um die Ursache des Problems/der Chance zu offenbaren. Konzentrieren Sie sich auf die Ergebnisse und Faktoren, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung des Lösungswegs.  Stellen Sie ansprechende Visualisierungen zur Verfügung, mit denen die Beziehung Ihrer abhängigen und unabhängigen Faktoren dargestellt werden kann, halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
 
-**Adobe Workspace Tipp:**
+**Tipp für Adobe Workspace:**
 Erstellen Sie einfache, leicht verständliche Visualisierungen, die mit der Art der Daten übereinstimmen, über die Sie berichten:
 
 * Verwenden Sie Balkendiagramme für kategorische und binäre Daten.

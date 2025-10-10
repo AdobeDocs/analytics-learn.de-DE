@@ -22,4 +22,4 @@ In diesem Video wird gezeigt, wie eine spezielle Produktzeichenfolgenerweiterung
 >
 > Launch ist jetzt **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31802/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Erfahren Sie mehr über Anwendungsfälle und technische Überlegungen zur Verwendung des benutzerdefinierten Code-Editors bei der Konfiguration der Adobe Analytics-Erweiterung in [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/327657/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
 In der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=de) finden Sie weitere Informationen zu der in diesem Video beschriebenen <i>doPlugins-Funktion</i>.

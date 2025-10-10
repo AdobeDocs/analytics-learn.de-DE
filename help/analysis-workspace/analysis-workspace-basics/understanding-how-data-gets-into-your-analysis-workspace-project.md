@@ -18,7 +18,7 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie den Datenfluss von Ihrer Seite zu den Tabellen und Visualisierungen in Analysis Workspace mithilfe der Adobe Experience Platform Debugger-Erweiterung in Chrome anzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35893/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
 
 Weitere Informationen zu Adobe Experience Platform Debugger finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=de).
 

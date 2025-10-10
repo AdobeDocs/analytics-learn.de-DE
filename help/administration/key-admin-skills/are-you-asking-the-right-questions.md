@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Stellen Sie die richtigen Fragen?
 
->[!VIDEO](https://video.tv.adobe.com/v/3411807/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _Alle_. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Dabei könnte es vorteilhafter sein, nur _die verwertbaren Datenpunkte_ zu identifizieren und zu erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.
 
@@ -44,7 +44,7 @@ Unternehmen, Geschäftseinheiten und Teams verfügen über eine einzigartige Kul
 
 Vor dem Gespräch müssen gewisse Voraussetzungen gegeben sein. Als Analytics-Administrator benötigen Sie zunächst den richtigen Input, um die ideale Lösung für Ihre Stakeholder entwickeln und bereitstellen zu können.
 
-### 1. Bereiten Sie einen Fragebogen vor
+### &#x200B;1. Bereiten Sie einen Fragebogen vor
 
 Lassen Sie Ihrem Stakeholder vor dem Discovery-Meeting eine Liste mit Fragen zukommen. Damit kann Ihr Gesprächspartner schon im Vorfeld Antworten übermitteln oder sich einfach mit den Diskussionsthemen vertraut machen. Gemeinsam mit dem Fragebogen können Sie auch Beispielantworten zur Verfügung stellen, wenn dies dazu beiträgt, die Erwartungen weiter zu präzisieren
 
@@ -52,11 +52,11 @@ Die Fragen werden je nach technischem oder analytischem Verständnis, Unternehme
 
 [Hier finden Sie ](assets/stakeholder-questionnaire.pdf){target="_blank"} Vorlage mit einigen Beispielfragen für Gespräche mit Stakeholdern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
 
-### 2. Verlangen Sie Musterberichte
+### &#x200B;2. Verlangen Sie Musterberichte
 
 Ihr Stakeholder sollte Ihnen tatsächliche oder fiktive Beispiele für interessante Datenpunkte zur Verfügung stellen und angeben, wie sie verwendet oder in Berichten implementiert werden. Diese Berichte gewähren einen weiteren Einblick in die Ziele, den Ansatz und die Unternehmenskultur Ihres Stakeholders und die aktuelle oder ideale Beschaffenheit von Berichten.
 
-### 3. Keine Versprechen beim Discovery-Meeting
+### &#x200B;3. Keine Versprechen beim Discovery-Meeting
 
 Anfragen und Datenvorschläge, die während des Discovery-Meetings besprochen werden, stellen keine Verpflichtung Ihrerseits gegenüber Ihren Stakeholdern dar. Die Datenerfassung ist ein komplexer Prozess, dessen Ausmaß Sie erst nach dem Gespräch umfassend beurteilen können. So könnte es etwa sein, dass Sie beim kreativen Brainstorming Ideen diskutieren, die jedoch aufgrund ihrer geringen Relevanz für die Unternehmensziele letztlich weiter nach hinten gereiht werden. Aus diesen und anderen Gründen ist die Discovery-Phase nur eine Gelegenheit zur Ideenfindung, bei der aber nicht versprochen werden kann, dass diese Ideen auch tatsächlich in Berichten aufgenommen werden.
 

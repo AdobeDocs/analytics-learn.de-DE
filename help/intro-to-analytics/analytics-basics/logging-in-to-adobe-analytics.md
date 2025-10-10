@@ -17,4 +17,4 @@ ht-degree: 100%
 
 In diesem Video führen wir Sie durch den Anmeldungsprozess, sodass Sie mit der Arbeit mit und Verwaltung von [!DNL Analytics] beginnen und Ihre Analysen durchführen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31823/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)

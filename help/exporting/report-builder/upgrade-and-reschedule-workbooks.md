@@ -1,5 +1,5 @@
 ---
-title: Report Builder-Arbeitsmappen aktualisieren und neu planen
+title: Aktualisieren und Neuplanen von Report Builder-Arbeitsmappen
 description: Erfahren Sie, wie Sie ältere Report Builder-Arbeitsmappen auf die neueste Version von Adobe Analytics Report Builder aktualisieren und neu planen.
 feature: Report Builder
 role: User
@@ -18,6 +18,6 @@ ht-degree: 16%
 
 Erfahren Sie, wie Sie ältere [!DNL Report Builder]-Arbeitsmappen auf die neueste Version von Adobe Analytics Report Builder aktualisieren und neu planen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446191/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/report-builder/home).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).

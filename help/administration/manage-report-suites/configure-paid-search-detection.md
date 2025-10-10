@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Konfiguration des Abschnitts „Gebührenpflichtige Sucherkennung“ in der Admin Console von Adobe Analytics durchlaufen, und erhalten Sie einige Empfehlungen diesbezüglich.
 
->[!VIDEO](https://video.tv.adobe.com/v/343370/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=de#section_0C2CFA0AF77B47098BE37CB024665D0D).

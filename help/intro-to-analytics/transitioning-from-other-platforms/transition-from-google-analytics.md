@@ -9,14 +9,14 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3413'
-ht-degree: 100%
+source-wordcount: '3403'
+ht-degree: 97%
 
 ---
 
 # Ausführliches Handbuch für den Umstieg von Google Analytics auf Adobe Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
-## 1. Einführung
+## &#x200B;1. Einführung
 
 Eine der größten Herausforderungen bei der Umstellung von einem Tool auf ein anderes besteht darin, zu lernen, wo die entsprechenden Funktionen zu finden sind und wie man sie effizient nutzt. Diese Ausführungen sind Teil einer umfangreicheren Anleitung, die Benutzern den Umstieg auf Adobe Analytics erleichtern soll (entweder als neuer Benutzer oder als jemand, der zuvor Google Analytics verwendet hat). Ein ausführlicher Vergleich mit GA (dem Vergleichs-Tool, mit dem wahrscheinlich die meisten Benutzenden vertraut sind) sollte Ihnen helfen, Ihr vorhandenes Wissen auf das neue Toolset anzuwenden. Wenn es keine anderen Möglichkeiten zum Üben gibt, hilft Ihnen das, den Einstieg zu finden und Frustrationen, die möglicherweise während dieser Zeit auftreten, zu reduzieren.
 
@@ -28,7 +28,7 @@ Lassen Sie uns kurz die Terminologie vergleichen:
 | Eine Metrik, die eine Reihe von Interaktionen auf Ihrer Website oder Mobile App darstellt, welche im gleichen Zeitrahmen stattfinden | Besuch | Sitzung |
 | Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zu vereinen) | Unique Visitor | Benutzer |
 
-## 2. Die Benutzeroberfläche
+## &#x200B;2. Die Benutzeroberfläche
 
 Wenn Personen Adobe Analytics und Google Analytics vergleichen, äußern sie oft, dass die Adobe-Benutzeroberfläche zunächst abschreckend sei. Das stimmt, es ist aber – ob Sie es glauben oder nicht – eine Stärke und keine Schwäche. Adobe bietet eine breite Palette von Werkzeugen und große Flexibilität bei der Datenvisualisierung, sodass Sie viel mehr Freiheit in der visuellen Darstellung haben.
 
@@ -54,7 +54,7 @@ Weitere Einzelheiten zu Workspace werden später in diesem Handbuch erläutert. 
 
 
 
-##### 2.1.1.2. Startbildschirm-Insights (Google Analytics)
+##### 2.1.1.2. Startbildschirm-Einblicke (Google Analytics)
 
 * Der Google Analytics-Startbildschirm bietet Ihnen einige vordefinierte Visualisierungen. Diese umfassen u. a. Folgendes:
 * Benutzende, Sitzungen, Absprungrate und Sitzungsdauer in den letzten sieben Tagen
@@ -70,7 +70,7 @@ Bei GA4 haben die Benutzer mehr Möglichkeiten, den Startbildschirm anzupassen u
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-Dies ist wahrscheinlich die Sache, die Sie in Adobe Analytics am meisten vermissen. Es gibt keinen vorgefertigten Startbildschirm für Sie. Sie können jedoch ganz einfach einen benutzerdefinierten Arbeitsbereich einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und diesen als Ihren Startbildschirm festlegen. Mehr zu diesem Thema finden Sie später (oder in Abschnitt 2.1.2.1 Adobe Workspace).
+Dies ist wahrscheinlich die Sache, die Sie in Adobe Analytics am meisten vermissen. Es gibt keinen vorgefertigten Startbildschirm für Sie. Sie können jedoch ganz einfach einen benutzerdefinierten Arbeitsbereich einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und diesen als Ihren Startbildschirm festlegen. Weitere Informationen zu diesem Thema finden Sie später (oder im Abschnitt 2.1.2.1 Adobe Workspace).
 
 #### 2.1.2. In-Site-Berichterstellung
 
@@ -137,7 +137,7 @@ Ein weiteres leistungsstarkes Merkmal von Arbeitsbereichen ist die Möglichkeit,
 
 >[!IMPORTANT]
 >
->Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufgliederungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
+>Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google Analytics: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 
@@ -163,7 +163,7 @@ Adobe Analytics verfügt auch über einen Abschnitt „Berichte“, der jedoch s
 
 Da die meisten der oben genannten Punkte über Workspace zugänglich sind, gebe ich einen kurzen Überblick über diese Abschnitte und ihre Beziehung zu Google Analytics, und hebe die Berichte hervor, die hier noch relevant sind.
 
-Website-Metriken sind das, was Sie erwarten würden, also die Standardmetriken (Seitenaufrufe, eindeutige Besucher, Besuche und benutzerdefinierte Ereignisse, die Sie eingerichtet haben). Dieser Bericht ähnelt dem Verhaltensbericht in GA, enthält aber auch einige der Informationen, die Sie unter „Zielgruppe“ finden würden (da Adobe die verschiedenen Metriktypen nicht aufteilt).
+Website-Metriken sind das, was Sie erwarten würden, also die Standardmetriken (Seitenaufrufe, Unique Visitors, Besuche und benutzerdefinierte Ereignisse, die Sie eingerichtet haben). Dieser Bericht ähnelt dem Verhaltensbericht in GA, enthält aber auch einige der Informationen, die Sie unter „Zielgruppe“ finden würden (da Adobe die verschiedenen Metriktypen nicht aufteilt).
 
 Hier finden Sie „Bot“-Berichte. Der Traffic von Bots wird von allen Standardberichten ausgeschlossen. Es gibt jedoch zwei Berichte, die Aufschluss darüber geben, was passiert und welche Bots auf Ihre Website kommen. Dies ist besonders nützlich, wenn Sie benutzerdefinierte Bot-Regeln eingerichtet haben, um bekannte Spam-Bots auszuschließen, die häufig Ihre Website besuchen. So erhalten Sie einen Einblick in die Aktivitäten dieser Bots, ohne dass Ihre Hauptberichte mit deren Traffic überflutet werden. Bot-Berichte sind derzeit nicht über Workspace verfügbar (aber neue Berichtsfunktionen, die in Kürze verfügbar sein werden, ermöglichen es Benutzenden, diese Informationen auch dort abzurufen).
 
@@ -185,7 +185,7 @@ Benutzerspezifische Konversions- und Traffic-Berichte sind beide benutzerspezifi
 
 Der Abschnitt „Lesezeichen“ ähnelt den benutzerdefinierten Berichten, wo häufig verwendete Berichte in der Berichtsschnittstelle mit Lesezeichen versehen werden können, damit sie leichter gefunden werden können.
 
-Dashboard war ein älteres Produkt, das es ermöglichte, Reportlets von Daten in einer Visualisierung zu kombinieren. Die Funktionalität in Workspace (Abschnitt 2.1.2.1) ist jedoch so viel einfacher zu handhaben, dass es nur noch als Zugangspunkt zu alten Berichten existiert, die neu erstellt werden sollten, bevor diese Funktion eingestellt wird.
+Dashboard war ein älteres Produkt, das es ermöglichte, Reportlets von Daten in einer Visualisierung zu kombinieren. Die Funktionalität in Workspace (Abschnitt 2.1.2.1) ist jedoch so viel einfacher zu handhaben, dass es nur noch als Zugangspunkt zu veralteten Berichten existiert, die neu erstellt werden sollten, bevor diese Funktion eingestellt wird.
 
 Zielvorgaben ermöglichen es, einen Bericht zu erstellen, der auf einer Zielvorgabe innerhalb eines bestimmten Zeitraums basiert. Teams überwachen Kampagnen, um festzustellen, ob sie auf dem richtigen Weg sind, um ihre Traffic-Ziele zu erreichen.
 
@@ -223,7 +223,7 @@ Wenn Sie Adobe Analytics-Daten mit etwas anderem als Excel verarbeiten müssen u
 
 Es sollte beachtet werden, dass die API nach wie vor Korrelationsdaten abruft, wobei die in der Abrufanfrage angegebenen Aufschlüsselungen und Segmente angewendet werden.
 
-Workspace von Adobe (Abschnitt 2.1.2.1) verwendet die API, um die Berichte zu erstellen, und wenn Sie in Workspace den Debug-Modus aktivieren, werden die verwendeten API-Aufrufe genau angezeigt. Auf diese Weise können Sie Ihre API-Aufrufe schnell erstellen. Indem Sie Workspace zum Erstellen und Überprüfen der Daten verwenden, die Sie abrufen möchten, verwenden Sie diese API-Aufrufe, um die Daten an Ihre eigene Verarbeitung weiterzugeben.
+Adobes Workspace (Abschnitt 2.1.2.1) verwendet die -API zum Erstellen der Berichte. Wenn Sie in Workspace den Debugging-Modus aktivieren, werden die verwendeten API-Aufrufe genau angezeigt. Auf diese Weise können Sie Ihre API-Aufrufe schnell erstellen. Indem Sie Workspace zum Erstellen und Überprüfen der Daten verwenden, die Sie abrufen möchten, verwenden Sie diese API-Aufrufe, um die Daten an Ihre eigene Verarbeitung weiterzugeben.
 
 
 #### 2.2.3. Google Analytics Data Studio
@@ -238,7 +238,7 @@ Es ist immer noch ein leistungsstarkes Tool, und ich würde niemandem davon abra
 Für meine eigenen Zwecke, wenn ich erweiterte Daten von Google Analytics abrufen muss, ist mein persönliches Tool der Wahl die Google Tabellen-Erweiterung. Selbst wenn ich mehrere Verbindungen zu meinen GA-Tabellen herstellen muss, kann ich auf die Zellen der Rohdaten verweisen und die benötigten Berichte erstellen. Anschließend visualisiere ich sie mit den Diagrammfunktionen von Google Spreadsheet.
 
 
-## 3. Exporte von Rohdaten
+## &#x200B;3. Exporte von Rohdaten
 
 Wenn Sie wirklich Rohdaten benötigen, bieten sowohl Adobe als auch Google die Möglichkeit, Informationen auf diese Weise abzurufen.
 
@@ -259,7 +259,7 @@ Leider habe ich mit diesem Google-Tool noch keine Erfahrung, aber theoretisch so
 
 Statt jedoch einen vollständigen Dump der Rohdaten bereitzustellen, ermöglicht es Ihren Ingenieuren, über SQL-Abfragen auf die Daten zuzugreifen, um gezielte Rohdaten oder alle Spalten der Rohdaten abzurufen.
 
-## 4. Schlussfolgerung
+## &#x200B;4. Schlussfolgerung
 
 Wie bei jedem System ist Übung erforderlich, um sich mit dem Tool vertraut zu machen. Wir hoffen, dieses Handbuch hilft Ihnen bei den ersten Schritten bzw. gibt Ihnen Tipps, wie Sie Adobe Analytics besser nutzen können.
 
@@ -267,7 +267,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics al
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/de?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
 * [Adobe-Benutzergruppen](https://analytics-augs.adobe.com/) – Ein zentraler Treffpunkt für von der Community organisierte Events, die Benutzenden dabei helfen, sich untereinander auszutauschen und ihre Implementierungen zu verbessern.
 * [YouTube-Kanal zu Adobe Analytics-Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – Konnten Sie keine Adobe Analytics-Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Measure Chat Slack-Kanal](https://www.measure.chat/) - Treten Sie mit Adobe Analytics-Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.

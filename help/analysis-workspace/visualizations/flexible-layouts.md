@@ -17,4 +17,4 @@ ht-degree: 24%
 
 Die Freiformanalyse bietet die Möglichkeit, Position, Breite und Höhe von Diagrammen und Tabellen zu ändern, sodass Sie ein umfangreicheres Projekt erstellen können. In diesem Video erfahren Sie, wie Sie Ihr Layout ändern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/41488/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)

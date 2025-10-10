@@ -18,4 +18,4 @@ ht-degree: 40%
 
 Virtual Report Suites können so kuratiert werden, dass [!UICONTROL Dimensionen], [!UICONTROL Metriken] und [!UICONTROL Segmente] in Analysis Workspace ein- und ausgeschlossen werden. Dies ist besonders hilfreich, wenn Sie sie mit anderen Teams teilen, die nur einen bestimmten Teil der Daten benötigen oder eine andere Datennomenklatur verwenden. Eine ausführliche Dokumentation finden Sie unter [Kuratierung der Virtual Report Suite-Komponenten](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425533/?quality=12&learn=on&captions=ger)

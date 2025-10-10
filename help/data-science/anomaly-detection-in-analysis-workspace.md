@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace erkennt automatisch Anomalien in Ihren Daten für eine beliebige Zeitreihen-[!UICONTROL Visualisierung] oder Datentabelle. Ermitteln Sie die „unbekannten Unbekannten“ ohne zusätzlichen Aufwand Ihrerseits!
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40727/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=de).

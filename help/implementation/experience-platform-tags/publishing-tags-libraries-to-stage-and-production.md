@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Analytics-Code Ihrer Site aus der Entwicklung in der Staging- und Produktionsumgebung in Experience Platform [!DNL tags] veröffentlichen und die Report Suites so einrichten, dass die richtigen Daten korrekt empfangen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429975/?quality=12&learn=on&captions=ger)

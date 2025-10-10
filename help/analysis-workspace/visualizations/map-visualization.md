@@ -18,6 +18,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Kartenvisualisierung in Analysis Workspace verwenden. Die Kartenvisualisierung ermöglicht es Ihnen, entweder [!UICONTROL Mobile Breitengrad-/Längengrad-] oder Web-Daten (IP-Adresse) auf einer dynamischen Karte zu sehen, sodass Sie sich ein Bild von der Kundennutzung im Kontext ihres Standorts machen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41504/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu dieser Visualisierung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=de).

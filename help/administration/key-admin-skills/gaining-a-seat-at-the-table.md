@@ -17,7 +17,7 @@ ht-degree: 97%
 
 # Etwas mitzureden haben
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410291/?quality=12&learn=on&captions=ger)
 
 „Etwas mitzureden haben“. Diese bekannte Phrase ist schon seit jeher ein wichtiges Thema in der Geschäftswelt. Aber was bedeutet sie wirklich? Wenn Sie etwas mitzureden haben, werden Sie in hochrangige Entscheidungsprozesse einbezogen. Sie werden nicht nur eingeladen, an Sitzungen teilzunehmen, sondern Ihr Beitrag wird geschätzt und ernst genommen. Ich möchte Ihnen zeigen, wie Ihr Unternehmen und Ihre berufliche Karriere als Adobe Analytics-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
 

@@ -18,4 +18,4 @@ ht-degree: 14%
 
 Es ist möglich, die Definition eines Besuchs in Adobe Analytics auf zerstörungsfreie Weise mithilfe einer Virtual Report Suite zu ändern. In diesem Video werden dies und die verschiedenen verfügbaren Optionen gezeigt. Eine ausführliche Dokumentation finden Sie unter [Kontextsensitive Sitzungen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428471/?quality=12&learn=on&captions=ger)

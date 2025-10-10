@@ -18,6 +18,6 @@ ht-degree: 23%
 
 Machen Sie sich mit den Arten von Traffic-Variablen und ihrer Verwendung in Adobe Analytics vertraut, einschließlich Traffic, Inhalt und Flussanalyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429903/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=de).

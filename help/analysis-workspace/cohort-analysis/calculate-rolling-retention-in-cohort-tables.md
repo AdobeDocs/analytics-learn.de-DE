@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Mit der Einstellung „Rollierende Berechnung“ können Sie in [!UICONTROL Kohortentabellen] [!UICONTROL Kohorten] in Zeitintervallen analysieren, um zu ermitteln, ob bestimmte Benutzer im Laufe der Zeit gehalten werden (oder ob sie [!UICONTROL abwandern]).
 
->[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430165/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).

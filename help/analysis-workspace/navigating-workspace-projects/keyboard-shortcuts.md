@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Analysis Workspace Tastaturbefehle verwenden. Dies ist eine zeitsparende Methode, um verschiedene Aufgaben in einem Projekt auszuführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41381/?quality=12&learn=on&captions=ger)

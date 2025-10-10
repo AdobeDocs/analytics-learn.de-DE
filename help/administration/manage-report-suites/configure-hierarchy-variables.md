@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Erfahren Sie, wann und wie Sie Hierarchievariablen für Ihre Website einrichten und konfigurieren können. Diese Funktion kann verwendet werden, um eine hierarchische Ansicht der Seiten auf Ihrer Website zu zeigen und zu ermitteln, wie viel Traffic zu den einzelnen Knoten gelangt.
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346042/?quality=12&learn=on&captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=de).

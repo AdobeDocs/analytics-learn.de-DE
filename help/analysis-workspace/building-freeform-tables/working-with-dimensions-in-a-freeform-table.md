@@ -18,7 +18,7 @@ ht-degree: 63%
 
 Hier erfahren Sie alles über das Arbeiten mit Dimensionen in Freiformtabellen, einschließlich Hinzufügen, Sortieren, Filtern, Unterteilen anhand anderer Dimensionen usw.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328530/?quality=12&learn=on&captions=ger)
 
 Im Video behandelte Themen, einschließlich Zeitstempeln:
 

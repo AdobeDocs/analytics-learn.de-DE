@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Journey in der Voice-App für Kunden verstehen, indem Sie sich [!UICONTROL Flusspfad] und [!UICONTROL Fallouts] ansehen und herausfinden, was die häufigsten Aktionen und was die häufigsten Sequenzen dieser Aktionen sind und wann und wo es zum Fallout der Benutzer aus der Journey kommt.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34997/?quality=12&learn=on&captions=ger)

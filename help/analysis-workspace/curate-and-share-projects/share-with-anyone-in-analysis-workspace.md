@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Erfahren Sie mehr über die Funktion „Für alle freigeben“ in Workspace. Mit dieser Funktion können Sie Personen, die keinen Zugriff auf Adobe Analytics oder Customer Journey Analytics haben, einschließlich Empfängerinnen und Empfängern außerhalb Ihres Unternehmens, schreibgeschützten Zugriff auf Workspace-Projekte gewähren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452469/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=de#share-public-link).

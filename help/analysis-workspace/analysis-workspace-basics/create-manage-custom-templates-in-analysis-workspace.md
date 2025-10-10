@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Analysis Workspace vorkonfigurierte Vorlagen verwenden und benutzerdefinierte Vorlagen neu erstellen, damit Sie und Ihr Team vordefinierte Berichte nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428571/?quality=12&learn=on&captions=ger)
 
 Analysis Workspace verfügt über mehrere vorkonfigurierte Vorlagen, die Ihnen bei der raschen Erstellung von Analysen helfen. Doch manchmal möchten Sie vielleicht auch eigene Vorlagen verwenden. Erfahren Sie, wie Sie ein Projekt mithilfe einer benutzerdefinierten Vorlage erstellen. Damit ist es noch einfacher, neue Benutzende einzuarbeiten, Ihre bevorzugten Dashboards/Projekte zu finden oder Ihr Dashboard für mehrere Teams freizugeben.
 

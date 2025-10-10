@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Kunden von Media Analytics können mit dem Bedienfeld „Gleichzeitige Medienbetrachter“ gleichzeitige Betrachter analysieren, um zu verstehen, wo Spitzenzeiten von gleichzeitigen Ansichten auftraten oder wo es zu Abbrüchen kam. So erhalten Sie wertvolle Erkenntnisse zur Qualität von Inhalten und zur Interaktion mit Betrachtern, die bei der Fehlerbehebung oder Planung von Volumen/Größe helfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343542/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=de#analysis-workspace).

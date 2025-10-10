@@ -18,4 +18,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie Konversionsereignisse (Erfolgsereignisse) auf Ihrer Site anhand von Regeln in [!DNL tags] verfolgen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429956/?quality=12&learn=on&captions=ger)

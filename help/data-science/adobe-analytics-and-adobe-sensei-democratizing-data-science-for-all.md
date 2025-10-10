@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie die Funktionen für maschinelles Lernen und KI von Adobe Sensei geschäftlichen Nutzern in Adobe Analytics dabei helfen können, im Hinblick auf ihre Daten auf dem Laufenden zu bleiben und diese praktisch zu nutzen, wenn und wo es wirklich wichtig ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39733/?quality=12&learn=on&captions=ger)

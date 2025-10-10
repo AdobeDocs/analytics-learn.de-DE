@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie das Benutzerverhalten verstehen und Erkenntnisse gewinnen können, indem Sie sich wichtige [!UICONTROL Metriken] wie Top-Intents, Parameter und Benutzerauthentifizierung ansehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34991/?quality=12&learn=on&captions=ger)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Erfahren Sie mehr über einige der großartigen Verbesserungen der Flussvisualisierung. Zu den Verbesserungen gehören die Konfiguration des Anfangs- oder Endpunkts des gewünschten Pfads, die Filterung einer Spalte zum Ein- oder Ausschließen eines bestimmten Elements sowie vorkonfigurierbare erweiterte Einstellungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411349/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=de).

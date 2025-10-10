@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie ein benutzerdefiniertes Dashboard erstellen, um die Leistung Ihrer Sprachassistenten-Mobile-App auf einfache, flexible, intuitive und visuelle Weise zu verwalten und zu verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34957/?quality=12&learn=on&captions=ger)

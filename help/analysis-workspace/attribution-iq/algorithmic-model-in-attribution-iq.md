@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Das algorithmische Zuordnungsmodell in Analysis Workspace verwendet statistische Verfahren, um für die ausgewählte Metrik die optimale Zuordnung dynamisch zu bestimmen.
 
->[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40047/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=de)

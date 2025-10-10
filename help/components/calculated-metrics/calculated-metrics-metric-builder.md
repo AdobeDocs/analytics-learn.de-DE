@@ -17,6 +17,6 @@ ht-degree: 50%
 
 Übersicht über den Generator für Metriken in Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37929/?quality=12&learn=on&captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)

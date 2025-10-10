@@ -24,7 +24,7 @@ ht-degree: 65%
 
 [!UICONTROL Audience Analytics] ist eine Integration, mit der Sie Segmente aus Audience Manager in Echtzeit für [!DNL Analytics] freigeben können, um Informationen zu Zielgruppenerkennung, Segmentierung und Optimierung auszutauschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40732/?quality=12&learn=on&captions=ger)
 
 Beispielsweise gehören zu den [!UICONTROL Segment]-Daten, die freigegeben werden können: demografische Daten von Drittanbietern, Kampagnendaten von Werbe-Servern (z. B. Offsite-Impressions) und integrierte CRM-Daten. Dies ist die erste produktbezogene Integration zwischen einer DMP und einer Analyse-Engine auf dem Markt.
 

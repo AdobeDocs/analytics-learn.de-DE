@@ -20,7 +20,7 @@ ht-degree: 100%
 
 In diesem Video zeigen wir Ihnen, wie Sie Verarbeitungsregeln für Marketing-Kanäle konfigurieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346040/?quality=12&learn=on&captions=ger)
 
 >[!NOTE]
 >

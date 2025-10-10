@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen können, um die Story, die Sie Ihren Stakeholdern erzählen möchten, mittels mobiler Scorecard-Projekte zu verdeutlichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422731/?quality=12&learn=on&captions=ger)

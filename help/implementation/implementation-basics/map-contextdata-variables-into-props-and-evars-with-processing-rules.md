@@ -23,5 +23,5 @@ Wenn Sie in Ihrer Adobe Analytics-Implementierung [!DNL contextData]-Variablen v
 >Dieser Artikel und dieses Video gelten für eine „AppMeasurement“-Implementierung von Adobe Analytics, wenn Sie keine Adobe Experience Platform-Tags (Tag-Manager) verwenden.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327636/?quality=12&learn=on&captions=ger)
 

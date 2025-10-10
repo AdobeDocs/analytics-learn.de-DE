@@ -19,6 +19,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie einen erweiterten Zeitplan einrichten, um eine Report Builder-Arbeitsmappe an Power BI zu senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411805/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=de).

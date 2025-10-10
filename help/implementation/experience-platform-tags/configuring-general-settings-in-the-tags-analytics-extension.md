@@ -22,4 +22,4 @@ Erfahren Sie mehr über die allgemeinen Konfigurationsoptionen für die Analytic
 >
 > Launch ist jetzt **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429919/?quality=12&learn=on&captions=ger)

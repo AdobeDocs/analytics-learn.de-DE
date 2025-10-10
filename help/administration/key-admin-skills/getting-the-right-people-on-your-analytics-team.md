@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Bei der Implementierung von Adobe Analytics und auch bei der Analyse der Aktivitäten auf Ihrer Site ist es sehr wichtig, die richtigen Personen für Ihr Team zu finden. In diesem Video erhalten Sie einen kurzen Überblick über die verschiedenen Rollen, die Sie besetzen sollten.
 
->[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31824/?quality=12&learn=on&captions=ger)

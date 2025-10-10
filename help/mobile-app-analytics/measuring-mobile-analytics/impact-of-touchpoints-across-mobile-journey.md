@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Benutzer von Mobile Apps durch Kontaktpunkte beeinflusst werden, und verfolgen Sie mit [!DNL Attribution IQ], welche Kanäle eine messbare Auswirkung für Ihre Mobile App erzeugen. Erkennen Sie, welche Kanäle zusammenarbeiten, um erfolgreiche Ereignisse in Ihrer Mobile App zu fördern.
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32719/?quality=12&learn=on&captions=ger)

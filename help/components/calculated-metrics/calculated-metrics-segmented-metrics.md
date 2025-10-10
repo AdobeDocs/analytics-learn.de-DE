@@ -17,6 +17,6 @@ ht-degree: 94%
 
 Lernen Sie, wie Sie berechnete Metriken auf der Grundlage von Segmenten erstellen, damit Sie die dazugehörigen Besuchenden, Besuche und Seitenaufrufe effektiver analysieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37930/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=de).

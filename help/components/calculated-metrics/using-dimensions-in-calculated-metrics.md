@@ -17,7 +17,7 @@ ht-degree: 22%
 
 Dimensionen sind im Generator für berechnete Metriken verfügbar und können zu jeder beliebigen Formel für berechnete Metriken hinzugefügt werden, um die neue Metrik auf eine Dimension oder einen Dimensionswert zu beschränken.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37463/?quality=12&learn=on&captions=ger)
 
 Diese Funktion optimiert den Arbeitsablauf für die Erstellung und Verwendung von Segmenten innerhalb berechneter Metriken.
 

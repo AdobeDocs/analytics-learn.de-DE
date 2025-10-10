@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die beliebtesten Rechtsklicks in Analysis Workspace und deren Verwendung. Von [!UICONTROL Freiformtabellen] bis hin zu [!UICONTROL Fallout-Visualisierungen]: Mit Rechtsklicks nutzen Sie [!DNL Workspace] noch effizienter und besser.
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327564/?quality=12&learn=on&captions=ger)

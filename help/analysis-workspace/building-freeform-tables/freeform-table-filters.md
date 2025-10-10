@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Filter bieten mehr Kontrolle darüber, welche Datenzeilen in einer [!DNL freeform table] freigegeben werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327357/?quality=12&learn=on&captions=ger)
 
 Analysis Workspace bietet nun mit 11 Filterkriterien und AND/OR-Operatoren mehr Filtermöglichkeiten.
 

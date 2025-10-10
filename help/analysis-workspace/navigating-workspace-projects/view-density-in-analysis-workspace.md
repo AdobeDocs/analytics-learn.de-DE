@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Mit der Einstellung [!UICONTROL Dichte anzeigen] unter [!UICONTROL Projekt] > [!UICONTROL Info und Einstellungen] können Sie den vertikalen Abstand steuern, der auf die linke Leiste und auf Tabellen ([!UICONTROL Freiform] und [!UICONTROL Kohorte]) angewendet wird. Sie können zwischen „Erweitert“ (voreingestellt), „Komfortabel“ oder „Minimal“ wählen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40311/?quality=12&learn=on&captions=ger)

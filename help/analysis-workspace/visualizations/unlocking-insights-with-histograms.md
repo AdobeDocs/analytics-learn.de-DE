@@ -20,7 +20,7 @@ ht-degree: 1%
 
 _Entdecken Sie die Auswirkungen von Histogrammen in Analytics für Einblicke über den Durchschnitt hinaus. Histogramme zeigen Datenmuster beim Kundenverhalten, bei der Besucherinteraktion, bei der technischen Leistung und bei Formularfehlern auf und ermöglichen tiefere Einblicke sowie fundierte Entscheidungen in Adobe Workspace._
 
-Springen wir gleich rein. Sie sollten &quot;[&quot; ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären warum, aber ich will Ihre erste Frage beantworten: Was in aller Welt ist ein Histogramm? Ich verstehe. Meistens denkt man, wenn man einige Balken nach oben sieht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind unterschiedlich. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Hier ist ein Balkendiagramm:
+Springen wir gleich rein. Sie sollten &quot;[&quot; &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären warum, aber ich will Ihre erste Frage beantworten: Was in aller Welt ist ein Histogramm? Ich verstehe. Meistens denkt man, wenn man einige Balken nach oben sieht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind unterschiedlich. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Hier ist ein Balkendiagramm:
 
 ![Balkendiagramm 1](assets/bar-chart-1.png)
 

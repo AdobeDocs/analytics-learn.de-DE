@@ -22,4 +22,4 @@ Lernen Sie verschiedene Methoden zum Importieren von Klassifizierungsdaten mit K
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/components/classifications/sets/overview){target="_blank"}.

@@ -20,4 +20,4 @@ Erfahren Sie mehr über die in [!DNL Analysis Workspace] verfügbaren Analysetyp
 
 >[!VIDEO](https://video.tv.adobe.com/v/35469/?quality=12&learn=on&captions=ger)
 
-[Weitere Informationen zu Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
+[Weitere Informationen zu Adobe Analysis Workspace](https://business.adobe.com/de/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

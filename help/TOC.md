@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 88%
       + [Hinzufügen von Dimensions- und Metrikbeschreibungen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Verbesserung der Sicherheit](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Einrichten eines Analysis Workspace-Projekts als Landingpage](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + Hilfsquellen {#getting-help}
+   + Hilfe wird abgerufen {#getting-help}
       + [Hilfe in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Produktinterne Übermittlung von Support-Tickets](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [Einführung in Klassifizierungssätze](components/classifications/introduction-to-classification-sets.md)
       + [Verwenden von Klassifizierungssätzen](components/classifications/use-classification-sets.md)
       + [Datenimportmethoden für Klassifizierungssätze](components/classifications/classification-sets-data-import-methods.md)
+      + [Vorgangsverlauf für Klassifizierungssätze](components/classifications/classification-sets-job-history.md)
    + Virtual Report Suites {#virtual-report-suites}
       + [Virtual Report Suites – Übersicht](components/virtual-report-suites/virtual-report-suites.md)
       + [Komponentenkuratierung](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -421,7 +422,7 @@ ht-degree: 88%
    + Messen von Media Analytics {#measuring-media-analytics}
       + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Verwenden der Vorlage für den Audioverbrauch in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Analyse mobiler Apps {#mobile-app-analytics}
++ Mobile-App-Analyse {#mobile-app-analytics}
    + Implementierung {#implementation}
       + [Admin-Einstellungen für Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisieren und Anzeigen von Lebenszyklusmetriken mit dem Experience Platform-SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)

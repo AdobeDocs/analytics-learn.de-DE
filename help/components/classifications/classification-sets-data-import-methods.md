@@ -20,6 +20,6 @@ ht-degree: 11%
 
 Lernen Sie verschiedene Methoden zum Importieren von Klassifizierungsdaten mit Klassifizierungssätzen sowie einige zugehörige Anwendungsfälle kennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475837/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/components/classifications/sets/overview){target="_blank"}.

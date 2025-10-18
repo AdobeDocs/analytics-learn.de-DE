@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der linken Leiste in Analysis Workspace Elemente suchen, erstellen und zu Freiformtabellen hinzufügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475917/?captions=ger&quality=12&learn=on)

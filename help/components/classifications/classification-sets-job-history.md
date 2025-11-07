@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Anzeigen des Vorgangsverlaufs beim Hochladen und Herunterladen von Klassifizierungssatzdaten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476036/?captions=ger&learn=on&enablevpops)

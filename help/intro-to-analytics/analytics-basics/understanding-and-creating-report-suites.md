@@ -18,4 +18,4 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, was [!UICONTROL Report Suites] sind und wie Sie sie in der Oberfläche erstellen, damit Sie den Traffic auf Ihrer Site nachvollziehen und optimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31820/?captions=ger&quality=12&learn=on)

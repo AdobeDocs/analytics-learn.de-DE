@@ -28,4 +28,4 @@ ht-degree: 65%
 
 Beispielsweise gehören zu den [!UICONTROL Segment]-Daten, die freigegeben werden können: demografische Daten von Drittanbietern, Kampagnendaten von Werbe-Servern (z. B. Offsite-Impressions) und integrierte CRM-Daten. Dies ist die erste produktbezogene Integration zwischen einer DMP und einer Analyse-Engine auf dem Markt.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de).

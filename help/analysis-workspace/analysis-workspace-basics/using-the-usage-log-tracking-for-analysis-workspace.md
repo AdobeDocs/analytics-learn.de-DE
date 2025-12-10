@@ -1,29 +1,27 @@
 ---
 title: Verwenden des Nutzungsprotokoll-Trackings für Analysis Workspace
 seo-title: Using the Usage Log Tracking for Analysis Workspace
-description: In diesem Video erfahren Sie, wie Sie das Nutzungsprotokoll-Tracking bei Workspace-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
-seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: data configuration and collection
-topics: null
+description: In diesem Video wird gezeigt, wie Sie das Nutzungsprotokoll-Tracking in Workspace-Projekten verwenden können, um die Nutzung von Adobe Analytics durch Ihre Benutzer besser zu verstehen.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users' usage of Adobe Analytics.
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 100%
+ht-degree: 65%
 
 ---
 
 
 # Verwenden von [!UICONTROL Nutzungsprotokoll-Tracking] für Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-In diesem Video erfahren Sie, wie Sie das [!UICONTROL Nutzungsprotokoll-Tracking] bei [!DNL Workspace]-Projekten verwenden. Dies hilft Ihnen, die Nutzung von Adobe Analytics durch Ihre Benutzer besser nachzuvollziehen.
+In diesem Video wird gezeigt, wie das [!UICONTROL Nutzungsprotokoll-Tracking] in [!DNL Workspace] Projekten verwendet wird, was Ihnen dabei hilft, die Nutzung von Adobe Analytics durch Ihre Benutzenden besser zu verstehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33174/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Zu den [!DNL Workspace]-Tracking-Optionen gehören:
 

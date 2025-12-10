@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 Aktionen sind Ereignisse, die in Ihrer Mobile App auftreten. In diesem Video erfahren Sie, wie Sie mit der trackAction-API eine Aktion verfolgen und messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/328306/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 Dies ist die API, die Sie zur Verfolgung aller Aktionen ohne Bildschirmauslastung auf Ihrer Site verwenden sollten. Wenn der Bildschirm angezeigt wird, verwenden Sie trackState, was einen Seitenansicht-Treffer auslöst. Verwenden Sie andernfalls trackAction, um Variablen zu senden, die mit der ausgeführten Aktion verknüpft sind.
 

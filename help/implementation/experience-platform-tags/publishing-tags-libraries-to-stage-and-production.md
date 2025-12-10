@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den Analytics-Code Ihrer Site aus der Entwick
 feature: Tags
 topics: Development
 kt: 3595
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Analytics-Code Ihrer Site aus der Entwicklung in der Staging- und Produktionsumgebung in Experience Platform [!DNL tags] veröffentlichen und die Report Suites so einrichten, dass die richtigen Daten korrekt empfangen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429975/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)

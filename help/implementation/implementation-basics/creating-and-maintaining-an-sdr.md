@@ -2,12 +2,12 @@
 title: Erstellung und Wartung eines Solution Design Reference (SDR)-Dokuments
 description: Das Solution Design Reference (SDR)-Dokuments ist die Blueprint für Geschäftsanforderungen, Variablenzuweisungen, Segmentdefinitionen und Datenerfassungs-Design für Analytics in Ihren digitalen Eigenschaften.
 feature: Implementation Basics
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Das Lösungs-Design-Referenzdokument (Solution Design Reference, SDR) ist der Blueprint für Geschäftsanforderungen und Datenerfassungs-Design für Analytics in Ihren digitalen Eigenschaften. Erfahren Sie, wie Sie dieses Dokument als die wahre Quelle für Ihre Analysis-Lösung erstellen und pflegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/31813/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Laden Sie eine Excel-Beispielvorlage herunter](assets/aa_en_BRD_SDR_template.xlsx), um die Anforderungen, Verwendung und Zuweisung von Variablen, Segmente und das Design der Datenerfassung für Ihre digitalen Objekte zu dokumentieren.
 

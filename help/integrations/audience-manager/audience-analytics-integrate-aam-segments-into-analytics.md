@@ -9,11 +9,11 @@ team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
 topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 badgeIntegration: label="Integration" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
-source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 65%
@@ -24,8 +24,8 @@ ht-degree: 65%
 
 [!UICONTROL Audience Analytics] ist eine Integration, mit der Sie Segmente aus Audience Manager in Echtzeit für [!DNL Analytics] freigeben können, um Informationen zu Zielgruppenerkennung, Segmentierung und Optimierung auszutauschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/40732/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 Beispielsweise gehören zu den [!UICONTROL Segment]-Daten, die freigegeben werden können: demografische Daten von Drittanbietern, Kampagnendaten von Werbe-Servern (z. B. Offsite-Impressions) und integrierte CRM-Daten. Dies ist die erste produktbezogene Integration zwischen einer DMP und einer Analyse-Engine auf dem Markt.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Finden Sie heraus, [!DNL ServiceNow] wie Sie mit Adobe Advertising Cloud und Adobe Analytics verwertbare Daten von Ihren Marketingkanälen abrufen und den ROI bei der Paid Search-Werbung steigern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35466/?captions=ger&quality=12&learn=on)
 
 Adobe Experience Cloud bietet Ihnen die integrierten Tools, die Sie für kanalübergreifendes Marketing, digitale Werbung, Zielgruppen- und Datenoptimierung benötigen, und vieles mehr.

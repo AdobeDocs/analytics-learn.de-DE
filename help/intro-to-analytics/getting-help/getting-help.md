@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Irgendwann benötigen wir alle Hilfe mit Adobe Analytics. Diese Videos zeigen Ihnen einige der großartigen Ressourcen, die Ihnen zur Verfügung stehen, wenn Sie eine Sackgasse erreichen und Hilfe benötigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31821/?captions=ger&quality=12&learn=on)

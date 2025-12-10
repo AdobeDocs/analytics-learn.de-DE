@@ -22,4 +22,4 @@ In diesem Video wird gezeigt, wie Sie mithilfe der [!UICONTROL Produktzeichenfol
 >
 > Launch ist jetzt **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31801/?captions=ger&quality=12&learn=on)

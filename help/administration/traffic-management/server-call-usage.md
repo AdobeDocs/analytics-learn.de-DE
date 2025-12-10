@@ -25,6 +25,6 @@ ht-degree: 27%
 
 [!UICONTROL Nutzung der Server]Aufrufe: Das Reporting ermöglicht es Ihnen, genau zu verfolgen, wie viel Ihrer Verbrauchsmenge an Server-Anrufen Sie zu einem beliebigen Zeitpunkt in Anspruch genommen haben. Sie werden auch proaktiv gewarnt, wenn Sie sich Ihrem Gesamtverbrauch nähern.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37476/?captions=ger&quality=12&learn=on)
 
 Es kann schwierig sein, den Überblick über den Verbrauch an Server-Aufrufen in Ihrem Unternehmen zu behalten, was zu Frustration bei Überschreitungen führt. Das Reporting [!UICONTROL Nutzung der Server]Aufrufe: ermöglicht es Ihnen, genau zu verfolgen, wie viel Ihrer Verbrauchsmenge an Server-Anrufen Sie zu einem beliebigen Zeitpunkt in Anspruch genommen haben. Sie werden auch proaktiv gewarnt, wenn Sie sich Ihrem Gesamtverbrauch nähern. Mit dem zugehörigen Dashboard können Sie analysieren, wo Ihre Server-Aufrufe verwendet werden. So können Sie sofort ausgeführte Implementierungen beheben oder mit Kollegen zusammenarbeiten, um eine Skalierung an Orten vorzunehmen, an denen große Mengen weniger wertvoller Daten gesammelt werden.

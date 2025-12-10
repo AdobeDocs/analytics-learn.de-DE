@@ -21,4 +21,4 @@ Wenn Sie Adobe Analytics auf Ihrer Site implementieren, müssen Sie dabei den Co
 >
 > Launch ist jetzt **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31806/?captions=ger&quality=12&learn=on)

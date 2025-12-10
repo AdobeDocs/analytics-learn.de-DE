@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Vor der Implementierung von Analytics in [!DNL tags] benötigen Sie einige hilfreiche Dokumente und müssen in Analytics und [!DNL tags] einige Einstellungen vornehmen. In diesem Video werden diese Punkte behandelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429963/?captions=ger&quality=12&learn=on)

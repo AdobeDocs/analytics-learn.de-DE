@@ -18,4 +18,4 @@ ht-degree: 83%
 
 Erfahren Sie, wie Sie die globalen Variableneinstellungen in der Analytics [!DNL tags]-Erweiterung konfigurieren. Eine ausführliche Dokumentation finden Sie unter [Übersicht über die Adobe Analytics-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427921/?captions=ger&quality=12&learn=on)

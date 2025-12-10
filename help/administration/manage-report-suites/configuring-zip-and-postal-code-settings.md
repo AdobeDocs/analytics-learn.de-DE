@@ -25,6 +25,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Einstellungen für [!UICONTROL Postleitzahlen] konfigurieren, damit Sie Analysen auf der Grundlage dieser Regionsdaten durchführen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35173/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu den Einstellungen für [!UICONTROL Postleitzahlen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=de).

@@ -22,6 +22,6 @@ ht-degree: 99%
 
 Status stellen Bildschirme oder Ansichten in Ihrer Mobile App dar. Jedes Mal, wenn in Ihrer Anwendung ein neuer Status angezeigt wird, beispielsweise wenn ein Benutzer von der Homepage zum Newsfeed navigiert, kann `trackState` aufgerufen werden, um den Statusnamen (Seitenname in [!DNL Analytics]) sowie weitere Daten zu senden. Dieses Video zeigt Ihnen die Vorgehensweise.
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328314/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu „trackState“ finden Sie in der [Dokumentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics).

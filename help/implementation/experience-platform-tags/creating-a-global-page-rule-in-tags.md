@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Experience Platform [!DNL tags] eine globale Seitenregel für Datenpunkte einrichten, die Sie auf jeder Seite an Adobe Analytics senden möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31807/?captions=ger&quality=12&learn=on)

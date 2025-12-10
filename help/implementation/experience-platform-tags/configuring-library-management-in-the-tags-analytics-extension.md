@@ -18,4 +18,4 @@ ht-degree: 88%
 
 Erfahren Sie mehr über die Konfigurationsoptionen zur Bibliotheksverwaltung für die Analytics-Erweiterung in Experience Platform [!DNL tags]. In diesem Video wird auch die Auswahl von Report Suites für die Datenerfassung behandelt.  Eine ausführliche Dokumentation finden Sie unter [Übersicht über die Adobe Analytics-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429837/?captions=ger&quality=12&learn=on)

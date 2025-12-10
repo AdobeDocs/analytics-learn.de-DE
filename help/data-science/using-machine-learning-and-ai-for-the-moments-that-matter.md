@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Customer Intelligence war nie so vielversprechend wie heute. Aber das Zusammenführen von Daten, die für geschäftliche Benutzer in der ganzen Organisation nützlich sein können – und das rechtzeitige Erkennen wichtiger Trends, um darauf zu reagieren – ist etwas, das selbst ein fortgeschrittenes Datenwissenschafts-Team nicht allein bewältigen kann. Die Verwendung der Daten, die Sie bereits erfassen, bietet Ihnen die Möglichkeit, die KI von Adobe Sensei und die Funktionen des maschinellen Lernens in Adobe Analytics optimal zu nutzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328330/?captions=ger&quality=12&learn=on)

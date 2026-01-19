@@ -9,7 +9,7 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Holen Sie das Meiste aus [!DNL Adobe Analytics] heraus. Verwenden Sie diese Tutorials, um die Funktionen von Analytics kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen. Diese Inhalte sind für Administratoren, Datenanalysten, Marketing-Experten, Entwickler und Architekten geeignet.
 
-Informieren Sie sich zunächst
+Als ersten Schritt
 
 * unten im Abschnitt **Neue Funktionen** über die neuesten Aktualisierungen und Funktionen.
 * Die **Auswahl der Mitarbeiter** zeigt einige unserer Lieblingsinhalte
@@ -40,7 +40,7 @@ Spezifische Lernangebote für verschiedene Rollen und Qualifikationen stehen ebe
 
 <div id="staff-picks-section">
 
-## Auswahl der Mitarbeiter
+## Auswahl der Mitarbeitenden
 
 <table>
 <tr>

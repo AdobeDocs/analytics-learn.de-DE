@@ -5,9 +5,9 @@ breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2176'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 87%
       + [Touristik-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Einzelhandels-Super-Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Hightech Super Session beim Summit 2019](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Strategie und Vordenkerrolle{#strategy}
+   + Strategie und Thought Leadership{#strategy}
       + [Teil 1: Einfache Hacks für mehr Effizienz](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Teil 2: Einfache Hacks für mehr Effizienz](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [Meistern der Kundenanalyse mit Virtual Analyst und Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
-   + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
+   + Migration von anderen Plattformen {#transitioning-from-other-platforms}
       + [Wechsel von Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics-Grundlagen {#analytics-basics}
       + [Verstehen des Analytics-Zyklus](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -47,13 +47,13 @@ ht-degree: 87%
       + [Hinzufügen von Dimensions- und Metrikbeschreibungen](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Verbesserung der Sicherheit](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Einrichten eines Analysis Workspace-Projekts als Landingpage](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + Hilfe wird abgerufen {#getting-help}
+   + Hilfsquellen {#getting-help}
       + [Hilfe in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Produktinterne Übermittlung von Support-Tickets](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Grundlagen zu Analysis Workspace {#analysis-workspace-basics}
+   + Grundlagen von Analysis Workspace {#analysis-workspace-basics}
       + [Schnelleinstieg in Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
-      + [Analysis Workspace – Übersicht](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Analysis Workspace – Überblick](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigieren in der neuen Landingpage](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Starten Sie Ihre Analyse mit einem vorkonfigurierten Bericht](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Arbeitsbereich-Projekt von Grund auf neu erstellen](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
@@ -83,10 +83,10 @@ ht-degree: 87%
       + [Anmerkungen](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Verwenden der Dichte](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Verwenden von Filtern](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
-      + [Verwenden von Mehrfachauswahl-Dropdown-Filtern](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
+      + [Verwenden von Dropdown-Filtern mit Mehrfachauswahl](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Echtzeitberichte {#real-time-reports}
-      + [Echtzeitberichterstellung](analysis-workspace/real-time-reports/realtime-reporting.md)
-   + Verwenden von Bereichen {#using-panels}
+      + [Echtzeit-Reporting](analysis-workspace/real-time-reports/realtime-reporting.md)
+   + Verwenden von Bedienfeldern {#using-panels}
       + [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Bedienfeld „Quick Insights“ in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Verwenden des Bedienfelds „Attribution IQ“](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=de)
@@ -146,7 +146,7 @@ ht-degree: 87%
       + [100 % gestapelte Visualisierungen](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Einstellungen für Tabellen und Visualisierungsdatenquellen](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Erstellen einer Heatmap für die Zeitaufteilung](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Analysieren von Kunden-Journey {#analyzing-customer-journeys}
+   + Analysieren von Customer Journeys {#analyzing-customer-journeys}
       + [Erstellen eines Fallout-Visualisierungsberichts](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Erstellen einer Flussvisualisierung](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Gemeinsames Verwenden von Fallout und Fluss](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -189,7 +189,7 @@ ht-degree: 87%
       + [Exportieren in CSV und PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Freigeben von eingebetteten Komponenten](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Freigeben von schreibgeschützten Projekten](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Entfesseln der Möglichkeiten der schreibgeschützten Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Die Möglichkeiten der schreibgeschützten Freigabe](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Verwenden von registerkartenübergreifenden Analysen zur Erforschung der grundlegenden Marketing-Attribution](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Hinzufügen von nebeneinander angezeigten Vergleichen von Attribution IQ-Modellen](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -238,16 +238,16 @@ ht-degree: 87%
       + [Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Erstellen von operativen Dashboards](administration/admin-tips/create-operational-dashboards.md)
    + Unternehmenseinstellungen {#company-settings}
-      + [E-Mail-Domain-Beschränkungen erzwingen](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Erzwingen von Einschränkungen der E-Mail-Domain](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Anzeigen der verfügbaren Funktionen Ihres Kontos](administration/company-settings/view-your-accounts-available-features.md)
    + Benutzerverwaltung {#user-management}
-      + [Hinzufügen eines Administrators zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
-      + [Produktprofile anlegen](administration/user-management/create-product-profiles.md)
+      + [Hinzufügen von Admins zu Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Anlegen von Produktprofilen](administration/user-management/create-product-profiles.md)
       + [Beschränken des Zugriffs auf Report Suites in der Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [Übertragen von Benutzer-Assets an einen anderen Benutzer](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Übertragen von Benutzer-Assets an eine andere Person](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Überprüfen der verknüpften IMS-ID, um Anmeldeprobleme zu vermeiden](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + Report Suites verwalten {#manage-report-suites}
-      + [Konfigurieren allgemeiner Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
+   + Verwalten von Report Suites {#manage-report-suites}
+      + [Konfigurieren der allgemeinen Kontoeinstellungen](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassen der Kalendereinstellungen](administration/manage-report-suites/customize-calendar-settings.md)
       + [Konfigurieren der Erkennung von Paid Search](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Einrichten von Marketing-Kanälen](administration/manage-report-suites/set-up-marketing-channels.md)
@@ -259,19 +259,19 @@ ht-degree: 87%
       + [Konfigurieren von Ereignissen und Variablen](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Konfigurieren von Konversionsklassifizierungen](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurieren von Listenvariablen](administration/manage-report-suites/configuring-list-variables.md)
-      + [Konfigurieren der Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
+      + [Konfigurieren von Suchmethoden](administration/manage-report-suites/configure-finding-methods.md)
       + [Festlegen interner URL-Filter](administration/manage-report-suites/set-internal-url-filters.md)
-      + [Konfigurieren der Postleitzahleinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [Konfigurieren der Postleitzahleneinstellungen](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Aktivieren der Einstellung „Zeitstempel optional“](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurieren von Bot-Regeln in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
-   + Data Governance und DSGVO {#data-governance-and-gdpr}
+   + Data Governance und Datenschutzgrundverordnung (DSGVO) {#data-governance-and-gdpr}
       + [Data Governance und Datenschutzgrundverordnung (DSGVO) in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Traffic-Management {#traffic-management}
       + [Nutzung von Server-Aufrufen](administration/traffic-management/server-call-usage.md)
       + [Verwalten einer bevorstehenden Traffic-Spitze](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Protokolle{#logs}
       + [Nutzungsprotokoll-Tracking für Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
-      + [Übersicht über die Admin-Protokolle in Analytics](administration/logs/overview-of-analytics-admin-logs.md)
+      + [Admin-Protokolle in Analytics – Überblick](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementierung {#implementation}
    + Implementierungsgrundlagen {#implementation-basics}
       + [Verstehen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de)
@@ -279,7 +279,7 @@ ht-degree: 87%
       + [Identifizieren Ihres Analytics-Tracking-Servers und Ihrer Report Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platform Tags {#experience-platform-tags}
+   + Experience Platform-Tags {#experience-platform-tags}
       + [Implementieren von Experience Cloud-Lösungen in Websites mithilfe von Tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
       + [Grundlegende Konfiguration der Analytics-Erweiterung](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Konfigurieren der Bibliotheksverwaltung in der Analytics-Erweiterung](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
@@ -336,14 +336,14 @@ ht-degree: 87%
       + [Einführung in Klassifizierungssätze](components/classifications/introduction-to-classification-sets.md)
       + [Verwenden von Klassifizierungssätzen](components/classifications/use-classification-sets.md)
       + [Datenimportmethoden für Klassifizierungssätze](components/classifications/classification-sets-data-import-methods.md)
-      + [Vorgangsverlauf für Klassifizierungssätze](components/classifications/classification-sets-job-history.md)
+      + [Auftragsverlauf für Klassifizierungssätze](components/classifications/classification-sets-job-history.md)
    + Virtual Report Suites {#virtual-report-suites}
-      + [Virtual Report Suites – Übersicht](components/virtual-report-suites/virtual-report-suites.md)
+      + [Virtual Report Suites – Überblick](components/virtual-report-suites/virtual-report-suites.md)
       + [Komponentenkuratierung](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Anpassen von Besuchen in Virtual Report Suites](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [Beginnen eines neuen Besuchs bei einem beliebigen Ereignis](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
-      + [Übersicht über Activity Map](components/activity-map/activity-map-overview.md)
+      + [Activity Map – Überblick](components/activity-map/activity-map-overview.md)
       + [Aktivieren, Debuggen und Anpassen von Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Weitere Tools {#additional-tools}
    + [Adobe Labs (Technology Previews)](additional-tools/adobe-labs-technology-previews.md)
@@ -354,7 +354,7 @@ ht-degree: 87%
       + [In-App-Erlebnis für Analytics-Dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [Erstellen von benutzerdefinierten Detailansichten](additional-tools/analytics-dashboards/create-custom-detail-views.md)
       + [Daten-Storys für Analytics-Dashboards](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
-+ Wird exportiert {#exporting}
++ Wird exportiert … {#exporting}
    + Über die Benutzeroberfläche {#from-the-ui}
       + [Exportieren in CSV aus Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
@@ -365,9 +365,9 @@ ht-degree: 87%
       + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
       + [Herunterladen des Authentifizierungsschlüssels für einen Daten-Feed](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Ermitteln der Daten-Feed-ID](exporting/data-feeds/find-your-data-feed-id.md)
-      + [Erneutes Ausführen eines Daten-Feed-Vorgangs](exporting/data-feeds/rerun-a-data-feed-job.md)
+      + [Erneutes Ausführen eines Daten-Feed-Auftrags](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
-      + [Arbeitsmappen aktualisieren und neu planen](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
+      + [Aktualisieren und Neuplanen von Arbeitsmappen](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Gleichzeitiges Hinzufügen von Segmenten in mehrere Anforderungen in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomalieerkennung in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Bearbeiten von Metriken mit Mehrfachanforderungen](exporting/report-builder/edit-metrics-across-requests.md)
@@ -377,7 +377,7 @@ ht-degree: 87%
       + [Verwenden der erweiterten Report Builder-Bereitstellungsoptionen für Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrationen {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Verbesserungen bei der Veröffentlichung von Experience Cloud-Zielgruppen](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Verbesserungen bei der Zielgruppen-Veröffentlichung in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Aktivieren der Server-seitigen Weiterleitung in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics – Integrieren von Adobe Audience Manager-Segmenten in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
@@ -387,7 +387,7 @@ ht-degree: 87%
    + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Konfigurieren von Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementieren von Tracking-Vorlagen in Suchmaschinen](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Einführung in die Adobe Advertising DSP-Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Einführung in die Integration von Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Erstellen einer Kampagnenanalyse vor dem Start](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Bericht zu Advertising DSP-Marketing-Kanälen](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Erstellen von Site-Journey-Profilen in Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
@@ -396,21 +396,21 @@ ht-degree: 87%
       + [Erstellen von benutzerdefinierten Analytics-Metriken mit Advertising DSP-Daten](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Erstellen von Site-Einstiegsberichten für Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Erstellen von Advertising DSP-Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analytics {#ad-hoc-analytics}
-      + [Verwenden des Projektkonvertierers zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
+   + Ad-hoc-Analyse {#ad-hoc-analytics}
+      + [Verwenden des Projekt-Converters zum Verschieben von Projekten von Ad Hoc Analysis nach Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Adobe Analytics Connector in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Analysis Workspace-Vorlage von Magento](integrations/magento/magento-analysis-workspace-template.md)
-+ Data Science {#data-science}
++ Datenwissenschaft {#data-science}
    + [Verwenden von maschinellem Lernen und künstlicher Intelligenz mit Adobe Analytics für wichtige Momente](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Anomalieerkennung in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Beitragsanalyse in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Intelligente Warnhinweise](data-science/intelligent-alerts.md)
    + [Adobe Analytics und Adobe Sensei – Demokratisierung der Datenwissenschaft für ALLE](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Vertikal-spezifisch {#vertical-specific}
-   + Hochtechnologie {#high-tech}
-      + [Hightech Super Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=de)
+   + Hightech {#high-tech}
+      + [Hightech-Super-Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=de)
    + Reisen und Gastgewerbe {#travel-and-hospitality}
       + [Touristik-Super-Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=de)
    + Einzelhandel {#retail}
@@ -422,7 +422,7 @@ ht-degree: 87%
    + Messen von Media Analytics {#measuring-media-analytics}
       + [Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Verwenden der Vorlage für den Audioverbrauch in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobile-App-Analyse {#mobile-app-analytics}
++ Mobile App Analytics {#mobile-app-analytics}
    + Implementierung {#implementation}
       + [Admin-Einstellungen für Mobile Apps](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisieren und Anzeigen von Lebenszyklusmetriken mit dem Experience Platform-SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
@@ -431,7 +431,7 @@ ht-degree: 87%
       + [Implementieren in iOS Swift-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=de)
       + [Implementieren in iOS Objective-C-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=de)
       + [Implementieren in Android-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=de)
-   + Messen von Mobile Analytics {#measuring-mobile-analytics}
+   + Messen der Mobile-Analyse {#measuring-mobile-analytics}
       + [Erste Schritte mit Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analysieren des Benutzerverhaltens auf verschiedenen Kanälen](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)

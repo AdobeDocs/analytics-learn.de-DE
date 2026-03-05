@@ -4,10 +4,10 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
-workflow-type: ht
-source-wordcount: '2176'
-ht-degree: 100%
+source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+workflow-type: tm+mt
+source-wordcount: '2177'
+ht-degree: 99%
 
 ---
 
@@ -362,7 +362,7 @@ ht-degree: 100%
       + [Senden von Data-Warehouse-Anfragen über SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Senden von Data-Warehouse-Berichten im Tableau-Datenextraktions-Format](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Daten-Feeds {#data-feeds}
-      + [Benutzeroberfläche des Daten-Feed-Managements](exporting/data-feeds/data-feeds-management-ui.md)
+      + [Erstellen und Verwalten von Daten-Feeds](exporting/data-feeds/data-feeds-management-ui.md)
       + [Herunterladen des Authentifizierungsschlüssels für einen Daten-Feed](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Ermitteln der Daten-Feed-ID](exporting/data-feeds/find-your-data-feed-id.md)
       + [Erneutes Ausführen eines Daten-Feed-Auftrags](exporting/data-feeds/rerun-a-data-feed-job.md)

@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Kollaborative Tutorials und Aktivierungsmaterialien für Analytics
 
-[treiben] (bar)
+[treiben](bar)

@@ -449,5 +449,5 @@ ht-degree: 99%
       + [Konfigurieren von internen Site-Suchberichten](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + {hide-from-toc}[Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
-+ {hide-from-toc}[Experience League LIVE ](exl-live/exl-live-overview.md)
++ {hide-from-toc}[Experience League LIVE &#x200B;](exl-live/exl-live-overview.md)
 + {hide-from-toc}[„Analytics-Grundlagen für Business-Anwender“ wurde eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)

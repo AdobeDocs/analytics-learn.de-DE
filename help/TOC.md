@@ -4,7 +4,7 @@ user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an u
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
 workflow-type: tm+mt
 source-wordcount: '2177'
 ht-degree: 99%
@@ -448,6 +448,6 @@ ht-degree: 99%
       + [Zuordnen von Web SDK-Variablen in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Konfigurieren von internen Site-Suchberichten](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [„Analytics-Grundlagen für Business-Anwender“ wurde eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)
++ {hide-from-toc}[Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
++ {hide-from-toc}[Experience League LIVE &#x200B;](exl-live/exl-live-overview.md)
++ {hide-from-toc}[„Analytics-Grundlagen für Business-Anwender“ wurde eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)

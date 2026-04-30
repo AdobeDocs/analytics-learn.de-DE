@@ -3,11 +3,13 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
-source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
+source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
-source-wordcount: '2177'
-ht-degree: 99%
+source-wordcount: 2607
+ht-degree: 96%
 
 ---
 
@@ -154,7 +156,7 @@ ht-degree: 99%
    + Anwenden von Segmenten {#applying-segments}
       + [Anwenden von Segmenten auf Ihr Analysis Workspace-Projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Anwenden von Ad-hoc-Segmenten](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Verwenden unterschiedlicher Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
+      + [Verwenden verschiedener Attribution IQ-Modelle mit Segmenten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=de)
       + [Auswählen von Segmenten für ein Bedienfeld](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=de)
       + [Verwenden von Segmenten als Dimensionen in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Verwenden von Segmenten zur Datenbegrenzung in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
@@ -163,7 +165,7 @@ ht-degree: 99%
       + [Erstellen von Customer Journey-Segmenten – Teil 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Metriken {#metrics}
       + [Verstehen von grundlegenden Besuchermetriken](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Hinzufügen von Dimensionen und Metriken zu Ihrem Projekt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
+      + [Hinzufügen von Dimensionen und Metriken zu einem Projekt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=de)
       + [Einführung in Konversionsereignisse](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Arbeiten mit Metriken in einer Freiformtabelle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=de)
       + [Verwenden von Teilnahmemetriken in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -280,7 +282,7 @@ ht-degree: 99%
       + [Erstellen eines Geschäftsanforderungsdokuments](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Erstellen und Pflegen einer Referenz für das Lösungs-Design](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-Tags {#experience-platform-tags}
-      + [Implementieren von Experience Cloud-Lösungen in Websites mithilfe von Tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
+      + [Implementieren von Experience Cloud-Lösungen auf Websites mit Tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=de)
       + [Grundlegende Konfiguration der Analytics-Erweiterung](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Konfigurieren der Bibliotheksverwaltung in der Analytics-Erweiterung](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Konfigurieren allgemeiner Einstellungen in der Analytics-Erweiterung](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -410,7 +412,7 @@ ht-degree: 99%
    + [Adobe Analytics und Adobe Sensei – Demokratisierung der Datenwissenschaft für ALLE](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Vertikal-spezifisch {#vertical-specific}
    + Hightech {#high-tech}
-      + [Hightech-Super-Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=de)
+      + [Hightech Super Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=de)
    + Reisen und Gastgewerbe {#travel-and-hospitality}
       + [Touristik-Super-Session beim Summit 2019](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=de)
    + Einzelhandel {#retail}
@@ -430,7 +432,7 @@ ht-degree: 99%
       + [Tracking des Status (d. h. Seiten oder Bildschirme)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementieren in iOS Swift-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=de)
       + [Implementieren in iOS Objective-C-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=de)
-      + [Implementieren in Android-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=de)
+      + [Implementieren in Android Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=de)
    + Messen der Mobile-Analyse {#measuring-mobile-analytics}
       + [Erste Schritte mit Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Auswirkungen von Kontaktpunkten innerhalb von Mobile Journeys](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
@@ -438,7 +440,7 @@ ht-degree: 99%
       + [Steigern der Interaktions- und Kundenbindungsquoten](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
    + [Verwenden von Analysis Workspace zum Erstellen von API 2.0-Anforderungen](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Verwenden von Report Builder zum Kennenlernen der Adobe Analytics-API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=de)
+   + [Verwenden von Report Builder, um mehr über die Adobe Analytics-API zu erfahren](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=de)
    + [Erstellen von Adobe Analytics 2.0-API-Anfragen mit Postman](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Anwendungsfälle für Analysen {#analysis-use-cases}
    + Interne Site-Suche {#internal-site-search}

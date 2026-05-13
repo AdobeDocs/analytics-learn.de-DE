@@ -5,14 +5,35 @@ feature: Calculated Metrics
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13266
 thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/4e4X0vaCKGCen3dCf8APh5vZ-bhgL2JF3MxqLgEvq-4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: e9cb007b-c8b7-4975-bc81-11a788c535fa
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 3%
+source-wordcount: 1589
+ht-degree: 2%
 
 ---
 
@@ -26,7 +47,7 @@ Als erweiterte Funktion von Adobe Analytics können Sie mit berechneten Metriken
 
 Um mit berechneten Metriken zu beginnen, sehen wir uns ein einfaches Beispiel an. Angenommen, Sie möchten verstehen, ob Online-Self-Service-Benutzer einen höheren durchschnittlichen Bestellwert (AOV) haben als anrufunterstützte Benutzer. Gehen Sie wie folgt vor, um eine berechnete Metrik zur Beantwortung dieser Frage zu erstellen:
 
-Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen Navigationsleiste auf → **Komponenten** → **Berechnete Metriken** → **+ Hinzufügen.** Sie können auch auf das **+-** über **Metriken** im Bedienfeld „Komponenten“ klicken.
+Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen Navigationsleiste auf → **Komponenten** → **Berechnete Metriken** → **+ Hinzufügen.** Alternativ können Sie im Bedienfeld „Komponenten **auf das**+ **Metriken** klicken.
 
 
 ![Kalkulation 01](assets/calc01.png) ![Kalkulation 02](assets/calc03.png) ![Kalkulation 03](assets/calc02.png)
@@ -37,7 +58,7 @@ Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen 
 
 Nachdem der Generator für berechnete Metriken geöffnet wurde, fügen Sie hinzu und/oder führen Sie die folgenden Schritte aus:
 
-**A.** Ein Name für Ihre berechnete Metrik. Dieser Name wird in der Komponentenliste für Metriken angezeigt. Achten Sie daher darauf, dass Sie und andere ihn klar erkennen können, z. B *„Call Center AOV*.
+**a.** Ein Name für Ihre berechnete Metrik. Dieser Name wird in der Komponentenliste für Metriken angezeigt. Achten Sie daher darauf, dass Sie und andere ihn klar erkennen können, z. B *„Call Center AOV*.
 
 **B.** Eine Beschreibung der berechneten Metrik. **Diese Beschreibung wird angezeigt, wenn Benutzer in der Komponentenliste neben** Metrik auf „i“ klicken. Vergewissern Sie sich also, dass sie informativ ist. Beispiel: Für die Call-Center-AOV können wir hinzufügen *Berechnet die AOV für Call-Center-unterstützte Bestellungen*.
 
@@ -114,16 +135,16 @@ Diese Metriken sind jedoch nicht in allen Bereichen von Adobe Analytics verfügb
 Nachdem Sie nun wissen, wie wertvoll berechnete Metriken sein können, werfen wir einen Blick auf einige Best Practices bei ihrer Erstellung.
 
 1. **Überprüfen Sie die Syntax Ihrer Formel.** Stellen Sie sicher, dass die Formelsyntax korrekt ist und der Adobe Analytics-Syntax entspricht, um sicherzustellen, dass Sie aussagekräftige Informationen erhalten.
-1. **Überprüfen Sie die Reihenfolge der Vorgänge.** Achten Sie darauf, Container sorgfältig zu verwenden und die Dinge in die richtige mathematische Reihenfolge der Vorgänge zu bringen.
+1. **Überprüfen Sie die Reihenfolge der Vorgänge.** Stellen Sie sicher, dass Sie Container vorsichtig verwenden und die Dinge in die richtige mathematische Reihenfolge der Vorgänge bringen.
 1. **Daten nicht doppelt zählen**. Sie können eine doppelte Zählung von Daten vermeiden, indem Sie sicherstellen, dass die in der berechneten Metrik verwendete Formel dieselben Daten nicht mehrmals zählt. Dies wird häufig durch die Kombination von *Einschließen* und *Ausschließen* in der berechneten Metrik oder durch die Verwendung von Segmenten erreicht.
-1. **Überprüfen Sie die Zeitgranularität.** Stellen Sie sicher, dass die berechnete Metrik dieselbe Zeitgranularität wie die in der Formel verwendeten Quellmetriken hat.
+1. **Zeitgranularität überprüfen.** Stellen Sie sicher, dass die berechnete Metrik dieselbe Zeitgranularität wie die in der Formel verwendeten Quellmetriken hat.
 1. **Präzise Daten verwenden** Sie erhalten nur dann wertvolle Ergebnisse, wenn Sie bei der Berechnung genaue und zuverlässige Daten verwenden.
 
 ## Best Practices für benutzerdefinierte Segmente
 
 Beachten Sie beim Erstellen von Segmenten in Adobe Analytics die folgenden Best Practices:
 
-1. **Einfach halten.** vermeiden Sie eine Überkomplikation des Segments. Halten Sie es so einfach wie möglich und verwenden Sie nur die Bedingungen, die für die Genauigkeit erforderlich sind.
+1. **Einfach halten.** Vermeiden Sie eine Überkomplikation des Segments. Halten Sie es so einfach wie möglich und verwenden Sie nur die Bedingungen, die für die Genauigkeit erforderlich sind.
 1. **Verwenden Sie die richtigen Container-Typen**. Stellen Sie sicher, dass Sie den richtigen Container-Typ - Besucher, Besuch oder Treffer - in der Segmentdefinition verwenden, um falsche Ergebnisse zu vermeiden.
 1. **Daten nicht doppelt zählen**. Stellen Sie wie bei berechneten Metriken sicher, dass das Segment nicht mehrmals dieselben Daten zählt. Container ein- und ausschließen können hilfreich sein.
    1. Wenn ein Include-Container verwendet wird, *er* umfasst *den gesamten Inhalt des Besuchs* wenn ein Treffer der Bedingung innerhalb des Besuchs entspricht.

@@ -5,14 +5,25 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 13%
+source-wordcount: 1155
+ht-degree: 12%
 
 ---
 
@@ -140,7 +151,7 @@ Die benutzerdefinierte Segmentdefinition einer Dimension-Kohorte wendet das Dime
 
 Nachdem Sie die Option Benutzerdefinierte Dimension-Kohorte ausgewählt haben, können Sie die gewünschte Dimension per Drag-and-Drop in den Ablagebereich ziehen. Auf diese Weise können Sie ähnliche Dimensionselemente über den gleichen Zeitraum hinweg miteinander vergleichen. Beispielsweise können Sie die Leistung von Städten nebeneinander vergleichen
 
-Seite, Produkte, Kampagnen usw. Dadurch werden Ihre 14 wichtigsten Dimensionselemente zurückgegeben. Sie können jedoch einen Filter verwenden (auf den Sie zugreifen können, indem Sie mit der Maus über den Bereich rechts von der gezogenen Dimension fahren), um nur die gewünschten Dimensionselemente anzuzeigen. Eine angepasste Dimensionskohorte kann nicht mit der Funktion der Latenztabelle verwendet werden.
+Seite, Produkte, Kampagnen usw. Dadurch werden Ihre 14 wichtigsten Dimensionselemente zurückgegeben. Sie können jedoch einen Filter verwenden (auf den Sie zugreifen können, indem Sie mit der Maus über den Bereich rechts von der gezogenen Dimension fahren), um nur die gewünschten Dimensionselemente anzuzeigen. Eine benutzerdefinierte Dimension-Kohorte kann nicht mit der Latenztabellen-Funktion verwendet werden.
 
 ### Welche Produkte treiben die Website-Klebrigkeit an?
 
@@ -172,4 +183,4 @@ Dieses Dokument wurde verfasst von:
 
 **Jennifer**, Senior Director bei Marriott
 
-Adobe Analytics-Expertin
+Adobe Analytics-Experte

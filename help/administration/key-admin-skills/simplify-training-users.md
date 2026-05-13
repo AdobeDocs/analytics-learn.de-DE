@@ -9,16 +9,34 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 100%
+source-wordcount: 926
+ht-degree: 95%
 
 ---
 
 # Tipps und Tricks, wie Sie die Benutzerschulung vereinfachen und weniger Zeit darauf verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/341102/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/341102/?captions=ger&quality=12&learn=on)
 
 Um eine Kultur der datengestützten Entscheidungsfindung zu schaffen, ist es wichtig, dass die geschäftliche Benutzer in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Demokratisierung von Daten und ermöglicht den geschäftlichen Benutzern mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
 
@@ -57,7 +75,7 @@ Natürlich kann eine Standard-Basisschulung nicht alle Fragen und jeden Anwendun
 
 ## Trainieren Sie Ihre Benutzer, um andere zu schulen
 
-In jeder Abteilung gibt es in der Regel einen Benutzer, der sich am besten mit Adobe Analytics auskennt. Nutzen Sie dessen Fachwissen und arbeiten Sie mit ihm zusammen, um „Adobe Analytics-Abteilungsleiter“ zu werden. Durch die Schaffung dieser Support-Stufe helfen Sie Benutzern, ihre Fähigkeiten weiterzuentwickeln, und sorgen dafür, dass sich Ihre Organisation stärker für Adobe Analytics engagiert und Sie mehr Zeit für fortgeschrittene und anspruchsvolle Fragen haben.
+In jeder Abteilung gibt es in der Regel einen Benutzer, der sich am besten mit Adobe Analytics auskennt. Nutzen Sie ihr Fachwissen und arbeiten Sie mit ihnen zusammen, um &quot;Adobe Analytics-Abteilungsleiter“ zu werden. Durch die Schaffung dieser Support-Stufe helfen Sie Benutzern, ihre Fähigkeiten weiterzuentwickeln, und sorgen dafür, dass sich Ihr Unternehmen stärker für Adobe Analytics engagiert und Sie mehr Zeit für fortgeschrittene und anspruchsvolle Fragen haben.
 
 * Investieren Sie Zeit, um Ihre Abteilungsleiter zu fortgeschrittenen Benutzern auszubilden, damit sie sicher alle Fragen beantworten und neuen Benutzern in der Abteilung helfen können. Diese investierte Zeit wird sich später auszahlen.
 * Stellen Sie sicher, dass Sie die Erwartung wecken, dass alle Fragen der Abteilung an den Abteilungsleiter weitergeleitet werden. Nur wenn dieser nicht in der Lage ist, eine Frage zu beantworten, sollten Sie selbst zur Unterstützung hinzugezogen werden.

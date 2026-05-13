@@ -7,9 +7,25 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/TCsZTXENXuRAtUM1dzgf2JNAzIYWWy2Z1D-S28D6Mgo
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: 1269
 ht-degree: 100%
 
 ---
@@ -35,7 +51,7 @@ Wenn Sie Ihr Segment mit Segment Builder erstellen, können Sie es speichern, um
 
 Am oberen Rand jedes Bedienfelds können Sie auf das Schnellsegmentsymbol (ein Trichter mit dem Symbol +) klicken, um den Builder zu öffnen. Auf diese Weise können Sie ein Segment auf jeder Ebene (Treffer, Besuch oder Besucherin bzw. Besucher) mit bis zu drei Bedingungen erstellen. Ähnlich wie Segment Builder gibt Ihnen dies auf der rechten Seite einen Hinweis dazu, ob das Segment Daten zurückgibt, und den Prozentsatz der gesamten Traffic-Population, der im Segment enthalten ist. Dies ist jedoch eine stärker vereinfachte Version gegenüber der vollständige Ansicht des Segmentvolumens, die in Segment Builder angezeigt wird. Wenn Sie mehr als eine Bedingung hinzufügen, können Sie die Operatoren „and“ und „or“ verwenden. Leider gibt es keine „then“-Option für Schnellsegmente. Wenn Sie also sequenzielle Segmente benötigen, müssen Sie den vollständigen Segment Builder verwenden. Es gibt außerdem eine Höchstgrenze von einem Container pro Schnellsegment. Das liegt daran, dass dies wirklich für grundlegende Segmente verwendet werden sollte, die schnell erstellt und bearbeitet werden können. Sobald ein Schnellsegment auf ein Bedienfeld angewendet oder gespeichert wurde, kann es nicht mehr im Bedienfeld bearbeitet werden.
 
-Wenn Sie eine explorative Analyse durchführen und verschiedene Segmenttypen testen möchten, um zu sehen, wie verschiedene Kundengruppen reagieren oder wie verschiedene Kategorien funktionieren, dann ist die Verwendung von Schnellsegmenten wesentlich schneller als die Verwendung von Segment Builder. Darüber hinaus sind diese Segmente nur in dem Projekt verfügbar, in dem sie erstellt wurden. Wenn sich also herausstellt, dass sie nicht die gewünschten Ergebnisse liefern, müssen Sie sich nicht darum kümmern, das gespeicherte Segment aus der primären Liste zu löschen. Wenn Sie nach dem Testen der Segmente feststellen, dass es nützlich für andere Projekte sein könnte, können Sie jederzeit auf die Schaltfläche „Builder öffnen“ klicken, um das Segment im vollständigen Segment Builder zu öffnen und es als normales Segment zu speichern. Danach können Sie sie jedoch nicht mehr im Builder für Schnellsegmente bearbeiten.
+Wenn Sie eine explorative Analyse durchführen und verschiedene Segmenttypen testen möchten, um zu sehen, wie verschiedene Kundengruppen reagieren oder wie verschiedene Kategorien funktionieren, dann ist die Verwendung von Schnellsegmenten wesentlich schneller als die Verwendung von Segment Builder. Darüber hinaus sind diese Segmente nur in dem Projekt verfügbar, in dem sie erstellt wurden. Wenn sich also herausstellt, dass sie nicht die gewünschten Ergebnisse liefern, müssen Sie sich nicht darum kümmern, das gespeicherte Segment aus der primären Liste zu löschen. Wenn Sie nach dem Testen der Segmente feststellen, dass es nützlich für andere Projekte sein könnte, können Sie jederzeit auf die Schaltfläche „Builder öffnen“ klicken, um das Segment im vollständigen Segment Builder zu öffnen und es als normales Segment zu speichern. Danach können Sie sie jedoch nicht mehr im schnellen Segment Builder bearbeiten.
 
 ![Schnellsegment](assets/quick-segement.png)
 

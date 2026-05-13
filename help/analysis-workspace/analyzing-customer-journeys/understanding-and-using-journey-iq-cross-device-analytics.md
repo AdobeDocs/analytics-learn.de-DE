@@ -80,7 +80,7 @@ Lesen Sie weiter, um mehr über Folgendes zu erfahren:
 
 ### Die [!DNL Cross-Device Virtual Report Suite]
 
-Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten einer Virtual Report Suite (VRS) für die geräteübergreifende Analyse (Cross-Device Analytics, CDA) ist einfach.
+Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=de) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten einer Virtual Report Suite (VRS) für die geräteübergreifende Analyse (Cross-Device Analytics, CDA) ist einfach.
 
 Wählen Sie in Schritt 1 des VRS-Builders die [!UICONTROL Report Suite], die von Adobe als CDA-fähig konfiguriert wurde:
 

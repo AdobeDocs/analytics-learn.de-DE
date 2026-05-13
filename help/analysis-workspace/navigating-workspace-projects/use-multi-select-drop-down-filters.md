@@ -32,6 +32,6 @@ ht-degree: 76%
 
 # Verwenden von Dropdown-Filtern mit Mehrfachauswahl
 
-Erfahren Sie mehr über die Option zur Mehrfachauswahl von Feldern in Dropdown-Filtern in Analysis Workspace, mit der Benutzende Daten aus einem der ausgewählten Felder anzeigen können. Eine ausführliche Dokumentation finden Sie unter [Übersicht über Bedienfelder](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
+Erfahren Sie mehr über die Option zur Mehrfachauswahl von Feldern in Dropdown-Filtern in Analysis Workspace, mit der Benutzende Daten aus einem der ausgewählten Felder anzeigen können. Eine ausführliche Dokumentation finden Sie unter [Übersicht über Bedienfelder](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)

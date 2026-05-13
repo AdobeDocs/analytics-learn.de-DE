@@ -121,7 +121,7 @@ Sie können jetzt ganz einfach jedes Projekt in eine benutzerdefinierte Vorlage 
 >
 >**Häufig angefragte Funktion:** Mehrere Kunden haben uns gebeten, das Speichern von Projekten als benutzerdefinierte Vorlagen zu ermöglichen. Diese Funktion ist zu einem ihrer Favoriten geworden.
 
-[Hier finden Sie weitere Tipps und Tricks zu Experience League](https://experienceleague.adobe.com/?search=tips&lang=de#recommended/solutions/analytics)
+[Hier finden Sie weitere Tipps und Tricks zu Experience League](https://experienceleague.adobe.com/de?search=tips&lang=de#recommended/solutions/analytics)
 
 | Über den Autor |            |
 |------------|------------|

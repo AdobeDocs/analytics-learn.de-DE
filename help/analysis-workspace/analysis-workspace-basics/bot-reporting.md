@@ -40,4 +40,4 @@ Erfahren Sie, wie Sie Berichte zu Bot-Daten in Analysis Workspace erstellen. Bot
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=de).

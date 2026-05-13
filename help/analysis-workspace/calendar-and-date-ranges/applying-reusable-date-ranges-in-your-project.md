@@ -33,4 +33,4 @@ Die Verwendung benutzerdefinierter Datumswerte und Datumsbereiche in Ihrem Produ
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

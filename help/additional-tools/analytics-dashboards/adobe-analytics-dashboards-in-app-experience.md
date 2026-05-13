@@ -31,6 +31,6 @@ ht-degree: 37%
 
 In diesem Video erfahren Sie, wie Sie mit Adobe Analytics-Dashboards (Mobile App) auf von Ihnen erstellte oder für Sie freigegebene „Scorecards“ zugreifen und diese anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38093/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=de).

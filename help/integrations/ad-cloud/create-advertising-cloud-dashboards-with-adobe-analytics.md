@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie ein Advertising Cloud-Dashboard zur Live-Überwachung von Kampagnen erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40460/?captions=ger&quality=12&learn=on)

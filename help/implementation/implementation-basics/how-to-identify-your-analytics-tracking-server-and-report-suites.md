@@ -53,4 +53,4 @@ Um den Beacon sowie alle weiteren Informationen anzuzeigen, die zu Analytics und
 
 Weiterführende Informationen finden Sie im folgenden Video.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40895/?captions=ger&quality=12&learn=on)

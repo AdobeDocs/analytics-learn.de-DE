@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Sehen Sie sich ausgewählte Clips aus der Touristik-Super-Session beim [!DNL Summit] 2019 an
 
->[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330392/?captions=ger&quality=12&learn=on)

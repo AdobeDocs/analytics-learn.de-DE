@@ -28,6 +28,6 @@ ht-degree: 59%
 
 Mit der Option der benutzerdefinierten [!UICONTROL Dimension] einer [!UICONTROL Kohorte] können Sie [!UICONTROL Kohorten] anhand anderer [!UICONTROL Dimensionen] als der Zeit analysieren. Vergleichen Sie [!UICONTROL Kohorten] nach Marketing-Kanal, Kampagnenregion, Produktseite usw., um besser zu verstehen, wie [!UICONTROL Kundenbindung] (oder [!UICONTROL Abwanderung]) sich nach [!UICONTROL Dimension]-Element ändert.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430176/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=de).

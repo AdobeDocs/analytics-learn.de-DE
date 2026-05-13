@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Verwenden Sie Dimensionen in Advertising Cloud, um Segmente für Reporting- und Analyseaktivitäten zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40436/?captions=ger&quality=12&learn=on)

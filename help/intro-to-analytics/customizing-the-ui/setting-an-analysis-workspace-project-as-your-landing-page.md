@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie neue Benutzende effizient in Analyseprojekte im Arbeitsbereich integrieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40287/?captions=ger&quality=12&learn=on)

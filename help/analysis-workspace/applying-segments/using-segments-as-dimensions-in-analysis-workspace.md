@@ -30,4 +30,4 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie Sie Segmente vergleichen und visualisieren können, indem Sie sie als Dimensionen in Analysis Workspace verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37526/?captions=ger&quality=12&learn=on)

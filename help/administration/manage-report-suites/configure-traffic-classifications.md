@@ -29,6 +29,6 @@ ht-degree: 100%
 
 In diesem Video zeigen wir Ihnen die einzelnen Schritte zur Konfiguration von Klassifizierungen für Traffic-Variablen, häufig als „Props“ bezeichnet, und auch für Seitennamen usw.
 
->[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343065/?captions=ger&quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=de).

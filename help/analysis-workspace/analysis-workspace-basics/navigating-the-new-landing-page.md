@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die neue Analytics-Landingpage und ihre Funktionen optimal nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411808/?captions=ger&quality=12&learn=on)

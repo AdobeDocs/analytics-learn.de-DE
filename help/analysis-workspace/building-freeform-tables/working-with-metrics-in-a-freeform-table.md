@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Lernen Sie die verschiedenen Methoden kennen, mit denen Sie Metriken in einer Freiform-Tabelle in Analysis Workspace verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328565/?captions=ger&quality=12&learn=on)

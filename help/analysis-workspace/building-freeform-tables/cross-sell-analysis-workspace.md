@@ -29,4 +29,4 @@ ht-degree: 100%
 
 In diesem Video zeigen wir Ihnen, wie Sie einen Cross-Selling-Bericht in Analysis Workspace erstellen und ihn auf jede beliebige mehrwertige Dimension oder Klassifizierung erweitern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40764/?captions=ger&quality=12&learn=on)

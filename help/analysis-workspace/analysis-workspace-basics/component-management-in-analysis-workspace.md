@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Komponenten (z. B. Dimensionen, Metriken, Segmente usw.) in Analysis Workspace freigeben und verwalten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37523/?captions=ger&quality=12&learn=on)

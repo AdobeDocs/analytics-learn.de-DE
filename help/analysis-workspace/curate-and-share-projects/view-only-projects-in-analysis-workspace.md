@@ -35,6 +35,6 @@ ht-degree: 24%
 
 Erfahren Sie, wie Sie schreibgeschützte Workspace Analysis-Projekte für Benutzende freigeben können, und lernen Sie die für diese Berechtigungsstufe verfügbaren Funktionen kennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40055/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=de)

@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Zeigen Sie den Auftragsverlauf beim Upload und Download von Klassifizierungssatzdaten an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476036/?captions=ger&learn=on&enablevpops)

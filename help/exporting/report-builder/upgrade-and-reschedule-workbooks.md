@@ -27,6 +27,6 @@ ht-degree: 14%
 
 Erfahren Sie, wie Sie ältere [!DNL Report Builder]-Arbeitsmappen auf die neueste Version von Adobe Analytics Report Builder aktualisieren und neu planen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446191/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/analyze/report-builder/home).

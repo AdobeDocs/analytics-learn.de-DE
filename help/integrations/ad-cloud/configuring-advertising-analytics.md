@@ -37,7 +37,7 @@ ht-degree: 44%
 
 Hier erhalten Sie einen Überblick darüber, wie Sie Ihre [!UICONTROL Report Suites] so konfigurieren, dass [!DNL Advertising Analytics] genutzt werden, und wie Sie ein Paid-Search-Konto einrichten. Außerdem erfahren Sie Details zum Reporting in [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38354/?captions=ger&quality=12&learn=on)
 
 ## Zusätzliche Ressourcen {#additional-resources}
 

@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Verschaffen Sie sich einen umfassenden Überblick über Analysis Workspace, einschließlich Projekterstellung und Vorlagen, Bedienfeldern, Visualisierungen, Dimensionen, Metriken, Segmente und hochwertige Funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35525/?captions=ger&quality=12&learn=on)

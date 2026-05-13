@@ -31,6 +31,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie die Daten in Ihren Tabellen und Visualisierungen beschränken, indem Sie Segmente auf Ihre Daten anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33620/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=de).

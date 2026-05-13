@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Über das Bedienfeld „Mit Medienwiedergabe verbrachte Zeit“ können Medienbenutzer anhand der Zeit, die Betrachter während eines Tages in einer bestimmten Granularität mit dem Betrachten verbringen, mehr Informationen zu Ihrer Betrachtern erhalten. Sie können auch einen Tageszeitraum genauer betrachten oder sequenzielle Zeitsegmente erstellen, um die zu- und abgeführten Anteile im Tagesverlauf deutlich anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446709/?captions=ger&quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=de).

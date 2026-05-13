@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Erstellen Sie einen Site-Eintrittsbericht für Advertising Cloud zur Überwachung von Wochentag, Tageszeit, Browser und geografischem Einfluss.
 
->[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40454/?captions=ger&quality=12&learn=on)

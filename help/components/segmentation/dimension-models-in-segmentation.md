@@ -26,4 +26,4 @@ ht-degree: 94%
 
 Dimensionsmodelle sind in der Segmentierung über das Zahnrad für jede Dimension verfügbar. Diese Modelle sind in erster Linie für die sequenzielle Segmentierung hilfreich und ermöglichen Ihnen das Segmentieren für persistente Werte einer Dimension (Standard), nach Instanzen oder nach sich nicht wiederholenden Instanzen einer Dimension. Eine ausführliche Dokumentation finden Sie unter [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430060/?captions=ger&quality=12&learn=on)

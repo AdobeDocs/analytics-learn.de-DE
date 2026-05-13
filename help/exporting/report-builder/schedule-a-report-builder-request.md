@@ -30,6 +30,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie einen grundlegenden Zeitplan für eine [!DNL Report Builder]-Arbeitsmappe einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411806/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=de).

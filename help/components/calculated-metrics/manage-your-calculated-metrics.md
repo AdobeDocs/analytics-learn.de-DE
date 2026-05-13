@@ -35,4 +35,4 @@ ht-degree: 19%
 
 Erfahren Sie, wie Sie Ihre berechneten Metriken verwalten, einschließlich Suchen nach ihnen, Anzeigen einer Liste, Umbenennen, Löschen, Freigeben usw.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423587/?captions=ger&learn=on)

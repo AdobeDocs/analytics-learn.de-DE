@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Bedienfelder sind eine Sammlung von Visualisierungen in Analysis Workspace. Erfahren Sie, wie Sie mit Bedienfeldern Daten in Ihren Projekten organisieren und vergleichen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41483/?captions=ger&quality=12&learn=on)

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Hier finden Sie Tipps zur Auswahl einer Report Suite in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428537/?captions=ger&quality=12&learn=on)

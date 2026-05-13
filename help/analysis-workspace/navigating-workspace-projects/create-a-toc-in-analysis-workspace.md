@@ -37,4 +37,4 @@ ht-degree: 17%
 
 Erfahren Sie mehr über das Inhaltsverzeichnis in Analysis Workspace mit Links, über die Benutzende schnell zu Bedienfeldern und Visualisierungen innerhalb des Projekts springen können. Eine ausführliche Dokumentation finden Sie unter [Projektverzeichnis](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35186/?captions=ger&quality=12&learn=on)

@@ -30,6 +30,6 @@ ht-degree: 61%
 
 Der Adobe Analytics [!UICONTROL Daten-Feed] ermöglicht es Ihnen, Clickstream-Rohdaten zu importieren und sie mit anderen Datenquellen außerhalb von Adobe Analytics zusammenzuführen. Mit Adobe Analytics können Sie auch Ihre eigenen [!UICONTROL Daten-Feeds] erstellen und verwalten. Dieses Video liefert die Anleitung dazu.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428560/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=de#).

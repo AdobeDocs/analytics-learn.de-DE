@@ -36,6 +36,6 @@ ht-degree: 37%
 
 In diesem Video erfahren Sie, wie Sie „Scorecards“ in Analysis Workspace erstellen und freigeben, die in Adobe Analytics-Dashboards (Mobile App) angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38095/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=de).

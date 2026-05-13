@@ -35,4 +35,4 @@ Erfahren Sie mehr [[!UICONTROL Seitenansichten]](https://experienceleague.adobe.
 
 * Sehen Sie sich ein Beispielprojekt für [!UICONTROL Workspace] an, das zeigt, wie diese Metriken in der Benutzeroberfläche angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31819/?captions=ger&quality=12&learn=on)

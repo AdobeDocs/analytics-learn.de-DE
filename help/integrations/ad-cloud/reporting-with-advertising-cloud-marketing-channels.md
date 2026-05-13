@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Advertising Cloud im Zusammenspiel mit Adobe Analytics-[!UICONTROL Marketing-Kanälen] funktionieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40424/?captions=ger&quality=12&learn=on)

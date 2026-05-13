@@ -41,7 +41,7 @@ ht-degree: 97%
 
 In diesem Anwendungsbeispiel konfigurieren wir das System so, dass Postleitzahlen eingeführt und als „marktintern“ oder „nicht marktintern“ klassifiziert werden. Anschließend verwenden wir diese Daten in Analysis Workspace, um die Effektivität unserer standortorientierten Marketing-Kampagnen erkennen zu können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35538/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu den Aspekten dieses Anwendungsfalls finden Sie unter folgenden Themenbereichen in der Dokumentation:
 

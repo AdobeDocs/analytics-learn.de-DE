@@ -35,7 +35,7 @@ ht-degree: 53%
 
 Erfahren Sie, wie Sie Ihre Ansicht von Bindungs- oder Abwanderungstabellen mithilfe der Einstellungen der Kohortentabellen anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430102/?captions=ger&quality=12&learn=on)
 
 Anpassungen für die [!UICONTROL Kohortentabelle] bieten die folgenden Möglichkeiten:
 

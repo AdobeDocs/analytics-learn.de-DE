@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie mit Adobe Analytics die Grundlage für den Start einer Paid-Media-Kampagne in Advertising Cloud schaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40418/?captions=ger&quality=12&learn=on)

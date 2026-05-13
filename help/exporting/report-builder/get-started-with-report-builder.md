@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Machen Sie sich mit den Grundlagen der Verwendung von [!DNL Report Builder] vertraut, einschließlich Installation, Anmeldung und Datenanfragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411804/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=de).

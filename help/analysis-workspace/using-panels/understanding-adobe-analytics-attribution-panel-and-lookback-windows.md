@@ -5,20 +5,26 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
+TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: 1704
 ht-degree: 1%
 
 ---
 
 # Grundlegendes zum Adobe Analytics-Attributionsbedienfeld und Lookback-Fenstern
 
-Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=de) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
+Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
 
 Ich meine, ehrlich, schauen Sie sich nur all diese Optionen, Schalter, Bedienfelder, Auslesehilfen und Regler an.  Und ernsthaft, sprechen wir über diese komplizierten Blinklichter, Schläuche, Messgeräte… WARTE!!  Dies ist nicht die Zeit, um abgelenkt zu werden, wenn wir über Zeitmaschinen sprechen, wir haben einfach nicht die Zeit… oder tun wir das?
 
@@ -43,12 +49,12 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Gemäß [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
+Gemäß [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse* angerechnet werden.
 
 
 >[!WARNING]
 >
->**Attributionsmodelle** werden so häufig mit **Marketing-Kanälen** assoziiert, dass ich im obigen Bild *durchgestrichen* ❷ Kanal gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution**-Analyse für fast jede andere ***Dimension*** durchzuführen.
+**Attributionsmodelle** werden so häufig mit **Marketing-Kanälen** assoziiert, dass ich im obigen Bild *durchgestrichen* ❷ Kanal gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution**-Analyse für fast jede andere ***Dimension*** durchzuführen.
 
 
 Tatsächlich ist ein Journey-Vorgang eines Kunden nur selten wirklich linear und noch seltener vorhersehbar.  Mehr noch, jeder Kunde wird in seinem eigenen Tempo vorgehen; oft verdoppeln sie sich, bleiben stehen, fallen aus oder verhalten sich in anderem nichtlinearen Verhalten. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketing-Maßnahmen auf der gesamten Kunden-Journey zu kennen. Außerdem werden die Bemühungen zur Verknüpfung mehrerer Datenkanäle behindert.
@@ -71,11 +77,11 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
   >[!CAUTION]
   >
-  >Hier ist jedoch Vorsicht geboten, da Sie das Potenzial haben, Ihre Ergebnisse bei der Anwendung dieser Taktik sehr schnell zu verbreiten, wenn Sie berücksichtigen, je länger sie läuft und je größer die Zielgruppe ist, die sie trifft.
+  Hier ist jedoch Vorsicht geboten, da Sie das Potenzial haben, Ihre Ergebnisse bei der Anwendung dieser Taktik sehr schnell zu verbreiten, wenn Sie berücksichtigen, je länger sie läuft und je größer die Zielgruppe ist, die sie trifft.
 
 - **U-förmig**: Dieser Ansatz weist **40%** des Kredits der *ersten Person* in der Tür zu, verteilt **20%** des Kredits auf *alle dazwischen* und gibt dann **40%** an **letzte**. Dieses Modell wird am häufigsten in Situationen verwendet, in denen Sie einen **langen Konversions-/Verkaufszyklus** mit *mehreren Touchpoints* unterwegs haben.  In diesem Fall besteht Ihr Ziel darin, in erster Linie die Marketing ***Taktiken &quot;***&quot; und &quot;***&quot;***, die zur Konversion beim Kunden beigetragen haben.
 - **J**-**Shaped** und **Inverse J**:
-   - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem **letzten Person**, der durch die Tür geht, *60%*, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
+   - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem *letzten Person*, der durch die Tür geht, **60%**, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
 
      Das Ziel hier ist es, den größten Teil des Schwerpunkts zu setzen, entweder am *Anfang* oder am *Ende* der Kampagne. Allerdings möchten Sie dem beitragenden Element am anderen Ende dennoch einen bestimmten Betrag zuweisen, während Sie die „kleinen Leute“ auf dem Weg anerkennen.
 
@@ -85,7 +91,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **Benutzerdefiniert** Sie wählen aus, wer eine Gutschrift erhalten soll.  Es ist Ihre Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Um dies noch interessanter zu machen, lassen Sie uns über das Zurückdrehen der Uhr sprechen!
 
@@ -131,4 +137,4 @@ Dieses Dokument wurde verfasst von:
 
 **Jeff Bloomer**, Manager, Digital Analytics bei Kroger Personal Finance
 
-Adobe Analytics-Expertin
+Adobe Analytics-Experte

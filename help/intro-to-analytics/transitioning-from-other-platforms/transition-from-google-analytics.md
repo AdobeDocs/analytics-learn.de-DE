@@ -7,10 +7,17 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7aid: f73667dc-d296-4875-8975-ac3fdc3adc42id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: ac8a38fa-dec3-4581-8f64-178fde9f64e8id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705cid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6id: e7d92df1-c5ba-4e93-85df-f83171b889beid: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '3403'
-ht-degree: 97%
+source-wordcount: 3446
+ht-degree: 94%
 
 ---
 
@@ -28,7 +35,7 @@ Lassen Sie uns kurz die Terminologie vergleichen:
 | Eine Metrik, die eine Reihe von Interaktionen auf Ihrer Website oder Mobile App darstellt, welche im gleichen Zeitrahmen stattfinden | Besuch | Sitzung |
 | Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zu vereinen) | Unique Visitor | Benutzer |
 
-## &#x200B;2. Die Benutzeroberfläche
+## &#x200B;2. Die Schnittstellen
 
 Wenn Personen Adobe Analytics und Google Analytics vergleichen, äußern sie oft, dass die Adobe-Benutzeroberfläche zunächst abschreckend sei. Das stimmt, es ist aber – ob Sie es glauben oder nicht – eine Stärke und keine Schwäche. Adobe bietet eine breite Palette von Werkzeugen und große Flexibilität bei der Datenvisualisierung, sodass Sie viel mehr Freiheit in der visuellen Darstellung haben.
 
@@ -72,7 +79,7 @@ Bei GA4 haben die Benutzer mehr Möglichkeiten, den Startbildschirm anzupassen u
 
 Dies ist wahrscheinlich die Sache, die Sie in Adobe Analytics am meisten vermissen. Es gibt keinen vorgefertigten Startbildschirm für Sie. Sie können jedoch ganz einfach einen benutzerdefinierten Arbeitsbereich einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und diesen als Ihren Startbildschirm festlegen. Weitere Informationen zu diesem Thema finden Sie später (oder im Abschnitt 2.1.2.1 Adobe Workspace).
 
-#### 2.1.2. In-Site-Berichterstellung
+#### 2.1.2. In-Site Report Builder
 
 Zusätzlich zu den einfachen Berichten, die die Analyse-Tools bereitstellten, bietet jedes Tool auch leistungsfähigere Tools, mit denen Sie Ihre eigenen benutzerdefinierten Berichte erstellen können.
 
@@ -123,7 +130,7 @@ Mit Workspace können Sie Ihrer Kreativität freien Lauf lassen, Sie sind nicht 
 
 >[!TIP]
 >
->Scheuen Sie sich nicht, zu spielen und zu forschen. Es gibt so viele Möglichkeiten, über den Tellerrand zu schauen. Überprüfen Sie außerdem, ob das, was Sie erstellt haben, auch das zeigt, was Sie vermuten. Erfahrung hilft!
+>Haben Sie keine Angst zu spielen und zu erkunden. Es gibt so viele Möglichkeiten, über den Tellerrand zu schauen. Überprüfen Sie außerdem, ob das, was Sie erstellt haben, auch das zeigt, was Sie vermuten. Erfahrung hilft!
 
 Sie können ad-hoc berechnete Metriken oder Segmente erstellen, die nur innerhalb des Berichts verwendet werden, um zu verhindern, dass Ihr Segment- und Berechnungs-Repository überflutet wird. So können Sie zielgerichtete Elemente erstellen, die für bestimmte Berichte benötigt werden, ohne Ihr Unternehmen durch Dinge zu belasten, die in anderen Kontexten nicht verwendbar sind.
 
@@ -137,7 +144,7 @@ Ein weiteres leistungsstarkes Merkmal von Arbeitsbereichen ist die Möglichkeit,
 
 >[!IMPORTANT]
 >
->Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
+>Weitere Informationen über die Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google Analytics: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 
@@ -153,7 +160,7 @@ Für Oberflächenvergleiche ist das jedoch kein Problem. All diese Funktionen ä
 
 #### 2.1.3. Berichte
 
-Sowohl Google als auch Adobe verfügen über einige navigierbare Berichte, bei denen es sich um vorgefertigte Tabellen und einfache Zeitreihendiagramme handelt, die auf einer Dimension basieren.
+Sowohl Google als auch Adobe verfügen über einige navigierbare Berichte, bei denen es sich um vorgefertigte Tabellen und einfache Timeline-Diagramme handelt, die auf einer Dimension basieren.
 
 ##### 2.1.3.1. Adobe Analytics-Berichte
 
@@ -203,7 +210,7 @@ So erhalten Sie schnell und einfach Einblicke in Ihre Daten. Sie können jedoch 
 
 Diese Berichte eignen sich gut für die schnelle Analyse von Daten, aber wenn Sie wirklich in die Tiefe gehen müssen, stellen diese Einschränkungen ein Problem dar.
 
-### 2.2. Erweiterter Zugriff auf Berichte
+### 2.2. Erweiterter Berichtzugriff
 
 Zusätzlich zum „In-Site-Reporting“ bieten die meisten Tools erweiterte Funktionen, mit denen Sie Ihre Analyse außerhalb der Tools durchführen und etwas Individuelleres erstellen können.
 
@@ -233,7 +240,7 @@ Wenn Sie weitergelesen haben, wissen Sie bereits, dass ich Data Studio als Äqui
 Es ist immer noch ein leistungsstarkes Tool, und ich würde niemandem davon abraten, es zu verwenden. Meine persönliche Erfahrung ist, dass ich das unflexible Verhalten ziemlich einschränkend empfinde.
 
 
-#### 2.2.4. Google Tabellen-Erweiterung
+#### 2.2.4. Google-Tabellenerweiterung
 
 Für meine eigenen Zwecke, wenn ich erweiterte Daten von Google Analytics abrufen muss, ist mein persönliches Tool der Wahl die Google Tabellen-Erweiterung. Selbst wenn ich mehrere Verbindungen zu meinen GA-Tabellen herstellen muss, kann ich auf die Zellen der Rohdaten verweisen und die benötigten Berichte erstellen. Anschließend visualisiere ich sie mit den Diagrammfunktionen von Google Spreadsheet.
 
@@ -253,13 +260,13 @@ Die Rohdaten-Feeds können so angepasst werden, dass alle Datenspalten oder nur 
 Die Feeds können direkt an FTP, SFTP oder S3 gesendet werden.
 
 
-### 3.2. Google Big Query
+### 3.2. Google BigQuery
 
-Leider habe ich mit diesem Google-Tool noch keine Erfahrung, aber theoretisch sollte es ähnlich wie der Daten-Feed von Adobe funktionieren und Ihrem Entwicklungs-Team den Zugriff auf Rohdaten aus Ihrem Google Analytics-Konto ermöglichen.
+Leider ist dies ein Google-Tool, mit dem ich keine Erfahrung habe. Theoretisch sollte er dem Daten-Feed von Adobe ähneln, sodass Ihr Entwicklungsteam auf Rohdaten aus Ihrem Google Analytics-Konto zugreifen kann.
 
 Statt jedoch einen vollständigen Dump der Rohdaten bereitzustellen, ermöglicht es Ihren Ingenieuren, über SQL-Abfragen auf die Daten zuzugreifen, um gezielte Rohdaten oder alle Spalten der Rohdaten abzurufen.
 
-## &#x200B;4. Schlussfolgerung
+## &#x200B;4. Zusammenfassung
 
 Wie bei jedem System ist Übung erforderlich, um sich mit dem Tool vertraut zu machen. Wir hoffen, dieses Handbuch hilft Ihnen bei den ersten Schritten bzw. gibt Ihnen Tipps, wie Sie Adobe Analytics besser nutzen können.
 
@@ -267,7 +274,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics al
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/de?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
 * [Adobe-Benutzergruppen](https://analytics-augs.adobe.com/) – Ein zentraler Treffpunkt für von der Community organisierte Events, die Benutzenden dabei helfen, sich untereinander auszutauschen und ihre Implementierungen zu verbessern.
 * [YouTube-Kanal zu Adobe Analytics-Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) – Konnten Sie keine Adobe Analytics-Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Measure Chat Slack-Kanal](https://www.measure.chat/) - Treten Sie mit Adobe Analytics-Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.

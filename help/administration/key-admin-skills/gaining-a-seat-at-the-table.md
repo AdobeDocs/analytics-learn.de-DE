@@ -8,18 +8,23 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
+TQID: https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1286'
-ht-degree: 97%
+source-wordcount: 1311
+ht-degree: 88%
 
 ---
 
 # Etwas mitzureden haben
 
->[!VIDEO](https://video.tv.adobe.com/v/3410291/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-„Etwas mitzureden haben“. Diese bekannte Phrase ist schon seit jeher ein wichtiges Thema in der Geschäftswelt. Aber was bedeutet sie wirklich? Wenn Sie etwas mitzureden haben, werden Sie in hochrangige Entscheidungsprozesse einbezogen. Sie werden nicht nur eingeladen, an Sitzungen teilzunehmen, sondern Ihr Beitrag wird geschätzt und ernst genommen. Ich möchte Ihnen zeigen, wie Ihr Unternehmen und Ihre berufliche Karriere als Adobe Analytics-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
+„Etwas mitzureden haben.“ Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet sie wirklich? Wenn Sie etwas mitzureden haben, werden Sie in hochrangige Entscheidungsprozesse einbezogen. Sie werden nicht nur eingeladen, an Sitzungen teilzunehmen, sondern Ihr Beitrag wird geschätzt und ernst genommen. Ich möchte Ihnen zeigen, wie Ihr Unternehmen und Ihre berufliche Karriere als Adobe Analytics-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
 
 ## Warum es wichtig ist, mitzureden
 
@@ -27,9 +32,9 @@ Lassen Sie uns zunächst eines klarstellen. Die Rolle von Datenexperten hat sich
 
 Es gibt drei Gründe, warum Sie bei wichtigen Entscheidungen einbezogen werden sollten.
 
-1. **Sie liefern eine einzigartige Perspektive.** Die besten Entscheidungen werden getroffen, wenn eine Vielzahl von Teilnehmern am Prozess beteiligt sind. Jede Person bringt ihre individuelle Sichtweise ein. Da Sie der Experte für digitale Analysedaten sind, ist es sehr unwahrscheinlich, dass eine andere Person im Unternehmen über Ihr einzigartiges Fachwissen verfügt. Die Unternehmensführung würde nur schwer jemanden finden, der denselben Beitrag wie Sie liefern kann.
+1. **Sie bieten eine einzigartige Perspektive.** Die besten Entscheidungen werden getroffen, wenn eine Vielzahl von Teilnehmern am Prozess beteiligt sind. Jede Person bringt ihre individuelle Sichtweise ein. Da Sie der Experte für digitale Analysedaten sind, ist es sehr unwahrscheinlich, dass eine andere Person im Unternehmen über Ihr einzigartiges Fachwissen verfügt. Die Unternehmensführung würde nur schwer jemanden finden, der denselben Beitrag wie Sie liefern kann.
 1. **Sie können helfen, Fehlinterpretationen von Daten zu vermeiden.** Ihre Arbeit ist komplex und vielschichtig. Es ist nicht möglich, diese Komplexität anhand von Definitionen von Metriken und Haftungsausschlüssen zur Datennutzung zu vermitteln. Irgendjemand am Tisch muss ein umfassendes Verständnis der Daten besitzen. Andernfalls werden sie mit ziemlicher Sicherheit falsch interpretiert. Normalerweise sind die Auswirkungen einer Fehlinterpretation zu vernachlässigen, aber nicht immer. Sie müssen bei Entscheidungen mitreden, um schlechte Entscheidungen aufgrund einer falschen Interpretation der Daten zu verhindern.
-1. **Sie können die Kommunikationswege verkürzen.** Wenn eine Führungskraft eine Frage hat, die Sie beantworten können, ist es wesentlich einfacher, sie direkt zu stellen. Bei Fragen geht oft der Kontext und die Dringlichkeit verloren, wenn sie durch die mittlere Führungsebene übermittelt werden. Die Distanz erschwert auch eine etwaige Klarstellung. Dieses Problem entsteht erst gar nicht, wenn Sie bereits Teil der Runde sind. Die direkte Kommunikation verbessert die Geschwindigkeit und den Wert Ihrer analytischen Arbeit.
+1. **Sie können die Kommunikation verbessern.** Wenn eine Führungskraft eine Frage hat, die Sie beantworten können, ist es wesentlich einfacher, sie direkt zu stellen. Bei Fragen geht oft der Kontext und die Dringlichkeit verloren, wenn sie durch die mittlere Führungsebene übermittelt werden. Die Distanz erschwert auch eine etwaige Klarstellung. Dieses Problem entsteht erst gar nicht, wenn Sie bereits Teil der Runde sind. Die direkte Kommunikation verbessert die Geschwindigkeit und den Wert Ihrer analytischen Arbeit.
 
 ## So schaffen Sie es mitzureden
 
@@ -51,6 +56,6 @@ Zeigen Sie diesen Personen, dass Sie verstehen, was für sie wichtig ist und das
 **Schritt 3: Seien Sie hervorragend -** Nachdem Sie nun Ihre Zielperson(en) identifiziert haben und festgestellt haben, wie sie nützlich sein können, müssen Sie hervorragende Arbeit leisten. Jeder hat seine eigene Vorstellung davon, was hervorragende Arbeit ist. Das könnte für Sie etwas ganz anderes sein als für mich. Wichtig hier ist, mehr zu leisten als das, was Sie normalerweise für eine andere Person oder Aufgabe tun würden. Hier sind ein paar Tipps, die mir geholfen haben, hervorragende Arbeit zu leisten.
 
 * **Tipp 1: Achten Sie auf die optische Präsentation.** Ein einfacher Tipp, der viel zu oft ignoriert wird, besteht darin, sich auf die Optik zu konzentrieren. Überlegen Sie, wie Sie Ihre Arbeit präsentieren können, und befolgen Sie die Best Practices für die Darstellung von Informationen. Damit können Sie sicherstellen, dass Ihre Botschaft leicht verständlich ist. Wenn Sie übermäßig komplexe Dinge ohne klare Botschaft präsentieren, kommt sich Ihr Gegenüber dumm vor. Niemand mag es, wenn er sich dumm vorkommt. Und niemand möchte mit jemandem zusammenarbeiten, bei dem er sich dumm vorkommt.
-* **Tipp 2: Machen Sie das Unmögliche möglich.** Haben Sie schon einmal eine Anfrage erhalten, die unmöglich klang? Normalerweise kommen diese von Personen, die nicht verstehen, wie Daten funktionieren. Es ist einfach, darauf mit einem Schmunzeln zu reagieren („Ha, die haben keine Ahnung, wovon sie reden“) oder gar mit Ärger („Ich kann nicht glauben, dass sie das von mir verlangen! Das ist unmöglich!“). Ich selbst habe beide Reaktionen unzählige Male am eigenen Leib erlebt. Aber wenn ich einen Schritt zurücktrete und das Problem mit offenem Blick betrachte, bin ich oft erstaunt, was mir alles einfällt. Wenn Sie lange genug an einem Problem arbeiten, kommt Ihnen oft eine gute Idee. Denn wenn etwas unmöglich erscheint, muss man sich außerhalb der üblichen Denkmuster bewegen, um eine Lösung zu finden. Und das führt oft zu hervorragender Arbeit.
+* **Tipp 2: Machen Sie das Unmögliche möglich.** Haben Sie schon einmal eine Anfrage bekommen, die unmöglich klang? Normalerweise kommen diese von Personen, die nicht verstehen, wie Daten funktionieren. Es ist einfach, darauf mit einem Schmunzeln zu reagieren („Ha, die haben keine Ahnung, wovon sie reden“) oder gar mit Ärger („Ich kann nicht glauben, dass sie das von mir verlangen! Das ist unmöglich!“). Ich selbst habe beide Reaktionen unzählige Male am eigenen Leib erlebt. Aber wenn ich einen Schritt zurücktrete und das Problem mit offenem Blick betrachte, bin ich oft erstaunt, was mir alles einfällt. Wenn Sie lange genug an einem Problem arbeiten, kommt Ihnen oft eine gute Idee. Denn wenn etwas unmöglich erscheint, muss man sich außerhalb der üblichen Denkmuster bewegen, um eine Lösung zu finden. Und das führt oft zu hervorragender Arbeit.
 
 Ich hoffe, dieser Artikel hat Ihnen geholfen zu erkennen, dass Sie mitreden sollten. Das erfordert zwar Zeit und gezielte Bemühungen. Aber wenn Sie sich daran halten und den oben beschriebenen Schritten folgen, können Sie eine Position erlangen, in der Sie mehr Autonomie und Einfluss in Ihrem Unternehmen haben. Und das wird letztendlich zu mehr Erfolg in Ihrer Funktion und einer erfüllteren Karriere führen.

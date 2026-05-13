@@ -10,10 +10,17 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: a544b409-2610-410d-a842-474ac1d0d54eid: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d3cdead0-685a-4489-9250-4bb709942f66id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 100%
+source-wordcount: 1607
+ht-degree: 94%
 
 ---
 
@@ -35,7 +42,7 @@ Hier ein Beispiel. Nehmen wir an, Isabelle hat wie folgt mit Ihrer Marke interag
 Isabelles Journey wird auf der Grundlage herkömmlicher Analysen in drei Teile zerteilt. Sie wird als drei Unique Visitors dargestellt, von denen jeder ein anderes Gerät zur Durchführung isolierter Aufgaben verwendet hat. Was wir brauchen, ist eine einheitliche, geräteübergreifende Sicht auf die Interaktionen von Isabelle. [!DNL Journey IQ: Cross-Device Analytics] bietet diese Ansicht.
 
 *Isabelle ist eine Person*
-![Geräteübergreifende Analytics-Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
+![Cross-Device Analytics-Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Eine geräteübergreifende Ansicht bietet bessere Analysen
 
@@ -59,7 +66,7 @@ Lesen Sie weiter, um mehr über Folgendes zu erfahren:
 
 ### Die [!DNL Cross-Device Virtual Report Suite]
 
-Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=de) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten einer Virtual Report Suite (VRS) für die geräteübergreifende Analyse (Cross-Device Analytics, CDA) ist einfach.
+Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten einer Virtual Report Suite (VRS) für die geräteübergreifende Analyse (Cross-Device Analytics, CDA) ist einfach.
 
 Wählen Sie in Schritt 1 des VRS-Builders die [!UICONTROL Report Suite], die von Adobe als CDA-fähig konfiguriert wurde:
 
@@ -68,7 +75,7 @@ Wählen Sie in Schritt 1 des VRS-Builders die [!UICONTROL Report Suite], die von
 
 Aktivieren Sie dann die [!UICONTROL Berichtszeitverarbeitung] und aktivieren Sie das [!UICONTROL Geräte-Stitching]:
 
-*Aktivieren von [!UICONTROL Berichtszeitverarbeitung] und [!UICONTROL Geräte-Stitching]*
+*Aktivieren [!UICONTROL von Berichtszeitverarbeitung] und [!UICONTROL Geräte-Stitching]*
 ![[!UICONTROL Virtual Report Suite] Schritt 2](assets/cda-vrs-step-two.png)
 
 Schließen Sie das VRS-Setup ab und speichern Sie es. Die VRS für die geräteübergreifende Analyse wird in Analysis Workspace mit einem speziellen Symbol daneben angezeigt, wie unten dargestellt:
@@ -137,14 +144,14 @@ wird nun automatisch von einem Gerät zum anderen beibehalten, bis das Kaufereig
 
 Haben Sie sich schon einmal gefragt, wie viele Menschen mit Ihrer Marke interagieren? Wollten Sie gerne wissen, wie viele und welche Arten von Geräten sie verwenden? Wie sich ihre Verwandung überschneidet? Mithilfe einer CDA-VRS können Sie geräteübergreifend [Venn-Diagramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de) und [Histogramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de) für die Geräte pro Person erstellen.
 
-*Benutzerbasierte Zielgruppenanalyse*
-![Venn-Diagramm und Histogramm](assets/cda-venn-and-histogram.png)
+*Personenbasierte Zielgruppenanalyse*
+![Venn und Histogramm](assets/cda-venn-and-histogram.png)
 
 ### Geräteübergreifender [!DNL Flow]
 
 Mit CDA und Analysis Workspace können Sie in der [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=de) visualisieren, wie Benutzer im Zeitverlauf von einem Gerät zum anderen wechseln. Sie können sehen, wo sie ihre Journey abbrechen und wo sie weitermachen.
 
-*[!DNL Flow] mit CDA*
+*[!DNL Flow]mit CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### Geräteübergreifender [!DNL Fallout]
@@ -153,7 +160,7 @@ Sie verwenden wahrscheinlich mehrere [[!DNL Fallout visualizations]](https://exp
 
 Keine Sorge, die geräteübergreifende Analyse deckt diesen Fall ab. Die geräteübergreifende Analyse erstellt die geräteübergreifende Ansicht, die [!DNL Fallout visualizations] viel, viel nützlicher macht. Schließlich kommt es vor allem darauf an, ob die betreffende Person ihre Aufgabe am Ende erfolgreich bewältigt hat, egal wo.
 
-*[!DNL Fallout] mit CDA*
+*[!DNL Fallout]mit CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +169,7 @@ Da die geräteübergreifende Analyse eine Schicht geräteübergreifender Daten u
 
 Angenommen, Sie möchten verstehen, wie oft ein Mobiltelefon das erste Gerät ist, das in einer Interaktion verwendet wird, die letztendlich zum Erfolg führt. Dies entspricht der „Akquise-Rate“ des Mobiltelefons. CDA + [!DNL Attribution IQ] ermöglicht Ihnen diese Analyse:
 
-*[!DNL Attribution IQ] mit CDA*
+*[!DNL Attribution IQ]mit CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Weitere Informationen finden Sie in der [[!DNL Cross-Device Analytics] Hilfe-Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=de).

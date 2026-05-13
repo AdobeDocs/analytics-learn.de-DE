@@ -8,18 +8,23 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # Stellen Sie die richtigen Fragen?
 
->[!VIDEO](https://video.tv.adobe.com/v/3411807/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
-_Alle_. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Dabei könnte es vorteilhafter sein, nur _die verwertbaren Datenpunkte_ zu identifizieren und zu erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.
+_Alle_. Dies ist eine der häufigsten Antworten von Stakeholdern auf die Frage: _Welche Daten möchten Sie nachverfolgen?_ Dabei könnte es vorteilhafter sein, nur die _verwertbaren Datenpunkte“ zu identifizieren und_ erfassen, anstatt jedes Element aufzuzeichnen. Doch die Identifizierung dieser Datenpunkte erfordert Planung und kreative Gespräche mit den Stakeholdern.
 
 ## Daten erfassen, die wirklich wichtig sind
 
@@ -44,23 +49,23 @@ Unternehmen, Geschäftseinheiten und Teams verfügen über eine einzigartige Kul
 
 Vor dem Gespräch müssen gewisse Voraussetzungen gegeben sein. Als Analytics-Administrator benötigen Sie zunächst den richtigen Input, um die ideale Lösung für Ihre Stakeholder entwickeln und bereitstellen zu können.
 
-### &#x200B;1. Bereiten Sie einen Fragebogen vor
+### &#x200B;1. Fragebogen bereitstellen
 
 Lassen Sie Ihrem Stakeholder vor dem Discovery-Meeting eine Liste mit Fragen zukommen. Damit kann Ihr Gesprächspartner schon im Vorfeld Antworten übermitteln oder sich einfach mit den Diskussionsthemen vertraut machen. Gemeinsam mit dem Fragebogen können Sie auch Beispielantworten zur Verfügung stellen, wenn dies dazu beiträgt, die Erwartungen weiter zu präzisieren
 
 Die Fragen werden je nach technischem oder analytischem Verständnis, Unternehmensstruktur oder Komplexität des Datenerfassungsprozesses anders lauten. Oft ist es hilfreich, mit allgemeinen, das gesamte Unternehmen betreffenden Fragen zu beginnen, dann die Rolle Ihres Stakeholders im Zusammenhang mit den betrieblichen Zielen zu besprechen und so Schritt für Schritt immer weiter ins Detail zu gehen. Anschließend können Sie prüfen, ob die besprochenen detaillierten Datenpunkte tatsächlich die übergeordneten Unternehmensziele vorantreiben. Dieser Ansatz ermöglicht auch kreative Überlegungen und bringt neue Ideen für die Datenerfassung hervor, die für die Unternehmensziele förderlich sind.
 
-[Hier finden Sie &#x200B;](assets/stakeholder-questionnaire.pdf){target="_blank"} Vorlage mit einigen Beispielfragen für Gespräche mit Stakeholdern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
+[Hier finden Sie ](assets/stakeholder-questionnaire.pdf){target="_blank"} Vorlage mit einigen Beispielfragen für Gespräche mit Stakeholdern. Sie können diese Vorlage verwenden und an Ihre Anforderungen anpassen, um relevante Fragen für Ihr Gespräch zu formulieren.
 
-### &#x200B;2. Verlangen Sie Musterberichte
+### &#x200B;2. Beispielberichte anfordern
 
 Ihr Stakeholder sollte Ihnen tatsächliche oder fiktive Beispiele für interessante Datenpunkte zur Verfügung stellen und angeben, wie sie verwendet oder in Berichten implementiert werden. Diese Berichte gewähren einen weiteren Einblick in die Ziele, den Ansatz und die Unternehmenskultur Ihres Stakeholders und die aktuelle oder ideale Beschaffenheit von Berichten.
 
-### &#x200B;3. Keine Versprechen beim Discovery-Meeting
+### &#x200B;3. Keine Versprechen bei Discovery
 
 Anfragen und Datenvorschläge, die während des Discovery-Meetings besprochen werden, stellen keine Verpflichtung Ihrerseits gegenüber Ihren Stakeholdern dar. Die Datenerfassung ist ein komplexer Prozess, dessen Ausmaß Sie erst nach dem Gespräch umfassend beurteilen können. So könnte es etwa sein, dass Sie beim kreativen Brainstorming Ideen diskutieren, die jedoch aufgrund ihrer geringen Relevanz für die Unternehmensziele letztlich weiter nach hinten gereiht werden. Aus diesen und anderen Gründen ist die Discovery-Phase nur eine Gelegenheit zur Ideenfindung, bei der aber nicht versprochen werden kann, dass diese Ideen auch tatsächlich in Berichten aufgenommen werden.
 
-Nach dem Discovery-Meeting und der anschließenden Überprüfung oder Nachbereitung durch den Analytics-Administrator sollte es erneut ein Treffen geben, um den Aufwand, die Zeitpläne und den tatsächlichen Arbeitsauftrag zu besprechen. Diese Methode ermöglicht ein freies und kreatives Gespräch in der Discovery-Phase, die zu einer hochwertigeren Gesamtlösung führt.
+Nach dem Discovery-Meeting und der anschließenden Überprüfung oder Nachbereitung durch den Analytics-Administrator sollte es erneut ein Treffen geben, um den Aufwand, die Timelines und den tatsächlichen Arbeitsauftrag zu besprechen. Diese Methode ermöglicht ein freies und kreatives Gespräch in der Discovery-Phase, die zu einer hochwertigeren Gesamtlösung führt.
 
 ## Halten Sie die Anforderungen fest
 

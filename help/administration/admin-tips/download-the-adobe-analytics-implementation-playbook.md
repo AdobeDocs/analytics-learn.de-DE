@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2: id: c8add8f2-4250-4fd9-9cde-9707036c567did: cc449013-c052-42d5-9ca4-0d2bceb6f06aid: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 94%
+source-wordcount: 1823
+ht-degree: 89%
 
 ---
 
@@ -24,7 +31,7 @@ Bevor Sie beginnen, [laden Sie das Playbook herunter](assets/aa-implementation-p
 
 **WAS:** Ein Business Requirements Doc (allgemein als BRD bezeichnet) ist eine sehr wichtige Dokumentation, an der wesentliche Stakeholder, Geschäftsbenutzer und technische Anwender zusammenarbeiten sollten. Hier können Sie alle gewünschten KPIs, Reporting-Anforderungen und jeden Datenpunkt dokumentieren, den Sie nach Abschluss der Adobe Analytics (AA)-Implementierung sehen möchten.
 
-**WARUM:** Dies dient als Ausgangspunkt für die nachfolgende Dokumentation (SDR, technische Spezifikationen usw.) und ist eine gemeinsame Datenquelle für einen vereinbarten Endzustand von AA. Dieses Dokument fasst die Gedanken der verschiedenen Teams innerhalb der Organisation zusammen, um eine einheitliche Richtung für den Aufbau oder die Verbesserung Ihrer Implementierung festzulegen.
+**WARUM:** Dies dient als Ausgangspunkt für die nachfolgende Dokumentation (SDR, technische Spezifikationen usw.) und ist eine gemeinsame Quelle der Wahrheit für einen vereinbarten Endzustand von AA. Dieses Dokument fasst die Gedanken der verschiedenen Teams innerhalb der Organisation zusammen, um eine einheitliche Richtung für den Aufbau oder die Verbesserung Ihrer Implementierung festzulegen.
 
 **WIE:** Die Dokumentation der Geschäftsanforderungen wird in der Regel von den geschäftlichen Endbenutzern von AA durchgeführt. Es ist jedoch wichtig, Feedback von technischen Anwendern zu erhalten, da technische Herausforderungen zu beachten sind und bestimmte Datenpunkte möglicherweise mehr Aufwand erfordern als andere, was wiederum zu einer Priorisierung führen sollte.
 
@@ -44,7 +51,7 @@ Und schließlich dient die Spalte „Implementierungsstatus“ als Statuskontrol
 
 **WARUM:** Dieses Dokument dient vielen Zwecken, die wichtigsten sind jedoch die folgenden:
 
-* Für alle, die mit Ihrer Implementierung noch nicht vertraut sind (neue Mitarbeiter, Geschäftsinhaber, die die verfügbaren Berichte besser verstehen möchten usw.), bietet dieses Dokument den besten Überblick über alle implementierten Variablen und deren Zweck, damit sich Einzelpersonen selbst mit der Einrichtung Ihrer AA vertraut machen können.
+* Für alle, die mit Ihrer Implementierung noch nicht vertraut sind (neue Mitarbeiter, Geschäftsinhaber, die die verfügbaren Berichte besser verstehen möchten usw.), Dieses Dokument bietet den besten Überblick über alle implementierten Variablen und deren Zweck, sodass Einzelpersonen sich selbst mit den Details Ihrer AA-Einrichtung vertraut machen können.
 * Für den AA-Produktverantwortlichen oder einen technischen Benutzer dient dieses Dokument als Erinnerung daran, wie andere Variablen eingerichtet werden und welche Variablen beim Hinzufügen einer neuen Dimension verwendet werden können.
 
 **WIE:** Beginnen Sie damit, alle von Adobe vorkonfigurierten Variablen (Seite, Produkt, Geografie usw.) sowie eVars, Props, Ereignisse und Listenvariablen in einem Excel-Dokument aufzulisten. Dieses sollte eine Registerkarte pro Website / Report Suite enthalten.
@@ -88,7 +95,7 @@ Auf diese Weise sind Ihre Daten immer sauber und Sie haben eine klare Vorstellun
 
 **WIE:** Bestimmen Sie einen Verantwortlichen für das Dokument, um die Governance zu gewährleisten und die Verantwortung für die Verwaltung der Aktualisierungen in einer Hand zu haben.
 Führen Sie auf der Registerkarte „Eigenschaften“ folgende Angaben auf:
-* **Eigenschaftsname:** Dabei kann es sich um eine Domain, Subdomain, einen App-Namen usw. handeln. Selbst innerhalb derselben Domain sollten einige Teile abgesondert werden, wenn sie getrennt verwaltet werden (z. B. durch ein anderes Team oder eine andere Technologie).
+* **Eigenschaftsname:** Dabei kann es sich um eine Domain, Subdomain, einen App-Namen usw. handeln. Selbst innerhalb derselben Domain sollten einige Teile getrennt verwaltet werden, wenn sie getrennt verwaltet werden (z. B. durch ein anderes Team oder eine andere Technologie).
 * **Link (URL)** zur Eigenschaft, sofern verfügbar
 * **Verantwortlicher und Ansprechpartner:** Führt den Hauptverantwortlichen oder die Hauptkontakte für die Eigenschaft auf
 * **Tag-Methode:** Viele von uns haben verschiedene Codemethoden und Implementierungen im Einsatz (Launch, JS-Dateien, AEP usw.). Sie können dies bei Bedarf noch weiter aufschlüsseln (z. B. nach Codeversion oder Tag-Management-System), aber dies ist dazu gedacht, den Überblick über all Ihre verschiedenen Code-Methoden und -Versionen zu behalten, wo der Code aktualisiert werden muss und wie er gepflegt werden muss. Wenn Sie Adobe Launch verwenden, führen Sie den Namen der Launch-Eigenschaft auf.
@@ -99,9 +106,9 @@ Es wird empfohlen, dieses Dokument so einfach wie möglich zu halten und es nich
 
 >[!TIP]
 >
->Erstellen Sie in Adobe Analytics eine Dimension für Website-Namen/Eigenschaften. Eine eigene Dimension (in der Regel eine eVar) in Adobe Analytics, die den Namen der Website/Anwendung identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind unbegrenzt, insbesondere wenn mehrere Websites in einer (globalen) Report Suite kombiniert werden. Der Schlüssel dazu ist, dass Ihre Entwicklerteams diesen Wert immer in der Eigenschaftsdimension setzen, einschließlich aller Seitenladevorgänge (s.t-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Hilfsmittel sein, um diese Werte richtig und einheitlich festzulegen.
+>Erstellen Sie in Adobe Analytics eine Dimension für Website-Namen/Eigenschaften. Eine dedizierte Dimension (in der Regel eine eVar) in Adobe Analytics, die den Site-/App-Namen identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind endlos, insbesondere wenn mehrere Sites in einer (globalen) Report Suite kombiniert werden. Der Schlüssel dazu ist, dass Ihre Entwicklerteams diesen Wert immer in der Eigenschaftsdimension setzen, einschließlich aller Seitenladevorgänge (s.t-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Hilfsmittel sein, um diese Werte richtig und einheitlich festzulegen.
 
-[Sehen Sie sich dieses Video von Doug &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
+[Sehen Sie sich dieses Video von Doug ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
 
 ## Autoren
 
@@ -110,7 +117,7 @@ An diesem Dokument haben mitgewirkt:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital Analytics Platform Manager bei NortonLifeLock
-Adobe Analytics Champion
+Adobe Analytics-Experte
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

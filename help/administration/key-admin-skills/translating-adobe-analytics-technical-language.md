@@ -8,16 +8,22 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79eid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 100%
+source-wordcount: 1027
+ht-degree: 97%
 
 ---
 
 # Übersetzen der technischen Sprache von Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/3410292/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Wir sprechen unterschiedliche Sprachen
 
@@ -33,8 +39,8 @@ Hier ist meine bevorzugte Methode, neuen Analysten eVars und Zuordnungsmethoden 
 
 >[!TIP]
 >
->**Benennen Sie Komponenten (d. h. Dimensionen, Segmente und Metriken) mit beschreibenden Namen.**
->>Die Freigabe des Datenkatalogs von eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten in Ihrem Unternehmen, erwarten Sie aber nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren Verwendung nach Index oder Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen versehen sind. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten eVars und Metriken/Segmenten zu finden.
+>**Benennen Sie Komponenten (d. h. Dimensionen, Segmente und Metriken) mit beschreibenden Namen**
+>Die Freigabe des Datenkatalogs von eVars und Props ist immer ein guter Schritt zur Demokratisierung der Daten in Ihrem Unternehmen, erwarten Sie aber nicht, dass sich ein Gelegenheitsbenutzer alle benutzerdefinierten Variablen und deren Verwendung nach Index oder Nummer merken kann. Stellen Sie stattdessen sicher, dass die Komponentennamen in Adobe Workspace mit aussagekräftigen Tags und Beschreibungen versehen sind. Dies hilft Ihren Benutzern, schnell die richtige Metrik unter Ihren Hunderten eVars und Metriken/Segmenten zu finden.
 
 ## Tipp 2: Finden Sie eine gemeinsame Sprache
 
@@ -44,8 +50,8 @@ Bei [!DNL The Home Depot] können Händler oder Store-Manager möglicherweise ni
 
 >[!TIP]
 >
->**Stellen Sie sicher, dass Ihre Implementierung diese allgemein verständliche Sprache widerspiegelt.**
->>Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Warenkörbe als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in „Einkaufstasche“ umbenennen.
+>**Stellen Sie sicher, dass Ihre Implementierung diese gemeinsame Sprache widerspiegelt**
+>Fast alles in der Adobe Analytics-Benutzeroberfläche kann angepasst werden. Wenn Ihr Unternehmen Warenkörbe als Einkaufstaschen bezeichnet, können Sie das Warenkorbereignis in „Einkaufstasche“ umbenennen.
 >
 >Erwägen Sie die Erstellung eines eigenen einheitlichen Vokabulars für Ihr Unternehmen, wenn mehrere synonyme Begriffe in Verwendung sind oder wenn es Begriffe gibt, über die Ihre Anwender häufig stolpern. Setzen Sie Schritte, um die Verwendung der bevorzugten, standardisierten Terminologie zu festigen. Und nehmen Sie in Ihren Onboarding-Sitzungen die üblicherweise verwirrenden Begriffe durch, um Anwender bei der Einarbeitung zu unterstützen.
 
@@ -58,7 +64,7 @@ Bei [!DNL The Home Depot] veranstalteten wir eine Adobe Analytics Challenge, bei
 >[!TIP]
 >
 >**Erstellen Sie mit Anmerkungen versehene lösungsspezifische Workspace-Vorlagen und -Anleitungen.**
->>Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars zusätzliche Unterstützung bieten.
+>Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars zusätzliche Unterstützung bieten.
 >
 >Dank der Flexibilität von Analysis Workspace können Sie Vorlagen für eine schnellere Analyse sowie für den Self-Service und die Selbsthilfe erstellen. Durch die Kombination von Funktionen wie kuratierte Vorlagen, Anmerkungen und die Verknüpfung zwischen Arbeitsbereichen können Sie effektive Anleitungen für nichttechnische Anwender von Adobe Analytics erstellen, die einfach genutzt und verteilt werden können.
 

@@ -6,14 +6,20 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 96%
+source-wordcount: 1166
+ht-degree: 89%
 
 ---
 
@@ -24,15 +30,15 @@ _Erfahren Sie, wie operative Dashboards in Adobe Analytics Workspace Kommunikati
 
 Wie viele Admins leite ich einen internen Info-Hub (Confluence oder ähnlich) für Adobe Analytics. Im Laufe der Zeit hatte ich es satt, immer wieder die gleichen Fragen zu beantworten, und brauchte einen reibungsloseren Weg, um meine Benutzerinnen und Benutzer zu erreichen, ohne das Gefühl zu haben, dass ich sie ständig anpinge und nerve. Ich benötigte Repositorys für weniger statische Informationen.
 
-Ich bemerkte, dass Benutzerinnen und Benutzer meine Verweise auf die Confluence-Site oft ignoriert haben, mit Gründen wie „Mein VPN ist aus“, „Ich kann es jetzt nicht lesen“ usw. Grundsätzlich bedeutet: „Ich werde dieses Dokument später lesen“, dass es nie gelesen wird und dieselbe Frage nächste Woche erneut gestellt wird.
+Mir fiel auf, dass Benutzer meine Verweise auf die Confluence-Website oft ignorierten, z. B. mit Gründen wie „Mein VPN ist ausgeschaltet“ oder „Ich kann es jetzt nicht lesen“. Grundsätzlich bedeutet „Ich werde das Dokument später lesen“, dass es nie gelesen wird und die gleiche Frage wird nächste Woche wieder gestellt werden.
 
-***Dann kam der Aha-Moment:**&#x200B;Die Vielseitigkeit von Workspace könnte die Lösung sein. Benutzerinnen und Benutzer bevorzugen schnelle, direkte Antworten in Workspace, also bleiben wir in Workspace und vermeiden wir extra Schritte für sie.*
+***Dann kam der Aha-Moment:**Die Vielseitigkeit von Workspace könnte die Lösung sein. Benutzerinnen und Benutzer bevorzugen schnelle, direkte Antworten in Workspace, also bleiben wir in Workspace und vermeiden wir extra Schritte für sie.*
 
 Ich habe losgelegt und operative Dashboards erstellt, um sie für das ganze Unternehmen freizugeben. Sie haben bisher die Benutzerinnen und Benutzer gut auf dem Laufenden gehalten, Informationen zentralisiert und Frustrationen reduziert. Dies ist ein einfacher, sich entwickelnder Prozess, der die Effizienz im Laufe der Zeit steigert.
 
 Die Menschen haben es geschafft, viele gute Informationen ohne mich zu erhalten, Bereiche der Website zu verstehen, zu sehen, wie cool Adobe Analytics ist, und (wichtig für mich 😊) stellen Sie mir weniger Fragen und nehmen weniger Zeit.
 
-**Ich empfehle dringend, dass Sie Dashbords für all Ihre Assets oder Hauptbereiche Ihrer Site erstellen.** Sie sollten einen Überblick über das Asset, die Site, die App bzw. den Fluss geben und grundlegende Informationen sowie schnelle Einblicke erhalten. Diese sollten für das gesamte Unternehmen freigegeben werden, sodass alle Benutzerinnen und Benutzer das Asset verstehen können, ohne an die Hand genommen werden zu müssen. Diese Dashboards beantworten für mich in der Regel 80 % der Fragen, die ich bekomme, und sparen mir wertvolle Zeit.
+**Es wird dringend empfohlen, Dashboards für alle Eigenschaften oder Hauptbereiche Ihrer Site zu erstellen.** Sie sollten einen Überblick über die Eigenschaft/Site/App/den Fluss geben und über grundlegende Informationen und schnelle Einblicke verfügen. Diese sollten für das gesamte Unternehmen freigegeben werden, sodass alle Benutzerinnen und Benutzer das Asset verstehen können, ohne an die Hand genommen werden zu müssen. Diese Dashboards beantworten für mich in der Regel 80 % der Fragen, die ich bekomme, und sparen mir wertvolle Zeit.
 
 Nichts davon hindert Sie daran, Ihre Confluence-Website zu behalten, was weiterhin sehr nützlich ist. Ich verweise sogar oben in jedem operativen Dashboard darauf. Aber ich liebe Tastaturbefehle – sowohl für mich als auch für meine Benutzerinnen und Benutzer.
 
@@ -110,4 +116,4 @@ Dieses Dokument wurde verfasst von:
 
 **Christel Guidon**, Analytics Platform Manager bei Gen Digital
 
-Adobe Analytics-Expertin
+Adobe Analytics-Experte

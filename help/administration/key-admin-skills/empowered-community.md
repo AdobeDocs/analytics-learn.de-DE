@@ -10,22 +10,28 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: 1605
+ht-degree: 94%
 
 ---
 
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/341111/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie durch ihre Adobe Analytics-Administratoren unterstützt. Sie weiß, wie geschäftliche Anforderungen in der Implementierung angezeigt werden. Und letztlich ist sie in der Lage, Analysen als Grundlage für datengestützte Entscheidungen einzusetzen. Viele Unternehmen profitieren von den Vorteilen, die eine interne Adobe Analytics-Benutzergruppe oder eine formelle Community bietet.
 
 Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So geht’s:
 
-## &#x200B;1. Bauen Sie eine solide Infrastruktur auf, die als Basis für Ihre gestärkte Community dient.
+## &#x200B;1. Aufbau einer soliden Infrastruktur, die die Grundlage für Ihre gestärkte Community bildet
 
 * Definieren Sie einen Prozess für das Onboarding von Benutzern.
 
@@ -43,7 +49,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
   Die Adobe Analytics-Berichtsvorlagen und -Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reporting und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
 
-## &#x200B;2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte.
+## &#x200B;2. Erstellen Sie einen Plan dafür, wer ihn leitet und wer daran beteiligt sein sollte
 
 * Entscheiden Sie, wer die Community leiten wird:
 
@@ -59,9 +65,9 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
    * **Tool-Benutzer:** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die Adobe Analytics-Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen – unabhängig von Titel oder Rolle!
 
-* Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, sind Interaktion und Erfolg garantiert!
+* Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, können Sie Interaktion und Erfolg sicherstellen!
 
-## &#x200B;3. Nutzen Sie Tools, um mit dem Aufbau Ihrer Community zu beginnen
+## &#x200B;3. Verwenden von Tools, um mit dem Aufbau Ihrer Community zu beginnen
 
 * [Erstellen Sie eine Projektcharta](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (Vorlage zum Herunterladen):
 
@@ -69,7 +75,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
    * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community, und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
    * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
-   * Wie lange dauert es, bis eine Community live gehen kann? Welche Setup-Arbeiten für die Einarbeitung, das Tool, die Administrator-Benutzergruppen usw. erforderlich sind. Perspektive? In der Regel ist es am besten, die grundlegenden Ressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
+   * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, die grundlegenden Ressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
    * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt werden?
    * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
 

@@ -3,8 +3,7 @@ user-guide-title: Adobe Analytics-Tutorials
 user-guide-description: Sehen Sie sich Video-Tutorials für Adobe Analytics an und erfahren Sie, wie Sie Ihre Daten optimal nutzen können.
 breadcrumb-title: Analytics-Tutorials
 solution: Analytics
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
 source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
@@ -451,5 +450,5 @@ ht-degree: 96%
       + [Konfigurieren von internen Site-Suchberichten](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Einrichten der marktinternen Analyse für Postleitzahlen](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + {hide-from-toc}[Analytics-Lehrangebot für Universitäten](analytics-university/curriculum.md)
-+ {hide-from-toc}[Experience League LIVE &#x200B;](exl-live/exl-live-overview.md)
++ {hide-from-toc}[Experience League LIVE ](exl-live/exl-live-overview.md)
 + {hide-from-toc}[„Analytics-Grundlagen für Business-Anwender“ wurde eingestellt](retired-courses/retire-fundamentals-for-business-users-course.md)

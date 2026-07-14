@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Dieses Video führt Sie durch die Konfiguration von Traffic-Variablen – häufig als „Props“ bezeichnet – in der Admin Console von Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342182/?captions=ger&quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=de).

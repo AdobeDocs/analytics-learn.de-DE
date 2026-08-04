@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Flussvisualisierungen werden verwendet, um die exakten Journeys der Kundinnen und Kunden mit Ihrer Marke zu untersuchen. Der Fluss kann auf Seiten, Marketing-Kanäle und jede andere Dimension oder jede Mischung von Dimensionen angewendet werden, die Sie erfassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452631/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=de).

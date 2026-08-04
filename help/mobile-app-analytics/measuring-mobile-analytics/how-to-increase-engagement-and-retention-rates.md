@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Identifizieren Sie mit [!UICONTROL Kohorten] engagierte Zielgruppen anhand ihres Verhaltens und machen Sie sich die zugrunde liegenden Ursachen bewusst, die die Attraktivität Ihrer Mobile Apps fördern. Verwenden Sie Data Science-Algorithmen in [!UICONTROL Segment-IQ], um die Unterschiede und Ähnlichkeiten zwischen Segmenten zu überblicken.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32715/?captions=ger&quality=12&learn=on)

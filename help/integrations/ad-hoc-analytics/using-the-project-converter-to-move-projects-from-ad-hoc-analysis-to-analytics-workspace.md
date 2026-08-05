@@ -39,5 +39,5 @@ ht-degree: 100%
 
 Mit dem Konvertierer für [!UICONTROL Ad Hoc Analysis]-Projekte können Sie mit einem Klick [!UICONTROL Ad Hoc Analysis] (AHA)-Projekte nahtlos in [!UICONTROL Analysis Workspace]-Projekte konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37471/?captions=ger&quality=12&learn=on)
 

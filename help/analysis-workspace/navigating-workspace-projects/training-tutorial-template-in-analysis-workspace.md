@@ -37,6 +37,6 @@ ht-degree: 100%
 
 Im Trainings-Tutorial für Analysis Workspace machen Sie sich mit der gängigen Terminologie und den Schritten zum Erstellen Ihrer ersten Analyse in Workspace vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37171/?captions=ger&quality=12&learn=on)
 
 Diese Vorlage ist als Standardvorlage unter „Neues Projekt“ verfügbar. Anhand dieser Vorlage können Sie Ihre eigenen Tutorials erstellen und sie an die einzigartigen Anwendungsfälle und die Datenstruktur (eVars, benutzerdefinierte Ereignisse) Ihres Unternehmens anpassen.

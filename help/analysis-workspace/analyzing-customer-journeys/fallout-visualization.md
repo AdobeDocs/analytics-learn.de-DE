@@ -36,7 +36,7 @@ ht-degree: 100%
 
 Fallout-Visualisierungen in [!DNL Analysis Workspace] werden verwendet, um zu untersuchen, wo Kunden wichtige Flüsse in Ihren digitalen Eigenschaften durchlaufen oder aus ihnen herausfallen. Erfahren Sie, wie Sie verschiedene Arten von Berührungspunkten hinzufügen und wie Sie Segmente in dieser Komponente erstellen und verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453255/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de).
 

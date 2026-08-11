@@ -20,6 +20,6 @@ Die herkömmliche Segmentierung in Adobe Analytics ist häufig auf die Treffereb
 
 In diesem Video wird gezeigt, wie die Analyse von Untertreffern in Adobe Analytics granularere Segmentierungsfunktionen bietet.
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)

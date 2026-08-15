@@ -22,4 +22,4 @@ In diesem Video wird gezeigt, wie die Analyse von Untertreffern in Adobe Analyti
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497082/?captions=ger&quality=12&learn=on)

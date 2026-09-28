@@ -39,7 +39,7 @@ ht-degree: 36%
 ---
 # Initialisieren und Anzeigen von [!UICONTROL Lebenszyklus]-[!UICONTROL Metriken] mit dem Experience Platform-SDK {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
-[!UICONTROL Lebenszyklus]-[!UICONTROL Metriken] sind wertvolle, vordefinierte Informationen über Ihren App-Benutzer. Diese [!UICONTROL Metriken] enthalten Informationen zum Lebenszyklus des App-Benutzers wie Geräteinformationen, Installations- oder Upgrade-Informationen, Sitzungs-Start- und Pausenzeiten usw. In diesem Video erfahren Sie, wie Sie [!UICONTROL Lebenszyklus][!UICONTROL  Metriken] in Ihrer App einrichten und wie Sie die Ergebnisse in einem Debugger anzeigen.
+[!UICONTROL Lebenszyklus]-[!UICONTROL Metriken] sind wertvolle, vordefinierte Informationen über Ihren App-Benutzer. Diese [!UICONTROL Metriken] enthalten Informationen zum Lebenszyklus des App-Benutzers wie Geräteinformationen, Installations- oder Upgrade-Informationen, Sitzungs-Start- und Pausenzeiten usw. In diesem Video erfahren Sie, wie Sie [!UICONTROL Lebenszyklus]&#x200B;[!UICONTROL &#x200B; Metriken] in Ihrer App einrichten und wie Sie die Ergebnisse in einem Debugger anzeigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 

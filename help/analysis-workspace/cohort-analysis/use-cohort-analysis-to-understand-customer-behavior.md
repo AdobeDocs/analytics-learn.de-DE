@@ -9,25 +9,35 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+TQID: 'https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 12%
-
 ---
-
-# Verwenden von Kohortenanalyse, um das Kundenverhalten zu verstehen
+# Verwenden der Kohortenanalyse zum Verstehen des Kundenverhaltens
 
 Um das Kundenerlebnis und den Umsatz zu verbessern, müssen Unternehmen das Kundenverhalten verstehen. Die Kohortenanalyse kann dabei helfen, Interaktion und Kundenbindung zu verstehen, was zu Aktionen führt wie die Verbesserung der Kontoerstellung und die Erstellung von Kampagnen für Monate mit hohem Volumen.
 
@@ -145,7 +155,7 @@ Erkunden des Site-Benutzererlebnisses, um Benutzer dazu zu bringen, während des
 
 ## Teil 4: Benutzerdefinierte Dimension-Kohorte
 
-Benutzerdefinierte Dimension-Kohorte: Erstellen Sie Kohorten basierend auf der ausgewählten Dimension und nicht auf zeitbasierten Kohorten (Standard). Viele Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren und die neue Funktion der angepassten Dimensionskohorte bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in Adobe Analytics, um anzuzeigen, wie die Bindung sich basierend auf verschiedenen Werten dieser Dimensionen verändert. Das
+Benutzerdefinierte Dimension-Kohorte: Erstellen Sie Kohorten basierend auf der ausgewählten Dimension und nicht auf zeitbasierten Kohorten (Standard). Viele Kundinnen und Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren, und die neue Funktion für benutzerdefinierte Dimensionskohorten bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen Ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in Adobe Analytics, um anzuzeigen, wie die Bindung sich basierend auf verschiedenen Werten dieser Dimensionen verändert. Das
 
 Die benutzerdefinierte Segmentdefinition einer Dimension-Kohorte wendet das Dimensionselement nur als Teil des Einschlusszeitraums an, nicht als Teil der Rückgabedefinition.
 

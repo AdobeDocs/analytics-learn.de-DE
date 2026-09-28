@@ -1,6 +1,6 @@
 ---
-title: Tipps und Tricks, wie Sie die Benutzerschulung vereinfachen und weniger Zeit darauf verwenden können
-description: Um eine Kultur der datengestützten Entscheidungsfindung zu schaffen, ist es wichtig, dass die geschäftliche Benutzer in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Demokratisierung von Daten und ermöglicht den geschäftlichen Benutzern mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
+title: Tipps und Tricks, wie Sie die Schulung von Benutzenden vereinfachen und weniger Zeit darauf verwenden können
+description: Um eine Kultur der datengestützten Entscheidungsfindung aufzubauen, ist es wichtig, dass die geschäftlichen Benutzenden in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Datendemokratie und ermöglicht geschäftlichen Benutzenden mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -9,41 +9,54 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+TQID: 'https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+    internal-label: Alerts
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Privacy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 926
+source-wordcount: '926'
 ht-degree: 95%
-
 ---
+# Tipps und Tricks, wie Sie die Schulung von Benutzenden vereinfachen und weniger Zeit darauf verwenden können
 
-# Tipps und Tricks, wie Sie die Benutzerschulung vereinfachen und weniger Zeit darauf verwenden können
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/341102/?captions=ger&quality=12&learn=on)
+Um eine Kultur der datengestützten Entscheidungsfindung aufzubauen, ist es wichtig, dass die geschäftlichen Benutzenden in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Demokratisierung von Daten und ermöglicht den geschäftlichen Benutzern mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
 
-Um eine Kultur der datengestützten Entscheidungsfindung zu schaffen, ist es wichtig, dass die geschäftliche Benutzer in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Demokratisierung von Daten und ermöglicht den geschäftlichen Benutzern mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
-
-Daher ist es wichtig, Zeit in die Einrichtung einer Struktur zu investieren, die eine kontinuierliche Schulung von Benutzern ermöglicht und vor allem neuen Benutzern die Möglichkeit gibt, sich bei Bedarf einzubringen. Die Erstellung eines kleinen Portfolios von Schulungsinhalten, die je nach Bedarf wiederverwendet werden können, spart Ihnen Zeit. Das Beste daran ist, dass es keinen zusätzlichen Aufwand erfordert. Vergessen Sie nicht, dass Adobe auch Präsenzschulungen und Remote-Schulungen anbietet. Nur Sie kennen jedoch die Feinheiten einer individuellen Implementierung.
+Daher ist es wichtig, Zeit in die Einrichtung einer Struktur zu investieren, die eine kontinuierliche Schulung von Benutzenden ermöglicht und vor allem neuen Benutzenden die Möglichkeit gibt, bei Bedarf eingearbeitet zu werden. Die Erstellung eines kleinen Portfolios von Schulungsinhalten, die je nach Bedarf wiederverwendet werden kann, spart Ihnen Zeit. Das Beste daran ist, dass es keinen zusätzlichen Aufwand erfordert. Vergessen Sie nicht, dass Adobe auch Schulungen im Klassenraum und Remote-Schulungen anbietet. Nur Sie kennen jedoch die Feinheiten einer individuellen Implementierung.
 
 
-## Grundlegende Schulungen für alle
+## Grundlegende Schulung für alle
 
 Als Erstes sollten Sie eine standardisierte Basisschulung für die Verwendung von Adobe Analytics erstellen, die in den Kalender der meisten Mitarbeiter passt. Sie sollte etwa eine Stunde dauern und alles enthalten, was Benutzer für den Einstieg in Adobe Analytics in Ihrer Organisation benötigen.
 
@@ -60,7 +73,7 @@ Es kann sein, dass Sie die grundlegendsten Schulungen immer wieder wiederholen m
 
 * Die meisten Videokommunikations-Tools für Unternehmen bieten eine Aufzeichnungsfunktion, sodass Sie bei der nächsten geplanten Schulungssitzung einfach die Aufnahmetaste drücken können. Stellen Sie sicher, dass dies im Einklang mit den Datenschutzrichtlinien des Unternehmens steht, oder finden Sie Wege, die Konformität zu gewährleisten, z. B. indem Sie die Teilnehmer auffordern, ihre Kameras zu deaktivieren, bevor sie die Aufnahmetaste drücken.
 * Falls Ihr Unternehmen diese Möglichkeit nicht bietet, gibt es mehrere kostenlose oder abonnementbasierte Online-Tools für die Aufzeichnung von Bildschirmfreigaben und Webcam-Videos zusammen mit einfachen Videobearbeitungsfunktionen.
-* Stellen Sie sicher, dass Sie einen Ort finden, an dem die Videos in Übereinstimmung mit den IT-Sicherheitsrichtlinien gehostet werden. Onlinetools verfügen in der Regel über eine Funktion zum Hosten, um die Wiedergabe für die Endbenutzer zu ermöglichen. Andernfalls müssen Sie das Video auf einem Firmen-Server oder über eine passwortgeschützte Seite für Video-Hosting hosten.
+* Stellen Sie sicher, dass Sie einen Ort finden, an dem die Videos in Übereinstimmung mit den IT-Sicherheitsrichtlinien gehostet werden. Onlinetools verfügen in der Regel über eine Funktion zum Hosten, um die Wiedergabe für die Endbenutzer zu ermöglichen. Andernfalls müssen Sie das Video auf einem Firmen-Server oder über eine passwortgeschützte Video-Hosting-Website hosten.
 
 ## Fortgeschrittene Schulung für einige
 
@@ -68,7 +81,7 @@ Natürlich kann eine Standard-Basisschulung nicht alle Fragen und jeden Anwendun
 
 * Zeichnen Sie auch diese Sitzungen auf und stellen Sie sie im Rahmen der Erstellung der neuen Inhalte nach und nach zur Verfügung.
 * Wenn Ihre Implementierung wächst und sich weiterentwickelt, müssen Sie Ihre Schulungssitzungen gelegentlich aktualisieren, um die Inhalte auf dem neuesten Stand zu halten.
-* Je nachdem, wie Ihre Implementierung und Ihr Unternehmen strukturiert sind, kann es sinnvoll sein, Schulungen für bestimmte Abteilungen oder Gruppen zu erstellen, z. B. Schulungen für die IT-Abteilung zur Verwendung von Browsern und Betriebssystemen oder zur Demonstration von Warnmeldungen über die Verfügbarkeit von Websites im Gegensatz zu Schulungen für die Marketing-Abteilung zu Referrern, Marketing-Kanälen und meistbesuchten Seiten.
+* Je nachdem, wie Ihre Implementierung und Ihr Unternehmen strukturiert sind, kann es sinnvoll sein, Schulungssitzungen zu erstellen, die sich an eine bestimmte Abteilung oder Gruppe richten, z. B Schulungen für die IT-Abteilung zur Verwendung von Browsern und Betriebssystemen und zur Demonstration von Warnmeldungen zu Site-Verfügbarkeit sowie Schulungen für die Marketing-Abteilung zu Referrern, Marketing-Kanälen und meistbesuchten Inhaltsseiten.
 * Sie müssen nicht alle Inhalte selbst erstellen. Adobe bietet einige hervorragende kostenlose Lernpfade und zusätzliche Schulungsinhalte, die Sie Ihren Benutzern innerhalb von [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=de) anbieten können.
 
 

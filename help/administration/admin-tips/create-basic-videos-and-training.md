@@ -9,28 +9,38 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+TQID: 'https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 84%
-
 ---
-
 # Erstellen einfacher aufgezeichneter Schulungssitzungen und kurzer Videos
 
 **WAS:** Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe von grundlegenden und fortgeschrittenen Themen abdecken, sodass Sie neuen Nutzern bei der Einführung in das Tool nicht jedes Mal den gleichen Inhalt in einer Besprechung vermitteln müssen.
@@ -46,9 +56,9 @@ ht-degree: 84%
 * Die fünf wichtigsten Tipps in Adobe Analytics (z. B.: Erstellen von Dropdown-Listen)
 * Verwenden von Attribution IQ
 
-Sie können die Benutzer dann einfach auf diese verweisen, anstatt lange E-Mails zu schreiben oder eine weitere Besprechung abzuhalten. Weitere Tipps und Tricks zur Schulung von Benutzern finden Sie im Artikel von [Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target="_blank"} in dem es um die Vereinfachung und den verringerten Zeitaufwand bei der Benutzerschulung geht.
+Sie können die Benutzer dann einfach auf diese verweisen, anstatt lange E-Mails zu schreiben oder eine weitere Besprechung abzuhalten. Weitere Tipps und Tricks zur Schulung von Benutzern finden Sie im [Artikel von Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target="_blank"} in dem es um die Vereinfachung und den verringerten Zeitaufwand bei der Benutzerschulung geht.
 
-Darüber hinaus gibt es eine Fülle von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/de?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
+Darüber hinaus gibt es eine Fülle von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf Adobe Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
 
 ## Autoren
 

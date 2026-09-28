@@ -10,37 +10,53 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+TQID: 'https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1605
+source-wordcount: '1605'
 ht-degree: 94%
-
 ---
-
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/341111/?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie durch ihre Adobe Analytics-Administratoren unterstützt. Sie weiß, wie geschäftliche Anforderungen in der Implementierung angezeigt werden. Und letztlich ist sie in der Lage, Analysen als Grundlage für datengestützte Entscheidungen einzusetzen. Viele Unternehmen profitieren von den Vorteilen, die eine interne Adobe Analytics-Benutzergruppe oder eine formelle Community bietet.
 
@@ -72,13 +88,13 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Legen Sie fest, wer beteiligt ist und welche Rollen und Verantwortlichkeiten es gibt:
 
-   * **Projektteam für die Verwaltung:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel für die Definition der Opportunity verantwortlich, z. B. über eine Projektcharta, die Erstellung des Inhaltsplans (zumindest anfangs) und die Festlegung der Kommunikationsmittel (z.. B. Microsoft® Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
+  * **Projektteam für die Verwaltung:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel für die Definition der Opportunity verantwortlich, z. B. über eine Projektcharta, die Erstellung des Inhaltsplans (zumindest anfangs) und die Festlegung der Kommunikationsmittel (z.. B. Microsoft® Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
 
-   * **Sponsor aus der Führungsebene:** Es ist von entscheidender Bedeutung, einen Sponsor aus der Führungsebene zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist wichtig für die Unterstützung von Meilensteinen, für die Kommunikation, die Sicherstellung der Priorisierung innerhalb des gesamten Teams und für das Änderungs-Management.
+  * **Sponsor aus der Führungsebene:** Es ist von entscheidender Bedeutung, einen Sponsor aus der Führungsebene zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist wichtig für die Unterstützung von Meilensteinen, für die Kommunikation, die Sicherstellung der Priorisierung innerhalb des gesamten Teams und für das Änderungs-Management.
 
-   * **Zuständigkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Web-Entwicklung, Personalisierung, Tests usw. einzubinden.
+  * **Zuständigkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Web-Entwicklung, Personalisierung, Tests usw. einzubinden.
 
-   * **Tool-Benutzer:** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die Adobe Analytics-Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen – unabhängig von Titel oder Rolle!
+  * **Tool-Benutzer:** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die Adobe Analytics-Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen – unabhängig von Titel oder Rolle!
 
 * Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, können Sie Interaktion und Erfolg sicherstellen!
 
@@ -88,25 +104,25 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
   Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Mit der Beantwortung der folgenden Fragen haben Sie alle Voraussetzungen für den Entwurf Ihrer Charta erfüllt:
 
-   * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community, und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
-   * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
-   * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, die grundlegenden Ressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
-   * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt werden?
-   * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
+  * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community, und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
+  * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
+  * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, die grundlegenden Ressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
+  * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt werden?
+  * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
 
 * Erstellen Sie einen Inhaltsplan – Ihre Community wird zwar auch Ideen für Inhalte für Sie haben, aber Sie sollten auch Ideen haben, um die Interaktion zu fördern. Eine gute Faustregel ist, dass zu einem bestimmten Zeitpunkt mindestens 6–12 Monate an Inhalten erstellt worden sein sollten.
 
-   * Gibt es Themen, die von größeren Geschäftsinitiativen abhängen könnten, z. B. an wichtigen Ereignissen, größeren Programmen, Planungszeiträumen usw.?
-   * Wer ist am besten geeignet, um über solche Themen zu sprechen? Wie könnten diese Personen von der Interaktion mit der Community profitieren?
-   * Welche Inhalte sollte die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
+  * Gibt es Themen, die von größeren Geschäftsinitiativen abhängen könnten, z. B. an wichtigen Ereignissen, größeren Programmen, Planungszeiträumen usw.?
+  * Wer ist am besten geeignet, um über solche Themen zu sprechen? Wie könnten diese Personen von der Interaktion mit der Community profitieren?
+  * Welche Inhalte sollte die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
 
 * Kommunikationsplan erstellen – Ein solider Kommunikationsplan ist der Schlüssel zur Interaktion mit Ihrer Community und zum Gesamterfolg. Bei der Erstellung Ihres Plans sollten Sie unter anderem folgende Fragen berücksichtigen:
 
-   * Auf welche Teams wird sich Ihre Community auswirken, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontline-Analysten)?
-   * Wo liegen die Schwerpunkte Ihrer Botschaften, welche Botschaften werden benötigt, wo liegt der Nutzen für Ihre Zielgruppe und welche Wünsche haben Sie?
-   * Welche Kommunikationsmittel sollten vor oder nach dem Start der Community eingesetzt werden (z. B. E-Mail, Slack, Video, Meetings usw.)? Beabsichtigen Sie beispielsweise, E-Mails über das Admin-Tool von Adobe Analytics zu versenden? Oder sollte Ihr Onboarding-Prozess für neue Benutzer jetzt auch die Pflege einer internen E-Mail-Verteilerliste umfassen, die für Newsletter usw. genutzt werden kann?
-   * Wer wird Mitteilungen versenden?
-   * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
+  * Auf welche Teams wird sich Ihre Community auswirken, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontline-Analysten)?
+  * Wo liegen die Schwerpunkte Ihrer Botschaften, welche Botschaften werden benötigt, wo liegt der Nutzen für Ihre Zielgruppe und welche Wünsche haben Sie?
+  * Welche Kommunikationsmittel sollten vor oder nach dem Start der Community eingesetzt werden (z. B. E-Mail, Slack, Video, Meetings usw.)? Beabsichtigen Sie beispielsweise, E-Mails über das Admin-Tool von Adobe Analytics zu versenden? Oder sollte Ihr Onboarding-Prozess für neue Benutzer jetzt auch die Pflege einer internen E-Mail-Verteilerliste umfassen, die für Newsletter usw. genutzt werden kann?
+  * Wer wird Mitteilungen versenden?
+  * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
 
 * Nutzen Sie das Kommunikationsmittel Ihrer Community, um live zu gehen! Das Tool oder Kommunikationsmittel für Ihre Community sollten Sie abhängig von der technologischen Aufstellung Ihres Unternehmens wählen. Es handelt sich dabei um eine individuelle Wahl für Ihr Unternehmen. Viele entscheiden sich hierbei für Microsoft Teams.
 
@@ -114,9 +130,9 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Zeit reservieren – Legen Sie im Kalender Community-Meetings fest, um die Zeit im Voraus zu blockieren. Wiederkehrende Meetings sind, sofern möglich, eine gute Lösung und helfen dabei, Ihren Content-Plan umzusetzen. Für einen einfacheren Einstieg finden Sie hier einige Ideen für die Agenda:
 
-   * Wenn Ihr Unternehmen virtuelle Events durchführt, welche digitalen Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
-   * Wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparrechner, Demos usw.), wie werden die Leistungsdaten abgerufen? Welche Erkenntnisse können gewonnen werden, um Kunden und die Customer Journey besser zu unterstützen?
-   * Wie nutzt Ihr Unternehmen die vorhandenen Möglichkeiten, um die Erkenntnisse zur Zielgruppe zu optimieren und zu nutzen? Nutzt Ihr Unternehmen zum Beispiel die neue Integration von Adobe Analytics und Marketo? Welche Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
+  * Wenn Ihr Unternehmen virtuelle Events durchführt, welche digitalen Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
+  * Wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparrechner, Demos usw.), wie werden die Leistungsdaten abgerufen? Welche Erkenntnisse können gewonnen werden, um Kunden und die Customer Journey besser zu unterstützen?
+  * Wie nutzt Ihr Unternehmen die vorhandenen Möglichkeiten, um die Erkenntnisse zur Zielgruppe zu optimieren und zu nutzen? Nutzt Ihr Unternehmen zum Beispiel die neue Integration von Adobe Analytics und Marketo? Welche Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
 
 * Erwartungen definieren – Nutzen Sie weiterhin Ihren Projekt- und Kommunikationsplan, um die Erwartungen zu definieren, was Ihre Community ist bzw. nicht ist. Entscheidend ist die Konsistenz!
 * Interaktion planen – In der Anfangsphase der Community kann eine Person hilfreich sein, die Teams überwacht und während Meetings und über Ihre Kommunikationsmittel mit ihnen interagiert.

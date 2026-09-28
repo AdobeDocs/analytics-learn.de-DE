@@ -1,8 +1,8 @@
 ---
 title: Verstehen und Verwenden von Journey IQ – Geräteübergreifende Analyse
-description: Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf mehreren Geräten. Die geräteübergreifende Analyse kann mit dem Identity Service von Adobe Experience Platform integriert werden, um zu ermitteln, wie Geräte Personen zugeordnet sind. Anschließend nutzt sie diese Intelligenz, um eine geräteübergreifende Ansicht des Benutzerverhaltens zu erstellen. Dies führt dazu, dass Analysen zu Personen durchgeführt werden können, statt zu Geräten.
+description: Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf mehreren Geräten. Die geräteübergreifende Analyse wird mit dem Adobe Experience Platform Identity Service integriert, um zu ermitteln, wie Geräte Personen zugeordnet sind. Anschließend nutzt sie diese Intelligenz, um eine geräteübergreifende Ansicht des Benutzerverhaltens zu erstellen. Dies führt dazu, dass Analysen zu Personen durchgeführt werden können, statt zu Geräten.
 feature: CDA
-topics: null
+topics:
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,34 +10,50 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1607
+source-wordcount: '1607'
 ht-degree: 94%
-
 ---
-
 # Grundlagen und Verwendung von [!DNL Journey IQ] – Geräteübergreifende Analyse
 
 Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf mehreren Geräten. Die geräteübergreifende Analyse kann mit dem [!DNL Adobe Experience Platform Identity Service] integriert werden, um zu ermitteln, wie Geräte Personen zugeordnet sind. Anschließend nutzt sie diese Intelligenz, um eine geräteübergreifende Ansicht des Benutzerverhaltens zu erstellen. Dies führt dazu, dass Analysen zu Personen durchgeführt werden können, statt zu Geräten.
@@ -46,7 +62,7 @@ Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf
 
 ### Ich bin nicht meine Geräte
 
-Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf mehreren „Oberflächen“ oder „Geräten“. Sie können einen Webbrowser auf einem PC oder Mobilgerät oder eine Mobile App verwenden. In der herkömmlichen digitalen Analyse, die mit der Datenerfassung auf der Basis von Cookies entwickelt wurde, wird jede dieser Oberflächen als einzigartiger „Besucher“ (Unique Visitor) dargestellt. Das bedeutet, dass jeder Ihrer menschlichen Benutzer als mehrere Unique Visitors dargestellt wird.
+Wenn Benutzer mit Ihrer Marke interagieren, tun sie dies auf viele Arten und auf mehreren „Oberflächen“ oder „Geräten“. Sie verwenden möglicherweise einen Webbrowser auf einem PC oder einem Mobilgerät oder eine App. In der herkömmlichen digitalen Analyse, die mit der Datenerfassung auf der Basis von Cookies entwickelt wurde, wird jede dieser Oberflächen als einzigartiger „Besucher“ (Unique Visitor) dargestellt. Das bedeutet, dass jeder Ihrer menschlichen Benutzer als mehrere Unique Visitors dargestellt wird.
 
 Hier ein Beispiel. Nehmen wir an, Isabelle hat wie folgt mit Ihrer Marke interagiert:
 
@@ -58,9 +74,9 @@ Isabelles Journey wird auf der Grundlage herkömmlicher Analysen in drei Teile z
 *Isabelle ist eine Person*
 ![Cross-Device Analytics-Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-### Eine geräteübergreifende Ansicht bietet bessere Analysen
+### Eine geräteübergreifende Ansicht bietet bessere Analyse
 
-Eine personenorientierte, geräteübergreifende Betrachtung des Verhaltens von Isabelle kann für Ihre Analyse einen wesentlichen Unterschied darstellen. Der herkömmliche besucherbasierte Ansatz vermittelt Ihnen beispielsweise kein vollständiges Bild der Effektivität des Marketing-Kanals. Schauen wir uns noch einmal die Journey von Isabelle an mit Schwerpunkt darauf, welcher Kanal für ihre Produktansicht und welcher für ihren Kauf verantwortlich ist. Der Einfachheit halber verwenden wir die Attribution [!UICONTROL Letztkontakt], aber dasselbe Problem tritt bei der Verwendung eines beliebigen Attributionsmodells auf, wenn Sie Isabelles Verhalten in separate Besucher unterteilen. Die Verwendung der traditionellen Besucher-basierten Sicht auf die Welt liefert sehr unterschiedliche, sogar irreführende Ergebnisse:
+Eine personenorientierte, geräteübergreifende Betrachtung des Verhaltens von Isabelle kann für Ihre Analyse einen wesentlichen Unterschied darstellen. Der herkömmliche besucherbasierte Ansatz vermittelt Ihnen beispielsweise kein vollständiges Bild der Effektivität des Marketing-Kanals. Schauen wir uns noch einmal die Journey von Isabelle an mit Schwerpunkt darauf, welcher Kanal für ihre Produktansicht und welcher für ihren Kauf verantwortlich ist. Der Einfachheit halber verwenden wir die Attribution [!UICONTROL Letztkontakt], aber dasselbe Problem tritt bei der Verwendung eines beliebigen Attributionsmodells auf, wenn Sie Isabelles Verhalten in separate Besucher unterteilen. Die Verwendung der traditionellen, besucherbasierten Ansicht liefert sehr unterschiedliche, sogar irreführende Ergebnisse:
 
 *Herkömmliche Analyse vs. geräteübergreifende Analyse*
 ![Kanalzuordnung](assets/channel-attribution.png)
@@ -72,7 +88,7 @@ Lesen Sie weiter, um mehr über Folgendes zu erfahren:
 * Funktionsweise von [!DNL Cross-Device Analytics]
 * Voraussetzungen für [!DNL Cross-Device Analytics]
 * Interpretieren geräteübergreifender Daten
-* Analysieren geräteübergreifender Daten in Analysis Workspace
+* Analyse geräteübergreifender Daten in Analysis Workspace
 
 ## Funktionsweise von [!DNL Cross-Device Analytics]
 
@@ -80,7 +96,7 @@ Lesen Sie weiter, um mehr über Folgendes zu erfahren:
 
 ### Die [!DNL Cross-Device Virtual Report Suite]
 
-Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=de) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten einer Virtual Report Suite (VRS) für die geräteübergreifende Analyse (Cross-Device Analytics, CDA) ist einfach.
+Die geräteübergreifende Analyse wird durch eine spezielle Art von geräteübergreifender [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html) dargestellt. Auf diese Weise können Sie die ursprüngliche gerätebasierte Report Suite weiterhin verwenden, während Sie geräteübergreifende Analysen in Ihre Organisation einführen. Das Einrichten von CDA-VRS ist einfach.
 
 Wählen Sie in Schritt 1 des VRS-Builders die [!UICONTROL Report Suite], die von Adobe als CDA-fähig konfiguriert wurde:
 
@@ -92,7 +108,7 @@ Aktivieren Sie dann die [!UICONTROL Berichtszeitverarbeitung] und aktivieren Sie
 *Aktivieren [!UICONTROL von Berichtszeitverarbeitung] und [!UICONTROL Geräte-Stitching]*
 ![[!UICONTROL Virtual Report Suite] Schritt 2](assets/cda-vrs-step-two.png)
 
-Schließen Sie das VRS-Setup ab und speichern Sie es. Die VRS für die geräteübergreifende Analyse wird in Analysis Workspace mit einem speziellen Symbol daneben angezeigt, wie unten dargestellt:
+Beenden Sie die VRS-Einrichtung und speichern Sie sie. Die VRS für die geräteübergreifende Analyse wird in Analysis Workspace mit einem speziellen Symbol daneben angezeigt, wie unten dargestellt:
 
 *CDA-VRS in Analysis Workspace auswählen*
 ![[!UICONTROL Virtual Report Suite] Schritt 3](assets/cda-vrs-step-three.png)
@@ -103,21 +119,21 @@ Schließen Sie das VRS-Setup ab und speichern Sie es. Die VRS für die geräteü
 
 ### Wiederherstellen des Verlaufs
 
-Manchmal dauert es eine Weile, bis sich Ihre Benutzer anmelden und [!DNL Device Graph] sie identifizieren und ihre Geräte zuordnen kann. Die geräteübergreifende Analyse verwendet ein 30-tägiges Lookback-Fenster, sodass ein zuvor nicht identifizierter Besucher bis zu 30 Tage in der Vergangenheit als Person erneut angezeigt werden kann.
+Manchmal dauert es eine Weile, bis sich Ihre Benutzer anmelden und [!DNL Device Graph] sie identifizieren und ihre Geräte zuordnen kann. Die CDA verwendet ein 30-tägiges Lookback-Fenster, sodass eine zuvor nicht identifizierte Person bis zu 30 Tage in der Vergangenheit rückwirkend als Person neu zugeordnet werden kann.
 
-Wie hilft das? Erinnern Sie sich an die Customer Journey von Isabelle aus der obigen Diskussion:
+Wie hilft das? Erinnern Sie sich an die Benutzer-Journey von Isabelle aus der obigen Diskussion:
 
 ![[!DNL Cross-Device Analytics] Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Es ist möglich, dass sich Isabelle erst unmittelbar vor dem Kauf angemeldet hat und dass [!DNL Device Graph] die Geräte von Isabelle erst irgendwann nach ihrem Kauf zugeordnet hat. Aber der 30-tägige Lookback-Zeitraum der CDA ermöglicht es der CDA, Isabelles vergangenes Verhalten auf Personenebene erneut darzustellen und Ihnen die geräteübergreifende Ansicht ihrer benötigten Journey zu liefern.
+Es ist möglich, dass sich Isabelle erst unmittelbar vor dem Kauf angemeldet hat und dass [!DNL Device Graph] die Geräte von Isabelle erst irgendwann nach ihrem Kauf zugeordnet hat. Aber der 30-tägige Lookback-Zeitraum der CDA ermöglicht es der CDA, Isabelles vergangenes Verhalten auf Personenebene neu darzustellen und Ihnen die geräteübergreifende Ansicht ihrer Journey zu liefern, die Sie benötigen.
 
 >[!NOTE]
 >
->Da der Verlauf neu angegeben werden kann, können sich Ihre Daten im Laufe der Zeit in einer CDA-fähigen [!UICONTROL Virtual Report Suite] ändern. Beachten Sie dies bei der Kommunikation von Einblicken aus einer CDA-basierten Analyse.
+>Da der Verlauf neu angegeben werden kann, können sich Ihre Daten im Laufe der Zeit in einer CDA-fähigen [!UICONTROL Virtual Report Suite] ändern. Beachten Sie dies, wenn Sie Erkenntnisse aus einer CDA-basierten Analyse vermitteln.
 
 ## Voraussetzungen für [!UICONTROL geräteübergreifende Analyse]
 
-CDA ist enthalten in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/de/legal/product-descriptions/adobe-analytics.html). Ab September 2019 können [!DNL Analytics Ultimate]-Kunden, die die unten aufgeführten Voraussetzungen erfüllen, die geräteübergreifende Analyse nutzen. Die Voraussetzungen für die geräteübergreifende Analyse lauten wie folgt:
+CDA ist enthalten in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/de/legal/product-descriptions/adobe-analytics.html). Ab September 2019 können [!DNL Analytics Ultimate]-Kunden, die die unten aufgeführten Voraussetzungen erfüllen, die geräteübergreifende Analyse nutzen. Die Voraussetzungen für CDA lauten wie folgt:
 
 * Ihr Unternehmen muss [!DNL Adobe Experience Platform Identity Service Device Graph]. verwenden.
 * Sie müssen alles implementieren, was für [!DNL Device Graph] erforderlich ist, einschließlich die [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de) und die ID-Synchronisierung mit dem Graphen.
@@ -147,12 +163,12 @@ Im [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analyt
 
 Innerhalb einer CDA-VRS werden Dimensionen wie [!DNL eVars] nun automatisch geräteübergreifend beibehalten. Beispiel: eine [!DNL eVar] wird wie folgt konfiguriert:
 
-* Zuordnung: Zuletzt verwendet (Letzter)
+* Zuordnung: Zuletzt (Letzter)
 * Läuft ab nach: Kauf
 
 wird nun automatisch von einem Gerät zum anderen beibehalten, bis das Kaufereignis ausgelöst wird.
 
-## Analysieren geräteübergreifender Daten in Analysis Workspace
+## Analyse geräteübergreifender Daten in Analysis Workspace
 
 ### Personenbasierte Zielgruppenanalyse
 
@@ -170,16 +186,16 @@ Mit CDA und Analysis Workspace können Sie in der [[!DNL Flow visualization]](ht
 
 ### Geräteübergreifender [!DNL Fallout]
 
-Sie verwenden wahrscheinlich mehrere [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de), um zu analysieren, wie gut Benutzer eine bestimmte Reihe von Schritten durchlaufen, bevor sie erfolgreich sind. Wussten Sie, dass Ihre Sicht auf diese [!DNL Fallout visualizations] sehr begrenzt ist, wenn Sie traditionelle gerätebasierte Analysen verwenden? Um erfolgreich „durchzukommen“, muss der nächste Schritt im selben Browser oder in der selben Mobile App wie der vorherige Schritt erfolgen. In der gerätebasierten Analyse sind Sie blind für Personen, die den nächsten Schritt auf einem anderen Gerät erfolgreich abgeschlossen haben.
+Sie verwenden wahrscheinlich mehrere [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=de), um zu analysieren, wie gut Benutzer eine bestimmte Reihe von Schritten durchlaufen, bevor sie erfolgreich sind. Wussten Sie, dass Ihre Sicht auf diese [!DNL Fallout visualizations] sehr begrenzt ist, wenn Sie traditionelle gerätebasierte Analysen verwenden? Um erfolgreich „durchzukommen“, muss der nächste Schritt im selben Browser oder in derselben App wie der vorherige Schritt erfolgen. In der gerätebasierten Analyse haben Sie keine Kenntnis von Personen, die den nächsten Schritt auf einem anderen Gerät erfolgreich abgeschlossen haben.
 
-Keine Sorge, die geräteübergreifende Analyse deckt diesen Fall ab. Die geräteübergreifende Analyse erstellt die geräteübergreifende Ansicht, die [!DNL Fallout visualizations] viel, viel nützlicher macht. Schließlich kommt es vor allem darauf an, ob die betreffende Person ihre Aufgabe am Ende erfolgreich bewältigt hat, egal wo.
+Keine Sorge, CDA deckt diesen Fall ab. Die geräteübergreifende Analyse erstellt die geräteübergreifende Ansicht, die [!DNL Fallout visualizations] viel, viel nützlicher macht. Schließlich kommt es vor allem darauf an, ob die betreffende Person ihre Aufgabe am Ende erfolgreich bewältigt hat, egal wo.
 
 *[!DNL Fallout]mit CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Da die geräteübergreifende Analyse eine Schicht geräteübergreifender Daten unter Analysis Workspace erstellt, werden alle Ihre Analysen mit einer geräteübergreifenden Perspektive angereichert. Ein leistungsstarkes Beispie bietet: [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=de). Mit [!DNL Attribution IQ] in Analysis Workspace können Sie mehrere Attributionsmodelle nebeneinander vergleichen. Mithilfe dieser Funktion mit der geräteübergreifenden Analyse können Sie jetzt vergleichen, wie verschiedene Geräte zum Erfolg beitragen.
+Da CDA eine Schicht geräteübergreifender Daten unter Analysis Workspace erstellt, werden alle Ihre Analysen von einer geräteübergreifenden Perspektive geprägt. Ein leistungsstarkes Beispie bietet: [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=de). Mit [!DNL Attribution IQ] in Analysis Workspace können Sie mehrere Attributionsmodelle nebeneinander vergleichen. Mithilfe dieser Funktion in CDA können Sie jetzt vergleichen, wie verschiedene Geräte zum Erfolg beitragen.
 
 Angenommen, Sie möchten verstehen, wie oft ein Mobiltelefon das erste Gerät ist, das in einer Interaktion verwendet wird, die letztendlich zum Erfolg führt. Dies entspricht der „Akquise-Rate“ des Mobiltelefons. CDA + [!DNL Attribution IQ] ermöglicht Ihnen diese Analyse:
 

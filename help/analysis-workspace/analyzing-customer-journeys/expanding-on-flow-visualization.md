@@ -35,7 +35,7 @@ ht-degree: 100%
 
 In diesem Video werden die verschiedenen Rechtsklickoptionen in der [!DNL Flow visualization] in Analysis Workspace gezeigt. Zu den Optionen gehören das Erstellen eines Segments aus einem Pfad, das Reduzieren von Spalten und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328039/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=de#analysis-workspace).
 

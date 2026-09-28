@@ -49,7 +49,7 @@ ht-degree: 95%
 ---
 # Tipps und Tricks, wie Sie die Schulung von Benutzenden vereinfachen und weniger Zeit darauf verwenden können
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341102/?captions=ger&quality=12&learn=on)
 
 Um eine Kultur der datengestützten Entscheidungsfindung aufzubauen, ist es wichtig, dass die geschäftlichen Benutzenden in Ihrer Organisation gut in Adobe Analytics geschult sind. Benutzer, die problemlos Informationen in Adobe Analytics finden, können einfache Geschäftsfragen selbständig beantworten, sodass Analysten mehr Zeit für die Beantwortung von anspruchsvolleren Geschäftsfragen haben. Die Weitergabe Ihres Wissens fördert die Demokratisierung von Daten und ermöglicht den geschäftlichen Benutzern mehr Unabhängigkeit bei leistungsbezogenen Entscheidungen.
 

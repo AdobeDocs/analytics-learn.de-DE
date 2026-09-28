@@ -45,7 +45,7 @@ ht-degree: 73%
 
 Aktionen sind Ereignisse, die in Ihrer App auftreten. In diesem Video erfahren Sie, wie Sie mit der trackAction-API eine Aktion verfolgen und messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328306/?captions=ger&quality=12&learn=on)
 
 Dies ist die API, die Sie verwenden sollten, um alle Aktionen auf Ihrer Site zu tracken, bei denen kein Bildschirm geladen wird. Wenn der Bildschirm angezeigt wird, verwenden Sie trackState, was einen Seitenansicht-Treffer auslöst. Verwenden Sie andernfalls trackAction, um Variablen zu senden, die mit der ausgeführten Aktion verknüpft sind.
 

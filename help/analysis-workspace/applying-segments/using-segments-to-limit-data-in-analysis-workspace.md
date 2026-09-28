@@ -38,4 +38,4 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie Sie Benutzende eines Analysis-Workspace-Projekts während ihrer Arbeit mit dem Tool auf ein bestimmtes Segment (oder bestimmte Segmente) beschränken können.
 
->[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328760/?captions=ger&quality=12&learn=on)

@@ -41,6 +41,6 @@ ht-degree: 100%
 
 „Schnellsegmente“ ermöglichen die vereinfachte Segmentierung direkt in der Arbeitsfläche von Workspace. Damit können Benutzende Segmente mit bis zu drei Regeln aufbauen, ohne ihren Analyse-Workflow verlassen zu müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410293/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=de).

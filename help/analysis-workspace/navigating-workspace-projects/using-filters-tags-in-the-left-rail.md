@@ -53,4 +53,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Filter, sogenannte Tags, in Analysis Workspace verwenden. Dies sind zeitsparende Methoden, mit denen Sie Ihr Projekt effizient aufbauen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36762/?captions=ger&quality=12&learn=on)

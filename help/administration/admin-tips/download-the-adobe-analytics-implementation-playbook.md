@@ -9,34 +9,50 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
   - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1823
+source-wordcount: '1823'
 ht-degree: 89%
-
 ---
-
 # Adobe Analytics-Implementierungs-Playbook herunterladen
 
 Bevor Sie beginnen, [laden Sie das Playbook herunter](assets/aa-implementation-playbook.xlsx).
@@ -86,16 +102,16 @@ Screenshot der Beispiel-SDR:
 Es wird auch empfohlen, dieses Tagging-Dokument zu verwenden, um alle freien Variablen und alle „Junk“-Variablen im Auge zu behalten. Wenn eine Dimension nicht mehr nützlich ist, braucht der Entwickler normalerweise eine Weile, um sie zu löschen. Selbst danach kann es zum Caching kommen, oder Sie stellen fest, dass die Dimension auch an anderer Stelle festgelegt wurde. Das Bereinigen von Dimensionen ist nicht einfach und erfordert oft Geduld. Hier sind einige Tipps, wie Sie Ihren Müll unter dem Bett verstecken können, damit Ihre Benutzer nicht den Überblick verlieren.
 
 * Alle nicht verwendeten Dimensionen/Ereignisse sind entweder „frei“ oder „werden gelöscht“.
-   * Wenn die Dimension in den letzten 90 Tagen Junk-Werte hatte, ist der Status „wird gelöscht“.
-   * Wenn die Dimension mindestens in den letzten 90 Tagen frei und sauber war, ist der Status „frei“.
-   * Markieren Sie diese als solche unter „Name“ im Tagging-Dokument, so dass Sie leicht nach ihnen filtern können. Ich lasse diese im Tagging-Dokument (Excel-Datenfilter) unmarkiert, damit die Benutzer sie nicht sehen.
-   * Markieren Sie diese als eVar-Namen in der Benutzeroberfläche, damit die Benutzer sie bei einer Suche nicht finden (z. B. „(v6)“) und entfernen Sie die Beschreibung in der Benutzeroberfläche.
+  * Wenn die Dimension in den letzten 90 Tagen Junk-Werte hatte, ist der Status „wird gelöscht“.
+  * Wenn die Dimension mindestens in den letzten 90 Tagen frei und sauber war, ist der Status „frei“.
+  * Markieren Sie diese als solche unter „Name“ im Tagging-Dokument, so dass Sie leicht nach ihnen filtern können. Ich lasse diese im Tagging-Dokument (Excel-Datenfilter) unmarkiert, damit die Benutzer sie nicht sehen.
+  * Markieren Sie diese als eVar-Namen in der Benutzeroberfläche, damit die Benutzer sie bei einer Suche nicht finden (z. B. „(v6)“) und entfernen Sie die Beschreibung in der Benutzeroberfläche.
 * Auf diese Weise können Sie, wenn eine neue Dimension benötigt wird, in der Spalte „Name“ einfach nach „frei“ filtern, um eine saubere Dimension zu finden.
 * Für die Dimensionen und Ereignisse im Status „wird gelöscht“ empfehle ich Ihnen, diese mit Workspace nachzuverfolgen:
-   * Erstellen Sie ein nur für Administratoren sichtbares Projekt mit 3 Tabellen: eVars, Props und Ereignisse. Ich verwende „Instanzen“ für die spezifischen eVars, und für Props erstelle ich HIT-Segmente, zum Beispiel mit „prop5 ist vorhanden“.
-   * Datum auf „Letzte 90 Tage“ festlegen
-   * Verwenden Sie die obigen Angaben als Zeilen in den 3 Tabellen, zusammen mit ihren Vorkommen.
-   * Sobald etwas den Wert „0“ erreicht, markiere ich es im Tagging-Dokument als „frei“ und entferne es aus dem Workspace-Projekt.
+  * Erstellen Sie ein nur für Administratoren sichtbares Projekt mit 3 Tabellen: eVars, Props und Ereignisse. Ich verwende „Instanzen“ für die spezifischen eVars, und für Props erstelle ich Treffersegmente, zum Beispiel mit „prop5 ist vorhanden“.
+  * Datum auf „Letzte 90 Tage“ festlegen
+  * Verwenden Sie die obigen Angaben als Zeilen in den 3 Tabellen, zusammen mit ihren Vorkommen.
+  * Sobald etwas den Wert „0“ erreicht, markiere ich es im Tagging-Dokument als „frei“ und entferne es aus dem Workspace-Projekt.
 
 Auf diese Weise sind Ihre Daten immer sauber und Sie haben eine klare Vorstellung von Ihrem Junk.
 

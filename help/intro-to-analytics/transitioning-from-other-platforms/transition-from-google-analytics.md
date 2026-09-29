@@ -1,5 +1,5 @@
 ---
-title: Ausführliches Handbuch für den Umstieg von Google Analytics auf Adobe Analytics
+title: Umfassender Leitfaden für den Umstieg von Google Analytics auf Adobe Analytics
 description: Erfahren Sie, wo äquivalente Funktionen zu finden sind und wie Sie diese beim Wechsel von Google Analytics zu Adobe Analytics effizient nutzen können.
 feature: Third-party Integration
 role: User
@@ -7,57 +7,83 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+TQID: 'https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+    internal-label: Custom reports
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 3446
+source-wordcount: '3447'
 ht-degree: 94%
-
 ---
-
 # Ausführliches Handbuch für den Umstieg von Google Analytics auf Adobe Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
 ## &#x200B;1. Einführung
 
-Eine der größten Herausforderungen bei der Umstellung von einem Tool auf ein anderes besteht darin, zu lernen, wo die entsprechenden Funktionen zu finden sind und wie man sie effizient nutzt. Diese Ausführungen sind Teil einer umfangreicheren Anleitung, die Benutzern den Umstieg auf Adobe Analytics erleichtern soll (entweder als neuer Benutzer oder als jemand, der zuvor Google Analytics verwendet hat). Ein ausführlicher Vergleich mit GA (dem Vergleichs-Tool, mit dem wahrscheinlich die meisten Benutzenden vertraut sind) sollte Ihnen helfen, Ihr vorhandenes Wissen auf das neue Toolset anzuwenden. Wenn es keine anderen Möglichkeiten zum Üben gibt, hilft Ihnen das, den Einstieg zu finden und Frustrationen, die möglicherweise während dieser Zeit auftreten, zu reduzieren.
+Eine der größten Herausforderungen bei der Umstellung von einem Tool auf ein anderes besteht darin, zu lernen, wo die entsprechenden Funktionen zu finden sind und wie man sie effizient nutzt. Diese Ausführungen sind Teil einer umfangreicheren Anleitung, die Benutzern den Umstieg auf Adobe Analytics erleichtern soll (entweder als neuer Benutzer oder als jemand, der zuvor Google Analytics verwendet hat). Ein ausführlicher Vergleich mit GA (dem Vergleichs-Tool, mit dem wahrscheinlich die meisten Benutzenden vertraut sind) sollte Ihnen helfen, Ihr vorhandenes Wissen auf das neue Toolset anzuwenden. Da es für Übung keinen Ersatz gibt, hilft Ihnen dies beim Einstieg und reduziert Frustrationen, die in dieser Zeit auftreten können.
 
 Lassen Sie uns kurz die Terminologie vergleichen:
 
 | **Beschreibung** | **Adobe Analytics** | **Google Analytics** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
-| Eine Ereignismetrik, die anzeigt, dass eine Seite (oder ein Bildschirm in einer Mobile App) angesehen wurde | Seitenansicht | Seitenansicht. |
+| Eine Metrik für Ereignisse, die anzeigt, dass eine Seite (oder ein Bildschirm in einer App) angesehen wurde | Seitenansicht | Seitenansicht. |
 | Eine Metrik, die eine Reihe von Interaktionen auf Ihrer Website oder Mobile App darstellt, welche im gleichen Zeitrahmen stattfinden | Besuch | Sitzung |
-| Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zu vereinen) | Unique Visitor | Benutzer |
+| Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zusammenzuführen) | Unique Visitor | Benutzer |
 
 ## &#x200B;2. Die Schnittstellen
 
@@ -73,7 +99,7 @@ Sowohl Adobe Analytics als auch Google Analytics bieten die Möglichkeit, die er
 
 ##### 2.1.1.1. Workspace / Benutzerdefinierter Startbildschirm (Adobe Analytics)
 
-Adobe Analytics erstellt keinen vorgefertigten Bericht, der allen Benutzern bei der Anmeldung präsentiert wird. Die standardmäßige Startseite bringt Benutzende zum Startbildschirm für Workspace, auf dem für alle Benutzenden Workspace-Berichte angezeigt werden, die sie erstellt haben oder die für sie freigegeben wurden. Außerdem haben alle Benutzenden die Möglichkeit, einen dieser Berichte als Startbildschirm festzulegen, wenn sie dies möchten.
+Adobe Analytics erstellt keinen vorkonfigurierten Bericht, der allen Benutzenden bei der Anmeldung präsentiert wird. Die Standard-Startseite bringt Benutzende zum Workspace-Startbildschirm, auf dem für jede Benutzerin bzw. jeden Benutzer alle Workspace-Berichte angezeigt werden, die sie bzw. er erstellt hat oder die für sie bzw. ihn freigegeben wurden. Außerdem kann jede Benutzerin bzw. jeder Benutzer einen dieser Berichte als Startseite festlegen, wenn sie bzw. er dies möchte.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -87,7 +113,7 @@ Weitere Einzelheiten zu Workspace werden später in diesem Handbuch erläutert. 
 
 ##### 2.1.1.2. Startbildschirm-Einblicke (Google Analytics)
 
-* Der Google Analytics-Startbildschirm bietet Ihnen einige vordefinierte Visualisierungen. Diese umfassen u. a. Folgendes:
+* Die Google Analytics-Startseite bietet Ihnen einige vorkonfigurierte Visualisierungen. Diese umfassen u. a. Folgendes:
 * Benutzende, Sitzungen, Absprungrate und Sitzungsdauer in den letzten sieben Tagen
 * Benutzer nach Tageszeit in den letzten 30 Tagen
 * Aktuelle Benutzer und die aktivsten Seiten
@@ -97,11 +123,11 @@ Weitere Einzelheiten zu Workspace werden später in diesem Handbuch erläutert. 
 * Trend der aktiven Benutzer für die letzten 30 Tage
 * und vieles mehr
 
-Bei GA4 haben die Benutzer mehr Möglichkeiten, den Startbildschirm anzupassen und ihre eigenen Berichte hinzuzufügen.
+GA4-Benutzende haben mehr Möglichkeiten, die Startseite anzupassen und eigene Berichte hinzuzufügen.
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-Dies ist wahrscheinlich die Sache, die Sie in Adobe Analytics am meisten vermissen. Es gibt keinen vorgefertigten Startbildschirm für Sie. Sie können jedoch ganz einfach einen benutzerdefinierten Arbeitsbereich einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und diesen als Ihren Startbildschirm festlegen. Weitere Informationen zu diesem Thema finden Sie später (oder im Abschnitt 2.1.2.1 Adobe Workspace).
+Dies ist wahrscheinlich das, was Sie in Adobe Analytics am meisten vermissen. Es gibt keine vorkonfigurierte Startseite für Sie. Sie können jedoch ganz einfach einen benutzerdefinierten Arbeitsbereich einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und diesen als Ihre Startseite festlegen. Weitere Informationen zu diesem Thema finden Sie später (oder im Abschnitt 2.1.2.1 Adobe Workspace).
 
 #### 2.1.2. In-Site Report Builder
 
@@ -109,11 +135,11 @@ Zusätzlich zu den einfachen Berichten, die die Analyse-Tools bereitstellten, bi
 
 ##### 2.1.2.1. Adobe Analytics Workspace
 
-Dies ist das Kraftzentrale von Adobe Analytics. Seit seiner Einführung im Jahr 2017 ist es die erste Anlaufstelle für Analytics-Analysen und der Hauptgrund dafür, dass der Bereich „Berichte“ demnächst eingestellt wird.
+Dies ist das Zentrum von Adobe Analytics. Seit seiner Einführung im Jahr 2017 ist es die erste Anlaufstelle für Analytics-Analysen und der Hauptgrund dafür, dass der Bereich „Berichte“ demnächst eingestellt wird.
 
 Mit diesem Tool können Sie Berichte mit umfassender Freiheit erstellen.
 
-Der Bericht kann in Bereiche unterteilt werden, die eine beliebige Anzahl von Visualisierungen enthalten können. Die Bereiche können auf allgemeine Informationen wie Datumsbereiche und allgemeine Segmentfilter eingestellt werden.
+Der Bericht kann in Panels unterteilt werden, und diese Panels können eine beliebige Anzahl von Visualisierungen enthalten. Die Bereiche können auf allgemeine Informationen wie Datumsbereiche und allgemeine Segmentfilter eingestellt werden.
 
 Sowohl die Bereiche als auch die darin enthaltenen Visualisierungen können in der Größe verändert und verschoben werden, um Elemente nebeneinander oder übereinander anzuzeigen. Wenn Sie also zwei verschiedene Datenreihen nebeneinander vergleichen möchten, können Sie Bereiche erstellen, die in der Mitte 50/50 geteilt sind und die beiden Sites nebeneinander zeigen, um einen einfachen Vergleich zu ermöglichen.
 
@@ -124,22 +150,22 @@ Benutzern steht eine Vielzahl von Visualisierungen zur Verfügung:
 * Fallout
 * Fluss
 * Diagramme
-   * Fläche (gestapelt und ungestapelt)
-   * Linie
-   * Streuung
-   * Balken (gestapelt und ungestapelt)
-   * Horizontales Säulendiagramm
-   * Ringdiagramm
-   * Histogramm
-   * Horizontaler Balken (gestapelt und ungestapelt)
+  * Fläche (gestapelt und ungestapelt)
+  * Linie
+  * Streuung
+  * Balken (gestapelt und ungestapelt)
+  * Horizontales Säulendiagramm
+  * Ringdiagramm
+  * Histogramm
+  * Horizontaler Balken (gestapelt und ungestapelt)
 * Zuordnung
 * Zusammenfassende Blöcke
-   * Zusammenfassende Änderung
-   * Zusammenfassender Text
-   * Text (freies Textfeld zur Eingabe zusätzlicher Informationen, um den Kontext zu verdeutlichen)
+  * Zusammenfassende Änderung
+  * Zusammenfassender Text
+  * Text (freies Textfeld zur Eingabe zusätzlicher Informationen, um den Kontext zu verdeutlichen)
 * Venn
 
-Jeder Bereich und jede Visualisierung kann betitelt und mit einer Beschreibung versehen werden, um den Kontext der angezeigten Informationen zu verdeutlichen.
+Jedes Panel und jede Visualisierung kann betitelt und mit einer Beschreibung versehen werden, um den Kontext der angezeigten Informationen zu verdeutlichen.
 In Adobe können Segmente (im Wesentlichen Filter für Daten) rückwirkend angewendet werden, und diese können in Spalten Ihrer Freiformtabellen übernommen werden, um Daten Seite an Seite zu vergleichen. Wenn ein Benutzer beispielsweise zwei verschiedene Kategorien auf seiner Website hinsichtlich der Besucherzahlen vergleichen möchte, kann er ein Segment für „Kategorie A“ und ein anderes Segment für „Kategorie B“ erstellen.
 
 ![analytics-page-views-report](assets/ga-to-aa_3.png)
@@ -158,7 +184,7 @@ Mit Workspace können Sie Ihrer Kreativität freien Lauf lassen, Sie sind nicht 
 
 Sie können ad-hoc berechnete Metriken oder Segmente erstellen, die nur innerhalb des Berichts verwendet werden, um zu verhindern, dass Ihr Segment- und Berechnungs-Repository überflutet wird. So können Sie zielgerichtete Elemente erstellen, die für bestimmte Berichte benötigt werden, ohne Ihr Unternehmen durch Dinge zu belasten, die in anderen Kontexten nicht verwendbar sind.
 
-Diese Ausführungen sind nur eine Einführung in dieses Tool. Es existieren weitere umfassende Handbücher, die Ihnen den Einstieg erleichtern. Sobald Sie diese Handbücher durchgesehen haben, erstellen Sie umfassende Berichte wie den folgenden:
+Diese Ausführungen sind nur eine Einführung in dieses Tool. Es existieren weitere umfassende Handbücher, die Ihnen den Einstieg erleichtern. Sobald Sie diese Handbücher geprüft haben, können Sie umfassende Berichte wie den folgenden erstellen:
 
 ![workspace-dashboard](assets/ga-to-aa_5.png)
 
@@ -180,7 +206,7 @@ Google-Dashboards und benutzerdefinierte Berichte ermöglichen es Ihnen, mehrere
 
 Bei benutzerdefinierten Berichten besteht eine der größten Herausforderungen darin, dass ein Filter, den Sie erstellen, für alle Registerkarten des Berichts gilt. Es gibt keine Möglichkeit, zwei verschiedene Filter innerhalb desselben Berichts zu vergleichen.
 
-Für Oberflächenvergleiche ist das jedoch kein Problem. All diese Funktionen ähneln denen der älteren Dashboards, benutzerdefinierten Berichten und Lesezeichen von Adobe. Grundlegende Tools zur Erfüllung Ihrer Anforderungen, die in der Report Suite enthalten sind.
+Für oberflächliche Vergleiche erfüllt es seinen Zweck. All diese Funktionen ähneln denen der älteren Dashboards, benutzerdefinierten Berichten und Lesezeichen von Adobe. Grundlegende Tools zur Erfüllung Ihrer Anforderungen, die in der Report Suite enthalten sind.
 
 #### 2.1.3. Berichte
 
@@ -202,33 +228,33 @@ Site-Content ist eine Gruppierung von Adobe-Standarddimensionen: Seitenname, Sit
 
 Mobile ist eine Gruppierung mobilgerätespezifischer Daten, einschließlich Geräten, Gerätetypen und mehr. Diese sind in Workspace verfügbar.
 
-Pfade sind in Workspace nicht verfügbar. Workspace verfügt über ein Flussdiagramm, in dem Sie die Ein- und Ausgangsströme für eine einzelne Seite/einen einzelnen Wert sehen können. Im Gegensatz dazu können Sie mit „Paths“ die am häufigsten verwendeten Pfade in Ihrer Website anzeigen. Standardmäßig ist „Seiten“ der erste Pfadbericht, der für Sie eingerichtet wird. Sie können dieses jedoch für benutzerdefinierte Eigenschaften wie den Wert „Seitentyp“ aktivieren. Sie können sich die Pfade innerhalb der Seitentypen ansehen. Ein weiterer Punkt, der mir persönlich an der Funktion „Pfade“ gefällt, ist die einfache Art und Weise, in der die Informationen präsentiert werden... Das Flussdiagramm in Workspace kann (abhängig von der angezeigten Datenmenge) schnell überwältigend werden. Ich empfehle, beide auszuprobieren... beide haben ihren Nutzen und Wert, je nachdem, was Sie erreichen wollen. Es sollte beachtet werden, dass für „Flüsse“ jede Dimension verwendet werden kann, während die Pfadbestimmung in einer Prop in der Verwaltungskonsole eingerichtet werden muss.
+Pfade sind in Workspace nicht verfügbar. Workspace verfügt über eine Flussvisualisierung, in der Sie die Ein- und Ausstiegsflüsse für eine einzelne Seite bzw. einen einzelnen Wert sehen können. Im Gegensatz dazu können Sie mit „Paths“ die am häufigsten verwendeten Pfade in Ihrer Website anzeigen. Standardmäßig ist „Seiten“ der erste Pfadbericht, der für Sie eingerichtet wird. Sie können dies jedoch für benutzerdefinierte Eigenschaften wie den Wert „Seitentyp“ aktivieren. Sie können sich die Pfade innerhalb der Seitentypen ansehen. Ein weiterer Punkt, der mir persönlich an der Funktion „Pfade“ gefällt, ist die einfache Art und Weise, in der die Informationen präsentiert werden... Das Flussdiagramm in Workspace kann (abhängig von der angezeigten Datenmenge) schnell überwältigend werden. Ich empfehle, beide auszuprobieren... beide haben ihren Nutzen und Wert, je nachdem, was Sie erreichen wollen. Es sollte beachtet werden, dass in Flüssen jede Dimension verwendet werden kann, während die Pfadberichte in einer Prop im Adminbereich eingerichtet werden müssen.
 
 Die Berichte über Traffic-Quellen, Kampagnen und Marketing-Kanäle ähneln alle dem Akquisebericht bei Google. Der Bericht über Traffic-Quellen konzentriert sich auf die tatsächlichen Referrer, der Bericht über Kampagnen konzentriert sich auf Ihre Kampagnen-Codes, und der Bericht über Marketing-Kanäle konzentriert sich ebenfalls auf Kampagnen-Codes, wendet aber zusätzlich eine von Ihnen festgelegte Logik an, wie die Informationen zu verarbeiten sind. Adobe bietet mehr Freiheit beim Einrichten von Regeln. Im Gegensatz dazu erledigt Google zahlreiche Dinge für Sie, und das bedeutet ein Umdenken. Standardmäßig beträgt die Attribution bei Google für Campaign-Codes sechs Monate. Die Attribution bei Adobe ist standardmäßig auf eine Woche eingestellt. Sie können dies zwar in Ihren Admin-Einstellungen ändern, aber in Workspace können Sie tatsächlich eine benutzerdefinierte Attribution auf jede Dimension anwenden, was Ihnen viel mehr spontanen Spielraum bietet.
 
 Die Berichte zur Besucherbindung und zum Besucherprofil ähneln den Zielgruppenberichten in Google Analytics. Die Besucherbindung konzentriert sich eher auf die Häufigkeit der Wiederkehr, während das Besucherprofil eher auf die Geografie und Technologie der Nutzer ausgerichtet ist.
 
-Benutzerspezifische Konversions- und Traffic-Berichte sind beide benutzerspezifische Dimensionsberichte. Konversionen sind eVars. Sie können für einen benutzerdefinierten Ablauf den Wert festlegen, wie Treffer, Besuch, Monat und Jahr. Dieser Wert bleibt für einen Benutzer für den konfigurierten Zeitrahmen persistent, es sei denn, er wurde überschrieben. Traffic-Variablen sind Props. Sie können diese auch für Pfadberichte oder als Listenelemente einrichten, wobei Mehrfachwerte auf der Grundlage eines von Ihnen gewählten Trennzeichens aufgeteilt werden.
+Benutzerdefinierte Konversion- und Traffic-Berichte sind beide benutzerdefinierte Dimensionsberichte. Konversionen sind eVars. Sie können einen benutzerdefinierten Ablauf für den Wert festlegen, zum Beispiel Treffer, Besuch, Monat oder Jahr. Dieser Wert bleibt für einen Benutzer für den konfigurierten Zeitrahmen persistent, es sei denn, er wurde überschrieben. Traffic-Variablen sind Props. Sie können diese auch für Pfadsetzungsberichte oder als Listenelemente einrichten, wobei mehrere Werte anhand eines von Ihnen gewählten Trennzeichens aufgeteilt werden.
 
 „Medien“ ist z. B. für Videos oder Audiodateien, für die Sie ein spezielles Medien-Tracking eingerichtet haben.
 
-„Benutzerdefinierte Berichte“ ist ein Bereich, in dem ein Benutzer die Spalten und Aufschlüsselungen, die er innerhalb der Berichtsschnittstelle erstellt hat, anpassen und als benutzerdefinierten Bericht speichern kann. Da Workspace jedoch, wie bereits erwähnt, so viel leistungsfähigere Aufschlüsselungen und Korrelationen ermöglicht, sollten alle benutzerdefinierten Anpassungen dort vorgenommen werden. Dies war eine gute Lösung, bevor es Workspace gab.
+„Benutzerdefinierte Berichte“ ist ein Abschnitt, in dem eine Benutzerin bzw. ein Benutzer die Spalten und Aufschlüsselungen, die sie bzw. er innerhalb der Berichtsschnittstelle erstellt hat, anpassen und als benutzerdefinierten Bericht speichern kann. Da Workspace jedoch, wie bereits erwähnt, deutlich leistungsfähigere Aufschlüsselungen und Korrelationen ermöglicht, sollten alle individuellen Anpassungen dort vorgenommen werden. Dies war eine gute Lösung, bevor es Workspace gab.
 
-Der Abschnitt „Lesezeichen“ ähnelt den benutzerdefinierten Berichten, wo häufig verwendete Berichte in der Berichtsschnittstelle mit Lesezeichen versehen werden können, damit sie leichter gefunden werden können.
+Der Abschnitt „Lesezeichen“ ähnelt „Benutzerdefinierte Berichte“, wo häufig verwendete Berichte in der Berichtsschnittstelle mit Lesezeichen versehen werden können, damit sie leichter gefunden werden können.
 
 Dashboard war ein älteres Produkt, das es ermöglichte, Reportlets von Daten in einer Visualisierung zu kombinieren. Die Funktionalität in Workspace (Abschnitt 2.1.2.1) ist jedoch so viel einfacher zu handhaben, dass es nur noch als Zugangspunkt zu veralteten Berichten existiert, die neu erstellt werden sollten, bevor diese Funktion eingestellt wird.
 
-Zielvorgaben ermöglichen es, einen Bericht zu erstellen, der auf einer Zielvorgabe innerhalb eines bestimmten Zeitraums basiert. Teams überwachen Kampagnen, um festzustellen, ob sie auf dem richtigen Weg sind, um ihre Traffic-Ziele zu erreichen.
+Ziele ermöglichen es, einen Bericht zu erstellen, der auf einem Ziel innerhalb eines bestimmten Zeitraums basiert. Teams überwachen Kampagnen, um festzustellen, ob sie auf dem richtigen Weg sind, um ihre Traffic-Ziele zu erreichen.
 
-Alle Berichte in diesem Bereich können nach mehreren metrischen Spalten und Dimensionen aufgeschlüsselt werden. Die Einfachheit der Visualisierungen und die dahinter stehende Logik, welche Elemente miteinander in Beziehung gesetzt werden können, können manchmal jedoch frustrierend sein.
+Alle Berichte in diesem Bereich erlauben mehrere Metrikspalten und Dimensionsaufschlüsselungen. Die Einfachheit der Visualisierungen und die dahinter stehende Logik, welche Elemente miteinander in Beziehung gesetzt werden können, können manchmal jedoch frustrierend sein.
 
 ##### 2.1.3.2. Google Analytics-Berichte
 
-Google Analytics unterteilt diese Berichte in die folgenden Abschnitte: Echtzeit, Zielgruppe, Akquise, Verhalten und Gespräche (in GA3) und in Lebenszyklus (mit den Unterabschnitten Akquise, Interaktion, Monetarisierung, Kundenbindung) und Benutzende (mit den Unterabschnitten Demografie und Technik).
+Google Analytics unterteilt diese Berichte in die folgenden Abschnitte: Echtzeit, Zielgruppe, Akquise, Verhalten und Gespräche (in GA3) und in Lebenszyklus (mit den Unterabschnitten: Akquise, Interaktion, Monetarisierung, Kundenbindung) und Benutzerin bzw. Benutzer (mit den Unterabschnitten. Demografie und Technik).
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
-Sie können diese Visualisierungen geringfügig anpassen, eine sekundäre Dimensionsaufschlüsselung hinzufügen, die Visualisierung ändern, einen Filter für die Daten erstellen und vieles mehr Sie können Ihre Anpassungen als gespeicherten Bericht speichern.
+Sie können diese Visualisierungen geringfügig anpassen, eine sekundäre Dimensionsaufschlüsselung hinzufügen, die Visualisierung ändern, einen Filter für die Daten erstellen und vieles mehr. Sie können Ihre Anpassungen als gespeicherten Bericht sichern.
 
 So erhalten Sie schnell und einfach Einblicke in Ihre Daten. Sie können jedoch nicht Dinge wie Benutzer mit Seitenaufrufen für eine Seite in derselben Tabelle vergleichen und Sie können nicht mehr als eine zusätzliche Dimension hinzufügen, um zusätzliche Daten zu sehen.
 
@@ -242,7 +268,7 @@ Zusätzlich zum „In-Site-Reporting“ bieten die meisten Tools erweiterte Funk
 
 Workspace ist ein großartiges Tool, aber manchmal müssen Sie Ihre Daten in eine benutzerdefinierte Kalkulationstabelle übertragen, möglicherweise mit dem Ziel, mehrere Datenquellen miteinander zu verknüpfen. An dieser Stelle kommt Report Builder ins Spiel.
 
-Report Builder ist ein Plug-in für Microsoft® Excel, mit dem Sie Verbindungen zu Ihren Adobe Analytics-Daten erstellen können, um tabellarische Daten zu erhalten, die Sie in Excel bearbeiten können. Um dies effizient zu nutzen, würden Sie in der Regel die Daten in einige Rohdaten-Registerkarten einlesen und dann Zellverweise in Excel verwenden, um die Daten aus diesen Registerkarten in einen einzigen konsolidierten Bericht einzulesen und dann Diagramme und Visualisierungen zu erstellen.
+Report Builder ist ein Plug-in für Microsoft® Excel, mit dem Sie Verbindungen zu Ihren Adobe Analytics-Daten erstellen können, um tabellarische Daten zu erhalten, die Sie in Excel bearbeiten können. Um dies effizient zu nutzen, würden Sie in der Regel die Daten in einige Rohdatenregisterkarten abrufen und dann Zellverweise in Excel verwenden, um die Daten aus diesen Registerkarten in einen einzigen konsolidierten Bericht zu übernehmen und anschließend Diagramme und Visualisierungen zu erstellen.
 
 >[!NOTE]
 >
@@ -250,16 +276,16 @@ Report Builder ist ein Plug-in für Microsoft® Excel, mit dem Sie Verbindungen 
 
 #### 2.2.2. Adobe Analytics-API-Verbindung
 
-Wenn Sie Adobe Analytics-Daten mit etwas anderem als Excel verarbeiten müssen und die verarbeiteten Daten einschließlich der Bot-Regel-Ausschlüsse benötigen, verwenden Sie die API von Adobe, um die Daten direkt abzurufen. Verarbeiten Sie dann die Daten mithilfe eines Skripts oder fügen Sie sie einer Datenbank hinzu, um sie mit einem anderen System zu verwenden.
+Wenn Sie Adobe Analytics-Daten mit etwas anderem als Excel verarbeiten müssen und die verarbeiteten Daten einschließlich der Bot-Regel-Ausschlüsse benötigen, verwenden Sie die API von Adobe, um die Daten direkt abzurufen. Verarbeiten Sie anschließend die Daten mithilfe eines Skripts oder fügen Sie sie einer Datenbank hinzu, um sie in einem anderen System zu verwenden.
 
-Es sollte beachtet werden, dass die API nach wie vor Korrelationsdaten abruft, wobei die in der Abrufanfrage angegebenen Aufschlüsselungen und Segmente angewendet werden.
+Es sollte beachtet werden, dass die API nach wie vor Korrelationsdaten abruft und dabei die in der Pull-Anfrage angegebenen Aufschlüsselungen und Segmente anwendet.
 
 Adobes Workspace (Abschnitt 2.1.2.1) verwendet die -API zum Erstellen der Berichte. Wenn Sie in Workspace den Debugging-Modus aktivieren, werden die verwendeten API-Aufrufe genau angezeigt. Auf diese Weise können Sie Ihre API-Aufrufe schnell erstellen. Indem Sie Workspace zum Erstellen und Überprüfen der Daten verwenden, die Sie abrufen möchten, verwenden Sie diese API-Aufrufe, um die Daten an Ihre eigene Verarbeitung weiterzugeben.
 
 
 #### 2.2.3. Google Analytics Data Studio
 
-Wenn Sie weitergelesen haben, wissen Sie bereits, dass ich Data Studio als Äquivalent zu Workspace von Adobe erwähnt habe. Mit Data Studio können Sie Google Analytics-Daten, aber auch Daten aus anderen Quellen einlesen. Dies ist hilfreich, wenn Sie Ihre Analysedaten mit anderen erfassten Daten zusammenführen möchten. Bei Google Analytics gibt es jedoch die gleichen Visualisierungsbeschränkungen. Die Art und Weise, wie die Zeilen und Spalten aufgebaut sind, ist immer noch begrenzt.
+Wenn Sie weitergelesen haben, wissen Sie bereits, dass ich Data Studio als Äquivalent zu Workspace von Adobe erwähnt habe. Mit Data Studio können Sie Google Analytics-Daten, aber auch Daten aus anderen Quellen abrufen. Dies ist hilfreich, wenn Sie Ihre Analysedaten mit anderen erfassten Daten zusammenführen möchten. Bei Google Analytics gibt es jedoch die gleichen Einschränkungen bei den Visualisierungen. Die Art und Weise, wie die Zeilen und Spalten aufgebaut sind, ist immer noch begrenzt.
 
 Es ist immer noch ein leistungsstarkes Tool, und ich würde niemandem davon abraten, es zu verwenden. Meine persönliche Erfahrung ist, dass ich das unflexible Verhalten ziemlich einschränkend empfinde.
 
@@ -292,9 +318,9 @@ Statt jedoch einen vollständigen Dump der Rohdaten bereitzustellen, ermöglicht
 
 ## &#x200B;4. Zusammenfassung
 
-Wie bei jedem System ist Übung erforderlich, um sich mit dem Tool vertraut zu machen. Wir hoffen, dieses Handbuch hilft Ihnen bei den ersten Schritten bzw. gibt Ihnen Tipps, wie Sie Adobe Analytics besser nutzen können.
+Wie bei jedem System ist Übung erforderlich, um sich mit dem Tool vertraut zu machen. Dieses Handbuch soll Ihnen den Einstieg erleichtern und Tipps geben, wie Sie Adobe Analytics optimal nutzen können.
 
-Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics als auch Google Analytics in Ihrer Implementierungsstrategie zu verwenden (selbst wenn es nur die kostenlose Version von Google Analytics ist). Auf diese Weise haben Sie auch ein Backup-System, sodass immer Daten verfügbar sind, denn kein System ist unfehlbar.
+Ich möchte jedoch betonen, dass ich empfehlen würde, sowohl Adobe Analytics als auch Google Analytics in Ihrer Implementierungsstrategie zu verwenden (selbst wenn es nur die kostenlose Version von Google Analytics ist). Auf diese Weise haben Sie ein Backup-System, sodass immer Daten verfügbar sind, denn kein System ist unfehlbar.
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 

@@ -1,8 +1,8 @@
 ---
 title: Tracking des Status (AKA-Seiten oder -Bildschirme) in einer Mobile App mit dem Experience Platform-SDK
-description: Status stellen Bildschirme oder Ansichten in Ihrer Mobile App dar. Jedes Mal, wenn in Ihrer Anwendung ein neuer Status angezeigt wird, beispielsweise wenn ein Benutzer von der Homepage zum Newsfeed navigiert, kann „trackState“ aufgerufen werden, um den Statusnamen (Seitenname in Analytics) sowie weitere Daten zu senden. Dieses Video zeigt Ihnen die Vorgehensweise.
+description: Status stellen Bildschirme oder Ansichten in Ihrer App dar. Jedes Mal, wenn in Ihrer Anwendung ein neuer Zustand angezeigt wird, beispielsweise wenn eine Benutzerin bzw. ein Benutzer von der Startseite zum Newsfeed navigiert, kann „trackState“ aufgerufen werden, um den Statusnamen (Seitenname in Adobe Analytics) sowie weitere Daten zu senden. Dieses Video zeigt Ihnen die Vorgehensweise.
 feature: Mobile SDK
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,21 +11,32 @@ topic: Mobile
 role: Developer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-TQID: https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE
+TQID: 'https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: c77ba355-6681-41fe-b719-563d3f507fdb
+    internal-label: Mobile SDK
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Implementation
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 90%
-
 ---
-
 # Tracking des Status (AKA-Seiten oder -Bildschirme) in einer Mobile App mit dem Experience Platform-SDK {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
 Status stellen Bildschirme oder Ansichten in Ihrer Mobile App dar. Jedes Mal, wenn in Ihrer Anwendung ein neuer Status angezeigt wird, beispielsweise wenn ein Benutzer von der Homepage zum Newsfeed navigiert, kann `trackState` aufgerufen werden, um den Statusnamen (Seitenname in [!DNL Analytics]) sowie weitere Daten zu senden. Dieses Video zeigt Ihnen die Vorgehensweise.

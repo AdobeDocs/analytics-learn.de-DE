@@ -38,6 +38,6 @@ ht-degree: 52%
 
 Erfahren Sie, wie [!DNL Data Warehouse] Berichte im Tableau Data Extract (TDE)-Dateiformat bereitstellen können, um Daten außerhalb von Adobe Analytics zu demokratisieren und zu kombinieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507433/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics/export/data-warehouse/t-tableau).

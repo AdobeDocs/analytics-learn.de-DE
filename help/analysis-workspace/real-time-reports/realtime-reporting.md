@@ -42,6 +42,6 @@ ht-degree: 16%
 
 Erfahren Sie mehr über den Echtzeitbericht in Adobe Analytics, einschließlich der Konfiguration für Ihre Analyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507463/?captions=ger&quality=12&learn=on)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=de).

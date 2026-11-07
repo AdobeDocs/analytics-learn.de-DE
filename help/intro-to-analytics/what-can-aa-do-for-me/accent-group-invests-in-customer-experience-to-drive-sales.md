@@ -46,4 +46,4 @@ ht-degree: 100%
 
 Das Unternehmen [!DNL Accent Group], der größte Schuhhändler in Australien, steigert seine Verkäufe und Konversionen, indem es großartige Kundenerlebnisse über physische und digitale Kontaktpunkte bereitstellt. Sehen Sie sich an, wie [!DNL Accent Group] mit Adobe Experience Cloud nahtlose digitale Erlebnisse schafft.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507271/?captions=ger&quality=12&learn=on)

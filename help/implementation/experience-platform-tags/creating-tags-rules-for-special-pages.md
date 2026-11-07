@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Zusätzlich zu den Daten, die auf jeder Seite erfasst werden, müssen auf speziellen Daten weitere Daten erfasst werden. In diesem Video erfahren Sie, wie Sie diese Daten mit den Daten aller Seiten zusammenführen und an Adobe Analytics senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507506/?captions=ger&quality=12&learn=on)

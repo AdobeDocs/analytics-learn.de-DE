@@ -32,4 +32,4 @@ ht-degree: 0%
 
 In diesem Video wird gezeigt, wie in Adobe Analytics mithilfe der Besuchseinstellungen einer Virtual Report Suite Ereignisse als Trigger für den Beginn eines neuen Besuchs verwendet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507554/?captions=ger&quality=12&learn=on)

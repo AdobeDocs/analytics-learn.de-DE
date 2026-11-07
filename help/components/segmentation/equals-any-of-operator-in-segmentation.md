@@ -33,4 +33,4 @@ ht-degree: 47%
 
 Die Segmentoperatoren „ist gleich eines von“ und „ist nicht gleich eines von“ können verwendet werden, um auf eine Liste bestimmter Elemente zu filtern, anstatt mehrere OR-Anweisungen oder „enthält beliebige von“ zu verwenden. Die Verwendung dieser Operatoren anstelle von „enthält beliebige von“ trägt ebenfalls zur Verbesserung der Abfragegeschwindigkeit bei. Eine ausführliche Dokumentation finden Sie unter [Vergleichsoperatoren für Segmente](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507289/?captions=ger&quality=12&learn=on)

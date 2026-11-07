@@ -28,4 +28,4 @@ ht-degree: 17%
 
 Mit den Operatoren im Segment Builder für eine bestimmte Anzahl können Sie basierend auf der Anzahl der eindeutigen Elemente innerhalb einer Dimension segmentieren. Filtern Sie nach Besuchen, bei denen mehr als 5 Seiten angezeigt wurden, oder Treffern, bei denen mehrere Produkte im Rahmen einer Bestellung gekauft wurden usw. Eine ausführliche Dokumentation finden Sie unter [Vergleichsoperatoren für Segmente](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507455/?captions=ger&quality=12&learn=on)

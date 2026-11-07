@@ -40,6 +40,6 @@ ht-degree: 100%
 
 Mit der Option „Objekte als CSV herunterladen“ können Sie bis zu 50.000 Objekte für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Zwar zeigt die Benutzeroberfläche vor der Paginierung weiterhin bis zu 400 Objekte an, doch können Sie mit dieser Option außerhalb von Analysis Workspace auf mehr Datenzeilen zugreifen.
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507369/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=de).
